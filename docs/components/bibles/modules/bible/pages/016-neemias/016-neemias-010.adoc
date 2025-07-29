@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v16-10-0]]
+=== Neemias, 10
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v16-10-1]]
+
+^<<v16-10-1,1>>^ O primeiro a assinar foi o governador, Neemias, filho de Hacalias, e depois Zedequias. Em seguida vem a lista das outras pessoas que também assinaram.
+
+[[v16-10-2]]
+
+^<<v16-10-2,2>>^ Sacerdotes: Seraías, Azarias, Jeremias, Pasur, Amariá, Malquias, Hatus, Sebanias, Maluque, Harim, Meremote, Obadias, Daniel, Ginetom, Baruque, Mesulã, Abias, Miamim, Maazias, Bilgai e Semaías.
+
+[[v16-10-3]]
+
+^<<v16-10-3,3>>^ Sacerdotes: Seraías, Azarias, Jeremias, Pasur, Amariá, Malquias, Hatus, Sebanias, Maluque, Harim, Meremote, Obadias, Daniel, Ginetom, Baruque, Mesulã, Abias, Miamim, Maazias, Bilgai e Semaías.
+
+[[v16-10-4]]
+
+^<<v16-10-4,4>>^ Sacerdotes: Seraías, Azarias, Jeremias, Pasur, Amariá, Malquias, Hatus, Sebanias, Maluque, Harim, Meremote, Obadias, Daniel, Ginetom, Baruque, Mesulã, Abias, Miamim, Maazias, Bilgai e Semaías.
+
+[[v16-10-5]]
+
+^<<v16-10-5,5>>^ Sacerdotes: Seraías, Azarias, Jeremias, Pasur, Amariá, Malquias, Hatus, Sebanias, Maluque, Harim, Meremote, Obadias, Daniel, Ginetom, Baruque, Mesulã, Abias, Miamim, Maazias, Bilgai e Semaías.
+
+[[v16-10-6]]
+
+^<<v16-10-6,6>>^ Sacerdotes: Seraías, Azarias, Jeremias, Pasur, Amariá, Malquias, Hatus, Sebanias, Maluque, Harim, Meremote, Obadias, Daniel, Ginetom, Baruque, Mesulã, Abias, Miamim, Maazias, Bilgai e Semaías.
+
+[[v16-10-7]]
+
+^<<v16-10-7,7>>^ Sacerdotes: Seraías, Azarias, Jeremias, Pasur, Amariá, Malquias, Hatus, Sebanias, Maluque, Harim, Meremote, Obadias, Daniel, Ginetom, Baruque, Mesulã, Abias, Miamim, Maazias, Bilgai e Semaías.
+
+[[v16-10-8]]
+
+^<<v16-10-8,8>>^ Sacerdotes: Seraías, Azarias, Jeremias, Pasur, Amariá, Malquias, Hatus, Sebanias, Maluque, Harim, Meremote, Obadias, Daniel, Ginetom, Baruque, Mesulã, Abias, Miamim, Maazias, Bilgai e Semaías.
+
+[[v16-10-9]]
+
+^<<v16-10-9,9>>^ Levitas : Jesua, filho de Azanias, Binui, do grupo de famílias de Henadade, Cadmiel, Sebanias, Hodias, Quelita, Pelaías, Hanã, Mica, Reobe, Hasabias, Zacur, Serebias, Sebanias, Hodias, Bani e Beninu.
+
+[[v16-10-10]]
+
+^<<v16-10-10,10>>^ Levitas : Jesua, filho de Azanias, Binui, do grupo de famílias de Henadade, Cadmiel, Sebanias, Hodias, Quelita, Pelaías, Hanã, Mica, Reobe, Hasabias, Zacur, Serebias, Sebanias, Hodias, Bani e Beninu.
+
+[[v16-10-11]]
+
+^<<v16-10-11,11>>^ Levitas : Jesua, filho de Azanias, Binui, do grupo de famílias de Henadade, Cadmiel, Sebanias, Hodias, Quelita, Pelaías, Hanã, Mica, Reobe, Hasabias, Zacur, Serebias, Sebanias, Hodias, Bani e Beninu.
+
+[[v16-10-12]]
+
+^<<v16-10-12,12>>^ Levitas : Jesua, filho de Azanias, Binui, do grupo de famílias de Henadade, Cadmiel, Sebanias, Hodias, Quelita, Pelaías, Hanã, Mica, Reobe, Hasabias, Zacur, Serebias, Sebanias, Hodias, Bani e Beninu.
+
+[[v16-10-13]]
+
+^<<v16-10-13,13>>^ Levitas : Jesua, filho de Azanias, Binui, do grupo de famílias de Henadade, Cadmiel, Sebanias, Hodias, Quelita, Pelaías, Hanã, Mica, Reobe, Hasabias, Zacur, Serebias, Sebanias, Hodias, Bani e Beninu.
+
+[[v16-10-14]]
+
+^<<v16-10-14,14>>^ Líderes do povo: Parós, Paate-Moabe, Elão, Zatu, Bani, Buni, Azgade, Bebai, Adonias, Bigvai, Adim, Ater, Ezequias, Azur, Hodias, Hasum, Bezai, Harife, Anatote, Nobai, Magpias, Mesulã, Hezir, Mesezabel, Zadoque, Jadua, Pelatias, Hanã, Anaías, Oseias, Hananias, Hassube, Haloés, Pileá, Sobeque, Reum, Hasabna, Maaseias, Aías, Hanã, Anam, Maluque, Harim e Baaná.
+
+[[v16-10-15]]
+
+^<<v16-10-15,15>>^ Líderes do povo: Parós, Paate-Moabe, Elão, Zatu, Bani, Buni, Azgade, Bebai, Adonias, Bigvai, Adim, Ater, Ezequias, Azur, Hodias, Hasum, Bezai, Harife, Anatote, Nobai, Magpias, Mesulã, Hezir, Mesezabel, Zadoque, Jadua, Pelatias, Hanã, Anaías, Oseias, Hananias, Hassube, Haloés, Pileá, Sobeque, Reum, Hasabna, Maaseias, Aías, Hanã, Anam, Maluque, Harim e Baaná.
+
+[[v16-10-16]]
+
+^<<v16-10-16,16>>^ Líderes do povo: Parós, Paate-Moabe, Elão, Zatu, Bani, Buni, Azgade, Bebai, Adonias, Bigvai, Adim, Ater, Ezequias, Azur, Hodias, Hasum, Bezai, Harife, Anatote, Nobai, Magpias, Mesulã, Hezir, Mesezabel, Zadoque, Jadua, Pelatias, Hanã, Anaías, Oseias, Hananias, Hassube, Haloés, Pileá, Sobeque, Reum, Hasabna, Maaseias, Aías, Hanã, Anam, Maluque, Harim e Baaná.
+
+'''
+
+xref:016-neemias/016-neemias-009.adoc#v16-9-0[&#60; Capítulo Anterior] | <<v16-10-0,Topo>> | xref:016-neemias/016-neemias-011.adoc#v16-11-0[Próximo Capítulo &#62;]

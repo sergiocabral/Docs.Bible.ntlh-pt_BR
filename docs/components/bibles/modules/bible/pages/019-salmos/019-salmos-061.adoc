@@ -1,0 +1,41 @@
+include::./index.adoc[]
+
+[[v19-61-0]]
+=== Salmos, 61
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-61-1]]
+
+^<<v19-61-1,1>>^ Ó Deus, ouve o meu grito de angústia! Escuta a minha oração.
+
+[[v19-61-2]]
+
+^<<v19-61-2,2>>^ No meu desespero, longe do meu lar, eu te chamo pedindo ajuda. Põe-me em segurança numa rocha bem alta,
+
+[[v19-61-3]]
+
+^<<v19-61-3,3>>^ pois tu és o meu protetor, o meu forte defensor contra os meus inimigos.
+
+[[v19-61-4]]
+
+^<<v19-61-4,4>>^ Eu te peço que me deixes viver no teu Templo toda a minha vida, para ficar protegido debaixo das tuas asas.
+
+[[v19-61-5]]
+
+^<<v19-61-5,5>>^ Ó Deus, tu ouviste as minhas promessas e me deste as bênçãos que pertencem aos que te temem .
+
+[[v19-61-6]]
+
+^<<v19-61-6,6>>^ Dá uma vida longa ao rei; que ele viva muitos e muitos anos!
+
+[[v19-61-7]]
+
+^<<v19-61-7,7>>^ Que ele governe para sempre com a tua bênção, ó Deus! Protege-o com o teu amor e com a tua fidelidade.
+
+[[v19-61-8]]
+
+^<<v19-61-8,8>>^ Assim eu sempre te cantarei louvores e todos os dias te darei o que tiver prometido.
+
+'''
+
+xref:019-salmos/019-salmos-060.adoc#v19-60-0[&#60; Capítulo Anterior] | <<v19-61-0,Topo>> | xref:019-salmos/019-salmos-062.adoc#v19-62-0[Próximo Capítulo &#62;]

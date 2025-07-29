@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v19-107-0]]
+=== Salmos, 107
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-107-1]]
+
+^<<v19-107-1,1>>^ Deem graças a Deus, o Senhor , porque ele é bom, e porque o seu amor dura para sempre.
+
+[[v19-107-2]]
+
+^<<v19-107-2,2>>^ Que aqueles que ele libertou repitam isso em louvor ao Senhor ! Ele os livrou das mãos dos seus inimigos
+
+[[v19-107-3]]
+
+^<<v19-107-3,3>>^ e fez com que eles voltassem dos países estrangeiros, do Norte e do Sul, do Leste e do Oeste.
+
+[[v19-107-4]]
+
+^<<v19-107-4,4>>^ Alguns andaram perdidos pelo deserto e não acharam nenhuma cidade onde morar.
+
+[[v19-107-5]]
+
+^<<v19-107-5,5>>^ Estavam com fome e com sede e haviam perdido toda a esperança.
+
+[[v19-107-6]]
+
+^<<v19-107-6,6>>^ Então, na sua angústia, gritaram por socorro, e o Senhor  Deus os livrou das suas aflições.
+
+[[v19-107-7]]
+
+^<<v19-107-7,7>>^ Ele os levou pelo caminho certo para uma cidade em que pudessem morar.
+
+[[v19-107-8]]
+
+^<<v19-107-8,8>>^ Que eles agradeçam ao Senhor o seu amor e as coisas maravilhosas que fez por eles!
+
+[[v19-107-9]]
+
+^<<v19-107-9,9>>^ Pois ele dá água aos que têm sede e coisas boas aos que estão com fome.
+
+[[v19-107-10]]
+
+^<<v19-107-10,10>>^ Alguns estavam vivendo na escuridão, nas trevas, aflitos e presos com correntes de ferro
+
+[[v19-107-11]]
+
+^<<v19-107-11,11>>^ porque haviam se revoltado contra as ordens do Deus Altíssimo e rejeitado os seus ensinamentos.
+
+[[v19-107-12]]
+
+^<<v19-107-12,12>>^ Por causa do trabalho pesado eles estavam esgotados; caíam, e ninguém os ajudava.
+
+[[v19-107-13]]
+
+^<<v19-107-13,13>>^ Então, na sua angústia, gritaram por socorro, e o Senhor  Deus os livrou das suas aflições.
+
+[[v19-107-14]]
+
+^<<v19-107-14,14>>^ Ele os tirou da escuridão, das trevas, e quebrou em pedaços as correntes que os prendiam.
+
+[[v19-107-15]]
+
+^<<v19-107-15,15>>^ Que eles agradeçam ao Senhor o seu amor e as coisas maravilhosas que fez por eles!
+
+[[v19-107-16]]
+
+^<<v19-107-16,16>>^ Pois ele derruba portões de bronze e despedaça barras de ferro.
+
+[[v19-107-17]]
+
+^<<v19-107-17,17>>^ Alguns foram insensatos e sofreram por causa dos seus pecados, por causa da sua vida de rebeldia;
+
+[[v19-107-18]]
+
+^<<v19-107-18,18>>^ ficaram com enjoo diante da comida e chegaram bem perto da morte.
+
+[[v19-107-19]]
+
+^<<v19-107-19,19>>^ Então, na sua angústia, gritaram por socorro, e o Senhor  Deus os livrou das suas aflições.
+
+[[v19-107-20]]
+
+^<<v19-107-20,20>>^ Com a sua palavra, ele os curou e os salvou da morte.
+
+[[v19-107-21]]
+
+^<<v19-107-21,21>>^ Que eles agradeçam ao Senhor o seu amor e as coisas maravilhosas que fez por eles!
+
+[[v19-107-22]]
+
+^<<v19-107-22,22>>^ Que ofereçam sacrifícios  de gratidão e, com canções de alegria, anunciem tudo o que ele tem feito!
+
+[[v19-107-23]]
+
+^<<v19-107-23,23>>^ Alguns viajaram em navios nos oceanos, ganhando a vida nos mares;
+
+[[v19-107-24]]
+
+^<<v19-107-24,24>>^ eles viram o que o Senhor  Deus faz, as coisas maravilhosas que realiza nos mares.
+
+[[v19-107-25]]
+
+^<<v19-107-25,25>>^ Ele dava ordem, e um vento forte começava a soprar e a levantar as ondas.
+
+[[v19-107-26]]
+
+^<<v19-107-26,26>>^ Os navios subiam bem alto e depois mergulhavam nas profundezas. No meio desse perigo, os homens ficavam apavorados.
+
+[[v19-107-27]]
+
+^<<v19-107-27,27>>^ Tropeçavam e andavam balançando como bêbados; e toda a sua prática de marinheiros não adiantava nada.
+
+[[v19-107-28]]
+
+^<<v19-107-28,28>>^ Então, na sua angústia, gritavam por socorro, e o Senhor  Deus os livrava das suas aflições.
+
+[[v19-107-29]]
+
+^<<v19-107-29,29>>^ Ele acalmava a tempestade, e as ondas ficavam quietas.
+
+[[v19-107-30]]
+
+^<<v19-107-30,30>>^ Eles se alegravam porque o mar tinha ficado calmo; e assim Deus os levava em segurança para o porto desejado.
+
+[[v19-107-31]]
+
+^<<v19-107-31,31>>^ Que eles agradeçam ao Senhor o seu amor e as coisas maravilhosas que fez por eles!
+
+[[v19-107-32]]
+
+^<<v19-107-32,32>>^ Anunciem a sua grandeza quando o povo se reunir; louvem a Deus na assembleia dos líderes.
+
+[[v19-107-33]]
+
+^<<v19-107-33,33>>^ Deus fez com que os rios se tornassem deserto e as fontes de água secassem completamente.
+
+[[v19-107-34]]
+
+^<<v19-107-34,34>>^ Ele fez com que a terra boa virasse um deserto salgado por causa da maldade dos que moravam nela.
+
+[[v19-107-35]]
+
+^<<v19-107-35,35>>^ Ele fez com que o deserto se transformasse em lagos e a terra seca virasse fontes de água.
+
+[[v19-107-36]]
+
+^<<v19-107-36,36>>^ Deixou que gente faminta morasse ali. Eles construíram uma cidade e moraram nela;
+
+[[v19-107-37]]
+
+^<<v19-107-37,37>>^ semearam os campos, fizeram plantações de uvas, e foram boas as colheitas.
+
+[[v19-107-38]]
+
+^<<v19-107-38,38>>^ Deus abençoou o seu povo, e eles tiveram muitos filhos. Deus não deixou que o gado diminuísse.
+
+[[v19-107-39]]
+
+^<<v19-107-39,39>>^ O povo de Deus foi derrotado e humilhado e sentiu o peso do sofrimento e dos maus-tratos.
+
+[[v19-107-40]]
+
+^<<v19-107-40,40>>^ Então Deus mostrou o seu desprezo pelos reis que os maltrataram e fez com que esses reis andassem sem rumo na solidão dos desertos.
+
+[[v19-107-41]]
+
+^<<v19-107-41,41>>^ Mas livrou os pobres da miséria e fez com que as suas famílias aumentassem como rebanhos.
+
+[[v19-107-42]]
+
+^<<v19-107-42,42>>^ Os que são bons veem isso e ficam contentes, mas todos os maus têm de calar a boca.
+
+[[v19-107-43]]
+
+^<<v19-107-43,43>>^ Que aqueles que são sábios pensem nessas coisas e meditem no amor de Deus, o Senhor !
+
+'''
+
+xref:019-salmos/019-salmos-106.adoc#v19-106-0[&#60; Capítulo Anterior] | <<v19-107-0,Topo>> | xref:019-salmos/019-salmos-108.adoc#v19-108-0[Próximo Capítulo &#62;]

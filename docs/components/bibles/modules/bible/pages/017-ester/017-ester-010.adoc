@@ -1,0 +1,21 @@
+include::./index.adoc[]
+
+[[v17-10-0]]
+=== Ester, 10
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v17-10-1]]
+
+^<<v17-10-1,1>>^ O rei Xerxes obrigou os moradores do seu reino, tanto os do litoral como os do interior, a fazerem trabalhos forçados.
+
+[[v17-10-2]]
+
+^<<v17-10-2,2>>^ Todas as grandes e maravilhosas coisas que Xerxes fez e também a história completa de como colocou Mordecai num alto cargo do seu governo, tudo isso está escrito nos livros da História dos Reis da Média e da Pérsia.
+
+[[v17-10-3]]
+
+^<<v17-10-3,3>>^ O judeu Mordecai ocupou a mais alta posição do reino, logo abaixo do rei Xerxes. Mordecai era admirado e estimado por todos os judeus. Ele fez tudo o que pôde pelo bem-estar do seu povo e pelo progresso da sua raça.
+
+'''
+
+xref:017-ester/017-ester-009.adoc#v17-9-0[&#60; Capítulo Anterior] | <<v17-10-0,Topo>> | xref:018-jo/018-jo-001.adoc#v18-1-0[Próximo Capítulo &#62;]

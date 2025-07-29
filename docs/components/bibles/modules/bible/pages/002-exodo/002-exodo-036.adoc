@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v2-36-0]]
+=== Êxodo, 36
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v2-36-1]]
+
+^<<v2-36-1,1>>^ — Bezalel, Aoliabe e todos os outros homens a quem o Senhor  deu habilidade e inteligência e que conhecem tudo o que é preciso para construir a Tenda Sagrada , deverão fazer tudo como o Senhor  ordenou.
+
+[[v2-36-2]]
+
+^<<v2-36-2,2>>^ Moisés chamou Bezalel, Aoliabe e todos os outros homens a quem o Senhor  tinha dado habilidade e que tinham boa vontade para ajudar, e disse-lhes que começassem a trabalhar.
+
+[[v2-36-3]]
+
+^<<v2-36-3,3>>^ Eles receberam de Moisés as ofertas que os israelitas haviam trazido para construir a Tenda Sagrada . E todas as manhãs o povo de Israel continuava a trazer a Moisés as suas ofertas.
+
+[[v2-36-4]]
+
+^<<v2-36-4,4>>^ Então os artesãos que estavam fazendo o trabalho
+
+[[v2-36-5]]
+
+^<<v2-36-5,5>>^ foram falar com Moisés. Eles disseram o seguinte: — O povo está trazendo muito mais do que é necessário para o trabalho que o Senhor  mandou fazer.
+
+[[v2-36-6]]
+
+^<<v2-36-6,6>>^ Então Moisés ordenou que em todo o acampamento ninguém mais trouxesse ofertas para a Tenda Sagrada. E assim o povo não trouxe mais nada.
+
+[[v2-36-7]]
+
+^<<v2-36-7,7>>^ Pois o material que tinham ajuntado era suficiente para todo o trabalho que devia ser feito e ainda sobrava.
+
+[[v2-36-8]]
+
+^<<v2-36-8,8>>^ E assim os homens mais habilidosos entre os trabalhadores fizeram a Tenda da Presença do Senhor . Eles a fizeram com dez cortinas de tecido feito de linho fino e de fios de lã azul, púrpura  e vermelha. Nessas cortinas estavam bordadas figuras de querubins .
+
+[[v2-36-9]]
+
+^<<v2-36-9,9>>^ Todas as cortinas eram do mesmo tamanho, medindo doze metros e meio de comprimento por um metro e oitenta de largura.
+
+[[v2-36-10]]
+
+^<<v2-36-10,10>>^ Eles costuraram cinco delas umas nas outras, formando assim uma só peça; e fizeram a mesma coisa com as outras cinco.
+
+[[v2-36-11]]
+
+^<<v2-36-11,11>>^ Foram colocadas laçadas de tecido azul na beirada de fora da última cortina de cada uma das duas peças de cortinas.
+
+[[v2-36-12]]
+
+^<<v2-36-12,12>>^ Puseram cinquenta laçadas na beirada da primeira cortina da primeira peça e cinquenta na beirada da última cortina da segunda peça, de modo que as laçadas ficaram de frente umas para as outras.
+
+[[v2-36-13]]
+
+^<<v2-36-13,13>>^ Os dois jogos de cortinas foram presos um no outro por meio de cinquenta prendedores de ouro, de modo que formavam uma só peça.
+
+[[v2-36-14]]
+
+^<<v2-36-14,14>>^ De onze pedaços de pano feito de pelos de cabra fizeram uma cobertura para a Tenda.
+
+[[v2-36-15]]
+
+^<<v2-36-15,15>>^ E fizeram todos os pedaços do mesmo tamanho, isto é, todos tinham treze metros e trinta de comprimento por um metro e oitenta de largura.
+
+[[v2-36-16]]
+
+^<<v2-36-16,16>>^ Costuraram cinco pedaços uns nos outros, formando uma peça, e os outros seis, formando outra peça.
+
+[[v2-36-17]]
+
+^<<v2-36-17,17>>^ Foram colocadas cinquenta laçadas na beirada do último pedaço da primeira peça e cinquenta laçadas na beirada da outra peça.
+
+[[v2-36-18]]
+
+^<<v2-36-18,18>>^ Depois fizeram cinquenta prendedores de bronze para prenderem as duas peças uma na outra a fim de que formassem uma cobertura só.
+
+[[v2-36-19]]
+
+^<<v2-36-19,19>>^ Fizeram mais uma cobertura, de peles de carneiro tingidas de vermelho; e em cima desta colocaram outra cobertura, feita de peles finas.
+
+[[v2-36-20]]
+
+^<<v2-36-20,20>>^ Prepararam também armações de madeira de acácia a fim de formarem as paredes da Tenda.
+
+[[v2-36-21]]
+
+^<<v2-36-21,21>>^ Cada uma das armações media quatro metros e quarenta e cinco de altura por sessenta e sete centímetros de largura.
+
+[[v2-36-22]]
+
+^<<v2-36-22,22>>^ Em cada armação havia dois encaixes para juntarem uma à outra. Todas as armações tinham esses encaixes.
+
+[[v2-36-23]]
+
+^<<v2-36-23,23>>^ Fizeram vinte armações para o lado sul
+
+[[v2-36-24]]
+
+^<<v2-36-24,24>>^ e debaixo dessas vinte armações puseram quarenta bases de prata, duas debaixo de cada armação, para firmarem os seus dois encaixes.
+
+[[v2-36-25]]
+
+^<<v2-36-25,25>>^ E para o lado norte da Tenda fizeram vinte armações
+
+[[v2-36-26]]
+
+^<<v2-36-26,26>>^ e quarenta bases de prata, duas para cada armação.
+
+[[v2-36-27]]
+
+^<<v2-36-27,27>>^ Para o lado de trás da Tenda, o lado oeste, fizeram seis armações
+
+[[v2-36-28]]
+
+^<<v2-36-28,28>>^ e mais duas armações para os cantos.
+
+[[v2-36-29]]
+
+^<<v2-36-29,29>>^ Essas armações dos cantos foram juntadas na base, formando uma só peça até a primeira argola que ficava na parte de cima. As duas armações que formavam os dois cantos foram colocadas desse jeito.
+
+[[v2-36-30]]
+
+^<<v2-36-30,30>>^ Assim, havia oito armações e dezesseis bases de prata, duas para cada armação.
+
+[[v2-36-31]]
+
+^<<v2-36-31,31>>^ Em seguida prepararam quinze travessas de madeira de acácia; cinco para as armações de um lado da Tenda,
+
+[[v2-36-32]]
+
+^<<v2-36-32,32>>^ cinco para as armações do outro lado e cinco para as armações do lado oeste, na parte de trás.
+
+[[v2-36-33]]
+
+^<<v2-36-33,33>>^ A travessa do centro passava a meia altura entre as armações, de um lado da Tenda até o outro.
+
+[[v2-36-34]]
+
+^<<v2-36-34,34>>^ Revestiram de ouro essas armações e puseram nelas argolas de ouro, por onde passavam os cabos, que também foram revestidos de ouro.
+
+[[v2-36-35]]
+
+^<<v2-36-35,35>>^ Fizeram também uma cortina de tecido feito de linho fino e de fios de lã azul, púrpura e vermelha e bordada com figuras de querubins.
+
+[[v2-36-36]]
+
+^<<v2-36-36,36>>^ Para segurarem essa cortina, foram feitos quatro postes de madeira de acácia revestidos de ouro; os prendedores das cortinas eram de ouro, e as quatro bases dos seus postes eram de prata.
+
+[[v2-36-37]]
+
+^<<v2-36-37,37>>^ Para a entrada da Tenda foi feita uma cortina de tecido feito de linho fino e de fios de lã azul, púrpura e vermelha e enfeitada com bordados.
+
+[[v2-36-38]]
+
+^<<v2-36-38,38>>^ Para segurarem essa cortina, foram feitos cinco postes, com prendedores, e revestiram de ouro a parte de cima dos postes e os suportes das cortinas. E foram feitas cinco bases de bronze para os postes.
+
+'''
+
+xref:002-exodo/002-exodo-035.adoc#v2-35-0[&#60; Capítulo Anterior] | <<v2-36-0,Topo>> | xref:002-exodo/002-exodo-037.adoc#v2-37-0[Próximo Capítulo &#62;]

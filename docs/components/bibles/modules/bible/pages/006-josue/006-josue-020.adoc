@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v6-20-0]]
+=== Josué, 20
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v6-20-1]]
+
+^<<v6-20-1,1>>^ O Senhor  Deus ordenou a Josué:
+
+[[v6-20-2]]
+
+^<<v6-20-2,2>>^ — Diga ao povo de Israel: "Escolham algumas cidades para fugitivos. Eu falei dessas cidades a vocês por meio de Moisés.
+
+[[v6-20-3]]
+
+^<<v6-20-3,3>>^ A pessoa que, sem querer ou por engano, matar alguém poderá fugir para uma dessas cidades, para escapar do parente da vítima, que está procurando vingança.
+
+[[v6-20-4]]
+
+^<<v6-20-4,4>>^ O fugitivo irá ao lugar de julgamento na entrada da cidade e explicará aos líderes o que aconteceu. Então eles o deixarão ficar na cidade e lhe darão um lugar para morar ali.
+
+[[v6-20-5]]
+
+^<<v6-20-5,5>>^ O povo da cidade não entregará o fugitivo ao parente que está procurando vingança. Eles protegerão o fugitivo porque matou alguém sem querer e não por ódio.
+
+[[v6-20-6]]
+
+^<<v6-20-6,6>>^ O fugitivo ficará na cidade até ser julgado na presença do povo dali e até que morra o Grande Sacerdote  que estiver servindo naquele tempo. Aí poderá voltar para a sua cidade, a cidade de onde fugiu."
+
+[[v6-20-7]]
+
+^<<v6-20-7,7>>^ Como cidades para fugitivos escolheram Quedes, na Galileia, na região montanhosa de Naftali; Siquém, na região montanhosa de Efraim; e Quiriate-Arba (ou Hebrom), na região montanhosa de Judá.
+
+[[v6-20-8]]
+
+^<<v6-20-8,8>>^ A leste do rio Jordão, no planalto a leste de Jericó, no deserto, escolheram Bezer, da tribo  de Rúben; Ramote, em Gileade, da tribo de Gade; e Golã, em Basã, da tribo de Manassés.
+
+[[v6-20-9]]
+
+^<<v6-20-9,9>>^ Estas foram as cidades para fugitivos escolhidas para todo o povo de Israel e para todos os estrangeiros que moravam no meio dos israelitas. Qualquer pessoa que, sem querer, matasse alguém podia encontrar proteção nessas cidades. Essa pessoa não podia ser morta pelo parente que procurava vingança. Ela era julgada ali na presença do povo da cidade.
+
+'''
+
+xref:006-josue/006-josue-019.adoc#v6-19-0[&#60; Capítulo Anterior] | <<v6-20-0,Topo>> | xref:006-josue/006-josue-021.adoc#v6-21-0[Próximo Capítulo &#62;]

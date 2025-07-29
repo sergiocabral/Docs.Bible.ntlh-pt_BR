@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v4-1-0]]
+=== Números, 1
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v4-1-1]]
+
+^<<v4-1-1,1>>^ No segundo ano depois da saída dos israelitas do Egito, no dia primeiro do segundo mês, o Senhor  Deus falou com Moisés no deserto do Sinai, na Tenda Sagrada . Ele disse:
+
+[[v4-1-2]]
+
+^<<v4-1-2,2>>^ — Você e Arão devem fazer a contagem do povo de Israel por grupos de famílias e por famílias.
+
+[[v4-1-3]]
+
+^<<v4-1-3,3>>^ Façam a lista de todos os homens de vinte anos para cima, isto é, todos os que já têm idade para o serviço militar.
+
+[[v4-1-4]]
+
+^<<v4-1-4,4>>^ Vocês chamarão um chefe de grupo de famílias de cada tribo  para ajudá-los.
+
+[[v4-1-5]]
+
+^<<v4-1-5,5>>^ São estes os nomes dos homens que vão ajudar vocês: Esses foram os chefes de tribo escolhidos no meio do povo de Israel para representar os seus grupos de famílias.
+
+[[v4-1-6]]
+
+^<<v4-1-6,6>>^ São estes os nomes dos homens que vão ajudar vocês:
+
+[[v4-1-7]]
+
+^<<v4-1-7,7>>^ São estes os nomes dos homens que vão ajudar vocês:
+
+[[v4-1-8]]
+
+^<<v4-1-8,8>>^ São estes os nomes dos homens que vão ajudar vocês:
+
+[[v4-1-9]]
+
+^<<v4-1-9,9>>^ São estes os nomes dos homens que vão ajudar vocês:
+
+[[v4-1-10]]
+
+^<<v4-1-10,10>>^ São estes os nomes dos homens que vão ajudar vocês:
+
+[[v4-1-11]]
+
+^<<v4-1-11,11>>^ São estes os nomes dos homens que vão ajudar vocês:
+
+[[v4-1-12]]
+
+^<<v4-1-12,12>>^ São estes os nomes dos homens que vão ajudar vocês:
+
+[[v4-1-13]]
+
+^<<v4-1-13,13>>^ São estes os nomes dos homens que vão ajudar vocês:
+
+[[v4-1-14]]
+
+^<<v4-1-14,14>>^ São estes os nomes dos homens que vão ajudar vocês:
+
+[[v4-1-15]]
+
+^<<v4-1-15,15>>^ São estes os nomes dos homens que vão ajudar vocês:
+
+[[v4-1-16]]
+
+^<<v4-1-16,16>>^ São estes os nomes dos homens que vão ajudar vocês:
+
+[[v4-1-17]]
+
+^<<v4-1-17,17>>^ Então, no dia primeiro do segundo mês, Moisés e Arão, junto com esses doze homens, reuniram todo o povo e fizeram a contagem por grupos de famílias e por famílias, registrando nome por nome os homens de vinte anos para cima.
+
+[[v4-1-18]]
+
+^<<v4-1-18,18>>^ Então, no dia primeiro do segundo mês, Moisés e Arão, junto com esses doze homens, reuniram todo o povo e fizeram a contagem por grupos de famílias e por famílias, registrando nome por nome os homens de vinte anos para cima.
+
+[[v4-1-19]]
+
+^<<v4-1-19,19>>^ Assim, a contagem no deserto do Sinai foi feita como o Senhor  havia ordenado a Moisés.
+
+[[v4-1-20]]
+
+^<<v4-1-20,20>>^ Os homens de vinte anos para cima, que tinham idade para o serviço militar, foram registrados pelo seu nome, cada um no seu grupo de famílias e na sua família. Começaram pela tribo de Rúben, o filho mais velho de Jacó. A soma total das tribos foi a seguinte: Da tribo de Rúben, quarenta e seis mil e quinhentos homens.
+
+[[v4-1-21]]
+
+^<<v4-1-21,21>>^ Os homens de vinte anos para cima, que tinham idade para o serviço militar, foram registrados pelo seu nome, cada um no seu grupo de famílias e na sua família. Começaram pela tribo de Rúben, o filho mais velho de Jacó. A soma total das tribos foi a seguinte:
+
+[[v4-1-22]]
+
+^<<v4-1-22,22>>^ Da tribo de Simeão, cinquenta e nove mil e trezentos homens.
+
+[[v4-1-23]]
+
+^<<v4-1-23,23>>^ Da tribo de Simeão, cinquenta e nove mil e trezentos homens.
+
+[[v4-1-24]]
+
+^<<v4-1-24,24>>^ Da tribo de Gade, quarenta e cinco mil seiscentos e cinquenta.
+
+[[v4-1-25]]
+
+^<<v4-1-25,25>>^ Da tribo de Gade, quarenta e cinco mil seiscentos e cinquenta.
+
+[[v4-1-26]]
+
+^<<v4-1-26,26>>^ Da tribo de Judá, setenta e quatro mil e seiscentos.
+
+[[v4-1-27]]
+
+^<<v4-1-27,27>>^ Da tribo de Judá, setenta e quatro mil e seiscentos.
+
+[[v4-1-28]]
+
+^<<v4-1-28,28>>^ Da tribo de Issacar, cinquenta e quatro mil e quatrocentos.
+
+'''
+
+xref:003-levitico/003-levitico-027.adoc#v3-27-0[&#60; Capítulo Anterior] | <<v4-1-0,Topo>> | xref:004-numeros/004-numeros-002.adoc#v4-2-0[Próximo Capítulo &#62;]

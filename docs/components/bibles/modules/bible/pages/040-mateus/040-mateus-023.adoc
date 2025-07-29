@@ -1,0 +1,165 @@
+include::./index.adoc[]
+
+[[v40-23-0]]
+=== Mateus, 23
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v40-23-1]]
+
+^<<v40-23-1,1>>^ Então Jesus falou à multidão e aos seus discípulos.
+
+[[v40-23-2]]
+
+^<<v40-23-2,2>>^ Ele disse: — Os mestres  da Lei e os fariseus  têm autoridade para explicar a Lei  de Moisés.
+
+[[v40-23-3]]
+
+^<<v40-23-3,3>>^ Por isso vocês devem obedecer e seguir tudo o que eles dizem. Porém não imitem as suas ações, pois eles não fazem o que ensinam.
+
+[[v40-23-4]]
+
+^<<v40-23-4,4>>^ Amarram fardos pesados e os põem nas costas dos outros, mas eles mesmos não os ajudam, nem ao menos com um dedo, a carregar esses fardos.
+
+[[v40-23-5]]
+
+^<<v40-23-5,5>>^ Tudo o que eles fazem é para serem vistos pelos outros. Vejam como são grandes os trechos das Escrituras Sagradas  que eles copiam e amarram na testa e nos braços! E olhem os pingentes grandes das suas capas !
+
+[[v40-23-6]]
+
+^<<v40-23-6,6>>^ Eles preferem os melhores lugares nos banquetes e os lugares de honra nas sinagogas .
+
+[[v40-23-7]]
+
+^<<v40-23-7,7>>^ Gostam de ser cumprimentados com respeito nas praças e de ser chamados de "mestre".
+
+[[v40-23-8]]
+
+^<<v40-23-8,8>>^ Porém vocês não devem ser chamados de "mestre", pois todos vocês são membros de uma mesma família e têm somente um Mestre.
+
+[[v40-23-9]]
+
+^<<v40-23-9,9>>^ E aqui na terra não chamem ninguém de pai porque vocês têm somente um Pai, que está no céu.
+
+[[v40-23-10]]
+
+^<<v40-23-10,10>>^ Vocês não devem também ser chamados de "líderes" porque vocês têm um líder, o Messias .
+
+[[v40-23-11]]
+
+^<<v40-23-11,11>>^ Entre vocês, o mais importante é aquele que serve os outros.
+
+[[v40-23-12]]
+
+^<<v40-23-12,12>>^ Quem se engrandece será humilhado, mas quem se humilha será engrandecido.
+
+[[v40-23-13]]
+
+^<<v40-23-13,13>>^ — Ai de vocês, mestres  da Lei e fariseus , hipócritas! Pois vocês fecham a porta do Reino do Céu  para os outros, mas vocês mesmos não entram, nem deixam que entrem os que estão querendo entrar.
+
+[[v40-23-14]]
+
+^<<v40-23-14,14>>^ [— Ai de vocês, mestres da Lei e fariseus, hipócritas! Pois vocês exploram as viúvas e roubam os seus bens e, para disfarçarem, fazem longas orações! Por isso o castigo de vocês será pior!]
+
+[[v40-23-15]]
+
+^<<v40-23-15,15>>^ — Ai de vocês, mestres da Lei e fariseus, hipócritas! Pois vocês atravessam os mares e viajam por todas as terras a fim de procurar converter uma pessoa para a sua religião. E, quando conseguem, tornam essa pessoa duas vezes mais merecedora do inferno do que vocês mesmos.
+
+[[v40-23-16]]
+
+^<<v40-23-16,16>>^ — Ai de vocês, guias cegos! Pois vocês ensinam assim: "Se alguém jurar pelo Templo, não é obrigado a cumprir o juramento. Mas, se alguém jurar pelo ouro do Templo, então é obrigado a cumprir o que jurou."
+
+[[v40-23-17]]
+
+^<<v40-23-17,17>>^ Tolos e cegos! Qual é mais importante: o ouro ou o Templo que santifica  o ouro?
+
+[[v40-23-18]]
+
+^<<v40-23-18,18>>^ Vocês também ensinam isto: "Se alguém jurar pelo altar, não é obrigado a cumprir o juramento. Mas, se jurar pela oferta que está no altar, então é obrigado a cumprir o que jurou."
+
+[[v40-23-19]]
+
+^<<v40-23-19,19>>^ Cegos! Qual é mais importante: a oferta ou o altar que santifica a oferta?
+
+[[v40-23-20]]
+
+^<<v40-23-20,20>>^ Por isso, quando alguém jura pelo altar, está jurando pelo altar e por todas as ofertas que estão em cima dele.
+
+[[v40-23-21]]
+
+^<<v40-23-21,21>>^ Quando alguém jura pelo Templo, está jurando pelo Templo e por Deus, que mora ali.
+
+[[v40-23-22]]
+
+^<<v40-23-22,22>>^ E, quando alguém jura pelo céu, está jurando pelo trono de Deus e pelo próprio Deus, que está sentado nele.
+
+[[v40-23-23]]
+
+^<<v40-23-23,23>>^ — Ai de vocês, mestres da Lei e fariseus, hipócritas! Pois vocês dão a Deus a décima parte até mesmo da hortelã, da erva-doce e do cominho , mas não obedecem aos mandamentos mais importantes da Lei , que são: o de serem justos com os outros, o de serem bondosos e o de serem honestos. Mas são justamente essas coisas que vocês devem fazer, sem deixar de lado as outras.
+
+[[v40-23-24]]
+
+^<<v40-23-24,24>>^ Guias cegos! Coam um mosquito, mas engolem um camelo!
+
+[[v40-23-25]]
+
+^<<v40-23-25,25>>^ — Ai de vocês, mestres da Lei e fariseus, hipócritas! Pois vocês lavam o copo e o prato por fora, mas por dentro estes estão cheios de coisas que vocês conseguiram pela violência e pela ganância.
+
+[[v40-23-26]]
+
+^<<v40-23-26,26>>^ Fariseu cego! Lave primeiro o copo por dentro, e então a parte de fora também ficará limpa!
+
+[[v40-23-27]]
+
+^<<v40-23-27,27>>^ — Ai de vocês, mestres da Lei e fariseus, hipócritas! Pois vocês são como túmulos pintados de branco, que por fora parecem bonitos, mas por dentro estão cheios de ossos de mortos e de podridão.
+
+[[v40-23-28]]
+
+^<<v40-23-28,28>>^ Por fora vocês parecem boas pessoas, mas por dentro estão cheios de mentiras e pecados.
+
+[[v40-23-29]]
+
+^<<v40-23-29,29>>^ — Ai de vocês, mestres  da Lei e fariseus , hipócritas! Pois vocês fazem túmulos bonitos para os profetas  e enfeitam os monumentos das pessoas que viveram de modo correto.
+
+[[v40-23-30]]
+
+^<<v40-23-30,30>>^ E dizem: "Se tivéssemos vivido no tempo dos nossos antepassados, não teríamos feito o que eles fizeram, não teríamos matado os profetas."
+
+[[v40-23-31]]
+
+^<<v40-23-31,31>>^ Assim vocês confirmam que são descendentes daqueles que mataram os profetas.
+
+[[v40-23-32]]
+
+^<<v40-23-32,32>>^ Portanto, vão e terminem o que eles começaram!
+
+[[v40-23-33]]
+
+^<<v40-23-33,33>>^ Cobras venenosas, ninhada de cobras! Como esperam escapar da condenação do inferno?
+
+[[v40-23-34]]
+
+^<<v40-23-34,34>>^ Pois eu lhes mandarei profetas, homens sábios e mestres. Vocês vão matar alguns, crucificar outros, chicotear ainda outros nas sinagogas  e persegui-los de cidade em cidade.
+
+[[v40-23-35]]
+
+^<<v40-23-35,35>>^ Por isso Deus castigará vocês pela morte de todas as pessoas inocentes que os antepassados de vocês mataram, desde a morte do inocente Abel até a de Zacarias, filho de Baraquias, que vocês mataram entre o Templo e o altar.
+
+[[v40-23-36]]
+
+^<<v40-23-36,36>>^ Eu afirmo a vocês que isto é verdade: o castigo por tudo isso cairá sobre o povo de hoje.
+
+[[v40-23-37]]
+
+^<<v40-23-37,37>>^ Jesus terminou, dizendo: — Jerusalém, Jerusalém, que mata os profetas  e apedreja os mensageiros que Deus lhe manda! Quantas vezes eu quis abraçar todo o seu povo, assim como a galinha ajunta os seus pintinhos debaixo das suas asas, mas vocês não quiseram!
+
+[[v40-23-38]]
+
+^<<v40-23-38,38>>^ Agora a casa de vocês ficará completamente abandonada.
+
+[[v40-23-39]]
+
+^<<v40-23-39,39>>^ Eu afirmo que vocês não me verão mais, até chegar o tempo em que dirão: "Deus abençoe aquele que vem em nome do Senhor!"
+
+'''
+
+xref:040-mateus/040-mateus-022.adoc#v40-22-0[&#60; Capítulo Anterior] | <<v40-23-0,Topo>> | xref:040-mateus/040-mateus-024.adoc#v40-24-0[Próximo Capítulo &#62;]

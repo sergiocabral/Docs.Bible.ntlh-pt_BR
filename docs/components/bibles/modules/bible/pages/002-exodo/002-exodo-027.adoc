@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v2-27-0]]
+=== Êxodo, 27
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v2-27-1]]
+
+^<<v2-27-1,1>>^ O Senhor  disse a Moisés: — Faça um altar de madeira de acácia. Ele será quadrado, medindo dois metros e vinte de comprimento por dois metros e vinte de largura e um metro e trinta de altura.
+
+[[v2-27-2]]
+
+^<<v2-27-2,2>>^ Nos quatro cantos ponha quatro pontas, que formarão uma só peça com o altar, que deverá ser revestido de bronze.
+
+[[v2-27-3]]
+
+^<<v2-27-3,3>>^ Faça vasilhas para recolher a gordura e as cinzas e faça pás, bacias, garfos e braseiros; todas essas peças serão feitas de bronze.
+
+[[v2-27-4]]
+
+^<<v2-27-4,4>>^ Faça também uma grelha de bronze em forma de rede e nos seus cantos ponha quatro argolas de bronze.
+
+[[v2-27-5]]
+
+^<<v2-27-5,5>>^ Coloque essas argolas debaixo da beirada do altar, de maneira que a grelha chegue até a metade da altura do altar.
+
+[[v2-27-6]]
+
+^<<v2-27-6,6>>^ Para carregar o altar, faça cabos de madeira de acácia e revista-os de bronze.
+
+[[v2-27-7]]
+
+^<<v2-27-7,7>>^ Esses cabos deverão ser enfiados nas argolas, de um lado e do outro do altar, quando este tiver de ser carregado.
+
+[[v2-27-8]]
+
+^<<v2-27-8,8>>^ Esse altar, feito de madeira, será oco, de acordo com o modelo que eu lhe mostrei no monte.
+
+[[v2-27-9]]
+
+^<<v2-27-9,9>>^ — Faça para a Tenda Sagrada  um pátio cercado de cortinas de linho fino. No lado sul as cortinas deverão ter quarenta e quatro metros de comprimento.
+
+[[v2-27-10]]
+
+^<<v2-27-10,10>>^ Elas serão sustentadas por vinte postes e vinte bases feitos de bronze. Os ganchos dos postes e os suportes das cortinas serão de prata.
+
+[[v2-27-11]]
+
+^<<v2-27-11,11>>^ Faça a mesma coisa no lado norte do pátio.
+
+[[v2-27-12]]
+
+^<<v2-27-12,12>>^ O pátio terá vinte e dois metros de largura; portanto, nos lados oeste e leste as cortinas deverão ter vinte e dois metros de comprimento. Para sustentarem as cortinas, haverá dez postes e dez bases.
+
+[[v2-27-13]]
+
+^<<v2-27-13,13>>^ O pátio terá vinte e dois metros de largura; portanto, nos lados oeste e leste as cortinas deverão ter vinte e dois metros de comprimento. Para sustentarem as cortinas, haverá dez postes e dez bases.
+
+[[v2-27-14]]
+
+^<<v2-27-14,14>>^ Cada lado da entrada terá cortinas de seis metros e sessenta de comprimento, com três postes e três bases.
+
+[[v2-27-15]]
+
+^<<v2-27-15,15>>^ Cada lado da entrada terá cortinas de seis metros e sessenta de comprimento, com três postes e três bases.
+
+[[v2-27-16]]
+
+^<<v2-27-16,16>>^ Na entrada do pátio haverá uma cortina de oito metros e oitenta de comprimento. Faça essa cortina de tecido feito de linho fino e de fios de lã azul, púrpura  e vermelha e enfeitada com bordados. A cortina será sustentada por quatro postes e quatro bases.
+
+[[v2-27-17]]
+
+^<<v2-27-17,17>>^ Todos os postes em volta do pátio deverão ser unidos por suportes de prata. Os seus ganchos serão de prata, e as suas bases serão de bronze.
+
+[[v2-27-18]]
+
+^<<v2-27-18,18>>^ O pátio terá quarenta e quatro metros de comprimento por vinte e dois de largura; a altura das cortinas será de dois metros e vinte. As cortinas serão de linho fino, e as bases, de bronze.
+
+[[v2-27-19]]
+
+^<<v2-27-19,19>>^ Todos os objetos usados no serviço da Tenda, as estacas da Tenda e as estacas do pátio serão de bronze.
+
+'''
+
+xref:002-exodo/002-exodo-026.adoc#v2-26-0[&#60; Capítulo Anterior] | <<v2-27-0,Topo>> | xref:002-exodo/002-exodo-028.adoc#v2-28-0[Próximo Capítulo &#62;]

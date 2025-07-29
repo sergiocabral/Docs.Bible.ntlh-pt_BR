@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v6-14-0]]
+=== Josué, 14
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v6-14-1]]
+
+^<<v6-14-1,1>>^ São estas as terras que o povo de Israel recebeu em Canaã. Eleazar, o sacerdote, e Josué, filho de Num, e os chefes das famílias das tribos  de Israel fizeram a divisão.
+
+[[v6-14-2]]
+
+^<<v6-14-2,2>>^ Como o Senhor  havia ordenado a Moisés, a divisão das terras das nove tribos e meia foi feita por sorteio .
+
+[[v6-14-3]]
+
+^<<v6-14-3,3>>^ Moisés tinha dado uma parte da terra às duas tribos e meia que ficaram a leste do rio Jordão, mas os levitas  não receberam terras.
+
+[[v6-14-4]]
+
+^<<v6-14-4,4>>^ Os descendentes de José estavam divididos em duas tribos: Manassés e Efraim. Não foi dado nenhum pedaço de terra aos levitas, mas eles tinham cidades para morar e também pastos para o seu gado e os seus rebanhos.
+
+[[v6-14-5]]
+
+^<<v6-14-5,5>>^ O povo de Israel dividiu a terra como o Senhor  havia ordenado a Moisés.
+
+[[v6-14-6]]
+
+^<<v6-14-6,6>>^ O povo da tribo  de Judá foi falar com Josué em Gilgal. Calebe, filho de Jefoné, do povo quenezeu, disse a Josué: — Você sabe o que o Senhor  disse a Moisés, homem de Deus, em Cades-Barneia, a respeito de você e de mim.
+
+[[v6-14-7]]
+
+^<<v6-14-7,7>>^ Eu tinha quarenta anos quando Moisés, servo  do Senhor , me enviou de Cades-Barneia para espionar a terra. E eu dei um relatório que sabia que era verdadeiro.
+
+[[v6-14-8]]
+
+^<<v6-14-8,8>>^ Os homens que foram comigo espalharam o medo no meio do povo, mas eu obedeci fielmente ao Senhor , meu Deus.
+
+[[v6-14-9]]
+
+^<<v6-14-9,9>>^ Naquele dia Moisés me fez a seguinte promessa: "Calebe, você obedeceu fielmente ao Senhor , meu Deus. Por isso fique certo de que você e os seus filhos serão donos para sempre de toda a terra que pisarem."
+
+[[v6-14-10]]
+
+^<<v6-14-10,10>>^ E Calebe continuou: — Agora veja! Faz quarenta e cinco anos que o Senhor  Deus disse essas coisas a Moisés. Isso foi no tempo em que o povo de Israel atravessava o deserto; e o Senhor  me tem conservado com vida até hoje. Olhe para mim! Estou com oitenta e cinco anos
+
+[[v6-14-11]]
+
+^<<v6-14-11,11>>^ e me sinto tão forte hoje como no dia em que Moisés me mandou espionar a terra. Ainda tenho bastante força para combater na guerra e para fazer o que for preciso.
+
+[[v6-14-12]]
+
+^<<v6-14-12,12>>^ Agora me dê essa região montanhosa que o Senhor  me prometeu quando os meus companheiros e eu demos o relatório. Naquele tempo dissemos a você que os gigantes anaquins  estavam lá, morando em grandes cidades cercadas de muralhas. Se o Senhor  estiver comigo, eu os expulsarei, como ele prometeu.
+
+[[v6-14-13]]
+
+^<<v6-14-13,13>>^ Então Josué abençoou a Calebe, filho de Jefoné, e lhe deu a cidade de Hebrom para ser sua propriedade.
+
+[[v6-14-14]]
+
+^<<v6-14-14,14>>^ Até hoje  Hebrom pertence aos descendentes de Calebe, filho de Jefoné, do povo quenezeu, porque ele obedeceu fielmente ao Senhor , o Deus de Israel.
+
+[[v6-14-15]]
+
+^<<v6-14-15,15>>^ Antes disso Hebrom era chamada de Quiriate-Arba. Arba havia sido o maior dos anaquins. Então houve paz na terra.
+
+'''
+
+xref:006-josue/006-josue-013.adoc#v6-13-0[&#60; Capítulo Anterior] | <<v6-14-0,Topo>> | xref:006-josue/006-josue-015.adoc#v6-15-0[Próximo Capítulo &#62;]

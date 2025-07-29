@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v4-7-0]]
+=== Números, 7
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v4-7-1]]
+
+^<<v4-7-1,1>>^ No dia em que Moisés acabou de armar a Tenda Sagrada , ele a ungiu  e a dedicou ao serviço de Deus, junto com todos os objetos da Tenda e do altar.
+
+[[v4-7-2]]
+
+^<<v4-7-2,2>>^ Então os chefes dos grupos de famílias, que eram líderes das tribos  do povo de Israel, os mesmos homens que estavam cuidando da contagem do povo,
+
+[[v4-7-3]]
+
+^<<v4-7-3,3>>^ trouxeram as suas ofertas a Deus, o Senhor , isto é, seis carroças cobertas e doze bois. Cada dois chefes ofereceram uma carroça, e cada um deles, um boi; e puseram tudo na frente da Tenda.
+
+[[v4-7-4]]
+
+^<<v4-7-4,4>>^ O Senhor  disse a Moisés:
+
+[[v4-7-5]]
+
+^<<v4-7-5,5>>^ — Receba as carroças e os bois a fim de serem usados para o serviço da Tenda; e dê essas ofertas aos levitas , a cada um de acordo com o serviço que faz.
+
+[[v4-7-6]]
+
+^<<v4-7-6,6>>^ Então Moisés deu aos levitas as carroças e os bois.
+
+[[v4-7-7]]
+
+^<<v4-7-7,7>>^ Aos descendentes de Gérson ele deu duas carroças e quatro bois, de acordo com o serviço que faziam.
+
+[[v4-7-8]]
+
+^<<v4-7-8,8>>^ Aos descendentes de Merari, também de acordo com o serviço deles, Moisés deu quatro carroças e oito bois. Esse serviço era dirigido por Itamar, filho do sacerdote Arão.
+
+[[v4-7-9]]
+
+^<<v4-7-9,9>>^ Porém Moisés não deu aos descendentes de Coate nem carroças nem bois, pois os objetos sagrados de que eles cuidavam tinham de ser carregados nos ombros.
+
+[[v4-7-10]]
+
+^<<v4-7-10,10>>^ Os chefes também trouxeram as ofertas para comemorar a dedicação do altar ao serviço de Deus. Quando eles já estavam prontos para apresentar as suas ofertas no altar,
+
+[[v4-7-11]]
+
+^<<v4-7-11,11>>^ o Senhor  Deus disse a Moisés: — Os chefes, cada um no seu próprio dia, deverão apresentar as suas ofertas para a dedicação do altar ao meu serviço.
+
+[[v4-7-12]]
+
+^<<v4-7-12,12>>^ Os doze chefes apresentaram as suas ofertas na seguinte ordem: no primeiro dia o chefe da tribo de Judá, Nasom, filho de Aminadabe; no segundo dia o chefe da tribo de Issacar, Netanel, filho de Zuar; no terceiro dia o chefe da tribo de Zebulom, Eliabe, filho de Helom; no quarto dia o chefe da tribo de Rúben, Elisur, filho de Sedeur; no quinto dia o chefe da tribo de Simeão, Selumiel, filho de Zurisadai; no sexto dia o chefe da tribo de Gade, Eliasafe, filho de Deuel; no sétimo dia o chefe da tribo de Efraim, Elisama, filho de Amiúde; no oitavo dia o chefe da tribo de Manassés, Gamaliel, filho de Pedasur; no nono dia o chefe da tribo de Benjamim, Abidã, filho de Gideoni; no dia dez o chefe da tribo de Dã, Aiezer, filho de Amisadai; no dia onze o chefe da tribo de Aser, Pagiel, filho de Ocrã; no dia doze o chefe da tribo de Naftali, Aira, filho de Enã. As ofertas que cada um trouxe eram iguais: uma bandeja de prata pesando um quilo e meio; uma bacia de prata pesando oitocentos gramas, segundo a tabela oficial (a bandeja e a bacia estavam cheias de farinha de trigo misturada com azeite, para a oferta de cereais); um prato de ouro pesando cento e quinze gramas, cheio de incenso; um touro novo, um carneiro e um carneirinho de um ano para serem completamente queimados; um bode como oferta para tirar pecados; e, como oferta de paz, dois bois, cinco carneiros, cinco bodes e cinco carneirinhos de um ano.
+
+[[v4-7-13]]
+
+^<<v4-7-13,13>>^ Os doze chefes apresentaram as suas ofertas na seguinte ordem: no primeiro dia o chefe da tribo de Judá, Nasom, filho de Aminadabe; no segundo dia o chefe da tribo de Issacar, Netanel, filho de Zuar; no terceiro dia o chefe da tribo de Zebulom, Eliabe, filho de Helom; no quarto dia o chefe da tribo de Rúben, Elisur, filho de Sedeur; no quinto dia o chefe da tribo de Simeão, Selumiel, filho de Zurisadai; no sexto dia o chefe da tribo de Gade, Eliasafe, filho de Deuel; no sétimo dia o chefe da tribo de Efraim, Elisama, filho de Amiúde; no oitavo dia o chefe da tribo de Manassés, Gamaliel, filho de Pedasur; no nono dia o chefe da tribo de Benjamim, Abidã, filho de Gideoni; no dia dez o chefe da tribo de Dã, Aiezer, filho de Amisadai; no dia onze o chefe da tribo de Aser, Pagiel, filho de Ocrã; no dia doze o chefe da tribo de Naftali, Aira, filho de Enã.
+
+[[v4-7-14]]
+
+^<<v4-7-14,14>>^ Os doze chefes apresentaram as suas ofertas na seguinte ordem: no primeiro dia o chefe da tribo de Judá, Nasom, filho de Aminadabe; no segundo dia o chefe da tribo de Issacar, Netanel, filho de Zuar; no terceiro dia o chefe da tribo de Zebulom, Eliabe, filho de Helom; no quarto dia o chefe da tribo de Rúben, Elisur, filho de Sedeur; no quinto dia o chefe da tribo de Simeão, Selumiel, filho de Zurisadai; no sexto dia o chefe da tribo de Gade, Eliasafe, filho de Deuel; no sétimo dia o chefe da tribo de Efraim, Elisama, filho de Amiúde; no oitavo dia o chefe da tribo de Manassés, Gamaliel, filho de Pedasur; no nono dia o chefe da tribo de Benjamim, Abidã, filho de Gideoni; no dia dez o chefe da tribo de Dã, Aiezer, filho de Amisadai; no dia onze o chefe da tribo de Aser, Pagiel, filho de Ocrã; no dia doze o chefe da tribo de Naftali, Aira, filho de Enã.
+
+[[v4-7-15]]
+
+^<<v4-7-15,15>>^ Os doze chefes apresentaram as suas ofertas na seguinte ordem: no primeiro dia o chefe da tribo de Judá, Nasom, filho de Aminadabe; no segundo dia o chefe da tribo de Issacar, Netanel, filho de Zuar; no terceiro dia o chefe da tribo de Zebulom, Eliabe, filho de Helom; no quarto dia o chefe da tribo de Rúben, Elisur, filho de Sedeur; no quinto dia o chefe da tribo de Simeão, Selumiel, filho de Zurisadai; no sexto dia o chefe da tribo de Gade, Eliasafe, filho de Deuel; no sétimo dia o chefe da tribo de Efraim, Elisama, filho de Amiúde; no oitavo dia o chefe da tribo de Manassés, Gamaliel, filho de Pedasur; no nono dia o chefe da tribo de Benjamim, Abidã, filho de Gideoni; no dia dez o chefe da tribo de Dã, Aiezer, filho de Amisadai; no dia onze o chefe da tribo de Aser, Pagiel, filho de Ocrã; no dia doze o chefe da tribo de Naftali, Aira, filho de Enã.
+
+[[v4-7-16]]
+
+^<<v4-7-16,16>>^ Os doze chefes apresentaram as suas ofertas na seguinte ordem: no primeiro dia o chefe da tribo de Judá, Nasom, filho de Aminadabe; no segundo dia o chefe da tribo de Issacar, Netanel, filho de Zuar; no terceiro dia o chefe da tribo de Zebulom, Eliabe, filho de Helom; no quarto dia o chefe da tribo de Rúben, Elisur, filho de Sedeur; no quinto dia o chefe da tribo de Simeão, Selumiel, filho de Zurisadai; no sexto dia o chefe da tribo de Gade, Eliasafe, filho de Deuel; no sétimo dia o chefe da tribo de Efraim, Elisama, filho de Amiúde; no oitavo dia o chefe da tribo de Manassés, Gamaliel, filho de Pedasur; no nono dia o chefe da tribo de Benjamim, Abidã, filho de Gideoni; no dia dez o chefe da tribo de Dã, Aiezer, filho de Amisadai; no dia onze o chefe da tribo de Aser, Pagiel, filho de Ocrã; no dia doze o chefe da tribo de Naftali, Aira, filho de Enã.
+
+[[v4-7-17]]
+
+^<<v4-7-17,17>>^ Os doze chefes apresentaram as suas ofertas na seguinte ordem: no primeiro dia o chefe da tribo de Judá, Nasom, filho de Aminadabe; no segundo dia o chefe da tribo de Issacar, Netanel, filho de Zuar; no terceiro dia o chefe da tribo de Zebulom, Eliabe, filho de Helom; no quarto dia o chefe da tribo de Rúben, Elisur, filho de Sedeur; no quinto dia o chefe da tribo de Simeão, Selumiel, filho de Zurisadai; no sexto dia o chefe da tribo de Gade, Eliasafe, filho de Deuel; no sétimo dia o chefe da tribo de Efraim, Elisama, filho de Amiúde; no oitavo dia o chefe da tribo de Manassés, Gamaliel, filho de Pedasur; no nono dia o chefe da tribo de Benjamim, Abidã, filho de Gideoni; no dia dez o chefe da tribo de Dã, Aiezer, filho de Amisadai; no dia onze o chefe da tribo de Aser, Pagiel, filho de Ocrã; no dia doze o chefe da tribo de Naftali, Aira, filho de Enã.
+
+'''
+
+xref:004-numeros/004-numeros-006.adoc#v4-6-0[&#60; Capítulo Anterior] | <<v4-7-0,Topo>> | xref:004-numeros/004-numeros-008.adoc#v4-8-0[Próximo Capítulo &#62;]

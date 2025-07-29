@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v19-75-0]]
+=== Salmos, 75
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-75-1]]
+
+^<<v19-75-1,1>>^ Nós te damos graças, ó Deus, nós damos graças. Anunciamos a tua grandeza e contamos as coisas maravilhosas que tens feito.
+
+[[v19-75-2]]
+
+^<<v19-75-2,2>>^ Deus diz: "Eu marquei um tempo certo para o julgamento e julgarei com justiça.
+
+[[v19-75-3]]
+
+^<<v19-75-3,3>>^ Ainda que a terra trema, e todos os seus moradores estremeçam, eu manterei firmes as suas bases.
+
+[[v19-75-4]]
+
+^<<v19-75-4,4>>^ Digo aos maus que não contem grandezas, que não sejam orgulhosos;
+
+[[v19-75-5]]
+
+^<<v19-75-5,5>>^ digo que parem de se gabar do seu poder e de falar com arrogância."
+
+[[v19-75-6]]
+
+^<<v19-75-6,6>>^ Pois o julgamento não vem do Leste, nem do Oeste, nem do Norte, nem do Sul.
+
+[[v19-75-7]]
+
+^<<v19-75-7,7>>^ É Deus quem julga; é ele quem declara que uns são culpados e que outros são inocentes.
+
+[[v19-75-8]]
+
+^<<v19-75-8,8>>^ O Senhor  Deus tem na sua mão uma taça cheia do vinho forte da sua ira . Ele serve o vinho, e todos os maus o bebem, bebem até a última gota.
+
+[[v19-75-9]]
+
+^<<v19-75-9,9>>^ Porém eu sempre falarei a respeito do Deus de Jacó e lhe cantarei louvores.
+
+[[v19-75-10]]
+
+^<<v19-75-10,10>>^ Ele quebrará o poder dos maus; mas o poder dos que obedecem a Deus crescerá.
+
+'''
+
+xref:019-salmos/019-salmos-074.adoc#v19-74-0[&#60; Capítulo Anterior] | <<v19-75-0,Topo>> | xref:019-salmos/019-salmos-076.adoc#v19-76-0[Próximo Capítulo &#62;]

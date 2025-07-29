@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v14-1-0]]
+=== 2 Crônicas, 1
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v14-1-1]]
+
+^<<v14-1-1,1>>^ O rei Salomão, filho de Davi, conseguiu firmar o seu poder como rei de Israel, e o Senhor , seu Deus, o abençoou e fez o seu poder aumentar muito.
+
+[[v14-1-2]]
+
+^<<v14-1-2,2>>^ Salomão ordenou a todos os comandantes de mil soldados, aos de cem soldados, às autoridades do governo, aos chefes de família, enfim, a todos os israelitas
+
+[[v14-1-3]]
+
+^<<v14-1-3,3>>^ que fossem com ele até o lugar de adoração que ficava em Gibeão. Nessa cidade estava a Tenda da Presença de Deus , que Moisés, servo  do Senhor , havia feito no deserto.
+
+[[v14-1-4]]
+
+^<<v14-1-4,4>>^ (A arca da aliança  estava em Jerusalém, numa barraca que Davi tinha armado quando havia levado a arca de Quiriate-Jearim para Jerusalém.)
+
+[[v14-1-5]]
+
+^<<v14-1-5,5>>^ O altar de bronze, que havia sido feito por Bezalel, filho de Uri e neto de Hur, estava em frente da Tenda Sagrada. O rei Salomão e todo o povo de Israel foram lá para adorar a Deus.
+
+[[v14-1-6]]
+
+^<<v14-1-6,6>>^ Ali, no altar de bronze, Salomão ofereceu a Deus em sacrifício  mil animais, que foram completamente queimados.
+
+[[v14-1-7]]
+
+^<<v14-1-7,7>>^ Naquela noite Deus apareceu a Salomão e perguntou: — O que você quer que eu lhe dê?
+
+[[v14-1-8]]
+
+^<<v14-1-8,8>>^ Ele respondeu: — Tu sempre mostraste um grande amor por Davi, o meu pai, e deixaste que eu ficasse como rei no lugar dele.
+
+[[v14-1-9]]
+
+^<<v14-1-9,9>>^ E agora, ó Senhor  Deus, cumpre a promessa que fizeste ao meu pai. Já que me fizeste rei de um povo tão numeroso como o pó da terra,
+
+[[v14-1-10]]
+
+^<<v14-1-10,10>>^ dá-me sabedoria e conhecimento para que eu possa governá-lo. Se não for assim, como poderei governar este teu grande povo?
+
+[[v14-1-11]]
+
+^<<v14-1-11,11>>^ Deus disse a Salomão: — Visto que você pediu sabedoria e conhecimento para governar o meu povo, de quem eu fiz você rei, em vez de pedir riquezas, bens, ou honras, ou a morte dos seus inimigos, ou vida longa,
+
+[[v14-1-12]]
+
+^<<v14-1-12,12>>^ eu lhe darei sabedoria e conhecimento. E lhe darei também mais riquezas, bens e honras do que qualquer outro rei teve antes de você ou terá depois.
+
+[[v14-1-13]]
+
+^<<v14-1-13,13>>^ Então Salomão saiu do lugar de adoração que ficava em Gibeão, onde estava a Tenda Sagrada, e voltou para Jerusalém, onde governou o povo de Israel.
+
+[[v14-1-14]]
+
+^<<v14-1-14,14>>^ Salomão ajuntou mil e quatrocentos carros de guerra e doze mil cavalos de cavalaria. Espalhou uma parte deles por várias cidades e deixou o resto em Jerusalém.
+
+[[v14-1-15]]
+
+^<<v14-1-15,15>>^ Em Jerusalém, durante o seu reinado, a prata e o ouro eram tão comuns como as pedras, e havia tantos cedros como as figueiras bravas que existem nas planícies de Judá.
+
+[[v14-1-16]]
+
+^<<v14-1-16,16>>^ Os agentes do rei controlavam a importação de cavalos de Musri e da Cilícia ,
+
+[[v14-1-17]]
+
+^<<v14-1-17,17>>^ e a importação de carros de guerra do Egito. Esses agentes forneciam cavalos e carros de guerra para os reis heteus e sírios, vendendo cada carro por seiscentas barras de prata e cada cavalo por cento e cinquenta barras de prata.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-029.adoc#v13-29-0[&#60; Capítulo Anterior] | <<v14-1-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-002.adoc#v14-2-0[Próximo Capítulo &#62;]

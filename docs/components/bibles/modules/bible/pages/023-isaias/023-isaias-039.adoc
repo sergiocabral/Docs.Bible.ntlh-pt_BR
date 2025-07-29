@@ -1,0 +1,41 @@
+include::./index.adoc[]
+
+[[v23-39-0]]
+=== Isaías, 39
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v23-39-1]]
+
+^<<v23-39-1,1>>^ Por esse mesmo tempo, o rei da Babilônia, Merodaque-Baladã, filho de Baladã, soube que o rei Ezequias havia estado doente, mas agora já estava bom. Então lhe mandou uma carta e um presente.
+
+[[v23-39-2]]
+
+^<<v23-39-2,2>>^ Ezequias recebeu bem os mensageiros e lhes mostrou toda a sua riqueza, isto é, a sua prata e o seu ouro, as suas especiarias , os seus perfumes e todas as suas armas. Não houve nada nos seus depósitos ou em qualquer outro lugar que Ezequias não mostrasse.
+
+[[v23-39-3]]
+
+^<<v23-39-3,3>>^ Então o profeta  Isaías foi falar com ele e perguntou: — De onde vieram esses homens, e o que foi que lhe disseram? Ezequias respondeu: — Eles vieram de um país que fica muito longe daqui. Vieram da Babilônia.
+
+[[v23-39-4]]
+
+^<<v23-39-4,4>>^ — O que foi que eles viram no palácio? — perguntou Isaías. O rei respondeu: — Viram tudo. Não houve nada nos depósitos que eu não lhes mostrasse.
+
+[[v23-39-5]]
+
+^<<v23-39-5,5>>^ Então Isaías disse ao rei: — O Senhor  Todo-Poderoso diz que
+
+[[v23-39-6]]
+
+^<<v23-39-6,6>>^ vai chegar o tempo em que tudo aquilo que há no seu palácio, isto é, tudo o que os seus antepassados juntaram até hoje, será levado para a Babilônia. Não ficará nada.
+
+[[v23-39-7]]
+
+^<<v23-39-7,7>>^ Alguns dos seus próprios filhos serão levados como prisioneiros e feitos eunucos  para trabalhar no palácio do rei da Babilônia.
+
+[[v23-39-8]]
+
+^<<v23-39-8,8>>^ O rei Ezequias entendeu que isso queria dizer que durante a vida dele haveria paz e segurança. Por isso, disse: — A mensagem do Senhor  que você me deu é boa.
+
+'''
+
+xref:023-isaias/023-isaias-038.adoc#v23-38-0[&#60; Capítulo Anterior] | <<v23-39-0,Topo>> | xref:023-isaias/023-isaias-040.adoc#v23-40-0[Próximo Capítulo &#62;]

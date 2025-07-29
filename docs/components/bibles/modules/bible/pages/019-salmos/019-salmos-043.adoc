@@ -1,0 +1,29 @@
+include::./index.adoc[]
+
+[[v19-43-0]]
+=== Salmos, 43
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-43-1]]
+
+^<<v19-43-1,1>>^ Ó Deus, declara que eu estou inocente e defende a minha causa contra essa gente que não te adora! Livra-me das pessoas traiçoeiras e perversas.
+
+[[v19-43-2]]
+
+^<<v19-43-2,2>>^ Tu, ó Deus, és o meu protetor; por que me abandonaste? Por que tenho de viver sofrendo, perseguido pelos meus inimigos?
+
+[[v19-43-3]]
+
+^<<v19-43-3,3>>^ Manda a tua luz e a tua verdade para que elas me ensinem o caminho e me levem de volta a Sião , o teu monte santo, e ao teu Templo, onde vives.
+
+[[v19-43-4]]
+
+^<<v19-43-4,4>>^ Então eu irei até o teu altar, ó Deus, pois tu és a fonte da minha felicidade. Tocarei a minha lira e cantarei louvores a ti, ó Deus, meu Deus!
+
+[[v19-43-5]]
+
+^<<v19-43-5,5>>^ Por que estou tão triste? Por que estou tão aflito? Eu porei a minha esperança em Deus e ainda o louvarei. Ele é o meu Salvador e o meu Deus.
+
+'''
+
+xref:019-salmos/019-salmos-042.adoc#v19-42-0[&#60; Capítulo Anterior] | <<v19-43-0,Topo>> | xref:019-salmos/019-salmos-044.adoc#v19-44-0[Próximo Capítulo &#62;]

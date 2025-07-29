@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v5-25-0]]
+=== Deuteronômio, 25
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v5-25-1]]
+
+^<<v5-25-1,1>>^ — Quando dois israelitas tiverem uma questão, levem o caso para ser julgado pelos juízes. Um dos dois será julgado culpado, e o outro, inocente.
+
+[[v5-25-2]]
+
+^<<v5-25-2,2>>^ Se o culpado for condenado a receber chicotadas, o juiz o fará deitar-se no chão, e na sua presença o homem será chicoteado, recebendo o número de chicotadas que ele merece, de acordo com o crime que cometeu.
+
+[[v5-25-3]]
+
+^<<v5-25-3,3>>^ O máximo que alguém pode receber são quarenta chicotadas; mais do que isso seria humilhar um israelita em público.
+
+[[v5-25-4]]
+
+^<<v5-25-4,4>>^ — Não amarre a boca do boi quando ele estiver pisando o trigo .
+
+[[v5-25-5]]
+
+^<<v5-25-5,5>>^ Moisés disse ao povo: — Se dois irmãos morarem juntos, e um deles morrer e deixar a esposa sem filhos, a viúva só deverá casar de novo com alguém que seja da família do morto. O irmão do falecido deve casar com a viúva, cumprindo assim o dever de cunhado.
+
+[[v5-25-6]]
+
+^<<v5-25-6,6>>^ O primeiro filho que ela lhe der será considerado filho do falecido, para que o seu nome não desapareça de Israel.
+
+[[v5-25-7]]
+
+^<<v5-25-7,7>>^ Mas, se o cunhado não quiser casar com a viúva, ela irá ao lugar de julgamento para falar com os líderes da cidade. Ela dirá: "Meu cunhado não quer cumprir o seu dever, casando comigo; ele não quer que o nome do seu irmão fique vivo em Israel."
+
+[[v5-25-8]]
+
+^<<v5-25-8,8>>^ Aí os líderes devem chamar o homem e procurar fazê-lo mudar de ideia. Mas, se ele insistir, dizendo que não quer casar com a cunhada,
+
+[[v5-25-9]]
+
+^<<v5-25-9,9>>^ ela chegará perto dele e ali na presença dos líderes tirará uma das sandálias dele, cuspirá no seu rosto e dirá: "É assim que se faz com o homem que não dá ao seu irmão descendentes em Israel."
+
+[[v5-25-10]]
+
+^<<v5-25-10,10>>^ E dali em diante a família dele será chamada de "família do homem que foi descalçado."
+
+[[v5-25-11]]
+
+^<<v5-25-11,11>>^ — Quando dois homens estiverem lutando, a esposa de um deles não deve chegar e agarrar o membro do outro, a fim de ajudar o marido.
+
+[[v5-25-12]]
+
+^<<v5-25-12,12>>^ Não tenham dó nem piedade; cortem a mão da mulher que fizer isso.
+
+[[v5-25-13]]
+
+^<<v5-25-13,13>>^ — Não levem na bolsa dois pesos diferentes, um maior do que o outro,
+
+[[v5-25-14]]
+
+^<<v5-25-14,14>>^ nem tenham em casa duas medidas diferentes , uma maior do que a outra.
+
+[[v5-25-15]]
+
+^<<v5-25-15,15>>^ Usem pesos e medidas certos, para que vocês vivam muito tempo na terra que o Senhor , nosso Deus, lhes está dando.
+
+[[v5-25-16]]
+
+^<<v5-25-16,16>>^ Ele detesta todos aqueles que fazem essas coisas desonestas.
+
+[[v5-25-17]]
+
+^<<v5-25-17,17>>^ — Lembrem daquilo que os amalequitas fizeram quando vocês estavam saindo do Egito.
+
+[[v5-25-18]]
+
+^<<v5-25-18,18>>^ Eles não temeram a Deus  e, quando vocês estavam cansados e desanimados, eles os atacaram de surpresa e mataram os mais fracos, que estavam vindo atrás dos outros.
+
+[[v5-25-19]]
+
+^<<v5-25-19,19>>^ Portanto, quando o Senhor , nosso Deus, lhes tiver dado a terra que vai ser de vocês e tiver feito com que derrotem todos os inimigos ao seu redor, acabem com os amalequitas. Matem todos, para que ninguém lembre mais deles. Não esqueçam essa ordem!
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-024.adoc#v5-24-0[&#60; Capítulo Anterior] | <<v5-25-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-026.adoc#v5-26-0[Próximo Capítulo &#62;]

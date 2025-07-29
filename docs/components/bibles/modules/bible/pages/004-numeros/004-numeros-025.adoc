@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v4-25-0]]
+=== Números, 25
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v4-25-1]]
+
+^<<v4-25-1,1>>^ Quando os israelitas estavam acampados no vale das Acácias, os homens começaram a ter relações com as mulheres moabitas.
+
+[[v4-25-2]]
+
+^<<v4-25-2,2>>^ Elas convidavam o povo para as festas em que eram feitos sacrifícios  aos seus deuses. E os israelitas tomavam parte nos seus banquetes e adoravam os seus deuses.
+
+[[v4-25-3]]
+
+^<<v4-25-3,3>>^ Assim, os israelitas se reuniram para adorar o deus Baal-Peor, e por isso o Senhor  Deus ficou muito irado  com eles
+
+[[v4-25-4]]
+
+^<<v4-25-4,4>>^ e disse a Moisés: — Reúna os chefes do povo de Israel e os enforque diante de mim em plena luz do dia. Assim, a minha ira contra o povo de Israel acabará.
+
+[[v4-25-5]]
+
+^<<v4-25-5,5>>^ Moisés disse aos chefes: — Cada um de vocês mate os homens da sua tribo  que foram adorar o deus Baal-Peor.
+
+[[v4-25-6]]
+
+^<<v4-25-6,6>>^ Moisés e todo o povo estavam chorando em frente da Tenda  do Senhor . Então um dos israelitas levou uma mulher midianita para dentro da sua barraca na presença de Moisés e de toda a gente.
+
+[[v4-25-7]]
+
+^<<v4-25-7,7>>^ Quando Fineias, filho de Eleazar e neto do sacerdote Arão, viu isso, levantou-se e saiu da reunião. Ele pegou uma lança,
+
+[[v4-25-8]]
+
+^<<v4-25-8,8>>^ seguiu o homem, entrou na barraca e enfiou a lança na barriga dele e da mulher. E assim acabou a epidemia que havia entre os israelitas
+
+[[v4-25-9]]
+
+^<<v4-25-9,9>>^ e que já havia matado vinte e quatro mil pessoas.
+
+[[v4-25-10]]
+
+^<<v4-25-10,10>>^ Então o Senhor  Deus disse a Moisés:
+
+[[v4-25-11]]
+
+^<<v4-25-11,11>>^ — Fineias fez com que terminasse a minha ira contra o povo de Israel. Fineias é como eu: não tolera a adoração de outros deuses além de mim. Por causa do que Fineias fez, eu, na minha ira, não destruí os israelitas.
+
+[[v4-25-12]]
+
+^<<v4-25-12,12>>^ Portanto, diga-lhe que faço agora com ele uma aliança de amizade.
+
+[[v4-25-13]]
+
+^<<v4-25-13,13>>^ Ele e os seus descendentes sempre serão sacerdotes porque ele não deixou que os israelitas adorassem outro deus além de mim e assim conseguiu que fossem perdoados.
+
+[[v4-25-14]]
+
+^<<v4-25-14,14>>^ O israelita que foi morto com a midianita se chamava Zinri; ele era filho de Salu e chefe de uma família da tribo de Simeão.
+
+[[v4-25-15]]
+
+^<<v4-25-15,15>>^ A mulher midianita que foi morta se chamava Cosbi; ela era filha de Zur, chefe de um grupo de famílias midianitas.
+
+[[v4-25-16]]
+
+^<<v4-25-16,16>>^ O Senhor  ordenou a Moisés:
+
+[[v4-25-17]]
+
+^<<v4-25-17,17>>^ — Ataquem e matem os midianitas.
+
+[[v4-25-18]]
+
+^<<v4-25-18,18>>^ Eles prejudicaram vocês, pois os enganaram, levando-os a adorar o ídolo de Peor, e também os enganaram no caso de Cosbi, filha do chefe midianita, que foi morta no tempo da epidemia que houve no monte Peor.
+
+'''
+
+xref:004-numeros/004-numeros-024.adoc#v4-24-0[&#60; Capítulo Anterior] | <<v4-25-0,Topo>> | xref:004-numeros/004-numeros-026.adoc#v4-26-0[Próximo Capítulo &#62;]

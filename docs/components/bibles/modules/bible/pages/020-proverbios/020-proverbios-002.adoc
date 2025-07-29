@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v20-2-0]]
+=== Provérbios, 2
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v20-2-1]]
+
+^<<v20-2-1,1>>^ Filho, aprenda o que eu lhe ensino e nunca esqueça o que mando você fazer.
+
+[[v20-2-2]]
+
+^<<v20-2-2,2>>^ Escute os sábios e procure entender o que eles ensinam.
+
+[[v20-2-3]]
+
+^<<v20-2-3,3>>^ Sim, peça sabedoria e grite pedindo entendimento.
+
+[[v20-2-4]]
+
+^<<v20-2-4,4>>^ Procure essas coisas, como se procurasse prata ou um tesouro escondido.
+
+[[v20-2-5]]
+
+^<<v20-2-5,5>>^ Se você fizer isso, saberá o que quer dizer temer  o Senhor , e aprenderá a conhecê-lo.
+
+[[v20-2-6]]
+
+^<<v20-2-6,6>>^ É o Senhor  quem dá sabedoria; a sabedoria e o entendimento vêm dele.
+
+[[v20-2-7]]
+
+^<<v20-2-7,7>>^ Ele dá ajuda e proteção a quem é direito e honesto.
+
+[[v20-2-8]]
+
+^<<v20-2-8,8>>^ Deus protege os que tratam os outros com justiça e guarda os que lhe obedecem.
+
+[[v20-2-9]]
+
+^<<v20-2-9,9>>^ Se você me ouvir, entenderá o que é direito, justo e honesto e saberá o que deve fazer.
+
+[[v20-2-10]]
+
+^<<v20-2-10,10>>^ Você se tornará sábio, e a sua sabedoria lhe dará prazer.
+
+[[v20-2-11]]
+
+^<<v20-2-11,11>>^ O seu entendimento e a sua sabedoria o protegerão
+
+[[v20-2-12]]
+
+^<<v20-2-12,12>>^ e o livrarão de fazer o mal. Assim, você ficará longe das pessoas que vivem dizendo mentiras —
+
+[[v20-2-13]]
+
+^<<v20-2-13,13>>^ pessoas que abandonaram uma vida direita para viver na escuridão do pecado;
+
+[[v20-2-14]]
+
+^<<v20-2-14,14>>^ pessoas que têm prazer em fazer o mal e se alegram quando o mal é praticado;
+
+[[v20-2-15]]
+
+^<<v20-2-15,15>>^ pessoas desonestas, em quem não se pode confiar.
+
+[[v20-2-16]]
+
+^<<v20-2-16,16>>^ Então você será capaz de evitar a mulher imoral que tentar conquistá-lo com palavras sedutoras —
+
+[[v20-2-17]]
+
+^<<v20-2-17,17>>^ a mulher que esquece os votos sagrados do casamento e é infiel ao seu marido.
+
+[[v20-2-18]]
+
+^<<v20-2-18,18>>^ Se você for à casa dela, estará seguindo o caminho da morte; quem vai lá está perto do mundo dos mortos .
+
+[[v20-2-19]]
+
+^<<v20-2-19,19>>^ O homem que visita essa mulher não consegue voltar para a estrada da vida.
+
+[[v20-2-20]]
+
+^<<v20-2-20,20>>^ Portanto, siga o exemplo dos bons e viva uma vida correta.
+
+[[v20-2-21]]
+
+^<<v20-2-21,21>>^ Os homens direitos, de caráter, viverão nesta nossa terra.
+
+[[v20-2-22]]
+
+^<<v20-2-22,22>>^ Mas Deus varrerá dela os maus e arrancará os pecadores como se arrancam plantas do chão.
+
+'''
+
+xref:020-proverbios/020-proverbios-001.adoc#v20-1-0[&#60; Capítulo Anterior] | <<v20-2-0,Topo>> | xref:020-proverbios/020-proverbios-003.adoc#v20-3-0[Próximo Capítulo &#62;]

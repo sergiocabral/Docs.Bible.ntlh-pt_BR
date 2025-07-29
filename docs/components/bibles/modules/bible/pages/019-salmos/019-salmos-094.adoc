@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v19-94-0]]
+=== Salmos, 94
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-94-1]]
+
+^<<v19-94-1,1>>^ Ó Senhor , tu és Deus que castiga! Mostra a tua ira .
+
+[[v19-94-2]]
+
+^<<v19-94-2,2>>^ Tu és o juiz de todas as pessoas; levanta-te e dá aos orgulhosos o que eles merecem.
+
+[[v19-94-3]]
+
+^<<v19-94-3,3>>^ Até quando os maus continuarão alegres? Até quando, ó Senhor  Deus?
+
+[[v19-94-4]]
+
+^<<v19-94-4,4>>^ Até quando se mostrarão orgulhosos e se gabarão dos seus crimes?
+
+[[v19-94-5]]
+
+^<<v19-94-5,5>>^ Ó Senhor , eles esmagam o teu povo e exploram os que são teus.
+
+[[v19-94-6]]
+
+^<<v19-94-6,6>>^ Eles matam as viúvas e os órfãos e assassinam os estrangeiros que vivem na nossa terra.
+
+[[v19-94-7]]
+
+^<<v19-94-7,7>>^ E dizem: "O Senhor  não está vendo; o Deus de Israel não vai ficar sabendo disso."
+
+[[v19-94-8]]
+
+^<<v19-94-8,8>>^ Procure entender, ó gente tola! Quando é que vocês vão criar juízo?
+
+[[v19-94-9]]
+
+^<<v19-94-9,9>>^ Foi o Senhor  Deus quem fez os nossos ouvidos — será que ele não pode ouvir? Foi o Senhor  quem fez os nossos olhos — será que ele não pode ver?
+
+[[v19-94-10]]
+
+^<<v19-94-10,10>>^ O Senhor  repreende as nações — será que ele não vai castigá-las? O Senhor  ensina todos os seres humanos — será que ele não tem sabedoria?
+
+[[v19-94-11]]
+
+^<<v19-94-11,11>>^ O Senhor  conhece os pensamentos das pessoas e sabe que eles não valem nada.
+
+[[v19-94-12]]
+
+^<<v19-94-12,12>>^ Ó Senhor  Deus, felizes são aqueles que tu ensinas, aqueles a quem ensinas a tua lei !
+
+[[v19-94-13]]
+
+^<<v19-94-13,13>>^ Tu farás com que fiquem tranquilos nos dias de aflição, mas para os maus serão abertas sepulturas.
+
+[[v19-94-14]]
+
+^<<v19-94-14,14>>^ Pois o Senhor  não abandonará o seu povo; ele não deixará desamparados aqueles que são dele.
+
+[[v19-94-15]]
+
+^<<v19-94-15,15>>^ Assim haverá justiça nos tribunais, e todos os que são honestos estarão a favor dela.
+
+[[v19-94-16]]
+
+^<<v19-94-16,16>>^ Quem se levantou a meu favor contra os maus? Quem ficou do meu lado contra os que fazem o mal?
+
+[[v19-94-17]]
+
+^<<v19-94-17,17>>^ Se o Senhor  não tivesse me ajudado, eu já teria ido para a terra do silêncio .
+
+[[v19-94-18]]
+
+^<<v19-94-18,18>>^ Ó Senhor  Deus, quando senti que poderia morrer, o teu amor me amparou.
+
+[[v19-94-19]]
+
+^<<v19-94-19,19>>^ Quando estou aflito e preocupado, tu me consolas e me alegras.
+
+[[v19-94-20]]
+
+^<<v19-94-20,20>>^ Tu não queres nada com juízes desonestos, pois eles fazem a injustiça parecer justiça,
+
+[[v19-94-21]]
+
+^<<v19-94-21,21>>^ ajuntam-se para prejudicar as pessoas honestas e condenam à morte os inocentes.
+
+[[v19-94-22]]
+
+^<<v19-94-22,22>>^ Mas o Senhor  me defende; ele é a minha rocha e o meu abrigo.
+
+[[v19-94-23]]
+
+^<<v19-94-23,23>>^ Ele castigará esses juízes por causa das injustiças que eles têm cometido; o Senhor , nosso Deus, os destruirá por causa dos seus atos de maldade.
+
+'''
+
+xref:019-salmos/019-salmos-093.adoc#v19-93-0[&#60; Capítulo Anterior] | <<v19-94-0,Topo>> | xref:019-salmos/019-salmos-095.adoc#v19-95-0[Próximo Capítulo &#62;]

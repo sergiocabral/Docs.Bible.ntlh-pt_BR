@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v5-21-0]]
+=== Deuteronômio, 21
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v5-21-1]]
+
+^<<v5-21-1,1>>^ Moisés disse ao povo: — Quando vocês estiverem vivendo na terra que o Senhor , nosso Deus, lhes está dando, pode acontecer que encontrem no campo o corpo de um homem assassinado e não se descubra quem foi que o matou.
+
+[[v5-21-2]]
+
+^<<v5-21-2,2>>^ Nesse caso, os líderes e os juízes irão medir a distância entre o lugar onde o corpo foi descoberto e as cidades em redor.
+
+[[v5-21-3]]
+
+^<<v5-21-3,3>>^ Aí os líderes da cidade que ficar mais perto do lugar onde estava o corpo pegarão uma bezerra que ainda não tenha sido usada no trabalho.
+
+[[v5-21-4]]
+
+^<<v5-21-4,4>>^ Levarão o animal para um vale onde haja um ribeirão que nunca seca e onde a terra nunca foi arada nem semeada, e ali quebrarão o pescoço do animal.
+
+[[v5-21-5]]
+
+^<<v5-21-5,5>>^ Os sacerdotes levitas  também irão até lá, pois o Senhor , nosso Deus, os escolheu para o servirem, para darem a bênção em nome do Senhor  e para decidirem todos os casos de violência.
+
+[[v5-21-6]]
+
+^<<v5-21-6,6>>^ Os líderes da cidade que ficar mais perto do lugar onde o corpo foi encontrado lavarão as mãos por cima do animal morto
+
+[[v5-21-7]]
+
+^<<v5-21-7,7>>^ e dirão: "Nós não matamos esse homem, nem sabemos quem foi que matou.
+
+[[v5-21-8]]
+
+^<<v5-21-8,8>>^ Portanto, ó Senhor  Deus, perdoa o teu povo de Israel, o povo que livraste do Egito. Não culpes o teu povo pela morte desse homem inocente." Assim o povo não será culpado por aquela morte.
+
+[[v5-21-9]]
+
+^<<v5-21-9,9>>^ Portanto, se fizerem aquilo que o Senhor  acha certo, vocês estarão tirando do meio do povo a culpa pela morte de um homem inocente.
+
+[[v5-21-10]]
+
+^<<v5-21-10,10>>^ — Quando o Senhor , nosso Deus, fizer com que vocês vençam os inimigos, e vocês levarem alguns prisioneiros de guerra,
+
+[[v5-21-11]]
+
+^<<v5-21-11,11>>^ pode ser que um de vocês veja entre eles uma mulher bonita. Se você gostar dela e quiser casar com ela,
+
+[[v5-21-12]]
+
+^<<v5-21-12,12>>^ leve-a para casa, onde ela, em sinal de luto, rapará a cabeça, cortará as unhas
+
+[[v5-21-13]]
+
+^<<v5-21-13,13>>^ e trocará de roupa. Ela morará na sua casa e ficará de luto um mês pela morte do pai e da mãe. Depois você pode casar com ela.
+
+[[v5-21-14]]
+
+^<<v5-21-14,14>>^ Porém, se mais tarde você não gostar mais dela, deixe que vá embora livre. Você não poderá vendê-la, nem maltratá-la, pois você a humilhou, forçando-a a casar com você.
+
+[[v5-21-15]]
+
+^<<v5-21-15,15>>^ — Pode acontecer que um homem tenha duas mulheres e ele goste mais de uma do que da outra. Cada uma delas lhe dá um filho, mas o que nasce primeiro é filho da mulher de quem ele gosta menos.
+
+[[v5-21-16]]
+
+^<<v5-21-16,16>>^ Quando esse homem distribuir os seus bens entre os filhos, não poderá mostrar preferência pelo filho da mulher mais querida, dando-lhe os direitos de primeiro filho.
+
+[[v5-21-17]]
+
+^<<v5-21-17,17>>^ O pai deverá dar os direitos de primeiro filho ao filho da mulher de quem gosta menos, pois é o primeiro, e os seus direitos devem ser respeitados; ele receberá duas vezes mais do que os outros.
+
+[[v5-21-18]]
+
+^<<v5-21-18,18>>^ — Pode ser que um homem tenha um filho teimoso e rebelde, que não obedece aos pais, nem mesmo depois de ser castigado.
+
+[[v5-21-19]]
+
+^<<v5-21-19,19>>^ Então os pais devem levá-lo aos líderes da cidade e no lugar de julgamento na praça pública
+
+[[v5-21-20]]
+
+^<<v5-21-20,20>>^ eles dirão: "O nosso filho é teimoso e rebelde; ele não nos obedece, gasta dinheiro à toa e é beberrão."
+
+[[v5-21-21]]
+
+^<<v5-21-21,21>>^ Aí todos os homens daquela cidade o matarão a pedradas, e assim vocês tirarão o mal do meio do povo. Todos saberão do que aconteceu e ficarão com medo.
+
+[[v5-21-22]]
+
+^<<v5-21-22,22>>^ Moisés disse ao povo: — Se alguém for morto por ter cometido um crime, e o corpo for pendurado num poste de madeira,
+
+[[v5-21-23]]
+
+^<<v5-21-23,23>>^ não deixem que o corpo fique ali durante a noite. É preciso sepultá-lo antes do pôr do sol, pois um corpo pendurado assim faz a maldição de Deus cair sobre a terra. Sepultem o corpo, para que não fique impura  a terra que o Senhor , nosso Deus, lhes está dando para ser de vocês.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-020.adoc#v5-20-0[&#60; Capítulo Anterior] | <<v5-21-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-022.adoc#v5-22-0[Próximo Capítulo &#62;]

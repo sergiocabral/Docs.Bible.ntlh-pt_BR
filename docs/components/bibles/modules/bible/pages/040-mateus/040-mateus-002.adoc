@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v40-2-0]]
+=== Mateus, 2
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v40-2-1]]
+
+^<<v40-2-1,1>>^ Jesus nasceu na cidade de Belém, na região da Judeia, quando Herodes era rei da terra de Israel. Nesse tempo alguns homens que estudavam as estrelas vieram do Oriente e chegaram a Jerusalém.
+
+[[v40-2-2]]
+
+^<<v40-2-2,2>>^ Eles perguntaram: — Onde está o menino que nasceu para ser o rei dos judeus? Nós vimos a estrela dele no Oriente e viemos adorá-lo.
+
+[[v40-2-3]]
+
+^<<v40-2-3,3>>^ Quando o rei Herodes soube disso, ficou muito preocupado, e todo o povo de Jerusalém também ficou.
+
+[[v40-2-4]]
+
+^<<v40-2-4,4>>^ Então Herodes reuniu os chefes dos sacerdotes e os mestres  da Lei e perguntou onde devia nascer o Messias .
+
+[[v40-2-5]]
+
+^<<v40-2-5,5>>^ Eles responderam: — Na cidade de Belém, na região da Judeia, pois o profeta  escreveu o seguinte:
+
+[[v40-2-6]]
+
+^<<v40-2-6,6>>^ "Você, Belém, da terra de Judá, de modo nenhum é a menor entre as principais cidades de Judá, pois de você sairá o líder que guiará o meu povo de Israel."
+
+[[v40-2-7]]
+
+^<<v40-2-7,7>>^ Então Herodes chamou os visitantes do Oriente para uma reunião secreta e perguntou qual o tempo exato em que a estrela havia aparecido; e eles disseram.
+
+[[v40-2-8]]
+
+^<<v40-2-8,8>>^ Depois os mandou a Belém com a seguinte ordem: — Vão e procurem informações bem certas sobre o menino. E, quando o encontrarem, me avisem, para eu também ir adorá-lo.
+
+[[v40-2-9]]
+
+^<<v40-2-9,9>>^ Depois de receberem a ordem do rei, os visitantes foram embora. No caminho viram a estrela, a mesma que tinham visto no Oriente. Ela foi adiante deles e parou acima do lugar onde o menino estava.
+
+[[v40-2-10]]
+
+^<<v40-2-10,10>>^ Quando viram a estrela, eles ficaram muito alegres e felizes.
+
+[[v40-2-11]]
+
+^<<v40-2-11,11>>^ Entraram na casa e encontraram o menino com Maria, a sua mãe. Então se ajoelharam diante dele e o adoraram. Depois abriram os seus cofres e lhe ofereceram presentes: ouro, incenso e mirra .
+
+[[v40-2-12]]
+
+^<<v40-2-12,12>>^ E num sonho Deus os avisou que não voltassem para falar com Herodes. Por isso voltaram para a sua terra por outro caminho.
+
+[[v40-2-13]]
+
+^<<v40-2-13,13>>^ Depois que os visitantes foram embora, um anjo do Senhor apareceu num sonho a José e disse: — Levante-se, pegue a criança e a sua mãe e fuja para o Egito. Fiquem lá até eu avisar, pois Herodes está procurando a criança para matá-la.
+
+[[v40-2-14]]
+
+^<<v40-2-14,14>>^ Então José se levantou no meio da noite, pegou a criança e a sua mãe e fugiu para o Egito.
+
+[[v40-2-15]]
+
+^<<v40-2-15,15>>^ E eles ficaram lá até a morte de Herodes. Isso aconteceu para se cumprir o que o Senhor tinha dito por meio do profeta : "Eu chamei o meu filho, que estava na terra do Egito."
+
+[[v40-2-16]]
+
+^<<v40-2-16,16>>^ Quando Herodes viu que os visitantes do Oriente o haviam enganado, ficou com muita raiva e mandou matar, em Belém e nas suas vizinhanças, todos os meninos de menos de dois anos. Ele fez isso de acordo com a informação que havia recebido sobre o tempo em que a estrela havia aparecido.
+
+[[v40-2-17]]
+
+^<<v40-2-17,17>>^ Assim se cumpriu o que o profeta  Jeremias tinha dito:
+
+[[v40-2-18]]
+
+^<<v40-2-18,18>>^ "Ouviu-se um som em Ramá, o som de um choro amargo. Era Raquel chorando pelos seus filhos; ela não quis ser consolada, pois todos estavam mortos."
+
+[[v40-2-19]]
+
+^<<v40-2-19,19>>^ Depois que Herodes morreu, um anjo do Senhor apareceu num sonho a José, no Egito,
+
+[[v40-2-20]]
+
+^<<v40-2-20,20>>^ e disse: — Levante-se, pegue a criança e a sua mãe e volte para a terra de Israel, pois as pessoas que queriam matar o menino já morreram.
+
+[[v40-2-21]]
+
+^<<v40-2-21,21>>^ Então José se levantou, pegou a criança e a sua mãe e voltou para a terra de Israel.
+
+[[v40-2-22]]
+
+^<<v40-2-22,22>>^ Mas, quando ficou sabendo que Arquelau, filho do rei Herodes, estava governando a Judeia no lugar do seu pai, teve medo de ir morar lá. Depois de receber num sonho mais instruções, José foi para a região da Galileia
+
+[[v40-2-23]]
+
+^<<v40-2-23,23>>^ e ficou morando numa cidade chamada Nazaré. Isso aconteceu para se cumprir o que os profetas  tinham dito: "O Messias  será chamado de Nazareno."
+
+'''
+
+xref:040-mateus/040-mateus-001.adoc#v40-1-0[&#60; Capítulo Anterior] | <<v40-2-0,Topo>> | xref:040-mateus/040-mateus-003.adoc#v40-3-0[Próximo Capítulo &#62;]

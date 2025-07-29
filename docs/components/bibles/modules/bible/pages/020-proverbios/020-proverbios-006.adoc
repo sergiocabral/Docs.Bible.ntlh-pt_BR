@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v20-6-0]]
+=== Provérbios, 6
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v20-6-1]]
+
+^<<v20-6-1,1>>^ Filho, você é fiador de alguém?
+
+[[v20-6-2]]
+
+^<<v20-6-2,2>>^ Deu a sua palavra e ficou preso na promessa que fez?
+
+[[v20-6-3]]
+
+^<<v20-6-3,3>>^ Então, meu filho, agora você está nas mãos dessa pessoa. Mas há um jeito de sair disso: vá logo e peça que ela livre você dessa obrigação.
+
+[[v20-6-4]]
+
+^<<v20-6-4,4>>^ Não durma, nem descanse;
+
+[[v20-6-5]]
+
+^<<v20-6-5,5>>^ saia dessa armadilha, como um passarinho ou uma gazela  escapa do caçador.
+
+[[v20-6-6]]
+
+^<<v20-6-6,6>>^ Preguiçoso, aprenda uma lição com as formigas!
+
+[[v20-6-7]]
+
+^<<v20-6-7,7>>^ Elas não têm líder, nem chefe, nem governador,
+
+[[v20-6-8]]
+
+^<<v20-6-8,8>>^ mas guardam comida no verão, preparando-se para o inverno.
+
+[[v20-6-9]]
+
+^<<v20-6-9,9>>^ Preguiçoso, até quando você vai ficar deitado? Quando vai se levantar?
+
+[[v20-6-10]]
+
+^<<v20-6-10,10>>^ Então o preguiçoso diz: "Eu vou dormir somente um pouquinho, vou cruzar os braços e descansar mais um pouco."
+
+[[v20-6-11]]
+
+^<<v20-6-11,11>>^ Mas, enquanto ele dorme, a pobreza o atacará como um ladrão armado.
+
+[[v20-6-12]]
+
+^<<v20-6-12,12>>^ Os homens maus e sem valor vivem dizendo mentiras.
+
+[[v20-6-13]]
+
+^<<v20-6-13,13>>^ Piscam e fazem gestos para enganar os outros.
+
+[[v20-6-14]]
+
+^<<v20-6-14,14>>^ As suas mentes perversas estão sempre planejando o mal, e eles espalham confusão por toda parte.
+
+[[v20-6-15]]
+
+^<<v20-6-15,15>>^ Por isso a desgraça cairá de repente sobre eles, e não poderão escapar.
+
+[[v20-6-16]]
+
+^<<v20-6-16,16>>^ Existem sete coisas que o Senhor  Deus detesta e que não pode tolerar: o olhar orgulhoso, a língua mentirosa, mãos que matam gente inocente, a mente que faz planos perversos, pés que se apressam para fazer o mal, a testemunha falsa que diz mentiras e a pessoa que provoca brigas entre amigos.
+
+[[v20-6-17]]
+
+^<<v20-6-17,17>>^ Existem sete coisas que o Senhor  Deus detesta e que não pode tolerar:
+
+[[v20-6-18]]
+
+^<<v20-6-18,18>>^ Existem sete coisas que o Senhor  Deus detesta e que não pode tolerar:
+
+[[v20-6-19]]
+
+^<<v20-6-19,19>>^ Existem sete coisas que o Senhor  Deus detesta e que não pode tolerar:
+
+[[v20-6-20]]
+
+^<<v20-6-20,20>>^ Filho, faça o que o seu pai diz e nunca esqueça o que a sua mãe ensinou.
+
+[[v20-6-21]]
+
+^<<v20-6-21,21>>^ Guarde sempre as suas palavras bem-gravadas no coração.
+
+[[v20-6-22]]
+
+^<<v20-6-22,22>>^ Os seus ensinamentos o guiarão quando você viajar, protegerão você de noite e aconselharão de dia.
+
+[[v20-6-23]]
+
+^<<v20-6-23,23>>^ As suas instruções são uma luz brilhante, e a sua correção ensina a viver.
+
+[[v20-6-24]]
+
+^<<v20-6-24,24>>^ Elas livrarão você da mulher imoral e das suas palavras sedutoras.
+
+[[v20-6-25]]
+
+^<<v20-6-25,25>>^ Não seja tentado pela sua beleza, nem caia na armadilha dos seus olhos tentadores.
+
+[[v20-6-26]]
+
+^<<v20-6-26,26>>^ Qualquer homem pode ter uma prostituta por pouco dinheiro, mas o adultério custará a ele a sua própria vida.
+
+[[v20-6-27]]
+
+^<<v20-6-27,27>>^ Será que você pode carregar fogo no colo sem queimar a roupa?
+
+[[v20-6-28]]
+
+^<<v20-6-28,28>>^ Será que você pode andar em cima de brasas sem queimar os pés?
+
+[[v20-6-29]]
+
+^<<v20-6-29,29>>^ O homem que dorme com a mulher de outro corre esse mesmo perigo. Quem fizer isso terá de sofrer muito.
+
+[[v20-6-30]]
+
+^<<v20-6-30,30>>^ Quem rouba comida para matar a fome não é desprezado.
+
+[[v20-6-31]]
+
+^<<v20-6-31,31>>^ Porém, se é apanhado, tem de pagar sete vezes mais: ele precisa entregar tudo o que tem.
+
+[[v20-6-32]]
+
+^<<v20-6-32,32>>^ No entanto o homem que comete adultério não tem juízo; ele está se destruindo a si mesmo.
+
+'''
+
+xref:020-proverbios/020-proverbios-005.adoc#v20-5-0[&#60; Capítulo Anterior] | <<v20-6-0,Topo>> | xref:020-proverbios/020-proverbios-007.adoc#v20-7-0[Próximo Capítulo &#62;]

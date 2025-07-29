@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v19-83-0]]
+=== Salmos, 83
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-83-1]]
+
+^<<v19-83-1,1>>^ Ó Deus, não fiques em silêncio! Não te cales, nem fiques parado, ó Deus!
+
+[[v19-83-2]]
+
+^<<v19-83-2,2>>^ Olha! Os teus inimigos se agitam, e aqueles que te odeiam estão se revoltando.
+
+[[v19-83-3]]
+
+^<<v19-83-3,3>>^ Eles estão fazendo planos traiçoeiros contra o teu povo, estão tramando contra aqueles que tu proteges.
+
+[[v19-83-4]]
+
+^<<v19-83-4,4>>^ Eles dizem: "Venham! Vamos destruir Israel para que o nome desse povo seja esquecido para sempre."
+
+[[v19-83-5]]
+
+^<<v19-83-5,5>>^ Os inimigos concordam nos seus planos; os que fazem um acordo  contra ti são estes:
+
+[[v19-83-6]]
+
+^<<v19-83-6,6>>^ o povo de Edom e os ismaelitas; o povo de Moabe e os hagaritas;
+
+[[v19-83-7]]
+
+^<<v19-83-7,7>>^ o povo de Gebal, Amom e Amaleque, da Filisteia e de Tiro.
+
+[[v19-83-8]]
+
+^<<v19-83-8,8>>^ A Assíria também se juntou com eles, como forte aliada dos amonitas e dos moabitas, os descendentes de Ló.
+
+[[v19-83-9]]
+
+^<<v19-83-9,9>>^ Ó Deus, faze com eles como fizeste com os midianitas, como fizeste com Sísera e com Jabim no rio Quisom;
+
+[[v19-83-10]]
+
+^<<v19-83-10,10>>^ eles foram derrotados em Endor, e os corpos deles apodreceram na terra.
+
+[[v19-83-11]]
+
+^<<v19-83-11,11>>^ Faze com os seus generais o que fizeste com Orebe e com Zeebe; derrota todos os seus chefes, como fizeste com Zeba e com Salmuna.
+
+[[v19-83-12]]
+
+^<<v19-83-12,12>>^ Pois estes disseram: "Vamos ficar com a terra de Israel, a terra que pertence a Deus."
+
+[[v19-83-13]]
+
+^<<v19-83-13,13>>^ Ó meu Deus, espalha essa gente como o pó, como a palha que o vento sopra para longe!
+
+[[v19-83-14]]
+
+^<<v19-83-14,14>>^ Assim como o fogo queima a floresta, e as labaredas incendeiam os montes,
+
+[[v19-83-15]]
+
+^<<v19-83-15,15>>^ assim persegue-os com a tua tempestade e faze com que sintam medo do teu furacão.
+
+[[v19-83-16]]
+
+^<<v19-83-16,16>>^ Ó Senhor  Deus, faze com que eles se sintam envergonhados e assim reconheçam o teu poder!
+
+[[v19-83-17]]
+
+^<<v19-83-17,17>>^ Que sejam derrotados e envergonhados para sempre! Que morram em completa desgraça!
+
+[[v19-83-18]]
+
+^<<v19-83-18,18>>^ Que saibam que somente tu és Deus, o Senhor , que tu és o Altíssimo, que governa toda a terra!
+
+'''
+
+xref:019-salmos/019-salmos-082.adoc#v19-82-0[&#60; Capítulo Anterior] | <<v19-83-0,Topo>> | xref:019-salmos/019-salmos-084.adoc#v19-84-0[Próximo Capítulo &#62;]

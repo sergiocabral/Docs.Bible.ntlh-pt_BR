@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v20-3-0]]
+=== Provérbios, 3
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v20-3-1]]
+
+^<<v20-3-1,1>>^ Filho, não esqueça os meus ensinamentos; lembre sempre dos meus conselhos.
+
+[[v20-3-2]]
+
+^<<v20-3-2,2>>^ Os meus ensinamentos lhe darão uma vida longa e cheia de sucesso.
+
+[[v20-3-3]]
+
+^<<v20-3-3,3>>^ Não abandone a lealdade e a fidelidade; guarde-as sempre bem-gravadas no coração.
+
+[[v20-3-4]]
+
+^<<v20-3-4,4>>^ Se você fizer isso, agradará tanto a Deus como aos seres humanos.
+
+[[v20-3-5]]
+
+^<<v20-3-5,5>>^ Confie no Senhor  de todo o coração e não se apoie na sua própria inteligência.
+
+[[v20-3-6]]
+
+^<<v20-3-6,6>>^ Lembre de Deus em tudo o que fizer, e ele lhe mostrará o caminho certo.
+
+[[v20-3-7]]
+
+^<<v20-3-7,7>>^ Não fique pensando que você é sábio; tema  o Senhor  e não faça nada que seja errado.
+
+[[v20-3-8]]
+
+^<<v20-3-8,8>>^ Pois isso será como um bom remédio para curar as suas feridas e aliviar os seus sofrimentos.
+
+[[v20-3-9]]
+
+^<<v20-3-9,9>>^ Adore a Deus, oferecendo-lhe o que a sua terra produz de melhor.
+
+[[v20-3-10]]
+
+^<<v20-3-10,10>>^ Faça isso, e os seus depósitos ficarão cheios de cereais, e você terá tanto vinho, que não será capaz de armazenar.
+
+[[v20-3-11]]
+
+^<<v20-3-11,11>>^ Filho, preste atenção quando o Senhor  Deus o castiga e não se desanime quando ele o repreende.
+
+[[v20-3-12]]
+
+^<<v20-3-12,12>>^ Porque o Senhor  corrige quem ele ama, assim como um pai corrige o filho a quem ele quer bem.
+
+[[v20-3-13]]
+
+^<<v20-3-13,13>>^ Feliz é a pessoa que acha a sabedoria e que consegue compreender as coisas,
+
+[[v20-3-14]]
+
+^<<v20-3-14,14>>^ pois isso é melhor do que a prata e tem mais valor do que o ouro.
+
+[[v20-3-15]]
+
+^<<v20-3-15,15>>^ A sabedoria é mais preciosa do que as joias; tudo o que a gente deseja não se pode comparar com ela.
+
+[[v20-3-16]]
+
+^<<v20-3-16,16>>^ A sabedoria oferece uma vida longa e também riquezas e honras.
+
+[[v20-3-17]]
+
+^<<v20-3-17,17>>^ Ela torna a vida agradável e guia a pessoa com segurança em tudo o que faz.
+
+[[v20-3-18]]
+
+^<<v20-3-18,18>>^ Os que se tornam sábios são felizes, e a sabedoria lhes dará vida.
+
+[[v20-3-19]]
+
+^<<v20-3-19,19>>^ Com a Sabedoria o Senhor  Deus criou a terra; e com o seu conhecimento colocou o céu no lugar próprio.
+
+[[v20-3-20]]
+
+^<<v20-3-20,20>>^ A sua sabedoria fez os rios nascerem e fez as nuvens darem chuva à terra.
+
+[[v20-3-21]]
+
+^<<v20-3-21,21>>^ Filho, tenha sempre sabedoria e compreensão e nunca deixe que elas se afastem de você.
+
+[[v20-3-22]]
+
+^<<v20-3-22,22>>^ Elas lhe darão vida, uma vida agradável e feliz.
+
+[[v20-3-23]]
+
+^<<v20-3-23,23>>^ Você caminhará seguro e não tropeçará.
+
+[[v20-3-24]]
+
+^<<v20-3-24,24>>^ Quando se deitar, não terá medo, e o seu sono será tranquilo a noite inteira.
+
+[[v20-3-25]]
+
+^<<v20-3-25,25>>^ Você não ficará preocupado com os desastres que caem de repente como uma tempestade sobre os maus.
+
+[[v20-3-26]]
+
+^<<v20-3-26,26>>^ Pois o Senhor  Deus lhe dará segurança e nunca deixará você cair numa armadilha.
+
+[[v20-3-27]]
+
+^<<v20-3-27,27>>^ Sempre que puder, ajude os necessitados.
+
+[[v20-3-28]]
+
+^<<v20-3-28,28>>^ Não diga ao seu vizinho que espere até amanhã, se você pode ajudá-lo hoje.
+
+[[v20-3-29]]
+
+^<<v20-3-29,29>>^ Não planeje nenhum mal contra o seu vizinho; ele mora ao seu lado e confia em você.
+
+[[v20-3-30]]
+
+^<<v20-3-30,30>>^ Nunca discuta sem motivo com alguém que não lhe fez nenhum mal.
+
+[[v20-3-31]]
+
+^<<v20-3-31,31>>^ Não tenha inveja dos violentos, nem faça o que eles fazem,
+
+[[v20-3-32]]
+
+^<<v20-3-32,32>>^ pois o Senhor  Deus detesta os que praticam o mal, mas é amigo dos que são direitos.
+
+[[v20-3-33]]
+
+^<<v20-3-33,33>>^ O Senhor  amaldiçoa a casa dos maus, porém abençoa o lar dos que são corretos.
+
+[[v20-3-34]]
+
+^<<v20-3-34,34>>^ Ele zomba dos que zombam dele, mas ajuda os humildes.
+
+[[v20-3-35]]
+
+^<<v20-3-35,35>>^ Os sábios ganharão prestígio, mas os que não têm juízo passarão cada vez mais vergonha.
+
+'''
+
+xref:020-proverbios/020-proverbios-002.adoc#v20-2-0[&#60; Capítulo Anterior] | <<v20-3-0,Topo>> | xref:020-proverbios/020-proverbios-004.adoc#v20-4-0[Próximo Capítulo &#62;]

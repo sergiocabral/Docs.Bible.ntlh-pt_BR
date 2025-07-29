@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-5-0]]
+=== Salmos, 5
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-5-1]]
+
+^<<v19-5-1,1>>^ Ó Senhor  Deus, ouve as minhas palavras e escuta os meus gemidos!
+
+[[v19-5-2]]
+
+^<<v19-5-2,2>>^ Meu Rei e meu Deus, atende o meu pedido de ajuda, pois eu oro a ti, ó Senhor !
+
+[[v19-5-3]]
+
+^<<v19-5-3,3>>^ De manhã ouves a minha voz; quando o sol nasce, eu faço a minha oração e espero a tua resposta.
+
+[[v19-5-4]]
+
+^<<v19-5-4,4>>^ Tu não és Deus que tenha prazer na maldade; tu não permites que os maus sejam teus hóspedes.
+
+[[v19-5-5]]
+
+^<<v19-5-5,5>>^ Tu não suportas a presença dos orgulhosos e detestas os que praticam o mal.
+
+[[v19-5-6]]
+
+^<<v19-5-6,6>>^ Acabas com os mentirosos e desprezas os violentos e os falsos.
+
+[[v19-5-7]]
+
+^<<v19-5-7,7>>^ Mas, por causa do teu grande amor, eu posso entrar nos pátios da tua casa e ajoelhar com todo o respeito, voltado para o teu santo Templo.
+
+[[v19-5-8]]
+
+^<<v19-5-8,8>>^ Ó Senhor  Deus, ajuda-me a fazer a tua vontade e faze com que o teu caminho seja reto e plano para mim! Que os meus inimigos vejam que tu estás comigo!
+
+[[v19-5-9]]
+
+^<<v19-5-9,9>>^ Não se pode confiar no que eles dizem, pois só pensam em destruir. A sua conversa é uma bajulação macia, mas está cheia de engano e morte.
+
+[[v19-5-10]]
+
+^<<v19-5-10,10>>^ Condena e castiga-os, ó Deus! Que os próprios planos deles os façam cair na desgraça! Expulsa-os da tua presença, pois eles muitas vezes quebram as tuas leis e se revoltam contra ti.
+
+[[v19-5-11]]
+
+^<<v19-5-11,11>>^ Mas os que buscam abrigo em ti ficarão contentes e sempre cantarão de alegria porque tu os defendes. Os que te amam encontram a felicidade em ti.
+
+[[v19-5-12]]
+
+^<<v19-5-12,12>>^ Pois tu, ó Senhor  Deus, abençoas os que te obedecem, a tua bondade os protege como um escudo .
+
+'''
+
+xref:019-salmos/019-salmos-004.adoc#v19-4-0[&#60; Capítulo Anterior] | <<v19-5-0,Topo>> | xref:019-salmos/019-salmos-006.adoc#v19-6-0[Próximo Capítulo &#62;]

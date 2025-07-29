@@ -1,0 +1,185 @@
+include::./index.adoc[]
+
+[[v3-23-0]]
+=== Levítico, 23
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v3-23-1]]
+
+^<<v3-23-1,1>>^ O Senhor  Deus mandou que Moisés
+
+[[v3-23-2]]
+
+^<<v3-23-2,2>>^ desse aos israelitas as seguintes leis  a respeito das festas religiosas mais importantes, quando o povo se reúne para adorar o Senhor :
+
+[[v3-23-3]]
+
+^<<v3-23-3,3>>^ Vocês têm seis dias para trabalhar, mas o sétimo dia é o dia sagrado de descanso, quando todos deverão se reunir para adorar a Deus. Não façam nenhum trabalho nesse dia. Em todos os lugares onde os israelitas morarem, o sábado é um dia dedicado a Deus, o Senhor .
+
+[[v3-23-4]]
+
+^<<v3-23-4,4>>^ São estas as festas religiosas, quando o povo deverá se reunir para adorar a Deus, o Senhor . Cada uma destas festas será realizada na data marcada.
+
+[[v3-23-5]]
+
+^<<v3-23-5,5>>^ A Festa da Páscoa , comemorada em honra de Deus, o Senhor , começa ao pôr do sol no dia catorze do primeiro mês.
+
+[[v3-23-6]]
+
+^<<v3-23-6,6>>^ No dia quinze desse mês começa a Festa dos Pães sem Fermento , em honra de Deus, o Senhor . Durante os sete dias dessa festa o pão que vocês comerem deverá ser feito sem fermento.
+
+[[v3-23-7]]
+
+^<<v3-23-7,7>>^ No primeiro dia dessa festa ninguém trabalhará, e todos deverão se reunir para adorar a Deus.
+
+[[v3-23-8]]
+
+^<<v3-23-8,8>>^ Durante esses sete dias apresentem ao Senhor  ofertas de alimento e no sétimo dia reúnam-se para adorar a Deus. Nesse dia ninguém deverá trabalhar.
+
+[[v3-23-9]]
+
+^<<v3-23-9,9>>^ O Senhor  Deus mandou Moisés
+
+[[v3-23-10]]
+
+^<<v3-23-10,10>>^ dizer ao povo de Israel o seguinte: — Quando vocês entrarem na terra que eu lhes estou dando e fizerem a primeira colheita de trigo, levem ao sacerdote um feixe do que colherem.
+
+[[v3-23-11]]
+
+^<<v3-23-11,11>>^ No dia que vem depois do sábado, o sacerdote apresentará esse feixe de trigo a Deus, o Senhor , para que ele aceite vocês.
+
+[[v3-23-12]]
+
+^<<v3-23-12,12>>^ Nesse mesmo dia apresentem ao Senhor  como uma oferta que vai ser completamente queimada um carneirinho de um ano, sem defeito.
+
+[[v3-23-13]]
+
+^<<v3-23-13,13>>^ E apresentem como oferta de alimento dois quilos de farinha misturada com azeite. O cheiro dessa oferta é agradável ao Senhor . Apresentem também como oferta de bebida um litro de vinho.
+
+[[v3-23-14]]
+
+^<<v3-23-14,14>>^ Não comam espigas de trigo verdes, nem espigas torradas, nem pão, até o dia em que apresentarem a oferta a Deus. Em todos os lugares onde morarem, vocês e os seus descendentes deverão obedecer a essa lei  para sempre.
+
+[[v3-23-15]]
+
+^<<v3-23-15,15>>^ — Contem sete semanas a partir do dia em que oferecerem a Deus o primeiro feixe de trigo que foi colhido.
+
+[[v3-23-16]]
+
+^<<v3-23-16,16>>^ No dia seguinte, isto é, cinquenta dias depois que ofereceram esse feixe, apresentem a Deus, o Senhor , outra oferta da colheita de cereais.
+
+[[v3-23-17]]
+
+^<<v3-23-17,17>>^ Cada família deverá apresentar dois pães feitos com a melhor farinha e com fermento. Cada pão deverá pesar dois quilos. Esses pães são uma oferta a Deus, o Senhor , tirada da melhor parte da colheita de trigo.
+
+[[v3-23-18]]
+
+^<<v3-23-18,18>>^ Junto com os pães ofereçam sete carneirinhos de um ano, sem defeito, um touro novo e dois carneiros. Esses animais deverão ser apresentados ao Senhor  como uma oferta que vai ser completamente queimada, junto com as ofertas de trigo e de vinho. O cheiro dessa oferta de alimento é agradável ao Senhor .
+
+[[v3-23-19]]
+
+^<<v3-23-19,19>>^ Ofereçam também um bode para tirar pecados e dois carneirinhos de um ano como oferta de paz.
+
+[[v3-23-20]]
+
+^<<v3-23-20,20>>^ O sacerdote oferecerá ao Senhor  os dois carneirinhos, junto com os pães, como uma oferta especial. Essa é uma oferta sagrada que pertence aos sacerdotes.
+
+[[v3-23-21]]
+
+^<<v3-23-21,21>>^ Nesse dia ninguém deverá trabalhar, e todos se reunirão para adorar a Deus. Em todos os lugares onde morarem, vocês e os seus descendentes deverão obedecer a essa lei  para sempre.
+
+[[v3-23-22]]
+
+^<<v3-23-22,22>>^ — Quando fizerem a colheita do trigo, não colham as espigas dos pés que ficam na beira do campo, nem voltem atrás para pegar as espigas que não tiverem sido colhidas. Deixem essas espigas para os pobres e para os estrangeiros. Eu sou o Senhor , o Deus de vocês.
+
+[[v3-23-23]]
+
+^<<v3-23-23,23>>^ O Senhor  Deus mandou Moisés
+
+[[v3-23-24]]
+
+^<<v3-23-24,24>>^ dizer ao povo de Israel o seguinte: — O dia primeiro do sétimo mês é um dia sagrado de descanso, festejado com toques de trombetas; e todos deverão se reunir para adorar a Deus.
+
+[[v3-23-25]]
+
+^<<v3-23-25,25>>^ Não trabalhem nesse dia e apresentem a Deus, o Senhor , ofertas de alimento.
+
+[[v3-23-26]]
+
+^<<v3-23-26,26>>^ O Senhor  Deus disse a Moisés:
+
+[[v3-23-27]]
+
+^<<v3-23-27,27>>^ — O dia dez do sétimo mês é o dia em que os pecados do povo são perdoados. Nesse dia ninguém deverá comer nada, e todos deverão apresentar a Deus, o Senhor , ofertas de alimento.
+
+[[v3-23-28]]
+
+^<<v3-23-28,28>>^ Ninguém trabalhará nesse dia, pois é o dia em que é apresentado ao Senhor , o Deus de vocês, o sacrifício  para conseguir o perdão dos pecados do povo.
+
+[[v3-23-29]]
+
+^<<v3-23-29,29>>^ Qualquer pessoa que comer alguma coisa no Dia do Perdão  será expulsa do meio do povo.
+
+[[v3-23-30]]
+
+^<<v3-23-30,30>>^ E, se alguém trabalhar nesse dia, eu mesmo destruirei essa pessoa.
+
+[[v3-23-31]]
+
+^<<v3-23-31,31>>^ Não façam nenhum trabalho nesse dia; em todos os lugares onde morarem, vocês e os seus descendentes deverão obedecer a essa lei  para sempre.
+
+[[v3-23-32]]
+
+^<<v3-23-32,32>>^ Desde o pôr do sol do dia nove até o pôr do sol do dia dez, esse será considerado um dia sagrado de descanso, e nele ninguém deverá comer nada.
+
+[[v3-23-33]]
+
+^<<v3-23-33,33>>^ O Senhor  Deus deu a Moisés
+
+[[v3-23-34]]
+
+^<<v3-23-34,34>>^ as seguintes leis  para o povo de Israel: O dia quinze do sétimo mês é o dia em que começa a Festa das Barracas . Essa festa em honra de Deus, o Senhor , durará sete dias.
+
+[[v3-23-35]]
+
+^<<v3-23-35,35>>^ No primeiro dia haverá uma reunião sagrada, e ninguém deverá trabalhar.
+
+[[v3-23-36]]
+
+^<<v3-23-36,36>>^ Em cada um dos sete dias da festa apresentem a Deus, o Senhor , ofertas de alimento. No oitavo dia todos se reunirão para adorar a Deus e para lhe apresentarem ofertas de alimento. É dia de uma reunião sagrada, e nele ninguém trabalhará.
+
+[[v3-23-37]]
+
+^<<v3-23-37,37>>^ (São essas as festas religiosas em que o povo se reunirá para adorar a Deus, o Senhor . Nessas festas serão apresentadas ao Senhor  ofertas de alimento, ofertas que são completamente queimadas, ofertas de cereais, sacrifícios  e ofertas de vinho. Cada festa será realizada na data marcada.
+
+[[v3-23-38]]
+
+^<<v3-23-38,38>>^ Além dos sábados, que serão guardados em honra de Deus, o Senhor , façam também essas festas e apresentem essas ofertas além das ofertas de costume, das ofertas para pagar promessas e das ofertas que são apresentadas por vontade própria ao Senhor .)
+
+[[v3-23-39]]
+
+^<<v3-23-39,39>>^ Depois de terminadas as colheitas, haverá uma festa em honra de Deus, o Senhor . Essa festa começará no dia quinze do sétimo mês e irá até o dia vinte e dois. No primeiro dia e no oitavo ninguém deverá trabalhar.
+
+[[v3-23-40]]
+
+^<<v3-23-40,40>>^ No primeiro dia o povo colherá frutas das melhores árvores, cortará folhas de palmeiras e galhos de vários tipos de árvores cheias de folhas, e durante sete dias todos farão uma festa em honra do Senhor , o Deus de vocês.
+
+[[v3-23-41]]
+
+^<<v3-23-41,41>>^ E para sempre, no sétimo mês de cada ano, o povo fará essa festa de sete dias.
+
+[[v3-23-42]]
+
+^<<v3-23-42,42>>^ Durante os sete dias todos os israelitas morarão em cabanas feitas de galhos de árvores
+
+[[v3-23-43]]
+
+^<<v3-23-43,43>>^ a fim de que eles e os seus descendentes lembrem sempre que Deus fez com que o povo morasse em barracas, quando os tirou do Egito. Ele é o Senhor , o Deus de vocês.
+
+[[v3-23-44]]
+
+^<<v3-23-44,44>>^ Foi assim que Moisés deu ao povo de Israel as leis a respeito das festas que eles deviam fazer em honra de Deus, o Senhor .
+
+'''
+
+xref:003-levitico/003-levitico-022.adoc#v3-22-0[&#60; Capítulo Anterior] | <<v3-23-0,Topo>> | xref:003-levitico/003-levitico-024.adoc#v3-24-0[Próximo Capítulo &#62;]

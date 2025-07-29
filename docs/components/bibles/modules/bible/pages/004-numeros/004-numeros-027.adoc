@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v4-27-0]]
+=== Números, 27
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v4-27-1]]
+
+^<<v4-27-1,1>>^ Na tribo  de Manassés havia cinco irmãs que se chamavam Macla, Noa, Hogla, Milca e Tirza. Eram filhas de Zelofeade e descendentes diretas de Héfer, Gileade, Maquir, Manassés e José.
+
+[[v4-27-2]]
+
+^<<v4-27-2,2>>^ Elas foram falar com Moisés, com o sacerdote Eleazar, com as autoridades e com todo o povo, na entrada da Tenda Sagrada . Elas disseram:
+
+[[v4-27-3]]
+
+^<<v4-27-3,3>>^ — O nosso pai morreu no deserto e não deixou filhos homens. Ele não estava entre os seguidores de Corá, que se revoltaram contra Deus, o Senhor , mas morreu por causa do seu próprio pecado.
+
+[[v4-27-4]]
+
+^<<v4-27-4,4>>^ Não é justo que o nome do nosso pai desapareça do meio do seu grupo de famílias só porque não teve nenhum filho homem. Dê uma propriedade para nós entre os parentes do nosso pai.
+
+[[v4-27-5]]
+
+^<<v4-27-5,5>>^ Moisés levou o caso delas ao Senhor ,
+
+[[v4-27-6]]
+
+^<<v4-27-6,6>>^ e o Senhor  disse:
+
+[[v4-27-7]]
+
+^<<v4-27-7,7>>^ — O que as filhas de Zelofeade estão pedindo é justo. Você deve dar a elas uma propriedade entre os parentes do seu pai. A herança do pai deve passar para elas.
+
+[[v4-27-8]]
+
+^<<v4-27-8,8>>^ Diga ao povo de Israel que, quando um homem morrer sem deixar um filho homem, a filha deverá herdar a propriedade dele.
+
+[[v4-27-9]]
+
+^<<v4-27-9,9>>^ E, se não tiver filhas, então a sua propriedade deverá ser dada aos irmãos dele.
+
+[[v4-27-10]]
+
+^<<v4-27-10,10>>^ Porém, se ele não tiver irmãos, a sua propriedade deverá ser dada aos irmãos do seu pai.
+
+[[v4-27-11]]
+
+^<<v4-27-11,11>>^ Se também o pai dele não tiver irmãos, a sua propriedade deverá ser dada ao parente mais chegado da sua família, para que tome posse dela. Os israelitas devem obedecer a essa lei  como eu, o Senhor , tenho ordenado a você, Moisés.
+
+[[v4-27-12]]
+
+^<<v4-27-12,12>>^ O Senhor  Deus disse a Moisés: — Suba esta serra de Abarim e veja a terra que estou dando aos israelitas.
+
+[[v4-27-13]]
+
+^<<v4-27-13,13>>^ Depois de a ter visto, você morrerá, como aconteceu com o seu irmão Arão,
+
+[[v4-27-14]]
+
+^<<v4-27-14,14>>^ porque vocês dois se revoltaram contra a minha ordem no deserto de Zim. Quando todo o povo se queixava contra mim em Meribá, vocês não quiseram reconhecer diante deles o meu santo poder (Meribá é uma fonte que existe em Cades, no deserto de Zim.).
+
+[[v4-27-15]]
+
+^<<v4-27-15,15>>^ Então Moisés disse o seguinte:
+
+[[v4-27-16]]
+
+^<<v4-27-16,16>>^ — Ó Senhor  Deus, que dás vida a todos, indica um homem que possa guiar o povo
+
+[[v4-27-17]]
+
+^<<v4-27-17,17>>^ e comandá-lo na batalha, para que a tua gente não seja como ovelhas que não têm pastor.
+
+[[v4-27-18]]
+
+^<<v4-27-18,18>>^ O Senhor  disse a Moisés: — Chame Josué, filho de Num, que é um homem competente, e ponha as mãos sobre ele;
+
+[[v4-27-19]]
+
+^<<v4-27-19,19>>^ assim, você estará dando a ele uma parte da sua autoridade, para que todo o povo de Israel obedeça a ele. Faça com que ele fique diante do sacerdote Eleazar e diante de todo o povo e ali você o apresentará como aquele que vai ficar no seu lugar.
+
+[[v4-27-20]]
+
+^<<v4-27-20,20>>^ assim, você estará dando a ele uma parte da sua autoridade, para que todo o povo de Israel obedeça a ele. Faça com que ele fique diante do sacerdote Eleazar e diante de todo o povo e ali você o apresentará como aquele que vai ficar no seu lugar.
+
+[[v4-27-21]]
+
+^<<v4-27-21,21>>^ Ele dependerá do sacerdote Eleazar, que lhe ensinará a minha vontade por meio do Urim e do Tumim . Deste modo Eleazar guiará Josué e todo o povo de Israel em tudo o que tiverem de fazer.
+
+[[v4-27-22]]
+
+^<<v4-27-22,22>>^ Moisés obedeceu à ordem de Deus, o Senhor . Ele fez com que Josué ficasse em frente do sacerdote Eleazar e diante de todo o povo.
+
+'''
+
+xref:004-numeros/004-numeros-026.adoc#v4-26-0[&#60; Capítulo Anterior] | <<v4-27-0,Topo>> | xref:004-numeros/004-numeros-028.adoc#v4-28-0[Próximo Capítulo &#62;]

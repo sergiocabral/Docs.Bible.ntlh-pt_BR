@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v3-2-0]]
+=== Levítico, 2
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v3-2-1]]
+
+^<<v3-2-1,1>>^ Quando um homem oferecer cereais ao Senhor  Deus, deverá moer o cereal, tirando dele a melhor farinha. Depois de misturar azeite e incenso na farinha,
+
+[[v3-2-2]]
+
+^<<v3-2-2,2>>^ ele a entregará aos sacerdotes, que são descendentes de Arão. Um dos sacerdotes pegará um punhado da farinha com o azeite e o incenso e o queimará no altar para lembrar que a oferta toda é dada a Deus. É uma oferta de alimento que tem um cheiro agradável ao Senhor .
+
+[[v3-2-3]]
+
+^<<v3-2-3,3>>^ O resto da oferta de cereais é dos sacerdotes, que são descendentes de Arão; é a parte mais sagrada, pois foi tirada da oferta dada a Deus, o Senhor .
+
+[[v3-2-4]]
+
+^<<v3-2-4,4>>^ Se a oferta de cereais forem pães  assados no forno, eles deverão ser feitos da melhor farinha, mas sem fermento. Os pães podem ser grandes, feitos de farinha misturada com azeite, ou então pequenos e achatados, passando-se um pouco de azeite por cima.
+
+[[v3-2-5]]
+
+^<<v3-2-5,5>>^ Se a oferta forem pães assados na grelha, eles deverão ser feitos de farinha misturada com azeite, mas sem fermento.
+
+[[v3-2-6]]
+
+^<<v3-2-6,6>>^ Quando fizer a oferta, o homem deverá partir o pão em pedaços e derramar azeite em cima.
+
+[[v3-2-7]]
+
+^<<v3-2-7,7>>^ Se a oferta forem pães assados na frigideira, eles deverão ser feitos de farinha misturada com azeite.
+
+[[v3-2-8]]
+
+^<<v3-2-8,8>>^ Apresente a Deus, o Senhor , essas ofertas de cereais; entregue ao sacerdote, e ele as levará ao altar.
+
+[[v3-2-9]]
+
+^<<v3-2-9,9>>^ Ele pegará uma pequena parte da oferta e a queimará no altar para lembrar que a oferta toda é dada a Deus. É uma oferta de alimento que tem um cheiro agradável ao Senhor .
+
+[[v3-2-10]]
+
+^<<v3-2-10,10>>^ O resto da oferta de cereais é dos sacerdotes, que são descendentes de Arão; é a parte mais sagrada, pois foi tirada da oferta dada a Deus, o Senhor .
+
+[[v3-2-11]]
+
+^<<v3-2-11,11>>^ Nenhuma oferta de cereais será preparada com fermento; nem fermento nem mel deverão ser usados em nenhuma oferta apresentada a Deus, o Senhor .
+
+[[v3-2-12]]
+
+^<<v3-2-12,12>>^ Ofereça ao Senhor  os cereais que forem colhidos primeiro; mas essa oferta não será queimada no altar.
+
+[[v3-2-13]]
+
+^<<v3-2-13,13>>^ Tempere com sal todas as ofertas de cereais, pois o sal representa a aliança  que Deus fez com o seu povo. Toda oferta de cereais deverá ser temperada com sal.
+
+[[v3-2-14]]
+
+^<<v3-2-14,14>>^ Quando a primeira parte da colheita de cereais for oferecida a Deus, o Senhor , leve grãos de espigas verdes, esmagados e torrados no fogo.
+
+[[v3-2-15]]
+
+^<<v3-2-15,15>>^ Ponha azeite e incenso em cima dessa oferta.
+
+[[v3-2-16]]
+
+^<<v3-2-16,16>>^ Aí o sacerdote queimará no altar uma parte dessa oferta de cereais, junto com o azeite e o incenso, para lembrar que a oferta toda é dada a Deus, o Senhor .
+
+'''
+
+xref:003-levitico/003-levitico-001.adoc#v3-1-0[&#60; Capítulo Anterior] | <<v3-2-0,Topo>> | xref:003-levitico/003-levitico-003.adoc#v3-3-0[Próximo Capítulo &#62;]

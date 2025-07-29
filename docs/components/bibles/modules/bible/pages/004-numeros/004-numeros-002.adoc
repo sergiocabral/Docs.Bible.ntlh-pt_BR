@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v4-2-0]]
+=== Números, 2
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v4-2-1]]
+
+^<<v4-2-1,1>>^ O Senhor  Deus disse a Moisés e a Arão o seguinte:
+
+[[v4-2-2]]
+
+^<<v4-2-2,2>>^ — Quando os israelitas armarem o acampamento, cada um ficará perto da bandeira do seu grupo e do estandarte do seu grupo de famílias. Eles acamparão em volta da Tenda Sagrada  e de frente para ela.
+
+[[v4-2-3]]
+
+^<<v4-2-3,3>>^ — Do lado leste acamparão os exércitos que marcham debaixo da bandeira da tribo  de Judá. O exército de Judá tem setenta e quatro mil e seiscentos homens, e o chefe é Nasom, filho de Aminadabe.
+
+[[v4-2-4]]
+
+^<<v4-2-4,4>>^ — Do lado leste acamparão os exércitos que marcham debaixo da bandeira da tribo  de Judá. O exército de Judá tem setenta e quatro mil e seiscentos homens, e o chefe é Nasom, filho de Aminadabe.
+
+[[v4-2-5]]
+
+^<<v4-2-5,5>>^ Ao lado deles acampará o exército da tribo de Issacar. Esse exército tem cinquenta e quatro mil e quatrocentos homens, e o chefe é Netanel, filho de Zuar.
+
+[[v4-2-6]]
+
+^<<v4-2-6,6>>^ Ao lado deles acampará o exército da tribo de Issacar. Esse exército tem cinquenta e quatro mil e quatrocentos homens, e o chefe é Netanel, filho de Zuar.
+
+[[v4-2-7]]
+
+^<<v4-2-7,7>>^ Acampará com eles também o exército da tribo de Zebulom. Esse exército tem cinquenta e sete mil e quatrocentos homens, e o chefe é Eliabe, filho de Helom.
+
+[[v4-2-8]]
+
+^<<v4-2-8,8>>^ Acampará com eles também o exército da tribo de Zebulom. Esse exército tem cinquenta e sete mil e quatrocentos homens, e o chefe é Eliabe, filho de Helom.
+
+[[v4-2-9]]
+
+^<<v4-2-9,9>>^ O grupo de Judá, num total de cento e oitenta e seis mil e quatrocentos homens, marchará primeiro.
+
+[[v4-2-10]]
+
+^<<v4-2-10,10>>^ — Do lado sul acamparão os exércitos que marcham debaixo da bandeira da tribo de Rúben. O exército de Rúben tem quarenta e seis mil e quinhentos homens, e o seu chefe é Elisur, filho de Sedeur.
+
+[[v4-2-11]]
+
+^<<v4-2-11,11>>^ — Do lado sul acamparão os exércitos que marcham debaixo da bandeira da tribo de Rúben. O exército de Rúben tem quarenta e seis mil e quinhentos homens, e o seu chefe é Elisur, filho de Sedeur.
+
+[[v4-2-12]]
+
+^<<v4-2-12,12>>^ Ao lado deles acampará o exército da tribo de Simeão. Esse exército tem cinquenta e nove mil e trezentos homens, e o chefe é Selumiel, filho de Zurisadai.
+
+[[v4-2-13]]
+
+^<<v4-2-13,13>>^ Ao lado deles acampará o exército da tribo de Simeão. Esse exército tem cinquenta e nove mil e trezentos homens, e o chefe é Selumiel, filho de Zurisadai.
+
+[[v4-2-14]]
+
+^<<v4-2-14,14>>^ Acampará com eles também o exército da tribo de Gade. Esse exército tem quarenta e cinco mil seiscentos e cinquenta homens, e o chefe é Eliasafe, filho de Deuel.
+
+[[v4-2-15]]
+
+^<<v4-2-15,15>>^ Acampará com eles também o exército da tribo de Gade. Esse exército tem quarenta e cinco mil seiscentos e cinquenta homens, e o chefe é Eliasafe, filho de Deuel.
+
+[[v4-2-16]]
+
+^<<v4-2-16,16>>^ O grupo de Rúben, num total de cento e cinquenta e um mil quatrocentos e cinquenta homens, marchará em segundo lugar.
+
+[[v4-2-17]]
+
+^<<v4-2-17,17>>^ — Entre os primeiros dois grupos e os dois últimos, marcharão os levitas , levando a Tenda. Os grupos marcharão na mesma ordem em que acamparem, cada um no seu lugar, seguindo a sua bandeira.
+
+[[v4-2-18]]
+
+^<<v4-2-18,18>>^ — Do lado oeste acamparão os exércitos que marcham debaixo da bandeira da tribo de Efraim. O exército de Efraim tem quarenta mil e quinhentos homens, e o chefe é Elisama, filho de Amiúde.
+
+[[v4-2-19]]
+
+^<<v4-2-19,19>>^ — Do lado oeste acamparão os exércitos que marcham debaixo da bandeira da tribo de Efraim. O exército de Efraim tem quarenta mil e quinhentos homens, e o chefe é Elisama, filho de Amiúde.
+
+[[v4-2-20]]
+
+^<<v4-2-20,20>>^ Ao lado deles acampará o exército da tribo de Manassés. Esse exército tem trinta e dois mil e duzentos homens, e o chefe é Gamaliel, filho de Pedasur.
+
+[[v4-2-21]]
+
+^<<v4-2-21,21>>^ Ao lado deles acampará o exército da tribo de Manassés. Esse exército tem trinta e dois mil e duzentos homens, e o chefe é Gamaliel, filho de Pedasur.
+
+[[v4-2-22]]
+
+^<<v4-2-22,22>>^ Acampará com eles também o exército da tribo de Benjamim. Esse exército tem trinta e cinco mil e quatrocentos homens, e o chefe é Abidã, filho de Gideoni.
+
+'''
+
+xref:004-numeros/004-numeros-001.adoc#v4-1-0[&#60; Capítulo Anterior] | <<v4-2-0,Topo>> | xref:004-numeros/004-numeros-003.adoc#v4-3-0[Próximo Capítulo &#62;]

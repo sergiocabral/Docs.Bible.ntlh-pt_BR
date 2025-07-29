@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v18-21-0]]
+=== Jó, 21
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v18-21-1]]
+
+^<<v18-21-1,1>>^ Então em resposta Jó disse:
+
+[[v18-21-2]]
+
+^<<v18-21-2,2>>^ "O melhor consolo que vocês me podem dar é escutar com atenção as minhas palavras.
+
+[[v18-21-3]]
+
+^<<v18-21-3,3>>^ Tenham paciência enquanto falo; depois que eu terminar, vocês podem zombar de mim.
+
+[[v18-21-4]]
+
+^<<v18-21-4,4>>^ Não é de nenhum ser humano que me queixo e é por isso que estou tão impaciente.
+
+[[v18-21-5]]
+
+^<<v18-21-5,5>>^ Se vocês olharem para mim, porão a mão na boca, assustados.
+
+[[v18-21-6]]
+
+^<<v18-21-6,6>>^ Quando penso no que aconteceu, fico perturbado, e o meu corpo todo treme.
+
+[[v18-21-7]]
+
+^<<v18-21-7,7>>^ "Por que será que os maus continuam vivos? Por que chegam ricos à velhice?
+
+[[v18-21-8]]
+
+^<<v18-21-8,8>>^ Eles têm filhos e netos e vivem para vê-los bem-crescidos ao seu redor.
+
+[[v18-21-9]]
+
+^<<v18-21-9,9>>^ Nada ameaça a segurança dos seus lares, e Deus não os castiga.
+
+[[v18-21-10]]
+
+^<<v18-21-10,10>>^ O seu gado se reproduz sem problemas, dando crias sem nunca abortar.
+
+[[v18-21-11]]
+
+^<<v18-21-11,11>>^ Os seus filhos correm como carneirinhos e pulam de alegria;
+
+[[v18-21-12]]
+
+^<<v18-21-12,12>>^ eles cantam e se divertem ao som de pandeiros, liras  e flautas.
+
+[[v18-21-13]]
+
+^<<v18-21-13,13>>^ Os maus têm sempre do bom e do melhor e morrem em paz, sem sofrimento.
+
+[[v18-21-14]]
+
+^<<v18-21-14,14>>^ "No entanto, a Deus eles dizem: ‘Deixa-nos em paz; não queremos saber das tuas leis .
+
+[[v18-21-15]]
+
+^<<v18-21-15,15>>^ Quem é o Deus Todo-Poderoso para que o adoremos? Que adianta fazer orações a ele?’
+
+[[v18-21-16]]
+
+^<<v18-21-16,16>>^ Os maus dizem que progridem pelos seus próprios esforços, mas eu não aceito o seu modo de pensar.
+
+[[v18-21-17]]
+
+^<<v18-21-17,17>>^ "Quando foi que se apagou a luz dos perversos? Quantas vezes algum deles caiu na desgraça? Será que Deus alguma vez ficou irado  com eles e os fez sofrer?
+
+[[v18-21-18]]
+
+^<<v18-21-18,18>>^ Quando foi que ele os espalhou como a palha ou como a poeira que é levada pela ventania?
+
+[[v18-21-19]]
+
+^<<v18-21-19,19>>^ "Vocês dizem que Deus castiga o filho pelos pecados do pai. Mas é o pai que deveria ser castigado para que aprendesse a lição.
+
+[[v18-21-20]]
+
+^<<v18-21-20,20>>^ Que o pecador receba o seu próprio castigo, que ele sinta o peso da ira do Todo-Poderoso!
+
+[[v18-21-21]]
+
+^<<v18-21-21,21>>^ Mas, se ele já está morto, se já está no outro mundo, que lhe importa que a sua família sofra?
+
+[[v18-21-22]]
+
+^<<v18-21-22,22>>^ Por acaso, alguém pode dar lições ao Todo-Poderoso, que julga até os seres celestiais?
+
+[[v18-21-23]]
+
+^<<v18-21-23,23>>^ "Alguns homens levam uma vida feliz e tranquila e morrem ricos,
+
+[[v18-21-24]]
+
+^<<v18-21-24,24>>^ com saúde e cheios de força.
+
+[[v18-21-25]]
+
+^<<v18-21-25,25>>^ Outros, ao contrário, nunca provaram um momento de felicidade e morrem com o coração cheio de amargura.
+
+[[v18-21-26]]
+
+^<<v18-21-26,26>>^ Mas uns e outros acabam morrendo, são sepultados e ficam cobertos de vermes.
+
+[[v18-21-27]]
+
+^<<v18-21-27,27>>^ "Eu conheço os pensamentos de vocês e sei que pensam mal de mim.
+
+[[v18-21-28]]
+
+^<<v18-21-28,28>>^ Vocês perguntam: ‘Onde está agora a casa daquele grande homem que vivia uma vida de pecado?’
+
+[[v18-21-29]]
+
+^<<v18-21-29,29>>^ "Será que vocês não têm conversado com pessoas que viajam? Vocês não têm ouvido as suas histórias?
+
+[[v18-21-30]]
+
+^<<v18-21-30,30>>^ Essas pessoas dizem que, quando Deus fica irado e castiga, o homem mau sempre escapa.
+
+[[v18-21-31]]
+
+^<<v18-21-31,31>>^ Ninguém o acusa das maldades que comete; ninguém o faz pagar pelos seus atos.
+
+[[v18-21-32]]
+
+^<<v18-21-32,32>>^ Ele é levado para o cemitério e posto numa sepultura bem-guardada.
+
+[[v18-21-33]]
+
+^<<v18-21-33,33>>^ Milhares de pessoas acompanham o corpo, e até a terra que o cobre é leve.
+
+[[v18-21-34]]
+
+^<<v18-21-34,34>>^ "Meus amigos, as suas consolações são vazias; tudo o que vocês dizem é mentira."
+
+'''
+
+xref:018-jo/018-jo-020.adoc#v18-20-0[&#60; Capítulo Anterior] | <<v18-21-0,Topo>> | xref:018-jo/018-jo-022.adoc#v18-22-0[Próximo Capítulo &#62;]

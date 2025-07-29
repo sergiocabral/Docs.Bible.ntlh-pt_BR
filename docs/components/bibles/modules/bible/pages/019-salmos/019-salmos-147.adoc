@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v19-147-0]]
+=== Salmos, 147
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-147-1]]
+
+^<<v19-147-1,1>>^ Aleluia ! É bom cantar louvores ao nosso Deus; é agradável e certo louvá-lo.
+
+[[v19-147-2]]
+
+^<<v19-147-2,2>>^ O Senhor  Deus está construindo de novo Jerusalém; ele está trazendo de volta o seu povo, que foi levado como prisioneiro para outro país.
+
+[[v19-147-3]]
+
+^<<v19-147-3,3>>^ Ele cura os que têm o coração partido e trata dos seus ferimentos.
+
+[[v19-147-4]]
+
+^<<v19-147-4,4>>^ Foi ele quem resolveu quantas estrelas deviam existir e chama cada uma pelo nome.
+
+[[v19-147-5]]
+
+^<<v19-147-5,5>>^ Deus, o Senhor nosso, é grande e poderoso; a sua sabedoria não pode ser medida.
+
+[[v19-147-6]]
+
+^<<v19-147-6,6>>^ O Senhor  Deus levanta os humildes, mas esmaga os maus no chão.
+
+[[v19-147-7]]
+
+^<<v19-147-7,7>>^ Cantem hinos de louvor ao Senhor ; toquem músicas na lira em louvor ao nosso Deus.
+
+[[v19-147-8]]
+
+^<<v19-147-8,8>>^ Ele cobre de nuvens o céu, manda cair chuva na terra e faz crescer grama nas montanhas.
+
+[[v19-147-9]]
+
+^<<v19-147-9,9>>^ Ele dá de comer aos animais e alimenta os filhotes dos corvos quando eles pedem.
+
+[[v19-147-10]]
+
+^<<v19-147-10,10>>^ O que agrada a Deus não são cavalos fortes nem soldados corajosos,
+
+[[v19-147-11]]
+
+^<<v19-147-11,11>>^ mas, sim, as pessoas que o temem e põem a sua esperança no seu amor.
+
+[[v19-147-12]]
+
+^<<v19-147-12,12>>^ Louve o Senhor , ó Jerusalém! Louve o seu Deus, ó Sião !
+
+[[v19-147-13]]
+
+^<<v19-147-13,13>>^ Pois ele reforça os portões da cidade e abençoa o seu povo que mora ali.
+
+[[v19-147-14]]
+
+^<<v19-147-14,14>>^ Ele conserva a paz nas fronteiras e alimenta o povo com o melhor trigo.
+
+[[v19-147-15]]
+
+^<<v19-147-15,15>>^ O Senhor  dá uma ordem, e ela chega depressa aonde ele quer.
+
+[[v19-147-16]]
+
+^<<v19-147-16,16>>^ Ele faz cair neve tão grossa como lã e espalha a geada como pó.
+
+[[v19-147-17]]
+
+^<<v19-147-17,17>>^ Ele envia chuva de pedra, gelo em pedaços; ninguém suporta o frio que ele manda.
+
+[[v19-147-18]]
+
+^<<v19-147-18,18>>^ Então ele dá uma ordem, e o gelo se derrete; manda o vento soprar, e as águas correm.
+
+[[v19-147-19]]
+
+^<<v19-147-19,19>>^ O Senhor  anuncia a sua mensagem aos descendentes de Jacó e dá as suas ordens e leis ao povo de Israel.
+
+[[v19-147-20]]
+
+^<<v19-147-20,20>>^ Ele não fez assim com nenhuma outra nação; as outras nações não conhecem as suas leis. Aleluia!
+
+'''
+
+xref:019-salmos/019-salmos-146.adoc#v19-146-0[&#60; Capítulo Anterior] | <<v19-147-0,Topo>> | xref:019-salmos/019-salmos-148.adoc#v19-148-0[Próximo Capítulo &#62;]

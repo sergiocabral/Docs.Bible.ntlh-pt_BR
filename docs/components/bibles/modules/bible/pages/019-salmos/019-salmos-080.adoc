@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v19-80-0]]
+=== Salmos, 80
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-80-1]]
+
+^<<v19-80-1,1>>^ Ouve-nos, ó Pastor de Israel! Escuta-nos, tu que guias o teu rebanho! Tu que estás sentado no teu trono, que fica sobre os querubins ,
+
+[[v19-80-2]]
+
+^<<v19-80-2,2>>^ mostra a tua misericórdia pelas tribos  de Efraim, Benjamim e Manassés! Mostra-nos o teu poder; vem e salva-nos.
+
+[[v19-80-3]]
+
+^<<v19-80-3,3>>^ Faze com que prosperemos de novo, ó Deus! Mostra-nos a tua misericórdia, e seremos salvos.
+
+[[v19-80-4]]
+
+^<<v19-80-4,4>>^ Até quando, ó Senhor , Deus Todo-Poderoso, ficarás irado  com as orações do teu povo?
+
+[[v19-80-5]]
+
+^<<v19-80-5,5>>^ Tu nos tens dado pão de lágrimas para comer e um copo cheio de lágrimas para beber.
+
+[[v19-80-6]]
+
+^<<v19-80-6,6>>^ Tu deixas que as nações vizinhas briguem por causa da nossa terra e que os nossos inimigos zombem de nós.
+
+[[v19-80-7]]
+
+^<<v19-80-7,7>>^ Faze com que prosperemos de novo, ó Deus Todo-Poderoso! Mostra-nos a tua misericórdia, e seremos salvos.
+
+[[v19-80-8]]
+
+^<<v19-80-8,8>>^ Trouxeste do Egito uma parreira , o povo de Israel; expulsaste os outros povos e plantaste essa parreira na terra deles.
+
+[[v19-80-9]]
+
+^<<v19-80-9,9>>^ Preparaste o terreno para ela; as suas raízes entraram fundo na terra, e ela se espalhou por toda parte.
+
+[[v19-80-10]]
+
+^<<v19-80-10,10>>^ Cobriu os montes com a sua sombra, e os seus galhos cresceram acima dos cedros gigantes.
+
+[[v19-80-11]]
+
+^<<v19-80-11,11>>^ Ela estendeu os seus ramos até o mar Mediterrâneo e até o rio Eufrates.
+
+[[v19-80-12]]
+
+^<<v19-80-12,12>>^ Por que derrubaste as cercas que havia em volta dela? Agora quem passa pelo caminho pode roubar as suas uvas.
+
+[[v19-80-13]]
+
+^<<v19-80-13,13>>^ Os porcos do mato a pisam e a destroem, e os animais ferozes a devoram.
+
+[[v19-80-14]]
+
+^<<v19-80-14,14>>^ Volta para nós, ó Deus Todo-Poderoso! Lá do céu olha para nós; vem e salva a tua parreira.
+
+[[v19-80-15]]
+
+^<<v19-80-15,15>>^ Vem e salva essa parreira que tu plantaste, esse ramo novo que fizeste crescer tão forte.
+
+[[v19-80-16]]
+
+^<<v19-80-16,16>>^ Os nossos inimigos a cortaram e queimaram. Na tua ira, olha para eles e acaba com eles.
+
+[[v19-80-17]]
+
+^<<v19-80-17,17>>^ Protege e guarda o povo que escolheste, a nação que fizeste crescer tão forte.
+
+[[v19-80-18]]
+
+^<<v19-80-18,18>>^ Não nos afastaremos de ti outra vez; conserva a nossa vida, e nós te louvaremos.
+
+[[v19-80-19]]
+
+^<<v19-80-19,19>>^ Faze com que prosperemos de novo, ó Senhor , Deus Todo-Poderoso! Mostra-nos a tua misericórdia, e seremos salvos.
+
+'''
+
+xref:019-salmos/019-salmos-079.adoc#v19-79-0[&#60; Capítulo Anterior] | <<v19-80-0,Topo>> | xref:019-salmos/019-salmos-081.adoc#v19-81-0[Próximo Capítulo &#62;]

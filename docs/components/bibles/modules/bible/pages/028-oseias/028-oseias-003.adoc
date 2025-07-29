@@ -1,0 +1,29 @@
+include::./index.adoc[]
+
+[[v28-3-0]]
+=== Oséias, 3
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v28-3-1]]
+
+^<<v28-3-1,1>>^ O Senhor  Deus falou de novo comigo e disse: — Vá e ame uma adúltera, uma mulher que tem um amante. Ame-a assim como eu amo o povo de Israel, embora eles adorem outros deuses e lhes ofereçam bolos de passas .
+
+[[v28-3-2]]
+
+^<<v28-3-2,2>>^ Fui e comprei a mulher por quinze barras de prata e cento e cinquenta quilos de cevada .
+
+[[v28-3-3]]
+
+^<<v28-3-3,3>>^ Eu disse: — Por muito tempo, você vai esperar por mim. Durante esse tempo não se torne prostituta, nem se entregue a um amante. E eu também esperarei por você.
+
+[[v28-3-4]]
+
+^<<v28-3-4,4>>^ Será assim que os israelitas passarão muito tempo sem rei ou qualquer outro chefe, sem sacrifícios  ou colunas do deus Baal , sem ídolos ou deuses do lar.
+
+[[v28-3-5]]
+
+^<<v28-3-5,5>>^ Mas virá o tempo em que o povo de Israel voltará a adorar o Senhor , o Deus deles, e eles serão governados por um descendente do rei Davi. Naquele tempo, eles adorarão o Senhor  com temor  e receberão dele muitas bênçãos.
+
+'''
+
+xref:028-oseias/028-oseias-002.adoc#v28-2-0[&#60; Capítulo Anterior] | <<v28-3-0,Topo>> | xref:028-oseias/028-oseias-004.adoc#v28-4-0[Próximo Capítulo &#62;]

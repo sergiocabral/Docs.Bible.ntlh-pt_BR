@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v40-1-0]]
+=== Mateus, 1
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v40-1-1]]
+
+^<<v40-1-1,1>>^ Esta é a lista dos antepassados de Jesus Cristo, descendente de Davi, que era descendente de Abraão.
+
+[[v40-1-2]]
+
+^<<v40-1-2,2>>^ Abraão foi pai de Isaque, Isaque foi pai de Jacó, e Jacó foi pai de Judá e dos seus irmãos.
+
+[[v40-1-3]]
+
+^<<v40-1-3,3>>^ Judá foi pai de Peres e de Zera, e a mãe deles foi Tamar. Peres foi pai de Esrom, que foi pai de Arão.
+
+[[v40-1-4]]
+
+^<<v40-1-4,4>>^ Arão foi pai de Aminadabe, que foi pai de Nasom, que foi pai de Salmom.
+
+[[v40-1-5]]
+
+^<<v40-1-5,5>>^ Salmom foi pai de Boaz, e a mãe de Boaz foi Raabe. Boaz foi pai de Obede, e a mãe de Obede foi Rute. Obede foi pai de Jessé,
+
+[[v40-1-6]]
+
+^<<v40-1-6,6>>^ que foi pai do rei Davi. Davi e a mulher que tinha sido esposa de Urias foram os pais de Salomão.
+
+[[v40-1-7]]
+
+^<<v40-1-7,7>>^ Salomão foi pai de Roboão, que foi pai de Abias, que foi pai de Asa.
+
+[[v40-1-8]]
+
+^<<v40-1-8,8>>^ Asa foi pai de Josafá, que foi pai de Jorão, que foi pai de Uzias.
+
+[[v40-1-9]]
+
+^<<v40-1-9,9>>^ Uzias foi pai de Jotão, que foi pai de Acaz, que foi pai de Ezequias.
+
+[[v40-1-10]]
+
+^<<v40-1-10,10>>^ Ezequias foi pai de Manassés, que foi pai de Amom, que foi pai de Josias.
+
+[[v40-1-11]]
+
+^<<v40-1-11,11>>^ Josias foi pai de Jeconias e dos seus irmãos, no tempo em que os israelitas foram levados como prisioneiros para a Babilônia.
+
+[[v40-1-12]]
+
+^<<v40-1-12,12>>^ Depois que o povo foi levado para a Babilônia, Jeconias foi pai de Salatiel, que foi pai de Zorobabel.
+
+[[v40-1-13]]
+
+^<<v40-1-13,13>>^ Zorobabel foi pai de Abiúde, que foi pai de Eliaquim, que foi pai de Azor.
+
+[[v40-1-14]]
+
+^<<v40-1-14,14>>^ Azor foi pai de Sadoque, que foi pai de Aquim, que foi pai de Eliúde.
+
+[[v40-1-15]]
+
+^<<v40-1-15,15>>^ Eliúde foi pai de Eleazar, que foi pai de Matã, que foi pai de Jacó.
+
+[[v40-1-16]]
+
+^<<v40-1-16,16>>^ Jacó foi pai de José, marido de Maria, e ela foi a mãe de Jesus, chamado Messias .
+
+[[v40-1-17]]
+
+^<<v40-1-17,17>>^ Assim, houve catorze gerações  desde Abraão até Davi, e catorze, desde Davi até que os israelitas foram levados para a Babilônia. Daí até o nascimento do Messias, também houve catorze gerações.
+
+[[v40-1-18]]
+
+^<<v40-1-18,18>>^ O nascimento de Jesus Cristo foi assim: Maria, a sua mãe, ia casar com José. Mas antes do casamento ela ficou grávida pelo Espírito Santo.
+
+[[v40-1-19]]
+
+^<<v40-1-19,19>>^ José, com quem Maria ia casar, era um homem que sempre fazia o que era direito. Ele não queria difamar Maria e por isso resolveu desmanchar o contrato de casamento sem ninguém saber.
+
+[[v40-1-20]]
+
+^<<v40-1-20,20>>^ Enquanto José estava pensando nisso, um anjo do Senhor apareceu a ele num sonho e disse: — José, descendente de Davi, não tenha medo de receber Maria como sua esposa, pois ela está grávida pelo Espírito Santo.
+
+[[v40-1-21]]
+
+^<<v40-1-21,21>>^ Ela terá um menino, e você porá nele o nome de Jesus , pois ele salvará o seu povo dos pecados deles.
+
+[[v40-1-22]]
+
+^<<v40-1-22,22>>^ Tudo isso aconteceu para se cumprir o que o Senhor tinha dito por meio do profeta :
+
+[[v40-1-23]]
+
+^<<v40-1-23,23>>^ "A virgem ficará grávida e terá um filho que receberá o nome de Emanuel." (Emanuel quer dizer "Deus está conosco".)
+
+[[v40-1-24]]
+
+^<<v40-1-24,24>>^ Quando José acordou, fez o que o anjo do Senhor havia mandado e casou com Maria.
+
+[[v40-1-25]]
+
+^<<v40-1-25,25>>^ Porém não teve relações com ela até que a criança nasceu. E José pôs no menino o nome de Jesus.
+
+'''
+
+xref:039-malaquias/039-malaquias-004.adoc#v39-4-0[&#60; Capítulo Anterior] | <<v40-1-0,Topo>> | xref:040-mateus/040-mateus-002.adoc#v40-2-0[Próximo Capítulo &#62;]

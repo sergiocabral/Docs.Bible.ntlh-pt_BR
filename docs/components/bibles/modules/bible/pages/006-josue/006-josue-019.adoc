@@ -1,0 +1,213 @@
+include::./index.adoc[]
+
+[[v6-19-0]]
+=== Josué, 19
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v6-19-1]]
+
+^<<v6-19-1,1>>^ A segunda distribuição de terras foi feita para as famílias da tribo  de Simeão. A sua parte ficava no meio das terras da tribo de Judá.
+
+[[v6-19-2]]
+
+^<<v6-19-2,2>>^ Eram da tribo de Simeão as cidades de Berseba, Seba, Molada,
+
+[[v6-19-3]]
+
+^<<v6-19-3,3>>^ Hazar-Sual, Balá, Ezém,
+
+[[v6-19-4]]
+
+^<<v6-19-4,4>>^ Eltolade, Betul, Horma,
+
+[[v6-19-5]]
+
+^<<v6-19-5,5>>^ Ziclague, Bete-Marcabote, Hazar-Susa,
+
+[[v6-19-6]]
+
+^<<v6-19-6,6>>^ Bete-Lebaote e Saruém. Ao todo treze cidades, mais os povoados vizinhos.
+
+[[v6-19-7]]
+
+^<<v6-19-7,7>>^ Também eram dessa tribo Aim, Rimom, Eter e Asã. Ao todo quatro cidades com os seus povoados.
+
+[[v6-19-8]]
+
+^<<v6-19-8,8>>^ Pertenciam ainda à tribo de Simeão todos os povoados vizinhos dessas cidades até Baalate-Ber, isto é, Ramá do Sul. Estas foram as terras que as famílias da tribo de Simeão receberam como sua propriedade.
+
+[[v6-19-9]]
+
+^<<v6-19-9,9>>^ A parte da tribo de Simeão foi tirada das terras de Judá. As terras dadas a Judá eram grandes demais para essa tribo, de modo que a de Simeão recebeu parte delas.
+
+[[v6-19-10]]
+
+^<<v6-19-10,10>>^ A terceira distribuição de terras foi feita para as famílias da tribo  de Zebulom. Elas receberam terras que iam até Saride.
+
+[[v6-19-11]]
+
+^<<v6-19-11,11>>^ A sua divisa subia na direção oeste até Marala, passava por Dabasete e chegava ao riacho que fica a leste de Jocneão.
+
+[[v6-19-12]]
+
+^<<v6-19-12,12>>^ Do outro lado de Saride, seguia para o leste até a divisa com Quislote-Tabor, passava por Daberate e, subindo, chegava até Jafia.
+
+[[v6-19-13]]
+
+^<<v6-19-13,13>>^ Continuava na direção leste até Gate-Hefer e Ete-Cazim, virando para o lado de Neia, pelo caminho de Rimom.
+
+[[v6-19-14]]
+
+^<<v6-19-14,14>>^ No Norte a divisa virava para o lado de Hanatom, terminando no vale de Iftael.
+
+[[v6-19-15]]
+
+^<<v6-19-15,15>>^ Das terras de Zebulom também faziam parte Catate, Naalal, Sinrom, Idala e Belém. Ao todo doze cidades, mais os seus povoados.
+
+[[v6-19-16]]
+
+^<<v6-19-16,16>>^ Essas cidades e povoados estavam nas terras que as famílias da tribo de Zebulom receberam como sua propriedade.
+
+[[v6-19-17]]
+
+^<<v6-19-17,17>>^ A quarta distribuição de terras foi feita para as famílias da tribo  de Issacar.
+
+[[v6-19-18]]
+
+^<<v6-19-18,18>>^ As suas terras incluíam as cidades de Jezreel, Quesulote, Suném,
+
+[[v6-19-19]]
+
+^<<v6-19-19,19>>^ Hafaraim, Seom, Anacarate,
+
+[[v6-19-20]]
+
+^<<v6-19-20,20>>^ Rabite, Quisião, Ebes,
+
+[[v6-19-21]]
+
+^<<v6-19-21,21>>^ Remete, En-Ganim, En-Hada e Bete-Pasês.
+
+[[v6-19-22]]
+
+^<<v6-19-22,22>>^ A divisa passava por Tabor, Saazima e Bete-Semes, terminando no rio Jordão. Faziam parte das terras de Issacar dezesseis cidades, mais os seus povoados.
+
+[[v6-19-23]]
+
+^<<v6-19-23,23>>^ Essas cidades e os seus povoados estavam nas terras que as famílias da tribo de Issacar receberam como sua propriedade.
+
+[[v6-19-24]]
+
+^<<v6-19-24,24>>^ A quinta distribuição de terras foi feita para as famílias da tribo  de Aser.
+
+[[v6-19-25]]
+
+^<<v6-19-25,25>>^ Essas terras incluíam as cidades de Helcate, Hali, Betém, Acsafe,
+
+[[v6-19-26]]
+
+^<<v6-19-26,26>>^ Alameleque, Amade e Misal. No lado oeste a divisa chegava ao monte Carmelo e Sior-Libnate.
+
+[[v6-19-27]]
+
+^<<v6-19-27,27>>^ Depois virava para o leste até Bete-Dagom, passava por Zebulom e pelo vale de Iftael e ia para o norte até Bete-Emeque e Neiel. Continuava para o norte até as cidades de Cabul,
+
+[[v6-19-28]]
+
+^<<v6-19-28,28>>^ Ebrom, Reobe, Hamom e Caná, chegando até a grande Sidom.
+
+[[v6-19-29]]
+
+^<<v6-19-29,29>>^ A divisa então virava para o lado de Ramá, chegando a Tiro, a cidade cercada de muralhas. Daí virava para o lado de Hosa e terminava no mar Mediterrâneo. Das terras de Aser também faziam parte Maalabe, Aczibe,
+
+[[v6-19-30]]
+
+^<<v6-19-30,30>>^ Umá, Afeca e Reobe. Ao todo vinte e duas cidades, mais os seus povoados.
+
+[[v6-19-31]]
+
+^<<v6-19-31,31>>^ Essas cidades e os seus povoados estavam nas terras que as famílias da tribo de Aser receberam como sua propriedade.
+
+[[v6-19-32]]
+
+^<<v6-19-32,32>>^ A sexta distribuição de terras foi feita para as famílias da tribo  de Naftali.
+
+[[v6-19-33]]
+
+^<<v6-19-33,33>>^ A sua divisa começava em Helefe, desde o carvalho de Zaananim, e ia de Adami-Nequebe e Jabneel até Lacum, terminando no rio Jordão.
+
+[[v6-19-34]]
+
+^<<v6-19-34,34>>^ A divisa virava para o oeste e ia até Aznote-Tabor; daí seguia até Hucoque, chegando até Zebulom ao sul, até Aser a oeste e até Judá a leste, no rio Jordão.
+
+[[v6-19-35]]
+
+^<<v6-19-35,35>>^ As cidades protegidas por muralhas eram Zidim, Zer, Hamate, Racate, Quinerete,
+
+[[v6-19-36]]
+
+^<<v6-19-36,36>>^ Adamá, Ramá, Hazor,
+
+[[v6-19-37]]
+
+^<<v6-19-37,37>>^ Quedes, Edrei, En-Hazor,
+
+[[v6-19-38]]
+
+^<<v6-19-38,38>>^ Irom, Migdalel, Horém, Bete-Anate e Bete-Semes. Ao todo dezenove cidades, mais os seus povoados.
+
+[[v6-19-39]]
+
+^<<v6-19-39,39>>^ Essas cidades e os seus povoados estavam nas terras que as famílias da tribo de Naftali receberam como sua propriedade.
+
+[[v6-19-40]]
+
+^<<v6-19-40,40>>^ A sétima distribuição de terras foi feita para as famílias da tribo  de Dã.
+
+[[v6-19-41]]
+
+^<<v6-19-41,41>>^ As suas terras incluíam as cidades de Zora, Estaol, Ir-Semes,
+
+[[v6-19-42]]
+
+^<<v6-19-42,42>>^ Saalabim, Aijalom, Itla,
+
+[[v6-19-43]]
+
+^<<v6-19-43,43>>^ Elom, Timna, Ecrom,
+
+[[v6-19-44]]
+
+^<<v6-19-44,44>>^ Elteque, Gibetom, Baalate,
+
+[[v6-19-45]]
+
+^<<v6-19-45,45>>^ Jeúde, Benê-Beraque, Gate-Rimom,
+
+[[v6-19-46]]
+
+^<<v6-19-46,46>>^ Me-Jarcom, Racom e as terras que ficam em frente da cidade de Jope.
+
+[[v6-19-47]]
+
+^<<v6-19-47,47>>^ Quando os descendentes de Dã perderam as suas terras, eles foram a Laís e a atacaram. Tomaram a cidade e mataram os seus moradores. Então tomaram posse da terra e passaram a morar nela. Mudaram o nome da cidade de Laís para Dã, que era o nome do fundador da tribo.
+
+[[v6-19-48]]
+
+^<<v6-19-48,48>>^ Essas cidades e os seus povoados estavam nas terras que as famílias da tribo de Dã receberam como sua propriedade.
+
+[[v6-19-49]]
+
+^<<v6-19-49,49>>^ Quando os israelitas acabaram de fazer a divisão da terra, deram a Josué, filho de Num, uma parte para ser sua propriedade.
+
+[[v6-19-50]]
+
+^<<v6-19-50,50>>^ Como o Senhor  tinha ordenado, deram a Josué a cidade que ele havia pedido. Essa cidade ficava na região montanhosa de Efraim e se chamava Timnate-Sera. Josué construiu a cidade de novo e passou a morar nela.
+
+[[v6-19-51]]
+
+^<<v6-19-51,51>>^ O sacerdote Eleazar, Josué e os chefes das famílias das tribos  de Israel fizeram a divisão da terra. Para fazerem essa divisão, consultaram o Senhor , por sorteio , na entrada da Tenda Sagrada , em Siló. E assim acabaram de repartir a terra.
+
+'''
+
+xref:006-josue/006-josue-018.adoc#v6-18-0[&#60; Capítulo Anterior] | <<v6-19-0,Topo>> | xref:006-josue/006-josue-020.adoc#v6-20-0[Próximo Capítulo &#62;]

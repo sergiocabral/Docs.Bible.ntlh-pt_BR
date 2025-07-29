@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v42-3-0]]
+=== Lucas, 3
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v42-3-1]]
+
+^<<v42-3-1,1>>^ Fazia quinze anos que Tibério era o Imperador romano. Nesse tempo Pôncio Pilatos era o governador da Judeia, Herodes governava a Galileia, o seu irmão Filipe governava a região da Itureia e Traconites, e Lisânias era o governador de Abilene.
+
+[[v42-3-2]]
+
+^<<v42-3-2,2>>^ E Anás e Caifás eram os Grandes Sacerdotes  . Foi nesse tempo que a mensagem de Deus foi dada, no deserto, a João, filho de Zacarias.
+
+[[v42-3-3]]
+
+^<<v42-3-3,3>>^ E João atravessou toda a região do rio Jordão, anunciando esta mensagem: — Arrependam-se dos seus pecados e sejam batizados, que Deus perdoará vocês.
+
+[[v42-3-4]]
+
+^<<v42-3-4,4>>^ Isso aconteceu como o profeta  Isaías tinha escrito no seu livro: "Alguém está gritando no deserto: Preparem o caminho para o Senhor passar! Abram estradas retas para ele!
+
+[[v42-3-5]]
+
+^<<v42-3-5,5>>^ Todos os vales serão aterrados, e todos os morros e montes serão aplanados. Os caminhos tortos serão endireitados, e as estradas esburacadas serão consertadas.
+
+[[v42-3-6]]
+
+^<<v42-3-6,6>>^ E todos verão a salvação que Deus dá."
+
+[[v42-3-7]]
+
+^<<v42-3-7,7>>^ As multidões iam se encontrar com João para serem batizadas por ele. Ele dizia a todos: — Ninhada de cobras venenosas! Quem disse que vocês escaparão do terrível castigo que Deus vai mandar?
+
+[[v42-3-8]]
+
+^<<v42-3-8,8>>^ Façam coisas que mostrem que vocês se arrependeram dos seus pecados. E não digam uns aos outros: "Nós somos descendentes de Abraão." Pois eu afirmo a vocês que até destas pedras Deus pode fazer descendentes de Abraão!
+
+[[v42-3-9]]
+
+^<<v42-3-9,9>>^ O machado já está pronto para cortar as árvores pela raiz. Toda árvore que não dá frutas boas será cortada e jogada no fogo.
+
+[[v42-3-10]]
+
+^<<v42-3-10,10>>^ Então o povo perguntava: — O que devemos fazer?
+
+[[v42-3-11]]
+
+^<<v42-3-11,11>>^ Ele respondia: — Quem tiver duas túnicas  dê uma a quem não tem nenhuma, e quem tiver comida reparta com quem não tem.
+
+[[v42-3-12]]
+
+^<<v42-3-12,12>>^ Alguns cobradores de impostos também chegaram para serem batizados e perguntaram a João: — Mestre, o que devemos fazer?
+
+[[v42-3-13]]
+
+^<<v42-3-13,13>>^ — Não cobrem mais do que a lei  manda! — respondeu João.
+
+[[v42-3-14]]
+
+^<<v42-3-14,14>>^ Alguns soldados também perguntavam: — E nós, o que devemos fazer? E João respondia: — Não tomem dinheiro de ninguém, nem pela força nem por meio de acusações falsas. E se contentem com o salário que recebem.
+
+[[v42-3-15]]
+
+^<<v42-3-15,15>>^ As esperanças do povo começaram a aumentar, e eles pensavam que talvez João fosse o Messias .
+
+[[v42-3-16]]
+
+^<<v42-3-16,16>>^ Mas João disse a todos: — Eu batizo vocês com água, mas está chegando alguém que é mais importante do que eu, e não mereço a honra de desamarrar as correias das sandálias dele. Ele os batizará com o Espírito Santo e com fogo.
+
+[[v42-3-17]]
+
+^<<v42-3-17,17>>^ Com a pá que tem na mão, ele vai separar o trigo da palha. Guardará o trigo no seu depósito, mas queimará a palha no fogo que nunca se apaga.
+
+[[v42-3-18]]
+
+^<<v42-3-18,18>>^ João anunciava de muitas maneiras diferentes a boa notícia ao povo e apelava a eles para que mudassem de vida.
+
+[[v42-3-19]]
+
+^<<v42-3-19,19>>^ Mas falou contra o governador Herodes porque ele havia casado com Herodias, a esposa do irmão do próprio Herodes. E também porque ele tinha feito muitas outras coisas más.
+
+[[v42-3-20]]
+
+^<<v42-3-20,20>>^ Então Herodes fez uma coisa ainda pior: mandou pôr João na cadeia.
+
+[[v42-3-21]]
+
+^<<v42-3-21,21>>^ Depois do batismo de todo aquele povo, Jesus também foi batizado. E, quando Jesus estava orando, o céu se abriu,
+
+[[v42-3-22]]
+
+^<<v42-3-22,22>>^ e o Espírito Santo desceu na forma de uma pomba sobre ele. E do céu veio uma voz, que disse: — Tu és o meu Filho querido e me dás muita alegria.
+
+[[v42-3-23]]
+
+^<<v42-3-23,23>>^ Jesus começou o seu trabalho quando tinha mais ou menos trinta anos de idade. Ele era, conforme pensavam, filho de José, que era filho de Eli,
+
+[[v42-3-24]]
+
+^<<v42-3-24,24>>^ filho de Matate, filho de Levi, filho de Melqui, filho de Janai, filho de José,
+
+[[v42-3-25]]
+
+^<<v42-3-25,25>>^ filho de Matatias, filho de Amós, filho de Naum, filho de Esli, filho de Nagai,
+
+[[v42-3-26]]
+
+^<<v42-3-26,26>>^ filho de Maate, filho de Matatias, filho de Semei, filho de José, filho de Jodá,
+
+[[v42-3-27]]
+
+^<<v42-3-27,27>>^ filho de Joanã, filho de Resa, filho de Zorobabel, filho de Salatiel, filho de Neri,
+
+[[v42-3-28]]
+
+^<<v42-3-28,28>>^ filho de Melqui, filho de Adi, filho de Cosã, filho de Elmadã, filho de Er,
+
+[[v42-3-29]]
+
+^<<v42-3-29,29>>^ filho de Josué, filho de Eliézer, filho de Jorim, filho de Matate, filho de Levi,
+
+[[v42-3-30]]
+
+^<<v42-3-30,30>>^ filho de Simeão, filho de Judá, filho de José, filho de Jonã, filho de Eliaquim,
+
+[[v42-3-31]]
+
+^<<v42-3-31,31>>^ filho de Meleá, filho de Mená, filho de Matatá, filho de Natã, filho de Davi,
+
+[[v42-3-32]]
+
+^<<v42-3-32,32>>^ filho de Jessé, filho de Obede, filho de Boaz, filho de Sala, filho de Nasom,
+
+[[v42-3-33]]
+
+^<<v42-3-33,33>>^ filho de Aminadabe, filho de Admim, filho de Arni, filho de Esrom, filho de Peres, filho de Judá,
+
+[[v42-3-34]]
+
+^<<v42-3-34,34>>^ filho de Jacó, filho de Isaque, filho de Abraão, filho de Tera, filho de Naor,
+
+[[v42-3-35]]
+
+^<<v42-3-35,35>>^ filho de Serugue, filho de Reú, filho de Pelegue, filho de Éber, filho de Selá,
+
+[[v42-3-36]]
+
+^<<v42-3-36,36>>^ filho de Cainã, filho de Arpaxade, filho de Sem, filho de Noé, filho de Lameque,
+
+[[v42-3-37]]
+
+^<<v42-3-37,37>>^ filho de Matusalém, filho de Enoque, filho de Jarede, filho de Maalalel, filho de Cainã,
+
+[[v42-3-38]]
+
+^<<v42-3-38,38>>^ filho de Enos, filho de Sete, filho de Adão, filho de Deus.
+
+'''
+
+xref:042-lucas/042-lucas-002.adoc#v42-2-0[&#60; Capítulo Anterior] | <<v42-3-0,Topo>> | xref:042-lucas/042-lucas-004.adoc#v42-4-0[Próximo Capítulo &#62;]

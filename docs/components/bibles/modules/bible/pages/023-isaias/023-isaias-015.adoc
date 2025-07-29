@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v23-15-0]]
+=== Isaías, 15
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v23-15-1]]
+
+^<<v23-15-1,1>>^ Esta é a mensagem contra Moabe: A cidade de Ar foi destruída; numa só noite foi arrasada! Também Quir foi destruída, numa só noite foi arrasada!
+
+[[v23-15-2]]
+
+^<<v23-15-2,2>>^ Os moradores de Dibom chorarão no lugar sagrado que fica no monte. Os moabitas choram a destruição das cidades de Nebo e de Medeba; em sinal de tristeza, rapam a cabeça e a barba.
+
+[[v23-15-3]]
+
+^<<v23-15-3,3>>^ Andam pelas ruas vestindo roupas feitas de pano grosseiro; gritam e choram amargamente nas praças e nos terraços das casas.
+
+[[v23-15-4]]
+
+^<<v23-15-4,4>>^ Os moradores de Hesbom e de Eleal gritam de dor, e os seus gritos são ouvidos em Jasa. Os soldados de Moabe perdem a coragem e ficam tremendo de medo.
+
+[[v23-15-5]]
+
+^<<v23-15-5,5>>^ Eu choro por causa de Moabe. O seu povo fugiu até Zoar e Eglate-Selisia. Alguns, chorando, vão subindo até Luíte; outros, gritando de dor, fogem para Horonaim.
+
+[[v23-15-6]]
+
+^<<v23-15-6,6>>^ O riacho de Ninrim está seco; todos os pastos secaram, as plantas morreram, não sobrou nada de verde.
+
+[[v23-15-7]]
+
+^<<v23-15-7,7>>^ O povo de Moabe foge para o outro lado do riacho dos Salgueiros, levando consigo todos os seus bens.
+
+[[v23-15-8]]
+
+^<<v23-15-8,8>>^ Ouvem-se gritos por toda a terra de Moabe; em Eglaim e em Beer-Elim, ouve-se o barulho de choro.
+
+[[v23-15-9]]
+
+^<<v23-15-9,9>>^ O rio que fica perto de Dibom está cheio de sangue, mas Deus vai fazer contra Dibom uma coisa ainda pior: ele vai fazer com que as pessoas que ficarem vivas em Moabe sejam devoradas por leões.
+
+'''
+
+xref:023-isaias/023-isaias-014.adoc#v23-14-0[&#60; Capítulo Anterior] | <<v23-15-0,Topo>> | xref:023-isaias/023-isaias-016.adoc#v23-16-0[Próximo Capítulo &#62;]

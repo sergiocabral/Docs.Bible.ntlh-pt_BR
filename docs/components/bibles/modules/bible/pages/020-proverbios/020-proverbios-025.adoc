@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v20-25-0]]
+=== Provérbios, 25
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v20-25-1]]
+
+^<<v20-25-1,1>>^ Aqui estão mais alguns provérbios de Salomão, escolhidos e copiados por homens que estavam a serviço do rei Ezequias, de Judá.
+
+[[v20-25-2]]
+
+^<<v20-25-2,2>>^ Respeitamos a Deus por causa daquilo que ele esconde de nós; e respeitamos as autoridades por causa daquilo que elas nos explicam.
+
+[[v20-25-3]]
+
+^<<v20-25-3,3>>^ Você nunca sabe o que um rei está pensando; os pensamentos dele estão fora do nosso alcance, assim como as alturas do céu ou as profundezas da terra.
+
+[[v20-25-4]]
+
+^<<v20-25-4,4>>^ Purifique a prata, e o artista poderá fazer uma obra de arte.
+
+[[v20-25-5]]
+
+^<<v20-25-5,5>>^ Afaste do rei os maus conselheiros porque o que torna forte um governo é a justiça.
+
+[[v20-25-6]]
+
+^<<v20-25-6,6>>^ Quando você estiver diante das autoridades, não se faça de importante.
+
+[[v20-25-7]]
+
+^<<v20-25-7,7>>^ É melhor que depois lhe deem um lugar de honra do que você ser humilhado na presença das autoridades.
+
+[[v20-25-8]]
+
+^<<v20-25-8,8>>^ Não tenha pressa de ir ao tribunal para contar o que você viu. Se mais tarde outra testemunha provar que você está errado, o que é que você vai fazer?
+
+[[v20-25-9]]
+
+^<<v20-25-9,9>>^ Defenda a sua causa contra o seu vizinho, mas não revele nada que alguém lhe tenha contado a respeito do assunto.
+
+[[v20-25-10]]
+
+^<<v20-25-10,10>>^ Do contrário todos ficarão sabendo que você não consegue guardar segredos, e você nunca mais se livrará desta vergonha.
+
+[[v20-25-11]]
+
+^<<v20-25-11,11>>^ A palavra certa na hora certa é como um desenho de ouro feito em cima de prata.
+
+[[v20-25-12]]
+
+^<<v20-25-12,12>>^ Quando alguém está querendo aprender, o conselho de uma pessoa experiente vale mais do que anéis de ouro ou joias de ouro puro.
+
+[[v20-25-13]]
+
+^<<v20-25-13,13>>^ Como água fresca no calor do tempo da colheita, assim o mensageiro de confiança reanima quem o mandou.
+
+[[v20-25-14]]
+
+^<<v20-25-14,14>>^ Quem promete e não dá é como a nuvem e o vento que não trazem chuva.
+
+[[v20-25-15]]
+
+^<<v20-25-15,15>>^ A paciência convence até as autoridades; a perseverança pode vencer qualquer dificuldade.
+
+[[v20-25-16]]
+
+^<<v20-25-16,16>>^ Não coma mel demais, pois você pode vomitar.
+
+[[v20-25-17]]
+
+^<<v20-25-17,17>>^ Não vá a toda hora à casa do vizinho, pois ele pode se cansar e acabar ficando com raiva de você.
+
+[[v20-25-18]]
+
+^<<v20-25-18,18>>^ A pessoa que diz mentiras a respeito dos outros é tão perigosa quanto uma espada, um porrete ou uma flecha afiada.
+
+[[v20-25-19]]
+
+^<<v20-25-19,19>>^ Num momento de dificuldade, depender de uma pessoa que não merece confiança é como mastigar com um dente estragado, andar com um pé aleijado
+
+[[v20-25-20]]
+
+^<<v20-25-20,20>>^ ou querer se esquentar, num dia frio, tirando a roupa. Cantar para quem está triste é como esfregar sal numa ferida.
+
+[[v20-25-21]]
+
+^<<v20-25-21,21>>^ Se o seu inimigo estiver com fome, dê comida a ele; se estiver com sede, dê água.
+
+[[v20-25-22]]
+
+^<<v20-25-22,22>>^ Porque assim você o fará queimar de remorso e vergonha, e o Senhor  Deus recompensará você.
+
+[[v20-25-23]]
+
+^<<v20-25-23,23>>^ Assim como o vento norte traz chuva, os mexericos trazem ódio.
+
+[[v20-25-24]]
+
+^<<v20-25-24,24>>^ É melhor morar no fundo do quintal do que dentro de casa com uma mulher briguenta.
+
+[[v20-25-25]]
+
+^<<v20-25-25,25>>^ Ouvir uma boa notícia que a gente não espera é como tomar um gole de água fresca quando se tem sede.
+
+[[v20-25-26]]
+
+^<<v20-25-26,26>>^ A pessoa boa que se deixa levar por uma pessoa má é como uma fonte de água barrenta ou como um poço contaminado.
+
+[[v20-25-27]]
+
+^<<v20-25-27,27>>^ Assim como mel demais não faz bem, também não é bom andar procurando elogios.
+
+[[v20-25-28]]
+
+^<<v20-25-28,28>>^ Quem não sabe se controlar é tão sem defesa como uma cidade sem muralhas.
+
+'''
+
+xref:020-proverbios/020-proverbios-024.adoc#v20-24-0[&#60; Capítulo Anterior] | <<v20-25-0,Topo>> | xref:020-proverbios/020-proverbios-026.adoc#v20-26-0[Próximo Capítulo &#62;]

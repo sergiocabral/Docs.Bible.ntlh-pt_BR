@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v17-8-0]]
+=== Ester, 8
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v17-8-1]]
+
+^<<v17-8-1,1>>^ Naquele mesmo dia o rei Xerxes deu à rainha Ester a casa e os bens de Hamã, o inimigo dos judeus. E Mordecai foi apresentado ao rei porque Ester contou que Mordecai era seu parente.
+
+[[v17-8-2]]
+
+^<<v17-8-2,2>>^ Então o rei tirou o seu anel-sinete , que ele tinha tomado de Hamã, e o deu a Mordecai. E Ester nomeou Mordecai como administrador de todos os bens de Hamã.
+
+[[v17-8-3]]
+
+^<<v17-8-3,3>>^ Depois Ester se jogou aos pés do rei e, chorando, pediu que anulasse a ordem de Hamã, o descendente de Agague , e que não deixasse que o terrível plano de Hamã contra os judeus fosse executado.
+
+[[v17-8-4]]
+
+^<<v17-8-4,4>>^ O rei estendeu o cetro  de ouro para Ester; ela se levantou e ficou de pé diante dele.
+
+[[v17-8-5]]
+
+^<<v17-8-5,5>>^ Então disse: — Se for do agrado do rei, e se eu puder contar com a sua bondade, e se o senhor achar que o que eu peço está certo, então assine um decreto anulando a ordem de Hamã, a ordem que o filho de Hamedata e descendente de Agague deu para que no reino inteiro todos os judeus sejam mortos.
+
+[[v17-8-6]]
+
+^<<v17-8-6,6>>^ Pois eu não poderei suportar a destruição do meu povo e a morte dos meus parentes!
+
+[[v17-8-7]]
+
+^<<v17-8-7,7>>^ E o rei Xerxes disse à rainha Ester e ao judeu Mordecai: — Eu mandei enforcar Hamã por causa do plano que ele havia feito para matar os judeus e dei todos os seus bens a Ester.
+
+[[v17-8-8]]
+
+^<<v17-8-8,8>>^ Mas uma ordem dada em nome do rei e carimbada com o anel real não pode ser anulada. Porém escrevam o que quiserem aos judeus, assinem em meu nome e selem  as cartas com o meu anel.
+
+[[v17-8-9]]
+
+^<<v17-8-9,9>>^ Isso aconteceu no dia vinte e três do terceiro mês, o mês de sivã . Mordecai mandou chamar os secretários do rei e ditou um decreto aos judeus, aos representantes do rei, aos governadores das províncias  e aos chefes dos vários povos em todas as províncias do reino, que eram cento e vinte e sete ao todo e iam desde a Índia até a Etiópia. O decreto foi traduzido para todas as línguas faladas no reino, e cada tradução seguia a escrita usada em cada província; o decreto foi copiado também na língua e na escrita dos judeus.
+
+[[v17-8-10]]
+
+^<<v17-8-10,10>>^ As cartas foram escritas em nome do rei, carimbadas com o anel real e levadas por mensageiros montados em cavalos criados nas estrebarias do rei.
+
+[[v17-8-11]]
+
+^<<v17-8-11,11>>^ Nas cartas, o rei dava autorização aos judeus de todas as cidades do reino para se organizarem e se defenderem contra qualquer ataque. Se homens armados de qualquer povo ou qualquer província do reino atacassem os judeus, estes podiam combatê-los e matá-los. Podiam acabar com todos os seus inimigos, até mesmo as mulheres e as crianças, e ficar com os seus bens.
+
+[[v17-8-12]]
+
+^<<v17-8-12,12>>^ Em todas as províncias, os judeus tinham ordem para fazer isso no dia marcado para a matança, isto é, o dia treze do décimo segundo mês, o mês de adar .
+
+[[v17-8-13]]
+
+^<<v17-8-13,13>>^ Uma cópia da ordem do rei devia ser publicada como lei  e ser lida em público em todas as províncias, para que no dia marcado os judeus estivessem prontos para se vingar dos seus inimigos.
+
+[[v17-8-14]]
+
+^<<v17-8-14,14>>^ O rei deu a ordem, os mensageiros montaram cavalos ligeiros da estrebaria real e saíram depressa. O decreto foi lido em público também em Susã, a capital.
+
+[[v17-8-15]]
+
+^<<v17-8-15,15>>^ Mordecai saiu do palácio usando uma roupa real azul e branca, com uma grande coroa de ouro na cabeça, e uma capa  vermelha de linho fino. Todos os moradores da cidade de Susã ficaram muito contentes e soltaram gritos de alegria.
+
+[[v17-8-16]]
+
+^<<v17-8-16,16>>^ E para os judeus brilhou a luz da felicidade, da alegria e da vitória.
+
+[[v17-8-17]]
+
+^<<v17-8-17,17>>^ Em todas as cidades do reino onde foi lida a ordem do rei, os judeus ficaram felizes, e se alegraram, e comemoraram com festas e banquetes. Além disso, entre os vários povos do reino muitos se tornaram judeus, pois agora estavam com medo deles.
+
+'''
+
+xref:017-ester/017-ester-007.adoc#v17-7-0[&#60; Capítulo Anterior] | <<v17-8-0,Topo>> | xref:017-ester/017-ester-009.adoc#v17-9-0[Próximo Capítulo &#62;]

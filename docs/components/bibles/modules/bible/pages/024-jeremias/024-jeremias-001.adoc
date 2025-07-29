@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v24-1-0]]
+=== Jeremias, 1
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v24-1-1]]
+
+^<<v24-1-1,1>>^ Este livro conta o que Jeremias disse e fez. Jeremias era filho de Hilquias, um dos sacerdotes da cidade de Anatote, no território da tribo  de Benjamim.
+
+[[v24-1-2]]
+
+^<<v24-1-2,2>>^ Quando Josias, filho de Amom, estava no ano treze do seu reinado em Judá, o Senhor  Deus falou com Jeremias.
+
+[[v24-1-3]]
+
+^<<v24-1-3,3>>^ E falou de novo quando Jeoaquim, filho de Josias, era rei. Depois disso, Deus falou com Jeremias muitas vezes, até o tempo em que o povo da cidade de Jerusalém foi levado como prisioneiro para fora da sua terra. Isso aconteceu no quinto mês do ano décimo primeiro do reinado de Zedequias, filho de Josias.
+
+[[v24-1-4]]
+
+^<<v24-1-4,4>>^ O Senhor  Deus me disse:
+
+[[v24-1-5]]
+
+^<<v24-1-5,5>>^ — Antes do seu nascimento, quando você ainda estava na barriga da sua mãe, eu o escolhi e separei para que você fosse um profeta  para as nações.
+
+[[v24-1-6]]
+
+^<<v24-1-6,6>>^ Então eu disse: — Ó Senhor , meu Deus, eu não sei como falar, pois sou muito jovem.
+
+[[v24-1-7]]
+
+^<<v24-1-7,7>>^ Mas o Senhor  respondeu: — Não diga que é muito jovem, mas vá e fale com as pessoas a quem eu o enviar e diga tudo o que eu mandar.
+
+[[v24-1-8]]
+
+^<<v24-1-8,8>>^ Não tenha medo de ninguém, pois eu estarei com você para protegê-lo. Sou eu, o Senhor , quem está falando.
+
+[[v24-1-9]]
+
+^<<v24-1-9,9>>^ Aí o Senhor  estendeu a mão, tocou nos meus lábios e disse: — Veja! Eu estou lhe dando a mensagem que você deve anunciar.
+
+[[v24-1-10]]
+
+^<<v24-1-10,10>>^ Hoje, estou lhe dando poder sobre nações e reinos, poder para arrancar e derrubar, para destruir e arrasar, para construir e plantar.
+
+[[v24-1-11]]
+
+^<<v24-1-11,11>>^ O Senhor  me perguntou: — O que é que você está vendo? — Um galho de amendoeira! — respondi.
+
+[[v24-1-12]]
+
+^<<v24-1-12,12>>^ O Senhor  me disse: — Você está certo; eu também estou vigiando para que as minhas palavras se cumpram.
+
+[[v24-1-13]]
+
+^<<v24-1-13,13>>^ O Senhor  falou comigo outra vez e perguntou: — O que mais você está vendo? Eu respondi: — Estou vendo no Norte uma panela fervendo e se derramando para o lado de cá.
+
+[[v24-1-14]]
+
+^<<v24-1-14,14>>^ Então o Senhor  disse: — Do Norte, virá a destruição, que se derramará em cima de todos os que vivem nesta terra.
+
+[[v24-1-15]]
+
+^<<v24-1-15,15>>^ Eu vou chamar todas as nações do Norte. Os reis dessas nações chegarão aqui e colocarão o seu trono na frente dos portões de Jerusalém, em volta das suas muralhas e também em volta das outras cidades de Judá.
+
+[[v24-1-16]]
+
+^<<v24-1-16,16>>^ Vou castigar os seus moradores por causa da sua maldade. Eles me abandonaram, estão queimando incenso a outros deuses e adorando os ídolos que fizeram com as suas próprias mãos.
+
+[[v24-1-17]]
+
+^<<v24-1-17,17>>^ Jeremias, prepare-se para ir. Vá dizer a eles tudo o que eu mandar. Não tenha medo deles agora, pois, do contrário, eu farei com que você fique com mais medo ainda quando estiver no meio deles.
+
+[[v24-1-18]]
+
+^<<v24-1-18,18>>^ Escute, Jeremias! Todas as pessoas desta terra, isto é, os reis de Judá, as autoridades, os sacerdotes e o povo, vão ficar contra você. Mas hoje eu estou lhe dando forças para poder enfrentar essa gente. Você será como uma cidade cercada de muralhas, como um poste de ferro, como um muro de bronze. Eles não o derrotarão, pois eu estarei ao seu lado para protegê-lo. Eu, o Senhor , falei.
+
+'''
+
+xref:023-isaias/023-isaias-066.adoc#v23-66-0[&#60; Capítulo Anterior] | <<v24-1-0,Topo>> | xref:024-jeremias/024-jeremias-002.adoc#v24-2-0[Próximo Capítulo &#62;]

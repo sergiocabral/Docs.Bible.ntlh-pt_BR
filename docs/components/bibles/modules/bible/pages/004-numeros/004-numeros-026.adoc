@@ -1,0 +1,249 @@
+include::./index.adoc[]
+
+[[v4-26-0]]
+=== Números, 26
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v4-26-1]]
+
+^<<v4-26-1,1>>^ Depois da epidemia, o Senhor  disse a Moisés e a Eleazar, filho do sacerdote Arão, o seguinte:
+
+[[v4-26-2]]
+
+^<<v4-26-2,2>>^ — Façam a contagem de todos os homens israelitas de vinte anos para cima, família por família, isto é, todos os que já têm idade para o serviço militar.
+
+[[v4-26-3]]
+
+^<<v4-26-3,3>>^ Moisés e Eleazar obedeceram e reuniram todos os homens com idade para prestar serviço militar. Eles se reuniram nas planícies de Moabe, na beira do rio Jordão, na altura de Jericó, que ficava no outro lado do rio. São estes os israelitas que saíram do Egito:
+
+[[v4-26-4]]
+
+^<<v4-26-4,4>>^ Moisés e Eleazar obedeceram e reuniram todos os homens com idade para prestar serviço militar. Eles se reuniram nas planícies de Moabe, na beira do rio Jordão, na altura de Jericó, que ficava no outro lado do rio.
+
+[[v4-26-5]]
+
+^<<v4-26-5,5>>^ A tribo  de Rúben (Rúben era o filho mais velho de Jacó): os grupos de famílias de Enoque, Palu,
+
+[[v4-26-6]]
+
+^<<v4-26-6,6>>^ Hezrom e Carmi.
+
+[[v4-26-7]]
+
+^<<v4-26-7,7>>^ Desses grupos de famílias foram contados quarenta e três mil setecentos e trinta homens.
+
+[[v4-26-8]]
+
+^<<v4-26-8,8>>^ Os descendentes de Palu eram Eliabe
+
+[[v4-26-9]]
+
+^<<v4-26-9,9>>^ e os seus filhos Nemuel, Datã e Abirão (Datã e Abirão foram escolhidos pelo povo. Eles se revoltaram contra Moisés e Arão e se juntaram com os seguidores de Corá, na revolta contra Deus, o Senhor .
+
+[[v4-26-10]]
+
+^<<v4-26-10,10>>^ A terra se abriu e os engoliu, e eles morreram com Corá e os seus seguidores. O fogo matou duzentos e cinquenta homens, e isso serviu como um aviso para o povo.
+
+[[v4-26-11]]
+
+^<<v4-26-11,11>>^ Mas os filhos de Corá não foram mortos.).
+
+[[v4-26-12]]
+
+^<<v4-26-12,12>>^ A tribo de Simeão: os grupos de famílias de Nemuel, Jamim, Jaquim,
+
+[[v4-26-13]]
+
+^<<v4-26-13,13>>^ Zera e Saul.
+
+[[v4-26-14]]
+
+^<<v4-26-14,14>>^ Desses grupos de famílias foram contados vinte e dois mil e duzentos homens.
+
+[[v4-26-15]]
+
+^<<v4-26-15,15>>^ A tribo de Gade: os grupos de famílias de Zefom, Hagui, Suni,
+
+[[v4-26-16]]
+
+^<<v4-26-16,16>>^ Ozni, Eri,
+
+[[v4-26-17]]
+
+^<<v4-26-17,17>>^ Arode e Areli.
+
+[[v4-26-18]]
+
+^<<v4-26-18,18>>^ Desses grupos de famílias foram contados quarenta mil e quinhentos homens.
+
+[[v4-26-19]]
+
+^<<v4-26-19,19>>^ A tribo de Judá: os grupos de famílias de Selá, Peres, Zera, Hezrom e Hamul (Dois filhos de Judá, isto é, Er e Onã, haviam morrido em Canaã.).
+
+[[v4-26-20]]
+
+^<<v4-26-20,20>>^ A tribo de Judá: os grupos de famílias de Selá, Peres, Zera, Hezrom e Hamul (Dois filhos de Judá, isto é, Er e Onã, haviam morrido em Canaã.).
+
+[[v4-26-21]]
+
+^<<v4-26-21,21>>^ A tribo de Judá: os grupos de famílias de Selá, Peres, Zera, Hezrom e Hamul (Dois filhos de Judá, isto é, Er e Onã, haviam morrido em Canaã.).
+
+[[v4-26-22]]
+
+^<<v4-26-22,22>>^ Desses grupos de famílias foram contados setenta e seis mil e quinhentos homens.
+
+[[v4-26-23]]
+
+^<<v4-26-23,23>>^ A tribo de Issacar: os grupos de famílias de Tolá, Puva,
+
+[[v4-26-24]]
+
+^<<v4-26-24,24>>^ Jasube e Sinrom.
+
+[[v4-26-25]]
+
+^<<v4-26-25,25>>^ Desses grupos de famílias foram contados sessenta e quatro mil e trezentos homens.
+
+[[v4-26-26]]
+
+^<<v4-26-26,26>>^ A tribo de Zebulom: os grupos de famílias de Serede, Elom e Jaleel.
+
+[[v4-26-27]]
+
+^<<v4-26-27,27>>^ Desses grupos de famílias foram contados sessenta mil e quinhentos homens.
+
+[[v4-26-28]]
+
+^<<v4-26-28,28>>^ As tribos de Manassés e Efraim, que eram filhos de José.
+
+[[v4-26-29]]
+
+^<<v4-26-29,29>>^ A tribo de Manassés: Maquir, filho de Manassés, era pai de Gileade, e os seguintes grupos de famílias são descendentes de Gileade:
+
+[[v4-26-30]]
+
+^<<v4-26-30,30>>^ os grupos de famílias de Iezer, Heleque,
+
+[[v4-26-31]]
+
+^<<v4-26-31,31>>^ Asriel, Siquém,
+
+[[v4-26-32]]
+
+^<<v4-26-32,32>>^ Semida e Héfer.
+
+[[v4-26-33]]
+
+^<<v4-26-33,33>>^ Zelofeade, filho de Héfer, não tinha filhos; somente filhas. Os nomes das filhas de Zelofeade eram: Macla, Noa, Hogla, Milca e Tirza.
+
+[[v4-26-34]]
+
+^<<v4-26-34,34>>^ Desses grupos de famílias foram contados cinquenta e dois mil e setecentos homens.
+
+[[v4-26-35]]
+
+^<<v4-26-35,35>>^ A tribo de Efraim: os grupos de famílias de Sutela, Bequer e Taã.
+
+[[v4-26-36]]
+
+^<<v4-26-36,36>>^ O grupo de famílias de Erã descendia de Sutela.
+
+[[v4-26-37]]
+
+^<<v4-26-37,37>>^ Desses grupos de famílias foram contados trinta e dois mil e quinhentos homens. São esses os grupos de famílias descendentes de José.
+
+[[v4-26-38]]
+
+^<<v4-26-38,38>>^ A tribo de Benjamim: os grupos de famílias de Belá, Asbel, Airão,
+
+[[v4-26-39]]
+
+^<<v4-26-39,39>>^ Sufã e Hufã.
+
+[[v4-26-40]]
+
+^<<v4-26-40,40>>^ Os grupos de famílias de Arde e Naamã eram descendentes de Belá.
+
+[[v4-26-41]]
+
+^<<v4-26-41,41>>^ Desses grupos de famílias foram contados quarenta e cinco mil e seiscentos homens.
+
+[[v4-26-42]]
+
+^<<v4-26-42,42>>^ A tribo de Dã: o grupo de famílias de Suão,
+
+[[v4-26-43]]
+
+^<<v4-26-43,43>>^ que tinha sessenta e quatro mil e quatrocentos homens.
+
+[[v4-26-44]]
+
+^<<v4-26-44,44>>^ A tribo de Aser: os grupos de famílias de Imna, Isvi e Berias.
+
+[[v4-26-45]]
+
+^<<v4-26-45,45>>^ Os grupos de famílias de Héber e Malquiel são descendentes de Berias.
+
+[[v4-26-46]]
+
+^<<v4-26-46,46>>^ A filha de Aser se chamava Sera.
+
+[[v4-26-47]]
+
+^<<v4-26-47,47>>^ Desses grupos de famílias foram contados cinquenta e três mil e quatrocentos homens.
+
+[[v4-26-48]]
+
+^<<v4-26-48,48>>^ A tribo de Naftali: os grupos de famílias de Jazeel, Guni,
+
+[[v4-26-49]]
+
+^<<v4-26-49,49>>^ Jezer e Silém.
+
+[[v4-26-50]]
+
+^<<v4-26-50,50>>^ Desses grupos de famílias foram contados quarenta e cinco mil e quatrocentos homens.
+
+[[v4-26-51]]
+
+^<<v4-26-51,51>>^ O número total dos homens israelitas era de seiscentos e um mil setecentos e trinta homens.
+
+[[v4-26-52]]
+
+^<<v4-26-52,52>>^ O Senhor  Deus disse a Moisés:
+
+[[v4-26-53]]
+
+^<<v4-26-53,53>>^ — Divida a terra entre as tribos, conforme o tamanho delas.
+
+[[v4-26-54]]
+
+^<<v4-26-54,54>>^ Divida por sorteio  e dê as partes maiores para as tribos maiores; e as partes menores, para as tribos menores.
+
+[[v4-26-55]]
+
+^<<v4-26-55,55>>^ Divida por sorteio  e dê as partes maiores para as tribos maiores; e as partes menores, para as tribos menores.
+
+[[v4-26-56]]
+
+^<<v4-26-56,56>>^ Divida por sorteio  e dê as partes maiores para as tribos maiores; e as partes menores, para as tribos menores.
+
+[[v4-26-57]]
+
+^<<v4-26-57,57>>^ A tribo  de Levi era formada pelos grupos de famílias de Gérson, Coate e Merari.
+
+[[v4-26-58]]
+
+^<<v4-26-58,58>>^ Os grupos de famílias de Libni, Hebrom, Mali, Musi e Corá eram descendentes de Levi. Coate era o pai de Anrão.
+
+[[v4-26-59]]
+
+^<<v4-26-59,59>>^ A mulher de Anrão era Joquebede, filha de Levi; ela havia nascido no Egito. Joquebede deu a Anrão dois filhos: Arão e Moisés, e uma filha, chamada Míriam.
+
+[[v4-26-60]]
+
+^<<v4-26-60,60>>^ Arão tinha quatro filhos: Nadabe, Abiú, Eleazar e Itamar.
+
+'''
+
+xref:004-numeros/004-numeros-025.adoc#v4-25-0[&#60; Capítulo Anterior] | <<v4-26-0,Topo>> | xref:004-numeros/004-numeros-027.adoc#v4-27-0[Próximo Capítulo &#62;]

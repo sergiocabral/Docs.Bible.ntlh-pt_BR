@@ -1,0 +1,37 @@
+include::./index.adoc[]
+
+[[v19-110-0]]
+=== Salmos, 110
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-110-1]]
+
+^<<v19-110-1,1>>^ O Senhor  Deus disse ao meu senhor, o rei: "Sente-se do meu lado direito, até que eu ponha os seus inimigos debaixo dos seus pés."
+
+[[v19-110-2]]
+
+^<<v19-110-2,2>>^ Ó rei, o Senhor  Deus estenderá desde Jerusalém o poder do senhor. "Domine os seus inimigos" — disse o Senhor  Deus.
+
+[[v19-110-3]]
+
+^<<v19-110-3,3>>^ No dia em que o senhor, ó rei, os combater, o seu povo se apresentará como voluntário. Como o orvalho da madrugada, os jovens se encontrarão com o senhor nos montes sagrados.
+
+[[v19-110-4]]
+
+^<<v19-110-4,4>>^ O Senhor  Deus fez este juramento e não voltará atrás: "Você será sacerdote para sempre, na ordem do sacerdócio de Melquisedeque."
+
+[[v19-110-5]]
+
+^<<v19-110-5,5>>^ Ó rei, Deus está do seu lado direito e derrotará reis no dia em que se irar .
+
+[[v19-110-6]]
+
+^<<v19-110-6,6>>^ Ele julgará as nações, cobrirá de mortos os campos de batalha e, no mundo inteiro, derrotará reis.
+
+[[v19-110-7]]
+
+^<<v19-110-7,7>>^ No caminho, o rei beberá água de um ribeirão e se levantará vitorioso.
+
+'''
+
+xref:019-salmos/019-salmos-109.adoc#v19-109-0[&#60; Capítulo Anterior] | <<v19-110-0,Topo>> | xref:019-salmos/019-salmos-111.adoc#v19-111-0[Próximo Capítulo &#62;]

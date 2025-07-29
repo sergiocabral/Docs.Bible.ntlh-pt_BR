@@ -1,0 +1,213 @@
+include::./index.adoc[]
+
+[[v10-22-0]]
+=== 2 Samuel, 22
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v10-22-1]]
+
+^<<v10-22-1,1>>^ Este é o hino que Davi cantou a Deus, o Senhor , quando ele o salvou de Saul e de todos os seus inimigos:
+
+[[v10-22-2]]
+
+^<<v10-22-2,2>>^ O Senhor  é a minha rocha, a minha fortaleza e o meu libertador.
+
+[[v10-22-3]]
+
+^<<v10-22-3,3>>^ O meu Deus é uma rocha em que me escondo. Ele me protege como um escudo ; ele é o meu abrigo, e com ele estou seguro. Deus é o meu Salvador; ele me protege e me livra da violência.
+
+[[v10-22-4]]
+
+^<<v10-22-4,4>>^ Eu clamo ao Senhor  pedindo ajuda, e ele me salva dos meus inimigos. Louvem o Senhor !
+
+[[v10-22-5]]
+
+^<<v10-22-5,5>>^ Estive cercado de perigos de morte, e ondas da destruição rolaram sobre mim.
+
+[[v10-22-6]]
+
+^<<v10-22-6,6>>^ A morte me amarrou com as suas cordas, e a sepultura armou a sua armadilha para me pegar.
+
+[[v10-22-7]]
+
+^<<v10-22-7,7>>^ No meu desespero eu clamei ao Senhor ; eu pedi que ele me ajudasse. No seu templo ele ouviu a minha voz, ele escutou o meu grito de socorro.
+
+[[v10-22-8]]
+
+^<<v10-22-8,8>>^ Então a terra tremeu e se abalou, e as bases dos montes balançaram e tremeram porque Deus estava irado .
+
+[[v10-22-9]]
+
+^<<v10-22-9,9>>^ Do seu nariz saiu fumaça, e da sua boca saíram brasas e fogo devorador.
+
+[[v10-22-10]]
+
+^<<v10-22-10,10>>^ Ele abriu o céu e desceu com uma nuvem escura debaixo dos pés.
+
+[[v10-22-11]]
+
+^<<v10-22-11,11>>^ Voou nas costas de um querubim e viajou rápido nas asas do vento.
+
+[[v10-22-12]]
+
+^<<v10-22-12,12>>^ Ele se cobriu de escuridão; nuvens grossas, cheias de água, estavam ao seu redor;
+
+[[v10-22-13]]
+
+^<<v10-22-13,13>>^ com o relâmpago, brasas se acenderam diante dele.
+
+[[v10-22-14]]
+
+^<<v10-22-14,14>>^ Então o Senhor  trovejou do céu, e o Altíssimo fez ouvir a sua voz.
+
+[[v10-22-15]]
+
+^<<v10-22-15,15>>^ Ele atirou as suas flechas e espalhou os seus inimigos; e com o clarão dos seus relâmpagos ele os fez fugir.
+
+[[v10-22-16]]
+
+^<<v10-22-16,16>>^ Quando o Senhor  repreendeu os seus inimigos e, furioso, trovejou contra eles, o fundo do mar apareceu, e os alicerces da terra ficaram descobertos.
+
+[[v10-22-17]]
+
+^<<v10-22-17,17>>^ Lá do alto o Senhor  me estendeu a mão e me segurou; ele me tirou do mar profundo.
+
+[[v10-22-18]]
+
+^<<v10-22-18,18>>^ O Senhor  me livrou dos meus poderosos inimigos, daqueles que me odiavam. E todos eles eram fortes demais para mim.
+
+[[v10-22-19]]
+
+^<<v10-22-19,19>>^ Quando eu estava em dificuldade, eles me atacaram; porém o Senhor  Deus me protegeu,
+
+[[v10-22-20]]
+
+^<<v10-22-20,20>>^ me livrou do perigo e me salvou porque me ama.
+
+[[v10-22-21]]
+
+^<<v10-22-21,21>>^ O Senhor  me recompensa porque sou honesto; ele me abençoa porque sou inocente.
+
+[[v10-22-22]]
+
+^<<v10-22-22,22>>^ Eu tenho feito a vontade do Senhor e nunca cometi o pecado de abandonar o meu Deus.
+
+[[v10-22-23]]
+
+^<<v10-22-23,23>>^ Eu tenho cumprido todas as suas leis e não tenho desobedecido aos seus mandamentos.
+
+[[v10-22-24]]
+
+^<<v10-22-24,24>>^ O Senhor  sabe que não cometi nenhuma falta e que tenho ficado longe do mal.
+
+[[v10-22-25]]
+
+^<<v10-22-25,25>>^ Assim ele me recompensa porque sou honesto, e porque sabe que não sou culpado de nada.
+
+[[v10-22-26]]
+
+^<<v10-22-26,26>>^ Tu, ó Senhor  Deus, és fiel para os que são fiéis a ti e correto com aqueles que são corretos.
+
+[[v10-22-27]]
+
+^<<v10-22-27,27>>^ Tu és puro para os que são puros, mas és inimigo dos que são maus.
+
+[[v10-22-28]]
+
+^<<v10-22-28,28>>^ Tu salvas os humildes, mas humilhas os orgulhosos.
+
+[[v10-22-29]]
+
+^<<v10-22-29,29>>^ Tu, ó Senhor , és a minha luz; tu, Senhor , acabas com a minha escuridão.
+
+[[v10-22-30]]
+
+^<<v10-22-30,30>>^ Tu me dás força para atacar os meus inimigos e poder para vencer as suas defesas.
+
+[[v10-22-31]]
+
+^<<v10-22-31,31>>^ Este Deus faz tudo perfeito e cumpre o que promete. Ele é como um escudo para os que procuram a sua proteção.
+
+[[v10-22-32]]
+
+^<<v10-22-32,32>>^ O Senhor  é o único Deus; somente Deus é a nossa rocha.
+
+[[v10-22-33]]
+
+^<<v10-22-33,33>>^ Ele é o meu forte refúgio e me protege aonde quer que eu vá.
+
+[[v10-22-34]]
+
+^<<v10-22-34,34>>^ Ele não me deixa tropeçar e me põe a salvo nas montanhas.
+
+[[v10-22-35]]
+
+^<<v10-22-35,35>>^ Ele me treina para a batalha para que eu possa usar os arcos mais fortes.
+
+[[v10-22-36]]
+
+^<<v10-22-36,36>>^ Tu, ó Senhor , me deste o escudo que salva a minha vida; o teu cuidado me tem feito prosperar.
+
+[[v10-22-37]]
+
+^<<v10-22-37,37>>^ Tu não tens deixado que os meus inimigos me peguem, e eu não caí nenhuma vez.
+
+[[v10-22-38]]
+
+^<<v10-22-38,38>>^ Persigo esses inimigos e acabo com eles; não paro até vencê-los.
+
+[[v10-22-39]]
+
+^<<v10-22-39,39>>^ Eu os esmago, e eles não podem se levantar; eles caem derrotados aos meus pés.
+
+[[v10-22-40]]
+
+^<<v10-22-40,40>>^ Tu me dás força para a batalha e fazes com que eu derrote os meus inimigos.
+
+[[v10-22-41]]
+
+^<<v10-22-41,41>>^ Tu os fazes fugir de mim, e eu destruo os que me odeiam.
+
+[[v10-22-42]]
+
+^<<v10-22-42,42>>^ Eles procuram socorro, mas não há ninguém para salvá-los; chamam o Senhor , mas ele não responde.
+
+[[v10-22-43]]
+
+^<<v10-22-43,43>>^ Eu os esmago, e eles viram pó; eu os piso como se fossem a lama das ruas.
+
+[[v10-22-44]]
+
+^<<v10-22-44,44>>^ Tu me livras de revoluções no meio do povo e me colocas como rei das nações. Povos que eu não conhecia são agora meus escravos.
+
+[[v10-22-45]]
+
+^<<v10-22-45,45>>^ Estrangeiros se curvam diante de mim e me obedecem quando dou ordens.
+
+[[v10-22-46]]
+
+^<<v10-22-46,46>>^ Eles perdem a coragem e saem tremendo das suas fortalezas.
+
+[[v10-22-47]]
+
+^<<v10-22-47,47>>^ O Senhor  Deus vive. Louvem aquele que é a minha rocha, anunciem a grandeza do poderoso Deus que salva a minha vida.
+
+[[v10-22-48]]
+
+^<<v10-22-48,48>>^ Ele me vinga dos meus inimigos, põe os povos debaixo do meu poder
+
+[[v10-22-49]]
+
+^<<v10-22-49,49>>^ e me livra dos meus adversários. Tu, ó Senhor , fazes com que eu vença os meus inimigos e me proteges dos homens violentos.
+
+[[v10-22-50]]
+
+^<<v10-22-50,50>>^ Por isso eu te louvo entre pagãos; a ti eu canto hinos de louvor.
+
+[[v10-22-51]]
+
+^<<v10-22-51,51>>^ Deus dá grandes vitórias ao seu rei e mostra o seu amor a quem ele escolheu — a Davi e aos seus descendentes para sempre.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-021.adoc#v10-21-0[&#60; Capítulo Anterior] | <<v10-22-0,Topo>> | xref:010-2-samuel/010-2-samuel-023.adoc#v10-23-0[Próximo Capítulo &#62;]

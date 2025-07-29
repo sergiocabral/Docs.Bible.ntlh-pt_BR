@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v20-15-0]]
+=== Provérbios, 15
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v20-15-1]]
+
+^<<v20-15-1,1>>^ A resposta delicada acalma o furor, mas a palavra dura aumenta a raiva.
+
+[[v20-15-2]]
+
+^<<v20-15-2,2>>^ As palavras do sábio tornam o conhecimento atraente, mas o tolo só diz bobagens.
+
+[[v20-15-3]]
+
+^<<v20-15-3,3>>^ O Senhor  Deus vê o que acontece em toda parte; ele está observando todos, tanto os bons como os maus.
+
+[[v20-15-4]]
+
+^<<v20-15-4,4>>^ As palavras bondosas nos dão vida nova, porém as palavras cruéis desanimam a gente.
+
+[[v20-15-5]]
+
+^<<v20-15-5,5>>^ Quem despreza o que o pai ensina é tolo, mas quem aceita a sua correção é sábio.
+
+[[v20-15-6]]
+
+^<<v20-15-6,6>>^ Na casa do homem direito há muita prosperidade, mas o lucro dos maus traz dificuldades.
+
+[[v20-15-7]]
+
+^<<v20-15-7,7>>^ Quando os sábios falam, eles espalham conhecimento, mas isso não acontece com os tolos.
+
+[[v20-15-8]]
+
+^<<v20-15-8,8>>^ O Senhor  detesta os sacrifícios  que os maus lhe oferecem, porém se alegra com a oração dos bons.
+
+[[v20-15-9]]
+
+^<<v20-15-9,9>>^ O Senhor  detesta a maneira de viver dos maus, porém ama a quem faz o que é direito.
+
+[[v20-15-10]]
+
+^<<v20-15-10,10>>^ Quem abandona o caminho do bem será severamente castigado, e quem odeia ser corrigido morrerá.
+
+[[v20-15-11]]
+
+^<<v20-15-11,11>>^ Se o Senhor  sabe o que acontece até mesmo no mundo dos mortos , como poderá alguém esconder dele os seus pensamentos?
+
+[[v20-15-12]]
+
+^<<v20-15-12,12>>^ O homem vaidoso não gosta de quem o corrige; ele nunca pede conselhos aos sábios.
+
+[[v20-15-13]]
+
+^<<v20-15-13,13>>^ A alegria embeleza o rosto, mas a tristeza deixa a pessoa abatida.
+
+[[v20-15-14]]
+
+^<<v20-15-14,14>>^ Quem é sábio procura aprender, mas os tolos estão satisfeitos com a sua própria ignorância.
+
+[[v20-15-15]]
+
+^<<v20-15-15,15>>^ Todos os dias são difíceis para os que estão aflitos, mas a vida é sempre agradável para as pessoas que têm coração alegre.
+
+[[v20-15-16]]
+
+^<<v20-15-16,16>>^ É melhor ser pobre e temer a Deus , o Senhor , do que ser rico e infeliz.
+
+[[v20-15-17]]
+
+^<<v20-15-17,17>>^ É melhor comer verduras na companhia de quem a gente ama do que comer a melhor carne onde existe ódio.
+
+[[v20-15-18]]
+
+^<<v20-15-18,18>>^ A pessoa de mau gênio sempre causa problemas, mas a que tem paciência traz a paz.
+
+[[v20-15-19]]
+
+^<<v20-15-19,19>>^ O preguiçoso encontra dificuldades por toda parte, mas para a pessoa correta a vida não é tão difícil.
+
+[[v20-15-20]]
+
+^<<v20-15-20,20>>^ O filho sábio dá alegria ao seu pai, mas o filho sem juízo despreza a sua mãe.
+
+[[v20-15-21]]
+
+^<<v20-15-21,21>>^ O tolo se diverte com as suas tolices, mas o sábio faz o que é certo.
+
+[[v20-15-22]]
+
+^<<v20-15-22,22>>^ Sem conselhos os planos fracassam, mas com muitos conselheiros há sucesso.
+
+[[v20-15-23]]
+
+^<<v20-15-23,23>>^ Saber dar uma resposta é uma alegria; como é boa a palavra certa na hora certa!
+
+[[v20-15-24]]
+
+^<<v20-15-24,24>>^ A pessoa sábia não desce pelo caminho da morte, mas sobe pela estrada da vida.
+
+[[v20-15-25]]
+
+^<<v20-15-25,25>>^ O Senhor  Deus derruba a casa dos orgulhosos, mas protege a propriedade da viúva.
+
+[[v20-15-26]]
+
+^<<v20-15-26,26>>^ O Senhor  detesta os pensamentos dos maus, mas gosta de palavras bondosas.
+
+[[v20-15-27]]
+
+^<<v20-15-27,27>>^ Quem procura ficar rico por meios desonestos põe a sua família em dificuldades; quem odeia o suborno  viverá mais.
+
+[[v20-15-28]]
+
+^<<v20-15-28,28>>^ As pessoas corretas pensam antes de responder; as pessoas más respondem logo, porém as suas palavras causam problemas.
+
+[[v20-15-29]]
+
+^<<v20-15-29,29>>^ O Senhor  está longe dos maus, porém ouve a oração de quem é correto.
+
+[[v20-15-30]]
+
+^<<v20-15-30,30>>^ Um olhar amigo alegra o coração; uma boa notícia faz a gente sentir-se bem.
+
+[[v20-15-31]]
+
+^<<v20-15-31,31>>^ Aquele que aceita a repreensão justa andará na companhia dos sábios.
+
+[[v20-15-32]]
+
+^<<v20-15-32,32>>^ Quem rejeita conselhos prejudica a si mesmo, mas quem aceita a correção fica mais sábio.
+
+[[v20-15-33]]
+
+^<<v20-15-33,33>>^ Quem teme o Senhor  está aprendendo a ser sábio; quem é humilde é respeitado.
+
+'''
+
+xref:020-proverbios/020-proverbios-014.adoc#v20-14-0[&#60; Capítulo Anterior] | <<v20-15-0,Topo>> | xref:020-proverbios/020-proverbios-016.adoc#v20-16-0[Próximo Capítulo &#62;]

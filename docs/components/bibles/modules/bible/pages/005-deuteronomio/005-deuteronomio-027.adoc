@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v5-27-0]]
+=== Deuteronômio, 27
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v5-27-1]]
+
+^<<v5-27-1,1>>^ Moisés, junto com as autoridades de Israel, deu ao povo as seguintes ordens: — Obedeçam a todos esses mandamentos que hoje eu estou dando a vocês.
+
+[[v5-27-2]]
+
+^<<v5-27-2,2>>^ Depois de atravessarem o rio Jordão e entrarem na terra que o Senhor , nosso Deus, está dando a vocês, levantem pedras grandes, pintem com cal
+
+[[v5-27-3]]
+
+^<<v5-27-3,3>>^ e escrevam nelas todas essas leis  e mandamentos. Vocês vão entrar na terra boa e rica que o Senhor , o Deus dos nossos antepassados, está dando a vocês, conforme prometeu.
+
+[[v5-27-4]]
+
+^<<v5-27-4,4>>^ Quando isso acontecer, e vocês estiverem no outro lado do rio Jordão, levantem estas pedras no monte Ebal, como estou mandando hoje, e as pintem com cal.
+
+[[v5-27-5]]
+
+^<<v5-27-5,5>>^ Construam ali um altar ao Senhor , nosso Deus, usando pedras que não tenham sido cortadas com ferramentas.
+
+[[v5-27-6]]
+
+^<<v5-27-6,6>>^ Escolham pedras brutas para construírem o altar e sobre ele ofereçam ao Senhor sacrifícios  que serão completamente queimados
+
+[[v5-27-7]]
+
+^<<v5-27-7,7>>^ e ofertas de paz. Comam dos sacrifícios e alegrem-se ali na presença de Deus, o Senhor .
+
+[[v5-27-8]]
+
+^<<v5-27-8,8>>^ Nas pedras pintadas escrevam com cuidado todas as palavras da lei de Deus.
+
+[[v5-27-9]]
+
+^<<v5-27-9,9>>^ Então Moisés, junto com os sacerdotes levitas , disse a todos os israelitas: — Povo de Israel, fique quieto e preste atenção! Hoje vocês se tornaram o povo do Senhor , nosso Deus.
+
+[[v5-27-10]]
+
+^<<v5-27-10,10>>^ Portanto, obedeçam a tudo o que ele mandar e cumpram todos os mandamentos e todas as leis que eu estou dando a vocês hoje.
+
+[[v5-27-11]]
+
+^<<v5-27-11,11>>^ Nesse mesmo dia Moisés disse ao povo de Israel:
+
+[[v5-27-12]]
+
+^<<v5-27-12,12>>^ — Depois que tiverem atravessado o rio Jordão, vocês serão abençoados do alto do monte Gerizim. Ficarão nesse monte as seguintes tribos : Simeão, Levi, Judá, Issacar, José e Benjamim.
+
+[[v5-27-13]]
+
+^<<v5-27-13,13>>^ As maldições serão ditas do monte Ebal, e ali ficarão as seguintes tribos: Rúben, Gade, Aser, Zebulom, Dã e Naftali.
+
+[[v5-27-14]]
+
+^<<v5-27-14,14>>^ Os levitas  falarão bem alto a todo o povo, assim:
+
+[[v5-27-15]]
+
+^<<v5-27-15,15>>^ — "Maldito seja aquele que fizer imagens de pedra, de madeira ou de metal, para adorá-las em segredo; o Senhor  detesta a idolatria!" E o povo responderá: " Amém !"
+
+[[v5-27-16]]
+
+^<<v5-27-16,16>>^ — "Maldito seja aquele que desrespeitar o pai ou a mãe!" E o povo responderá: "Amém!"
+
+[[v5-27-17]]
+
+^<<v5-27-17,17>>^ — "Maldito seja aquele que mudar de lugar os marcos de divisa do terreno do vizinho!" E o povo responderá: "Amém!"
+
+[[v5-27-18]]
+
+^<<v5-27-18,18>>^ — "Maldito seja aquele que fizer um cego errar o caminho!" E o povo responderá: "Amém!"
+
+[[v5-27-19]]
+
+^<<v5-27-19,19>>^ — "Maldito seja aquele que não respeitar os direitos dos estrangeiros, dos órfãos e das viúvas!" E o povo responderá: "Amém!"
+
+[[v5-27-20]]
+
+^<<v5-27-20,20>>^ — "Maldito seja aquele que tiver relações com uma das mulheres do pai, pois isso é uma vergonha para o pai!" E o povo responderá: "Amém!"
+
+[[v5-27-21]]
+
+^<<v5-27-21,21>>^ — "Maldito seja aquele que tiver relações com um animal!" E o povo responderá: "Amém!"
+
+[[v5-27-22]]
+
+^<<v5-27-22,22>>^ — "Maldito seja aquele que tiver relações com a irmã, seja irmã por parte de pai e mãe ou somente por parte de pai!" E o povo responderá: "Amém!"
+
+[[v5-27-23]]
+
+^<<v5-27-23,23>>^ — "Maldito seja aquele que tiver relações com a sogra!" E o povo responderá: "Amém!"
+
+[[v5-27-24]]
+
+^<<v5-27-24,24>>^ — "Maldito seja aquele que matar outro israelita à traição!" E o povo responderá: "Amém!"
+
+[[v5-27-25]]
+
+^<<v5-27-25,25>>^ — "Maldito seja aquele que receber dinheiro para matar uma pessoa inocente!" E o povo responderá: "Amém!"
+
+[[v5-27-26]]
+
+^<<v5-27-26,26>>^ — "Maldito seja aquele que não obedecer a essas leis  de Deus!" E o povo responderá: "Amém!"
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-026.adoc#v5-26-0[&#60; Capítulo Anterior] | <<v5-27-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-028.adoc#v5-28-0[Próximo Capítulo &#62;]

@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v4-9-0]]
+=== Números, 9
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v4-9-1]]
+
+^<<v4-9-1,1>>^ No primeiro mês do segundo ano depois da saída do povo de Israel do Egito, o Senhor  falou com Moisés no deserto do Sinai. Ele disse:
+
+[[v4-9-2]]
+
+^<<v4-9-2,2>>^ — No dia catorze deste mês, começando ao anoitecer, o povo de Israel deve comemorar a Festa da Páscoa , de acordo com todas as leis  e ordens a respeito dela.
+
+[[v4-9-3]]
+
+^<<v4-9-3,3>>^ — No dia catorze deste mês, começando ao anoitecer, o povo de Israel deve comemorar a Festa da Páscoa , de acordo com todas as leis  e ordens a respeito dela.
+
+[[v4-9-4]]
+
+^<<v4-9-4,4>>^ Portanto, Moisés mandou que os israelitas comemorassem a Páscoa.
+
+[[v4-9-5]]
+
+^<<v4-9-5,5>>^ Eles a comemoraram no dia catorze do primeiro mês, ao pôr do sol, no deserto do Sinai. Os israelitas fizeram tudo o que o Senhor  havia ordenado a Moisés.
+
+[[v4-9-6]]
+
+^<<v4-9-6,6>>^ Porém alguns homens se tornaram impuros  porque tocaram num morto e por isso não puderam comemorar a Páscoa naquele dia. Eles foram falar com Moisés e Arão
+
+[[v4-9-7]]
+
+^<<v4-9-7,7>>^ e disseram: — Estamos impuros porque tocamos num morto. Será que não vamos poder apresentar a nossa oferta ao Senhor  com os outros israelitas, no dia que já foi marcado?
+
+[[v4-9-8]]
+
+^<<v4-9-8,8>>^ Então Moisés respondeu: — Esperem, que eu vou falar com o Senhor  para saber o que ele quer que vocês façam.
+
+[[v4-9-9]]
+
+^<<v4-9-9,9>>^ Aí o Senhor  disse a Moisés:
+
+[[v4-9-10]]
+
+^<<v4-9-10,10>>^ — Diga aos israelitas o seguinte: se algum de vocês ou dos seus descendentes estiver impuro por haver tocado num morto ou se estiver longe, viajando, mesmo assim poderá comemorar a Páscoa em honra de Deus, o Senhor .
+
+[[v4-9-11]]
+
+^<<v4-9-11,11>>^ Vocês a comemorarão um mês depois, no dia catorze do segundo mês, quando anoitecer. Nessa ocasião vocês comerão o animal com pães sem fermento  e com ervas amargas.
+
+[[v4-9-12]]
+
+^<<v4-9-12,12>>^ Não deixem sobrar nada da comida para o dia seguinte e não quebrem nenhum osso do animal. Façam a comemoração de acordo com todas as leis da Páscoa.
+
+[[v4-9-13]]
+
+^<<v4-9-13,13>>^ Mas pode acontecer que alguém esteja puro e não esteja viajando; se essa pessoa não comemorar a Páscoa, será expulsa do meio do povo, pois não me apresentou a oferta no tempo certo. E será castigada por causa do seu pecado.
+
+[[v4-9-14]]
+
+^<<v4-9-14,14>>^ — Se algum estrangeiro que mora no meio de vocês quiser comemorar a Páscoa, terá de obedecer às leis e às ordens a respeito dessa festa. A mesma lei será para todos, tanto para os nascidos no país como para os estrangeiros.
+
+[[v4-9-15]]
+
+^<<v4-9-15,15>>^ No dia em que foi armada a Tenda Sagrada , veio uma nuvem e a cobriu. De noite a nuvem parecia fogo.
+
+[[v4-9-16]]
+
+^<<v4-9-16,16>>^ Era sempre assim: de dia a nuvem cobria a Tenda e de noite parecia fogo.
+
+[[v4-9-17]]
+
+^<<v4-9-17,17>>^ Quando a nuvem se levantava de cima da Tenda, os israelitas começavam a caminhar. No lugar onde a nuvem parava, aí eles acampavam.
+
+[[v4-9-18]]
+
+^<<v4-9-18,18>>^ Eles começavam a caminhar ou acampavam de acordo com a ordem de Deus, o Senhor . E ficavam acampados ali durante o tempo em que a nuvem estava parada sobre a Tenda.
+
+[[v4-9-19]]
+
+^<<v4-9-19,19>>^ Quando ela ficava muito tempo sobre a Tenda, os israelitas obedeciam à ordem do Senhor  e não saíam dali.
+
+[[v4-9-20]]
+
+^<<v4-9-20,20>>^ Às vezes a nuvem ficava poucos dias sobre a Tenda; assim, conforme a ordem do Senhor , eles continuavam acampados ou começavam a caminhar.
+
+[[v4-9-21]]
+
+^<<v4-9-21,21>>^ Às vezes a nuvem ficava parada somente desde a tarde até a manhã do dia seguinte; quando ela se levantava de manhã, eles começavam a caminhar. Sempre que a nuvem se levantava, fosse de dia ou fosse de noite, os israelitas começavam a caminhar.
+
+[[v4-9-22]]
+
+^<<v4-9-22,22>>^ Mas, se ela ficava sobre a Tenda dois dias, ou um mês, ou mesmo um ano, enquanto estivesse parada, os israelitas continuavam acampados e não começavam a caminhar. Porém, quando ela se levantava, eles partiam.
+
+'''
+
+xref:004-numeros/004-numeros-008.adoc#v4-8-0[&#60; Capítulo Anterior] | <<v4-9-0,Topo>> | xref:004-numeros/004-numeros-010.adoc#v4-10-0[Próximo Capítulo &#62;]

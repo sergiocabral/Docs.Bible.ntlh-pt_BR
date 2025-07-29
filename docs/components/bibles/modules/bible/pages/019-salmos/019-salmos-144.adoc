@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v19-144-0]]
+=== Salmos, 144
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-144-1]]
+
+^<<v19-144-1,1>>^ Louvem o Senhor  Deus, a minha rocha; ele me prepara para a batalha e me ensina a combater.
+
+[[v19-144-2]]
+
+^<<v19-144-2,2>>^ Ele é a minha rocha e a minha fortaleza, o meu abrigo e o meu libertador. Ele me defende como um escudo , e eu confio na sua proteção. Ele põe as nações debaixo do meu poder.
+
+[[v19-144-3]]
+
+^<<v19-144-3,3>>^ Ó Senhor , que é o ser humano, para que penses nele? Que é um simples mortal, para que te preocupes com ele?
+
+[[v19-144-4]]
+
+^<<v19-144-4,4>>^ O ser humano é como um sopro; a sua vida é como a sombra que passa.
+
+[[v19-144-5]]
+
+^<<v19-144-5,5>>^ Ó Senhor , abre o céu e desce! Toca nas montanhas, e elas soltarão fumaça.
+
+[[v19-144-6]]
+
+^<<v19-144-6,6>>^ Manda relâmpagos e espalha os inimigos; atira as tuas flechas para fazê-los fugir.
+
+[[v19-144-7]]
+
+^<<v19-144-7,7>>^ Lá do alto estende a mão, tira-me do mar profundo e salva-me. Livra-me do poder dos pagãos,
+
+[[v19-144-8]]
+
+^<<v19-144-8,8>>^ pois eles nunca dizem a verdade e mentem, fazendo juramentos falsos.
+
+[[v19-144-9]]
+
+^<<v19-144-9,9>>^ A ti, ó Deus, eu cantarei uma nova canção; tocarei harpa  de dez cordas e te cantarei louvores.
+
+[[v19-144-10]]
+
+^<<v19-144-10,10>>^ Tu dás a vitória aos reis e livras da morte o teu servo  Davi.
+
+[[v19-144-11]]
+
+^<<v19-144-11,11>>^ Salva-me dos meus inimigos cruéis; livra-me do poder dos pagãos, pois eles nunca dizem a verdade e mentem, fazendo juramentos falsos.
+
+[[v19-144-12]]
+
+^<<v19-144-12,12>>^ Que, na sua mocidade, os nossos filhos sejam como plantas viçosas, e que as nossas filhas sejam como colunas que enfeitam a frente de um palácio!
+
+[[v19-144-13]]
+
+^<<v19-144-13,13>>^ Que os nossos depósitos fiquem cheios de todo tipo de mantimentos! Que, nos nossos campos, os rebanhos deem dezenas de milhares de crias!
+
+[[v19-144-14]]
+
+^<<v19-144-14,14>>^ Que o gado se reproduza bem, e as vacas não percam as suas crias! E que não haja gritos de aflição nas nossas ruas!
+
+[[v19-144-15]]
+
+^<<v19-144-15,15>>^ Feliz a nação que tem tudo isso! Feliz o povo cujo Deus é o Senhor !
+
+'''
+
+xref:019-salmos/019-salmos-143.adoc#v19-143-0[&#60; Capítulo Anterior] | <<v19-144-0,Topo>> | xref:019-salmos/019-salmos-145.adoc#v19-145-0[Próximo Capítulo &#62;]

@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v20-18-0]]
+=== Provérbios, 18
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v20-18-1]]
+
+^<<v20-18-1,1>>^ Quem não gosta de estar na companhia dos outros só está interessado em si mesmo e rejeita todos os bons conselhos.
+
+[[v20-18-2]]
+
+^<<v20-18-2,2>>^ O tolo não se interessa em aprender, mas só em dar as suas opiniões.
+
+[[v20-18-3]]
+
+^<<v20-18-3,3>>^ Os maus são desprezados, e quem suja o seu próprio nome passa vergonha.
+
+[[v20-18-4]]
+
+^<<v20-18-4,4>>^ A linguagem humana é profunda como o mar, e as palavras dos sábios são como os rios que nunca secam.
+
+[[v20-18-5]]
+
+^<<v20-18-5,5>>^ Não é certo dar razão ao culpado, deixando de fazer justiça ao inocente.
+
+[[v20-18-6]]
+
+^<<v20-18-6,6>>^ Quando o tolo começa uma discussão, o que ele está pedindo é uma surra.
+
+[[v20-18-7]]
+
+^<<v20-18-7,7>>^ Quando o tolo fala, ele causa a sua desgraça, pois acaba caindo na armadilha das suas próprias palavras.
+
+[[v20-18-8]]
+
+^<<v20-18-8,8>>^ Os mexericos são tão deliciosos! Como gostamos de saboreá-los!
+
+[[v20-18-9]]
+
+^<<v20-18-9,9>>^ O trabalhador relaxado é companheiro daquele que desperdiça.
+
+[[v20-18-10]]
+
+^<<v20-18-10,10>>^ O nome do Senhor  é como uma torre forte para onde as pessoas direitas vão e ficam em segurança.
+
+[[v20-18-11]]
+
+^<<v20-18-11,11>>^ O rico pensa que a sua riqueza o protege como as muralhas altas e fortes em volta de uma cidade.
+
+[[v20-18-12]]
+
+^<<v20-18-12,12>>^ A pessoa orgulhosa está a caminho da desgraça, mas a humilde é respeitada.
+
+[[v20-18-13]]
+
+^<<v20-18-13,13>>^ Quem responde antes de ouvir mostra que é tolo e passa vergonha.
+
+[[v20-18-14]]
+
+^<<v20-18-14,14>>^ A vontade de viver mantém a vida de um doente, mas, se ele desanima, não existe mais esperança.
+
+[[v20-18-15]]
+
+^<<v20-18-15,15>>^ A pessoa sábia está sempre ansiosa e pronta para aprender.
+
+[[v20-18-16]]
+
+^<<v20-18-16,16>>^ Você quer falar com alguém importante? Leve um presente, e será fácil.
+
+[[v20-18-17]]
+
+^<<v20-18-17,17>>^ Aquele que é o primeiro a fazer a sua defesa parece ter razão, mas só até que a outra pessoa comece a lhe fazer perguntas.
+
+[[v20-18-18]]
+
+^<<v20-18-18,18>>^ Quando os poderosos se enfrentam no tribunal, tirar a sorte com os dados sagrados pode resolver a questão.
+
+[[v20-18-19]]
+
+^<<v20-18-19,19>>^ É mais difícil ganhar de novo a amizade de um amigo ofendido do que conquistar uma fortaleza; as discussões estragam as amizades.
+
+[[v20-18-20]]
+
+^<<v20-18-20,20>>^ Você terá de aguentar as consequências de tudo o que disser.
+
+[[v20-18-21]]
+
+^<<v20-18-21,21>>^ O que você diz pode salvar ou destruir uma vida; portanto, use bem as suas palavras e você será recompensado.
+
+[[v20-18-22]]
+
+^<<v20-18-22,22>>^ Quem acha uma esposa encontra a felicidade: recebeu uma bênção de Deus, o Senhor .
+
+[[v20-18-23]]
+
+^<<v20-18-23,23>>^ O pobre pede licença para falar, mas o rico responde com grosseria.
+
+[[v20-18-24]]
+
+^<<v20-18-24,24>>^ Algumas amizades não duram nada, mas um verdadeiro amigo é mais chegado que um irmão.
+
+'''
+
+xref:020-proverbios/020-proverbios-017.adoc#v20-17-0[&#60; Capítulo Anterior] | <<v20-18-0,Topo>> | xref:020-proverbios/020-proverbios-019.adoc#v20-19-0[Próximo Capítulo &#62;]

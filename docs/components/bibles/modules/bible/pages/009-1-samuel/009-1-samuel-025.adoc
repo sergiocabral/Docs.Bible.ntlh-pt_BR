@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v9-25-0]]
+=== 1 Samuel, 25
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v9-25-1]]
+
+^<<v9-25-1,1>>^ Samuel morreu, e todos os israelitas se juntaram e choraram a morte dele. Então o sepultaram na sua casa, em Ramá. Depois disso Davi saiu e foi para o deserto de Parã.
+
+[[v9-25-2]]
+
+^<<v9-25-2,2>>^ Havia um descendente de Calebe, chamado Nabal, da cidade de Maom, que ganhava a vida na cidade de Carmelo. Ele era muito rico. Tinha três mil ovelhas e mil cabras. A sua mulher se chamava Abigail. Ela era bonita e inteligente, mas ele era mau e grosseiro. Nabal estava em Carmelo, cortando a lã das suas ovelhas.
+
+[[v9-25-3]]
+
+^<<v9-25-3,3>>^ Havia um descendente de Calebe, chamado Nabal, da cidade de Maom, que ganhava a vida na cidade de Carmelo. Ele era muito rico. Tinha três mil ovelhas e mil cabras. A sua mulher se chamava Abigail. Ela era bonita e inteligente, mas ele era mau e grosseiro.
+
+[[v9-25-4]]
+
+^<<v9-25-4,4>>^ Davi estava no deserto e soube disso.
+
+[[v9-25-5]]
+
+^<<v9-25-5,5>>^ Então enviou dez rapazes a Carmelo, com ordem de encontrarem Nabal e o cumprimentarem em nome dele.
+
+[[v9-25-6]]
+
+^<<v9-25-6,6>>^ Mandou que dissessem o seguinte: "Meu caro amigo, Davi lhe manda saudações, desejando tudo de bom para o senhor, a sua família e tudo o que é seu.
+
+[[v9-25-7]]
+
+^<<v9-25-7,7>>^ Ele soube que o senhor está cortando a lã das suas ovelhas e mandou lhe contar que os seus pastores estiveram com a gente, e nós não lhes fizemos nenhum mal. Durante o tempo em que estiveram em Carmelo, não roubamos nada do que era deles.
+
+[[v9-25-8]]
+
+^<<v9-25-8,8>>^ Pergunte, e eles lhe contarão. Davi pede para o senhor nos receber com amizade porque viemos aqui num dia de festa. Assim, por favor, dê o que puder a nós, os seus criados, e ao seu querido amigo Davi."
+
+[[v9-25-9]]
+
+^<<v9-25-9,9>>^ Os homens de Davi foram e deram o recado a Nabal, em nome de Davi. Então ficaram esperando,
+
+[[v9-25-10]]
+
+^<<v9-25-10,10>>^ e Nabal respondeu: — Davi? Filho de Jessé? Quem é ele? Nunca ouvi falar nele! Hoje em dia há muitos escravos que fogem dos seus donos!
+
+[[v9-25-11]]
+
+^<<v9-25-11,11>>^ O meu pão, a minha água e os animais que matei para dar aos meus empregados eu não darei a homens que eu nem sei de onde vieram!
+
+[[v9-25-12]]
+
+^<<v9-25-12,12>>^ Os homens de Davi voltaram e contaram o que Nabal tinha dito.
+
+[[v9-25-13]]
+
+^<<v9-25-13,13>>^ Então Davi disse: — Ponham as suas espadas nos cintos! E todos obedeceram. Davi também pegou a sua espada e saiu com mais ou menos quatrocentos dos seus homens enquanto duzentos ficaram atrás com a bagagem.
+
+[[v9-25-14]]
+
+^<<v9-25-14,14>>^ Um dos empregados de Nabal disse a Abigail, a mulher de Nabal: — A senhora soube? Davi enviou do deserto uns mensageiros com saudações para o nosso patrão, mas ele os tratou mal.
+
+[[v9-25-15]]
+
+^<<v9-25-15,15>>^ No entanto, eles têm sido muito bons para a gente: nunca nos incomodaram e, durante todo o tempo em que estivemos com eles nos campos, eles não roubaram nada que era nosso.
+
+[[v9-25-16]]
+
+^<<v9-25-16,16>>^ Eles nos protegeram dia e noite todo o tempo em que estivemos com eles tomando conta dos nossos rebanhos.
+
+[[v9-25-17]]
+
+^<<v9-25-17,17>>^ Pense nisso e resolva o que fazer. Isso poderá vir a ser um desastre para o nosso patrão e toda a sua família. Ele é tão mau, que ninguém pode falar com ele.
+
+[[v9-25-18]]
+
+^<<v9-25-18,18>>^ Então Abigail pegou depressa duzentos pães, dois odres  cheios de vinho, cinco ovelhas assadas, uns dezessete quilos de trigo torrado, cem cachos de passas e duzentas pastas de figos secos e pôs tudo sobre jumentos.
+
+[[v9-25-19]]
+
+^<<v9-25-19,19>>^ Então disse aos empregados: — Vão na frente, que eu vou atrás. Porém não contou nada ao seu marido.
+
+[[v9-25-20]]
+
+^<<v9-25-20,20>>^ Abigail ia montada no seu jumento e, de repente, numa curva, na descida, encontrou Davi e os seus homens, que vinham na sua direção.
+
+[[v9-25-21]]
+
+^<<v9-25-21,21>>^ Davi tinha pensado assim: "De que me adiantou proteger a propriedade desse homem aqui no deserto? Nós não roubamos nada que era dele, e é assim que ele me paga a ajuda que lhe dei?
+
+[[v9-25-22]]
+
+^<<v9-25-22,22>>^ Que Deus me castigue se eu não matar até o último daqueles homens antes do amanhecer!"
+
+[[v9-25-23]]
+
+^<<v9-25-23,23>>^ Quando Abigail viu Davi, desmontou depressa, ajoelhou-se diante dele e encostou o rosto no chão,
+
+[[v9-25-24]]
+
+^<<v9-25-24,24>>^ aos seus pés, dizendo: — Por favor, senhor! Escute-me! Eu sou a culpada!
+
+[[v9-25-25]]
+
+^<<v9-25-25,25>>^ Por favor, não dê atenção a Nabal, pois ele não vale nada! Ele é exatamente o que seu nome quer dizer: um tolo ! Eu mesma não vi os rapazes que o senhor mandou.
+
+[[v9-25-26]]
+
+^<<v9-25-26,26>>^ Foi o Senhor  Deus quem impediu que o senhor se vingasse e matasse os seus inimigos. Agora eu juro, pela sua vida e pela vida do Senhor , que todos os seus inimigos e todos os que querem prejudicá-lo serão castigados como Nabal.
+
+[[v9-25-27]]
+
+^<<v9-25-27,27>>^ Senhor, faça o favor de aceitar este presente que eu lhe trouxe e o entregue aos seus homens.
+
+[[v9-25-28]]
+
+^<<v9-25-28,28>>^ Perdoe, por favor, qualquer coisa errada que eu tenha feito. O Senhor  Deus fará com que o senhor seja rei e também os seus descendentes, pois o senhor está combatendo o combate dele e o senhor não vai fazer nenhum mal enquanto viver.
+
+[[v9-25-29]]
+
+^<<v9-25-29,29>>^ Se alguém o atacar e tentar matá-lo, o Senhor , seu Deus, o protegerá como um homem que guarda um tesouro precioso. Mas ele vai jogar longe os seus inimigos, como um homem que atira pedras com a sua funda .
+
+[[v9-25-30]]
+
+^<<v9-25-30,30>>^ O Senhor  Deus cumprirá todas as coisas boas que lhe prometeu e o fará rei de Israel.
+
+[[v9-25-31]]
+
+^<<v9-25-31,31>>^ E, quando isso acontecer, o senhor não terá motivo para se arrepender, ou sentir remorso por haver matado sem razão, ou por ter se vingado por si mesmo. E, quando o Senhor  Deus o abençoar, não esqueça de mim.
+
+[[v9-25-32]]
+
+^<<v9-25-32,32>>^ Davi respondeu: — Louvado seja o Senhor , o Deus de Israel, que mandou você hoje para me encontrar!
+
+[[v9-25-33]]
+
+^<<v9-25-33,33>>^ Graças ao que você fez hoje e ao seu juízo, eu deixei de cometer um crime de morte e fui impedido de me vingar por mim mesmo.
+
+[[v9-25-34]]
+
+^<<v9-25-34,34>>^ Que o Senhor  Deus me livre de fazer algum mal a você! Eu juro pelo Senhor , o Deus de Israel, o Deus vivo, que, se você não tivesse se apressado e não tivesse vindo me encontrar, amanhã cedo todos os homens de Nabal estariam mortos, até os meninos!
+
+[[v9-25-35]]
+
+^<<v9-25-35,35>>^ Então Davi aceitou o que ela havia trazido e disse: — Volte para casa e não se preocupe. Eu farei o que você quiser.
+
+[[v9-25-36]]
+
+^<<v9-25-36,36>>^ Abigail voltou para o seu marido Nabal, que estava em casa, festejando como um rei. Ele estava bêbado e alegre. Então ela não lhe contou nada. Na manhã seguinte,
+
+[[v9-25-37]]
+
+^<<v9-25-37,37>>^ quando ele não estava mais bêbado, ela lhe contou tudo. Aí ele teve um ataque e ficou completamente paralisado.
+
+[[v9-25-38]]
+
+^<<v9-25-38,38>>^ Uns dez dias depois, a ira  de Deus feriu Nabal, e ele morreu.
+
+[[v9-25-39]]
+
+^<<v9-25-39,39>>^ Quando Davi soube que Nabal havia morrido, disse: — Louvem a Deus, o Senhor ! Ele me vingou de Nabal, que me insultou. E assim livrou este seu servo  de fazer o mal. O Senhor  castigou Nabal por sua maldade. Então Davi mandou a Abigail uma proposta de casamento.
+
+[[v9-25-40]]
+
+^<<v9-25-40,40>>^ Os empregados dele foram até Carmelo e disseram: — Davi nos mandou buscá-la para que a senhora seja sua esposa.
+
+[[v9-25-41]]
+
+^<<v9-25-41,41>>^ Então Abigail ajoelhou-se, encostou o rosto no chão e disse: — Eu sou escrava de Davi e estou pronta para lavar os pés dos empregados dele.
+
+[[v9-25-42]]
+
+^<<v9-25-42,42>>^ Aí ela se levantou depressa e montou o seu jumento. E, acompanhada por suas cinco empregadas, partiu na companhia dos empregados de Davi e se tornou esposa dele.
+
+[[v9-25-43]]
+
+^<<v9-25-43,43>>^ Davi tinha casado com Ainoã, de Jezreel, e agora Abigail também se tornou sua esposa.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-024.adoc#v9-24-0[&#60; Capítulo Anterior] | <<v9-25-0,Topo>> | xref:009-1-samuel/009-1-samuel-026.adoc#v9-26-0[Próximo Capítulo &#62;]

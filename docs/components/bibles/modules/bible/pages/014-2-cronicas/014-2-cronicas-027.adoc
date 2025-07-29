@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v14-27-0]]
+=== 2 Crônicas, 27
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v14-27-1]]
+
+^<<v14-27-1,1>>^ Jotão tinha vinte e cinco anos de idade quando se tornou rei de Judá. Ele governou dezesseis anos em Jerusalém. A sua mãe se chamava Jerusa e era filha de Zadoque.
+
+[[v14-27-2]]
+
+^<<v14-27-2,2>>^ Jotão fez aquilo que agrada a Deus, o Senhor , seguindo o exemplo de Uzias, o seu pai; porém ele não cometeu o pecado de queimar incenso no Templo. Mas o povo continuou pecando.
+
+[[v14-27-3]]
+
+^<<v14-27-3,3>>^ Foi Jotão quem construiu o Portão Norte do Templo; ele também fez muitas construções nas muralhas da cidade, no bairro chamado Ofel.
+
+[[v14-27-4]]
+
+^<<v14-27-4,4>>^ Construiu cidades nas montanhas de Judá e fortalezas e torres de vigia nas florestas.
+
+[[v14-27-5]]
+
+^<<v14-27-5,5>>^ Lutou contra o exército do rei de Amom e o derrotou; aí ele forçou os amonitas a pagarem, todos os anos, durante três anos seguidos, três mil e quatrocentos quilos de prata, mil toneladas de trigo e mil toneladas de cevada .
+
+[[v14-27-6]]
+
+^<<v14-27-6,6>>^ Jotão foi ficando cada vez mais poderoso porque seguia fielmente a vontade do Senhor , seu Deus.
+
+[[v14-27-7]]
+
+^<<v14-27-7,7>>^ O resto da história de Jotão, as guerras em que tomou parte e as coisas que fez, tudo está escrito na História dos Reis de Israel e de Judá .
+
+[[v14-27-8]]
+
+^<<v14-27-8,8>>^ Ele se tornou rei aos vinte e cinco anos de idade e governou dezesseis anos em Jerusalém.
+
+[[v14-27-9]]
+
+^<<v14-27-9,9>>^ Ele morreu e foi sepultado na Cidade de Davi , e o seu filho Acaz ficou no lugar dele como rei.
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-026.adoc#v14-26-0[&#60; Capítulo Anterior] | <<v14-27-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-028.adoc#v14-28-0[Próximo Capítulo &#62;]

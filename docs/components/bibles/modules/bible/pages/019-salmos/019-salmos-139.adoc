@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v19-139-0]]
+=== Salmos, 139
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-139-1]]
+
+^<<v19-139-1,1>>^ Ó Senhor  Deus, tu me examinas e me conheces.
+
+[[v19-139-2]]
+
+^<<v19-139-2,2>>^ Sabes tudo o que eu faço e, de longe, conheces todos os meus pensamentos.
+
+[[v19-139-3]]
+
+^<<v19-139-3,3>>^ Tu me vês quando estou trabalhando e quando estou descansando; tu sabes tudo o que eu faço.
+
+[[v19-139-4]]
+
+^<<v19-139-4,4>>^ Antes mesmo que eu fale, tu já sabes o que vou dizer.
+
+[[v19-139-5]]
+
+^<<v19-139-5,5>>^ Estás em volta de mim, por todos os lados, e me proteges com o teu poder.
+
+[[v19-139-6]]
+
+^<<v19-139-6,6>>^ Eu não consigo entender como tu me conheces tão bem; o teu conhecimento é profundo demais para mim.
+
+[[v19-139-7]]
+
+^<<v19-139-7,7>>^ Aonde posso ir a fim de escapar do teu Espírito? Para onde posso fugir da tua presença?
+
+[[v19-139-8]]
+
+^<<v19-139-8,8>>^ Se eu subir ao céu, tu lá estás; se descer ao mundo dos mortos , lá estás também.
+
+[[v19-139-9]]
+
+^<<v19-139-9,9>>^ Se eu voar para o Oriente ou for viver nos lugares mais distantes do Ocidente,
+
+[[v19-139-10]]
+
+^<<v19-139-10,10>>^ ainda ali a tua mão me guia, ainda ali tu me ajudas.
+
+[[v19-139-11]]
+
+^<<v19-139-11,11>>^ Eu poderia pedir que a escuridão me escondesse e que em volta de mim a luz virasse noite;
+
+[[v19-139-12]]
+
+^<<v19-139-12,12>>^ mas isso não adiantaria nada porque para ti a escuridão não é escura, e a noite é tão clara como o dia. Tu não fazes diferença entre a luz e a escuridão.
+
+[[v19-139-13]]
+
+^<<v19-139-13,13>>^ Tu criaste cada parte do meu corpo; tu me formaste na barriga da minha mãe.
+
+[[v19-139-14]]
+
+^<<v19-139-14,14>>^ Eu te louvo porque deves ser temido . Tudo o que fazes é maravilhoso, e eu sei disso muito bem.
+
+[[v19-139-15]]
+
+^<<v19-139-15,15>>^ Tu viste quando os meus ossos estavam sendo feitos, quando eu estava sendo formado na barriga da minha mãe, crescendo ali em segredo,
+
+[[v19-139-16]]
+
+^<<v19-139-16,16>>^ tu me viste antes de eu ter nascido. Os dias que me deste para viver foram todos escritos no teu livro quando ainda nenhum deles existia.
+
+[[v19-139-17]]
+
+^<<v19-139-17,17>>^ Ó Deus, como é difícil entender os teus pensamentos! E eles são tantos!
+
+[[v19-139-18]]
+
+^<<v19-139-18,18>>^ Se eu os contasse, seriam mais do que os grãos de areia. Quando acordo, ainda estou contigo.
+
+[[v19-139-19]]
+
+^<<v19-139-19,19>>^ Ó Deus, como eu gostaria que tu acabasses com os maus! Gostaria que os homens violentos me deixassem em paz!
+
+[[v19-139-20]]
+
+^<<v19-139-20,20>>^ Eles falam mal de ti; contra ti falam coisas ruins.
+
+[[v19-139-21]]
+
+^<<v19-139-21,21>>^ Ó Senhor  Deus, como odeio os que te odeiam! Como desprezo os que são contra ti!
+
+[[v19-139-22]]
+
+^<<v19-139-22,22>>^ Eu os odeio com todas as minhas forças; eles são meus inimigos.
+
+[[v19-139-23]]
+
+^<<v19-139-23,23>>^ Ó Deus, examina-me e conhece o meu coração! Prova-me e conhece os meus pensamentos.
+
+[[v19-139-24]]
+
+^<<v19-139-24,24>>^ Vê se há em mim algum pecado e guia-me pelo caminho eterno.
+
+'''
+
+xref:019-salmos/019-salmos-138.adoc#v19-138-0[&#60; Capítulo Anterior] | <<v19-139-0,Topo>> | xref:019-salmos/019-salmos-140.adoc#v19-140-0[Próximo Capítulo &#62;]

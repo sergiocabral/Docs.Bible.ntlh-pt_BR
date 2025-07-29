@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v15-10-0]]
+=== Esdras, 10
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v15-10-1]]
+
+^<<v15-10-1,1>>^ Enquanto Esdras estava ajoelhado em frente do Templo, orando, chorando e confessando esses pecados, um grande grupo de israelitas — homens, mulheres e crianças — se reuniu em volta dele. E eles também choravam amargamente.
+
+[[v15-10-2]]
+
+^<<v15-10-2,2>>^ Então Secanias, filho de Jeiel, da família de Elão, disse a Esdras: — Nós pecamos contra o nosso Deus, casando com mulheres estrangeiras de nações pagãs. Porém mesmo assim ainda há esperança para o povo de Israel.
+
+[[v15-10-3]]
+
+^<<v15-10-3,3>>^ Agora prometamos solenemente ao nosso Deus que mandaremos embora essas mulheres e os seus filhos. Isso faremos seguindo o seu conselho e o dos outros que respeitam os mandamentos do nosso Deus. Assim estaremos fazendo o que a Lei  de Deus manda.
+
+[[v15-10-4]]
+
+^<<v15-10-4,4>>^ Levante-se, pois é o senhor quem deve fazer isso. Nós o apoiaremos. Portanto, anime-se e mãos à obra!
+
+[[v15-10-5]]
+
+^<<v15-10-5,5>>^ Então Esdras se levantou e fez com que os chefes dos sacerdotes, os chefes dos levitas  e todo o resto do povo jurassem que fariam o que Secanias tinha dito. E eles juraram.
+
+[[v15-10-6]]
+
+^<<v15-10-6,6>>^ Aí Esdras saiu da frente do Templo e foi para o quarto de Joanã, filho de Eliasibe. Ele passou a noite ali, sem comer nem beber, porque estava muito triste por causa da infidelidade dos que haviam voltado da Babilônia.
+
+[[v15-10-7]]
+
+^<<v15-10-7,7>>^ Depois mandaram anunciar em Jerusalém e em Judá que todos os que haviam voltado do cativeiro  na Babilônia deviam reunir-se em Jerusalém.
+
+[[v15-10-8]]
+
+^<<v15-10-8,8>>^ Avisaram também que, por ordem dos governadores e líderes do povo, qualquer pessoa que não chegasse no prazo de três dias perderia as suas propriedades e também o direito de fazer parte do povo de Israel.
+
+[[v15-10-9]]
+
+^<<v15-10-9,9>>^ E assim, dentro de três dias, no dia vinte do nono mês, todos os homens que moravam na região de Judá e de Benjamim chegaram a Jerusalém e se reuniram no pátio do Templo. Estava caindo uma chuva forte e, por causa do tempo e da importância daquele assunto, todos tremiam.
+
+[[v15-10-10]]
+
+^<<v15-10-10,10>>^ Então o sacerdote Esdras se levantou e disse: — Vocês foram infiéis e aumentaram a culpa do povo de Israel por terem casado com mulheres estrangeiras.
+
+[[v15-10-11]]
+
+^<<v15-10-11,11>>^ Portanto, confessem agora os seus pecados ao Senhor , o Deus dos seus antepassados, e façam o que lhe agrada. Afastem-se dos estrangeiros que vivem na nossa terra e mandem embora as mulheres estrangeiras com quem vocês casaram.
+
+[[v15-10-12]]
+
+^<<v15-10-12,12>>^ E todo o povo respondeu em voz alta: — Sim! Faremos tudo o que o senhor mandar!
+
+[[v15-10-13]]
+
+^<<v15-10-13,13>>^ Porém somos muitos, e a chuva está forte. Não podemos continuar aqui fora. O que o senhor está mandando não é coisa que se possa fazer em um ou dois dias, pois os que são culpados desse pecado são muitos.
+
+[[v15-10-14]]
+
+^<<v15-10-14,14>>^ Deixe que os nossos chefes fiquem em Jerusalém e se encarreguem do caso. Então cada homem que vive nas nossas cidades e que casou com uma mulher estrangeira virá num dia marcado, acompanhado dos líderes e juízes da sua cidade. Desta maneira a ira  de Deus por causa dessa situação se desviará de nós.
+
+[[v15-10-15]]
+
+^<<v15-10-15,15>>^ Ninguém foi contra o plano, a não ser Jônatas, filho de Asael, e Jazeias, filho de Ticva. E Mesulã e Sabetai, o levita, os apoiaram.
+
+[[v15-10-16]]
+
+^<<v15-10-16,16>>^ Os que haviam voltado da Babilônia aceitaram o plano. Então o sacerdote Esdras escolheu alguns homens entre os chefes dos grupos de famílias e anotou os nomes deles. Estes começaram a investigação no dia primeiro do décimo mês.
+
+[[v15-10-17]]
+
+^<<v15-10-17,17>>^ E, nos três meses seguintes, eles examinaram todos os casos de homens que haviam casado com mulheres estrangeiras.
+
+[[v15-10-18]]
+
+^<<v15-10-18,18>>^ Esta é a lista dos que casaram com mulheres estrangeiras: Sacerdotes, por grupos de famílias: Maaseias, Eliézer, Jaribe e Gedalias, da família de Josué, e os seus irmãos, filhos de Jozadaque.
+
+[[v15-10-19]]
+
+^<<v15-10-19,19>>^ Eles prometeram se divorciar das suas mulheres e ofereceram um carneiro como sacrifício  pelos seus pecados.
+
+[[v15-10-20]]
+
+^<<v15-10-20,20>>^ Da família de Imer: Hanani e Zebadias.
+
+[[v15-10-21]]
+
+^<<v15-10-21,21>>^ Da família de Harim: Maaseias, Elias, Semaías, Jeiel e Uzias.
+
+[[v15-10-22]]
+
+^<<v15-10-22,22>>^ Da família de Pasur: Elioenai, Maaseias, Ismael, Netanel, Jozabade e Elasa.
+
+[[v15-10-23]]
+
+^<<v15-10-23,23>>^ Levitas : Jozabade, Simei, Quelaías (também chamado de Quelita), Petaías, Judá e Eliézer.
+
+[[v15-10-24]]
+
+^<<v15-10-24,24>>^ Músico: Eliasibe. Guardas do Templo: Salum, Telém e Uri.
+
+[[v15-10-25]]
+
+^<<v15-10-25,25>>^ Outros: Da família de Parós: Ramias, Jezias, Malquias, Miamim, Eleazar, Malquias e Benaías.
+
+[[v15-10-26]]
+
+^<<v15-10-26,26>>^ Da família de Elão: Matanias, Zacarias, Jeiel, Abdi, Jerimote e Elias.
+
+[[v15-10-27]]
+
+^<<v15-10-27,27>>^ Da família de Zatu: Elioenai, Eliasibe, Matanias, Jerimote, Zabade e Aziza.
+
+[[v15-10-28]]
+
+^<<v15-10-28,28>>^ Da família de Bebai: Jeoanã, Hananias, Zabai e Atlai.
+
+[[v15-10-29]]
+
+^<<v15-10-29,29>>^ Da família de Bani: Mesulã, Maluque, Adaías, Jasube, Seal e Jerimote.
+
+[[v15-10-30]]
+
+^<<v15-10-30,30>>^ Da família de Paate-Moabe: Adna, Quelal, Benaías, Maaseias, Matanias, Bezalel, Binui e Manassés.
+
+[[v15-10-31]]
+
+^<<v15-10-31,31>>^ Da família de Harim: Eliézer, Josias, Malquias, Semaías, Simeão, Benjamim, Maluque e Semarias.
+
+[[v15-10-32]]
+
+^<<v15-10-32,32>>^ Da família de Harim: Eliézer, Josias, Malquias, Semaías, Simeão, Benjamim, Maluque e Semarias.
+
+[[v15-10-33]]
+
+^<<v15-10-33,33>>^ Da família de Hasum: Matenai, Matata, Zabade, Elifelete, Jeremai, Manassés e Simei.
+
+[[v15-10-34]]
+
+^<<v15-10-34,34>>^ Da família de Bani: Maadai, Anrão, Uel, Benaías, Bedias, Queluí, Vanias, Meremote, Eliasibe, Matanias, Matenai e Jaasau.
+
+[[v15-10-35]]
+
+^<<v15-10-35,35>>^ Da família de Bani: Maadai, Anrão, Uel, Benaías, Bedias, Queluí, Vanias, Meremote, Eliasibe, Matanias, Matenai e Jaasau.
+
+[[v15-10-36]]
+
+^<<v15-10-36,36>>^ Da família de Bani: Maadai, Anrão, Uel, Benaías, Bedias, Queluí, Vanias, Meremote, Eliasibe, Matanias, Matenai e Jaasau.
+
+'''
+
+xref:015-esdras/015-esdras-009.adoc#v15-9-0[&#60; Capítulo Anterior] | <<v15-10-0,Topo>> | xref:016-neemias/016-neemias-001.adoc#v16-1-0[Próximo Capítulo &#62;]

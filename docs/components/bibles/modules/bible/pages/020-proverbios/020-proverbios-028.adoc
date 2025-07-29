@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v20-28-0]]
+=== Provérbios, 28
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v20-28-1]]
+
+^<<v20-28-1,1>>^ Os maus fogem, mesmo quando ninguém os persegue, mas o homem honesto é valente como um leão.
+
+[[v20-28-2]]
+
+^<<v20-28-2,2>>^ Quando a nação tem líderes inteligentes e sensatos, ela se torna forte e firme; mas, quando a nação peca, ela muda de governo a toda hora.
+
+[[v20-28-3]]
+
+^<<v20-28-3,3>>^ Um pobre que explora outros pobres é como a chuva que destrói tudo e acaba com as colheitas.
+
+[[v20-28-4]]
+
+^<<v20-28-4,4>>^ Quem não respeita a lei  de Deus está do lado dos maus, mas quem lhe obedece está contra eles.
+
+[[v20-28-5]]
+
+^<<v20-28-5,5>>^ Os maus não sabem o que é justiça, mas os que procuram conhecer a vontade do Senhor  sabem muito bem.
+
+[[v20-28-6]]
+
+^<<v20-28-6,6>>^ É melhor ser pobre e honesto do que rico e desonesto.
+
+[[v20-28-7]]
+
+^<<v20-28-7,7>>^ O moço que obedece à lei de Deus é inteligente, porém o que anda em más companhias é uma vergonha para o seu pai.
+
+[[v20-28-8]]
+
+^<<v20-28-8,8>>^ Quem fica rico emprestando dinheiro a juros altos e explorando o povo acaba deixando a sua riqueza para quem é bondoso com os pobres.
+
+[[v20-28-9]]
+
+^<<v20-28-9,9>>^ Deus despreza até as orações de quem não obedece à sua lei.
+
+[[v20-28-10]]
+
+^<<v20-28-10,10>>^ Quem engana uma pessoa honesta e a leva a fazer o mal cairá na sua própria armadilha; mas quem é correto será bem-recompensado.
+
+[[v20-28-11]]
+
+^<<v20-28-11,11>>^ Os ricos sempre pensam que são sábios, mas o pobre que é inteligente os conhece muito bem.
+
+[[v20-28-12]]
+
+^<<v20-28-12,12>>^ Quando os bons alcançam o poder, todos festejam; mas, quando o poder cai nas mãos dos maus, o povo se esconde de medo.
+
+[[v20-28-13]]
+
+^<<v20-28-13,13>>^ Quem tenta esconder os seus pecados não terá sucesso na vida, mas Deus tem misericórdia de quem confessa os seus pecados e os abandona.
+
+[[v20-28-14]]
+
+^<<v20-28-14,14>>^ Quem teme  o Senhor  é feliz, mas quem se revolta contra ele cairá na desgraça.
+
+[[v20-28-15]]
+
+^<<v20-28-15,15>>^ Como um leão furioso ou um urso feroz, assim é o governo mau que domina um povo pobre.
+
+[[v20-28-16]]
+
+^<<v20-28-16,16>>^ O governador sem juízo será um ditador cruel; aquele que odeia a desonestidade governará por muito tempo.
+
+[[v20-28-17]]
+
+^<<v20-28-17,17>>^ O assassino cava muito depressa a sua própria sepultura; não tente fazê-lo parar.
+
+[[v20-28-18]]
+
+^<<v20-28-18,18>>^ Quem é honesto tem segurança, mas quem é desonesto logo fracassa.
+
+[[v20-28-19]]
+
+^<<v20-28-19,19>>^ Quem cultiva a sua terra tem comida com fartura, mas quem gasta o tempo com coisas sem importância sempre será pobre.
+
+[[v20-28-20]]
+
+^<<v20-28-20,20>>^ A vida da pessoa honesta é cheia de felicidade, mas quem tem pressa de enriquecer não fica sem castigo.
+
+[[v20-28-21]]
+
+^<<v20-28-21,21>>^ É errado favorecer alguém no tribunal, mas alguns juízes fazem isso até por pouco dinheiro.
+
+[[v20-28-22]]
+
+^<<v20-28-22,22>>^ O ganancioso tem tanta pressa de ficar rico, que nem percebe que a pobreza está chegando.
+
+[[v20-28-23]]
+
+^<<v20-28-23,23>>^ Corrija uma pessoa, e no futuro ela apreciará isso mais do que se você a tivesse elogiado.
+
+[[v20-28-24]]
+
+^<<v20-28-24,24>>^ Quem acha que não é pecado roubar do seu pai ou da sua mãe é pior do que um ladrão comum.
+
+[[v20-28-25]]
+
+^<<v20-28-25,25>>^ O egoísta sempre causa problemas. Quem confia no Senhor  terá sucesso.
+
+[[v20-28-26]]
+
+^<<v20-28-26,26>>^ Quem confia em si mesmo é tolo, mas quem segue os ensinamentos dos sábios terá segurança.
+
+[[v20-28-27]]
+
+^<<v20-28-27,27>>^ Quem dá aos pobres não passará necessidade, mas quem faz de conta que os pobres não existem será muito amaldiçoado.
+
+[[v20-28-28]]
+
+^<<v20-28-28,28>>^ Quando os maus sobem ao poder, o povo se esconde de medo; quando eles caem do poder, o número das pessoas honestas aumenta.
+
+'''
+
+xref:020-proverbios/020-proverbios-027.adoc#v20-27-0[&#60; Capítulo Anterior] | <<v20-28-0,Topo>> | xref:020-proverbios/020-proverbios-029.adoc#v20-29-0[Próximo Capítulo &#62;]

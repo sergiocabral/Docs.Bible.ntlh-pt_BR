@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v19-63-0]]
+=== Salmos, 63
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-63-1]]
+
+^<<v19-63-1,1>>^ Ó Deus, tu és o meu Deus; procuro estar na tua presença. Todo o meu ser deseja estar contigo; eu tenho sede de ti como uma terra cansada, seca e sem água.
+
+[[v19-63-2]]
+
+^<<v19-63-2,2>>^ Quero ver-te no Templo; quero ver como és poderoso e glorioso .
+
+[[v19-63-3]]
+
+^<<v19-63-3,3>>^ O teu amor é melhor do que a própria vida, e por isso eu te louvarei.
+
+[[v19-63-4]]
+
+^<<v19-63-4,4>>^ Enquanto viver, falarei da tua bondade e levantarei as mãos a ti em oração.
+
+[[v19-63-5]]
+
+^<<v19-63-5,5>>^ As tuas bênçãos são como alimentos gostosos; elas me satisfazem, e por isso canto alegremente canções de louvor a ti.
+
+[[v19-63-6]]
+
+^<<v19-63-6,6>>^ Quando estou deitado, eu lembro de ti. Penso em ti a noite toda
+
+[[v19-63-7]]
+
+^<<v19-63-7,7>>^ porque sempre me tens ajudado. Na sombra das tuas asas eu canto de alegria.
+
+[[v19-63-8]]
+
+^<<v19-63-8,8>>^ A tua mão direita me segura bem firme, e eu me apego a ti.
+
+[[v19-63-9]]
+
+^<<v19-63-9,9>>^ Porém aqueles que me querem matar descerão para o mundo dos mortos .
+
+[[v19-63-10]]
+
+^<<v19-63-10,10>>^ Eles serão mortos na batalha, e os corpos deles serão comidos pelos animais selvagens.
+
+[[v19-63-11]]
+
+^<<v19-63-11,11>>^ Mas o rei se alegrará porque Deus lhe dá a vitória. Os que fazem promessas em nome de Deus se alegrarão, mas a boca dos mentirosos será fechada.
+
+'''
+
+xref:019-salmos/019-salmos-062.adoc#v19-62-0[&#60; Capítulo Anterior] | <<v19-63-0,Topo>> | xref:019-salmos/019-salmos-064.adoc#v19-64-0[Próximo Capítulo &#62;]

@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v56-2-0]]
+=== Tito, 2
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v56-2-1]]
+
+^<<v56-2-1,1>>^ Mas você, Tito, ensine o que está de acordo com a doutrina verdadeira.
+
+[[v56-2-2]]
+
+^<<v56-2-2,2>>^ Ensine os mais velhos a serem moderados, sérios, prudentes e firmes na fé, no amor e na perseverança.
+
+[[v56-2-3]]
+
+^<<v56-2-3,3>>^ Aconselhe também as mulheres mais idosas a viverem como devem viver as mulheres dedicadas a Deus. Que elas não sejam caluniadoras, nem muito chegadas ao vinho! Que elas ensinem o que é bom,
+
+[[v56-2-4]]
+
+^<<v56-2-4,4>>^ para que as mulheres mais jovens aprendam a amar o marido e os filhos
+
+[[v56-2-5]]
+
+^<<v56-2-5,5>>^ e a ser prudentes, puras, boas donas de casa e obedientes ao marido, a fim de que ninguém fale mal da mensagem de Deus!
+
+[[v56-2-6]]
+
+^<<v56-2-6,6>>^ Aconselhe também os homens mais jovens a serem prudentes.
+
+[[v56-2-7]]
+
+^<<v56-2-7,7>>^ Você mesmo deve ser, em tudo, um exemplo de boa conduta. Seja sincero e sério quando estiver ensinando.
+
+[[v56-2-8]]
+
+^<<v56-2-8,8>>^ Use palavras certas, para que ninguém possa criticá-lo e para que os inimigos fiquem envergonhados por não terem nada de mau a dizer a nosso respeito.
+
+[[v56-2-9]]
+
+^<<v56-2-9,9>>^ Que os escravos obedeçam aos seus donos e os agradem em tudo! Que não sejam respondões,
+
+[[v56-2-10]]
+
+^<<v56-2-10,10>>^ nem roubem os seus donos! Pelo contrário, que eles mostrem que são sempre bons e fiéis em tudo o que fazem. Desse modo, por causa das coisas que eles fizerem, todos falarão bem da doutrina a respeito de Deus, o nosso Salvador.
+
+[[v56-2-11]]
+
+^<<v56-2-11,11>>^ Pois Deus revelou a sua graça  para dar a salvação a todos.
+
+[[v56-2-12]]
+
+^<<v56-2-12,12>>^ Essa graça nos ensina a abandonarmos a descrença e as paixões mundanas e a vivermos neste mundo uma vida prudente, correta e dedicada a Deus,
+
+[[v56-2-13]]
+
+^<<v56-2-13,13>>^ enquanto ficamos esperando o dia feliz em que aparecerá a glória  do nosso grande Deus e Salvador Jesus Cristo.
+
+[[v56-2-14]]
+
+^<<v56-2-14,14>>^ Foi ele quem se deu a si mesmo por nós, a fim de nos livrar de toda maldade e de nos purificar , fazendo de nós um povo que pertence somente a ele e que se dedica a fazer o bem.
+
+[[v56-2-15]]
+
+^<<v56-2-15,15>>^ Ensine essas coisas e use toda a sua autoridade para animar e também para repreender os seus ouvintes. E que ninguém despreze você!
+
+'''
+
+xref:056-tito/056-tito-001.adoc#v56-1-0[&#60; Capítulo Anterior] | <<v56-2-0,Topo>> | xref:056-tito/056-tito-003.adoc#v56-3-0[Próximo Capítulo &#62;]

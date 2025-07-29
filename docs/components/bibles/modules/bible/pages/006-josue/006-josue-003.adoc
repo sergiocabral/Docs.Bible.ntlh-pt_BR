@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v6-3-0]]
+=== Josué, 3
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v6-3-1]]
+
+^<<v6-3-1,1>>^ Josué e todo o povo de Israel se levantaram de madrugada, saíram do acampamento do vale das Acácias e foram até o rio Jordão. Antes de atravessarem o rio, eles acamparam ali.
+
+[[v6-3-2]]
+
+^<<v6-3-2,2>>^ Três dias depois os líderes passaram pelo meio do acampamento,
+
+[[v6-3-3]]
+
+^<<v6-3-3,3>>^ dizendo ao povo: — Quando vocês virem os sacerdotes levitas  carregando a arca da aliança  do Senhor , nosso Deus, arrumem as suas coisas e sigam a arca.
+
+[[v6-3-4]]
+
+^<<v6-3-4,4>>^ Assim vocês ficarão sabendo para onde ir, pois nunca passaram por esse caminho. Porém não cheguem perto da arca; fiquem longe dela mais ou menos um quilômetro.
+
+[[v6-3-5]]
+
+^<<v6-3-5,5>>^ Josué disse ao povo: — Purifiquem-se  porque amanhã o Senhor  fará grandes coisas entre vocês.
+
+[[v6-3-6]]
+
+^<<v6-3-6,6>>^ Depois disse aos sacerdotes: — Peguem a arca da aliança e vão na frente do povo. E eles fizeram o que Josué mandou.
+
+[[v6-3-7]]
+
+^<<v6-3-7,7>>^ Aí o Senhor  disse a Josué: — Por causa daquilo que vou fazer hoje, todo o povo de Israel vai saber que você é um grande homem. Eles saberão que, assim como estive com Moisés, também estarei com você.
+
+[[v6-3-8]]
+
+^<<v6-3-8,8>>^ Dê aos sacerdotes que estão carregando a arca a seguinte ordem: "Quando chegarem ao rio, parem dentro da água, perto da margem."
+
+[[v6-3-9]]
+
+^<<v6-3-9,9>>^ Então Josué disse ao povo: — Venham cá e prestem atenção naquilo que o Senhor , nosso Deus, vai dizer.
+
+[[v6-3-10]]
+
+^<<v6-3-10,10>>^ Pelo que vai acontecer, vocês ficarão sabendo que o Deus vivo está entre vocês e que sem falta expulsará os cananeus, os heteus, os heveus, os perizeus, os girgaseus, os amorreus e os jebuseus.
+
+[[v6-3-11]]
+
+^<<v6-3-11,11>>^ A arca da aliança do Senhor de toda a terra vai atravessar o rio Jordão na frente de vocês.
+
+[[v6-3-12]]
+
+^<<v6-3-12,12>>^ Agora escolham doze homens, um de cada tribo  de Israel.
+
+[[v6-3-13]]
+
+^<<v6-3-13,13>>^ Quando os sacerdotes que estão carregando a arca da aliança do Senhor  Deus, o Senhor de toda a terra, puserem os pés dentro da água, o Jordão vai parar de correr, e as águas da parte de cima ficarão amontoadas num lugar.
+
+[[v6-3-14]]
+
+^<<v6-3-14,14>>^ Era o tempo da colheita, e as águas do rio haviam coberto as margens. Foi nessa ocasião que o povo saiu do acampamento para atravessar o Jordão. Os sacerdotes iam na frente, levando a arca da aliança. Quando chegaram ao Jordão e puseram os pés dentro da água,
+
+[[v6-3-15]]
+
+^<<v6-3-15,15>>^ Era o tempo da colheita, e as águas do rio haviam coberto as margens. Foi nessa ocasião que o povo saiu do acampamento para atravessar o Jordão. Os sacerdotes iam na frente, levando a arca da aliança. Quando chegaram ao Jordão e puseram os pés dentro da água,
+
+[[v6-3-16]]
+
+^<<v6-3-16,16>>^ ela parou de correr e ficou amontoada na parte de cima do rio até Adã, cidade que fica ao lado de Sartã. Na parte de baixo, o rio secou completamente até o mar Morto. Então o povo passou para o outro lado, perto de Jericó.
+
+'''
+
+xref:006-josue/006-josue-002.adoc#v6-2-0[&#60; Capítulo Anterior] | <<v6-3-0,Topo>> | xref:006-josue/006-josue-004.adoc#v6-4-0[Próximo Capítulo &#62;]

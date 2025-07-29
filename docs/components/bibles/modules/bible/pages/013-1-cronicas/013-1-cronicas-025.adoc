@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v13-25-0]]
+=== 1 Crônicas, 25
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v13-25-1]]
+
+^<<v13-25-1,1>>^ O rei Davi e os líderes dos levitas  escolheram os seguintes grupos de famílias de levitas para dirigirem os cultos de adoração: Asafe, Hemã e Jedutum. Eles deviam anunciar as mensagens de Deus, acompanhados por música de harpas , liras  e pratos. Esta é a lista dos homens escolhidos para este serviço:
+
+[[v13-25-2]]
+
+^<<v13-25-2,2>>^ Os quatro filhos de Asafe: Zacur, José, Netanias e Asarela. Quem os dirigia era Asafe, que anunciava as mensagens de Deus quando o rei mandava.
+
+[[v13-25-3]]
+
+^<<v13-25-3,3>>^ Os seis filhos de Jedutum: Gedalias, Zeri, Jesaías, Simei, Hasabias e Matitias. Dirigidos pelo seu pai, eles anunciavam a mensagem de Deus, acompanhados por música de liras, e cantavam louvores e agradecimentos a Deus, o Senhor .
+
+[[v13-25-4]]
+
+^<<v13-25-4,4>>^ Os catorze filhos de Hemã: Buquias, Matanias, Uziel, Sebuel, Jerimote, Hananias, Hanani, Eliata, Gidalti, Romanti-Ézer, Josbecasa, Maloti, Hotir e Maaziote.
+
+[[v13-25-5]]
+
+^<<v13-25-5,5>>^ Deus deu a Hemã, o profeta  do rei, esses catorze filhos e também três filhas, conforme havia prometido, a fim de dar poder a Hemã.
+
+[[v13-25-6]]
+
+^<<v13-25-6,6>>^ Todos os seus filhos cantavam nos serviços religiosos do Templo, tocando pratos, liras e harpas. Quem os dirigia era o pai. Asafe, Jedutum e Hemã estavam debaixo das ordens do rei.
+
+[[v13-25-7]]
+
+^<<v13-25-7,7>>^ Os músicos treinados para tocar instrumentos e cantar louvores a Deus, o Senhor , eram duzentos e oitenta e oito ao todo.
+
+[[v13-25-8]]
+
+^<<v13-25-8,8>>^ Para organizar os turnos de serviço, todos eles tiraram sortes, tanto os jovens como os velhos, os já treinados e os principiantes.
+
+[[v13-25-9]]
+
+^<<v13-25-9,9>>^ Esses duzentos e oitenta e oito homens foram divididos de acordo com as suas famílias em vinte e quatro grupos de doze, cada grupo com um chefe. Esta é a ordem dos seus turnos de serviço: 1) José, da família de Asafe; 2) Gedalias; 3) Zacur; 4) Zeri; 5) Netanias; 6) Buquias; 7) Jesarela; 8) Jesaías; 9) Matanias; 10) Simei; 11) Uziel; 12) Hasabias; 13) Sebuel; 14) Matitias; 15) Jerimote; 16) Hananias; 17) Josbecasa; 18) Hanani; 19) Maloti; 20) Eliata; 21) Hotir; 22) Gidalti; 23) Maaziote; 24) Romanti-Ézer.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-024.adoc#v13-24-0[&#60; Capítulo Anterior] | <<v13-25-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-026.adoc#v13-26-0[Próximo Capítulo &#62;]

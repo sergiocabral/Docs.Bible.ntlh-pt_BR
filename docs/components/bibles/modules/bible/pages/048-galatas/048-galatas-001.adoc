@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v48-1-0]]
+=== Gálatas, 1
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v48-1-1]]
+
+^<<v48-1-1,1>>^ Eu, Paulo, escrevo esta carta — eu que fui chamado  para ser apóstolo , não por pessoas ou por meio de uma pessoa, mas por Jesus Cristo e por Deus, o Pai, que ressuscitou Jesus da morte.
+
+[[v48-1-2]]
+
+^<<v48-1-2,2>>^ Todos os irmãos que estão aqui comigo mandam saudações às igrejas da Galácia.
+
+[[v48-1-3]]
+
+^<<v48-1-3,3>>^ Que a graça  e a paz de Deus, o nosso Pai, e do Senhor Jesus Cristo estejam com vocês!
+
+[[v48-1-4]]
+
+^<<v48-1-4,4>>^ Em obediência à vontade do nosso Deus e Pai, Cristo se entregou para ser morto a fim de tirar os nossos pecados e assim nos livrar deste mundo mau.
+
+[[v48-1-5]]
+
+^<<v48-1-5,5>>^ A Deus seja a glória  para todo o sempre! Amém !
+
+[[v48-1-6]]
+
+^<<v48-1-6,6>>^ Estou muito admirado com vocês, pois estão abandonando tão depressa aquele que os chamou  por meio da graça  de Cristo e estão aceitando outro evangelho.
+
+[[v48-1-7]]
+
+^<<v48-1-7,7>>^ Na verdade não existe outro evangelho, porém eu falo assim porque há algumas pessoas que estão perturbando vocês, querendo mudar o evangelho  de Cristo.
+
+[[v48-1-8]]
+
+^<<v48-1-8,8>>^ Mas, se alguém, mesmo que sejamos nós ou um anjo do céu, anunciar a vocês um evangelho diferente daquele que temos anunciado, que seja amaldiçoado!
+
+[[v48-1-9]]
+
+^<<v48-1-9,9>>^ Pois já dissemos antes e repetimos: se alguém anunciar um evangelho diferente daquele que vocês aceitaram, que essa pessoa seja amaldiçoada!
+
+[[v48-1-10]]
+
+^<<v48-1-10,10>>^ Por acaso eu procuro a aprovação das pessoas? Não! O que eu quero é a aprovação de Deus. Será que agora estou querendo agradar as pessoas? Se estivesse, eu não seria servo  de Cristo.
+
+[[v48-1-11]]
+
+^<<v48-1-11,11>>^ Meus irmãos, eu afirmo a vocês que o evangelho  que eu anuncio não é uma invenção humana.
+
+[[v48-1-12]]
+
+^<<v48-1-12,12>>^ Eu não o recebi de ninguém, e ninguém o ensinou a mim, mas foi o próprio Jesus Cristo que o revelou para mim.
+
+[[v48-1-13]]
+
+^<<v48-1-13,13>>^ Vocês ouviram falar de como eu costumava agir quando praticava a religião dos judeus. Sabem como eu perseguia sem dó nem piedade a Igreja de Deus e fazia tudo para destruí-la.
+
+[[v48-1-14]]
+
+^<<v48-1-14,14>>^ Quando praticava essa religião, eu estava mais adiantado do que a maioria dos meus patrícios da minha idade e seguia com mais zelo do que eles as tradições dos meus antepassados.
+
+[[v48-1-15]]
+
+^<<v48-1-15,15>>^ Porém Deus, na sua graça , me escolheu antes mesmo de eu nascer e me chamou  para servi-lo. E, quando ele resolveu
+
+[[v48-1-16]]
+
+^<<v48-1-16,16>>^ revelar para mim o seu Filho a fim de que eu anunciasse aos não judeus a boa notícia a respeito dele, eu não fui pedir conselhos a ninguém.
+
+[[v48-1-17]]
+
+^<<v48-1-17,17>>^ E também não fui até Jerusalém para falar com aqueles que eram apóstolos  antes de mim. Pelo contrário, fui para a região da Arábia e depois voltei para Damasco.
+
+[[v48-1-18]]
+
+^<<v48-1-18,18>>^ Três anos depois, fui até Jerusalém para pedir informações a Pedro e fiquei duas semanas com ele.
+
+[[v48-1-19]]
+
+^<<v48-1-19,19>>^ E não falei com nenhum outro apóstolo, a não ser com Tiago, irmão do Senhor.
+
+[[v48-1-20]]
+
+^<<v48-1-20,20>>^ O que estou escrevendo a vocês é verdade. Deus sabe que não estou mentindo.
+
+[[v48-1-21]]
+
+^<<v48-1-21,21>>^ Depois fui para as regiões da Síria e da Cilícia.
+
+[[v48-1-22]]
+
+^<<v48-1-22,22>>^ Durante esse tempo as pessoas das igrejas da Judeia não me conheciam pessoalmente.
+
+[[v48-1-23]]
+
+^<<v48-1-23,23>>^ Elas somente tinham ouvido o que outros diziam: "Aquele que antes nos perseguia está anunciando agora a fé que no passado tentava destruir!"
+
+[[v48-1-24]]
+
+^<<v48-1-24,24>>^ E louvavam a Deus por minha causa.
+
+'''
+
+xref:047-2-corintios/047-2-corintios-013.adoc#v47-13-0[&#60; Capítulo Anterior] | <<v48-1-0,Topo>> | xref:048-galatas/048-galatas-002.adoc#v48-2-0[Próximo Capítulo &#62;]

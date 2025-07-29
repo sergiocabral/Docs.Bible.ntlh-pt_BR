@@ -1,0 +1,157 @@
+include::./index.adoc[]
+
+[[v2-26-0]]
+=== Êxodo, 26
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v2-26-1]]
+
+^<<v2-26-1,1>>^ O Senhor  disse a Moisés: — Faça a parte de dentro da Tenda Sagrada  com dez cortinas de tecido feito de linho fino e de fios de lã azul, púrpura  e vermelha. Nessas cortinas serão bordadas figuras de querubins .
+
+[[v2-26-2]]
+
+^<<v2-26-2,2>>^ Cada cortina deverá ter doze metros e meio de comprimento por um metro e oitenta de largura.
+
+[[v2-26-3]]
+
+^<<v2-26-3,3>>^ Costure cinco delas umas nas outras, formando assim uma só peça. Faça a mesma coisa com as outras cinco.
+
+[[v2-26-4]]
+
+^<<v2-26-4,4>>^ Ponha laçadas de tecido azul na beirada de fora da última cortina de cada uma das duas peças de cortinas.
+
+[[v2-26-5]]
+
+^<<v2-26-5,5>>^ Faça cinquenta laçadas para a beirada da primeira cortina da primeira peça e cinquenta para a beirada da última cortina da segunda peça, de modo que as laçadas fiquem de frente umas para as outras.
+
+[[v2-26-6]]
+
+^<<v2-26-6,6>>^ Faça também cinquenta prendedores de ouro e com eles junte os dois jogos de cortinas para que formem uma só peça.
+
+[[v2-26-7]]
+
+^<<v2-26-7,7>>^ — Faça uma cobertura para a Tenda, com onze pedaços de pano feito de pelos de cabra.
+
+[[v2-26-8]]
+
+^<<v2-26-8,8>>^ Os pedaços deverão ter o mesmo tamanho, medindo treze metros e trinta de comprimento por um metro e oitenta de largura.
+
+[[v2-26-9]]
+
+^<<v2-26-9,9>>^ Costure cinco pedaços uns nos outros, formando uma peça, e os outros seis, formando outra peça, ficando o sexto pedaço dobrado na parte da frente da Tenda.
+
+[[v2-26-10]]
+
+^<<v2-26-10,10>>^ Ponha cinquenta laçadas na beirada do último pedaço da primeira peça e cinquenta laçadas na beirada da outra peça.
+
+[[v2-26-11]]
+
+^<<v2-26-11,11>>^ Faça também cinquenta prendedores de bronze e passe esses prendedores nas laçadas, juntando assim as duas peças uma com a outra para que formem uma cobertura só.
+
+[[v2-26-12]]
+
+^<<v2-26-12,12>>^ A metade da cortina que sobrar ficará pendurada na parte de trás da Tenda.
+
+[[v2-26-13]]
+
+^<<v2-26-13,13>>^ Os quarenta e cinco centímetros que sobrarem de cada lado do comprimento das cortinas ficarão de um lado e do outro para cobrir a Tenda.
+
+[[v2-26-14]]
+
+^<<v2-26-14,14>>^ — Faça mais uma cobertura, de peles de carneiro tingidas de vermelho; e em cima desta coloque outra cobertura, feita de peles finas.
+
+[[v2-26-15]]
+
+^<<v2-26-15,15>>^ — Faça também armações de madeira de acácia para a Tenda.
+
+[[v2-26-16]]
+
+^<<v2-26-16,16>>^ Cada uma das armações terá quatro metros e quarenta e cinco de comprimento por sessenta e sete centímetros de largura.
+
+[[v2-26-17]]
+
+^<<v2-26-17,17>>^ Cada armação terá dois encaixes para juntar uma à outra. Você fará isso com todas as armações da Tenda.
+
+[[v2-26-18]]
+
+^<<v2-26-18,18>>^ Faça vinte armações para o lado sul
+
+[[v2-26-19]]
+
+^<<v2-26-19,19>>^ e ponha debaixo dessas vinte armações quarenta bases de prata, duas debaixo de cada armação, para firmarem os seus dois encaixes.
+
+[[v2-26-20]]
+
+^<<v2-26-20,20>>^ Faça também vinte armações para o lado norte
+
+[[v2-26-21]]
+
+^<<v2-26-21,21>>^ e quarenta bases de prata, duas para cada armação.
+
+[[v2-26-22]]
+
+^<<v2-26-22,22>>^ Para o lado de trás da Tenda, o lado oeste, você fará seis armações
+
+[[v2-26-23]]
+
+^<<v2-26-23,23>>^ e mais duas armações para os cantos da Tenda.
+
+[[v2-26-24]]
+
+^<<v2-26-24,24>>^ Essas armações dos cantos deverão ser juntadas na base, formando uma só peça até a primeira argola que fica na parte de cima. As duas armações que formam os dois cantos deverão ser colocadas desse jeito.
+
+[[v2-26-25]]
+
+^<<v2-26-25,25>>^ Portanto, haverá oito armações com as suas dezesseis bases de prata, duas debaixo de cada armação.
+
+[[v2-26-26]]
+
+^<<v2-26-26,26>>^ — Faça quinze travessas de madeira de acácia, cinco para as armações de um lado da Tenda,
+
+[[v2-26-27]]
+
+^<<v2-26-27,27>>^ cinco para as armações do outro lado e cinco para as armações do lado oeste, na parte de trás.
+
+[[v2-26-28]]
+
+^<<v2-26-28,28>>^ A travessa do centro passará a meia altura entre as armações, de um lado da Tenda até o outro.
+
+[[v2-26-29]]
+
+^<<v2-26-29,29>>^ Revista de ouro essas armações e ponha nelas argolas de ouro, por onde passarão os cabos, que também deverão ser revestidos de ouro.
+
+[[v2-26-30]]
+
+^<<v2-26-30,30>>^ Arme a Tenda de acordo com o modelo que eu lhe mostrei no monte.
+
+[[v2-26-31]]
+
+^<<v2-26-31,31>>^ — Faça uma cortina de tecido feito de linho fino e de fios de lã azul, púrpura e vermelha e bordada com figuras de querubins.
+
+[[v2-26-32]]
+
+^<<v2-26-32,32>>^ Pendure essa cortina em quatro postes de madeira de acácia revestidos de ouro, que terão prendedores de ouro e serão fixados em quatro bases de prata.
+
+[[v2-26-33]]
+
+^<<v2-26-33,33>>^ Pendure a cortina debaixo dos prendedores e atrás da cortina ponha a arca da aliança , onde estão as duas placas de pedra. A cortina separará o Lugar Santo  do Lugar Santíssimo .
+
+[[v2-26-34]]
+
+^<<v2-26-34,34>>^ Ponha a tampa na arca da aliança, no Lugar Santíssimo.
+
+[[v2-26-35]]
+
+^<<v2-26-35,35>>^ Fora do Lugar Santíssimo ponha a mesa no lado norte da Tenda e coloque o candelabro  no lado sul.
+
+[[v2-26-36]]
+
+^<<v2-26-36,36>>^ — Para a entrada da Tenda faça uma cortina de tecido feito de linho fino e de fios de lã azul, púrpura e vermelha e enfeitada com bordados.
+
+[[v2-26-37]]
+
+^<<v2-26-37,37>>^ Para segurarem essa cortina, faça cinco postes de madeira de acácia revestidos de ouro e com prendedores de ouro. E faça cinco bases de bronze para os postes.
+
+'''
+
+xref:002-exodo/002-exodo-025.adoc#v2-25-0[&#60; Capítulo Anterior] | <<v2-26-0,Topo>> | xref:002-exodo/002-exodo-027.adoc#v2-27-0[Próximo Capítulo &#62;]

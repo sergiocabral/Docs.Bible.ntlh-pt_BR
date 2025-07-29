@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v19-132-0]]
+=== Salmos, 132
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-132-1]]
+
+^<<v19-132-1,1>>^ Ó Senhor  Deus, lembra de Davi e de todos os seus sofrimentos.
+
+[[v19-132-2]]
+
+^<<v19-132-2,2>>^ Lembra da promessa feita por Davi, lembra deste juramento que ele fez a ti, o Senhor , o Poderoso de Jacó:
+
+[[v19-132-3]]
+
+^<<v19-132-3,3>>^ "Eu não vou para casa, nem vou descansar;
+
+[[v19-132-4]]
+
+^<<v19-132-4,4>>^ não vou me deitar, nem dormir
+
+[[v19-132-5]]
+
+^<<v19-132-5,5>>^ enquanto não encontrar um lugar para o Senhor , uma casa para o Poderoso de Jacó."
+
+[[v19-132-6]]
+
+^<<v19-132-6,6>>^ Em Belém ouvimos falar a respeito da arca da aliança e nós a encontramos nos campos de Jearim.
+
+[[v19-132-7]]
+
+^<<v19-132-7,7>>^ Então dissemos: "Vamos à casa de Deus, o Senhor ; vamos adorá-lo diante do seu trono."
+
+[[v19-132-8]]
+
+^<<v19-132-8,8>>^ Ó Senhor , vem para o teu Templo, com a arca da aliança, que representa o teu poder, e fica ali para sempre!
+
+[[v19-132-9]]
+
+^<<v19-132-9,9>>^ Que os teus sacerdotes façam sempre o que é certo! Que os teus servos  fiéis gritem de alegria!
+
+[[v19-132-10]]
+
+^<<v19-132-10,10>>^ Ó Senhor  Deus, fizeste uma promessa ao teu servo Davi; portanto, não rejeites o rei que escolheste.
+
+[[v19-132-11]]
+
+^<<v19-132-11,11>>^ Tu não voltarás atrás neste juramento que fizeste a Davi: "Farei com que um dos seus filhos seja rei, e ele reinará depois de você.
+
+[[v19-132-12]]
+
+^<<v19-132-12,12>>^ Se os filhos de você forem fiéis à minha aliança e aos mandamentos que lhes dei, também os filhos deles sempre serão reis."
+
+[[v19-132-13]]
+
+^<<v19-132-13,13>>^ O Senhor  Deus escolheu o monte Sião ; ele quis que a sua casa fosse ali e disse:
+
+[[v19-132-14]]
+
+^<<v19-132-14,14>>^ "Aqui viverei para sempre; é aqui que eu quero reinar.
+
+[[v19-132-15]]
+
+^<<v19-132-15,15>>^ Darei de tudo com fartura a Jerusalém, darei muito alimento aos seus pobres.
+
+[[v19-132-16]]
+
+^<<v19-132-16,16>>^ Abençoarei tudo o que os seus sacerdotes fizerem, e o seu povo cantará e gritará de alegria.
+
+[[v19-132-17]]
+
+^<<v19-132-17,17>>^ Aqui farei com que um descendente de Davi seja rei poderoso e farei com que sempre sejam reis os descendentes desse rei escolhido.
+
+[[v19-132-18]]
+
+^<<v19-132-18,18>>^ Farei com que os seus inimigos fiquem cobertos de vergonha, mas ele usará uma coroa que vai brilhar cada vez mais."
+
+'''
+
+xref:019-salmos/019-salmos-131.adoc#v19-131-0[&#60; Capítulo Anterior] | <<v19-132-0,Topo>> | xref:019-salmos/019-salmos-133.adoc#v19-133-0[Próximo Capítulo &#62;]

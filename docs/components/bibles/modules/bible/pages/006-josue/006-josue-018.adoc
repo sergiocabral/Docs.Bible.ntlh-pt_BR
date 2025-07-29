@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v6-18-0]]
+=== Josué, 18
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v6-18-1]]
+
+^<<v6-18-1,1>>^ Agora a terra já estava conquistada. Então todo o povo de Israel se reuniu na cidade de Siló, e armaram ali a Tenda Sagrada .
+
+[[v6-18-2]]
+
+^<<v6-18-2,2>>^ Sete tribos  ainda não tinham recebido as suas terras.
+
+[[v6-18-3]]
+
+^<<v6-18-3,3>>^ Nessa ocasião Josué disse ao povo de Israel: — Até quando vão ficar esperando para tomar posse da terra que o Senhor , o Deus dos seus antepassados, deu a vocês?
+
+[[v6-18-4]]
+
+^<<v6-18-4,4>>^ Escolham três homens de cada tribo, e eu os mandarei andar por toda esta terra. Eles farão por escrito uma descrição das terras que gostariam de ter como sua propriedade e depois voltarão para falar comigo.
+
+[[v6-18-5]]
+
+^<<v6-18-5,5>>^ Esses homens dividirão a terra em sete partes. A tribo de Judá ficará nas suas terras, no Sul, e os descendentes de José nas suas, no Norte.
+
+[[v6-18-6]]
+
+^<<v6-18-6,6>>^ Tragam a descrição da terra dividida em sete partes. Então eu farei o sorteio  para consultar o Senhor , nosso Deus, por vocês.
+
+[[v6-18-7]]
+
+^<<v6-18-7,7>>^ Os levitas  não receberão, como os outros, uma parte da terra porque a parte deles é servir como sacerdotes de Deus, o Senhor . As tribos de Gade, de Rúben e de Manassés do Leste já receberam as suas terras a leste do rio Jordão, terras que foram dadas por Moisés, servo  do Senhor .
+
+[[v6-18-8]]
+
+^<<v6-18-8,8>>^ E os homens saíram para fazer a descrição daquela terra, depois de receberem de Josué esta ordem: — Andem por toda esta terra, façam por escrito uma descrição dela e depois voltem para falar comigo. Então, aqui em Siló, eu farei o sorteio para consultar o Senhor  Deus por vocês.
+
+[[v6-18-9]]
+
+^<<v6-18-9,9>>^ Assim os homens foram, andaram por toda aquela terra e fizeram uma descrição dela num livro. Eles a dividiram em sete partes e prepararam uma lista das cidades. Depois voltaram ao acampamento de Siló, onde Josué estava.
+
+[[v6-18-10]]
+
+^<<v6-18-10,10>>^ Então Josué fez o sorteio para consultar o Senhor  por eles e deu a cada tribo do povo de Israel uma parte da terra.
+
+[[v6-18-11]]
+
+^<<v6-18-11,11>>^ As famílias da tribo  de Benjamim receberam terras que ficavam entre a tribo de Judá e as tribos de José.
+
+[[v6-18-12]]
+
+^<<v6-18-12,12>>^ No Norte a sua divisa começava no rio Jordão. Daí subia pelo lado norte de Jericó, na direção oeste, seguindo pela região montanhosa até o deserto de Bete-Avém.
+
+[[v6-18-13]]
+
+^<<v6-18-13,13>>^ Então ia para o sul na direção da cidade de Luz, até a subida de Luz (também chamada de Betel). Daí descia para Atarote-Adar, na montanha que fica ao sul de Bete-Horom-de-Baixo.
+
+[[v6-18-14]]
+
+^<<v6-18-14,14>>^ Dali a divisa ia noutra direção e, do lado oeste da montanha que fica em frente de Bete-Horom, virava para o sul, indo até a cidade de Quiriate-Baal (ou Quiriate-Jearim), que é da tribo de Judá. Esta era a divisa a oeste.
+
+[[v6-18-15]]
+
+^<<v6-18-15,15>>^ No Sul a divisa começava na ponta de Quiriate-Jearim e dali ia para o oeste até as fontes de Neftoa.
+
+[[v6-18-16]]
+
+^<<v6-18-16,16>>^ Daí descia até o fim da montanha que está em frente do vale de Ben-Hinom, na ponta norte do vale dos Gigantes. A divisa seguia para o sul pelo vale de Hinom, no sul da subida dos jebuseus, até a fonte de Rogel.
+
+[[v6-18-17]]
+
+^<<v6-18-17,17>>^ Virava para o norte, indo até a fonte de Semes, e daí a Gelilote, do outro lado da subida de Adumim. Então descia até a pedra de Boã (Boã era filho de Rúben),
+
+[[v6-18-18]]
+
+^<<v6-18-18,18>>^ passava ao norte da subida defronte do vale do Jordão e depois descia até o vale.
+
+[[v6-18-19]]
+
+^<<v6-18-19,19>>^ Seguia para o norte da subida de Bete-Hogla e terminava na ponta sul do rio Jordão, isto é, na baía onde este rio desemboca no mar Morto. Esta era a divisa no Sul.
+
+[[v6-18-20]]
+
+^<<v6-18-20,20>>^ O rio Jordão era a divisa a leste. São estas as divisas das terras que as famílias da tribo de Benjamim receberam como sua propriedade.
+
+[[v6-18-21]]
+
+^<<v6-18-21,21>>^ As cidades que pertenciam às famílias da tribo de Benjamim eram Jericó, Bete-Hogla, Emeque-Quesis,
+
+[[v6-18-22]]
+
+^<<v6-18-22,22>>^ Bete-Arabá, Zemaraim, Betel,
+
+[[v6-18-23]]
+
+^<<v6-18-23,23>>^ Avim, Pará, Ofra,
+
+[[v6-18-24]]
+
+^<<v6-18-24,24>>^ Quefar-Amonai, Ofni e Gaba. Ao todo doze cidades, mais os povoados vizinhos.
+
+[[v6-18-25]]
+
+^<<v6-18-25,25>>^ Também eram da tribo de Benjamim as cidades de Gibeão, Ramá, Beerote,
+
+[[v6-18-26]]
+
+^<<v6-18-26,26>>^ Mispa, Cefira, Mosa,
+
+[[v6-18-27]]
+
+^<<v6-18-27,27>>^ Requém, Irpeel, Tarala,
+
+[[v6-18-28]]
+
+^<<v6-18-28,28>>^ Zela, Elefe, Jebus (ou Jerusalém), Gibeá e Quiriate-Jearim. Ao todo catorze cidades, mais os seus povoados. São estas as terras que as famílias da tribo de Benjamim receberam como sua propriedade.
+
+'''
+
+xref:006-josue/006-josue-017.adoc#v6-17-0[&#60; Capítulo Anterior] | <<v6-18-0,Topo>> | xref:006-josue/006-josue-019.adoc#v6-19-0[Próximo Capítulo &#62;]

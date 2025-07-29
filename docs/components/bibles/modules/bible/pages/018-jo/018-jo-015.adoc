@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v18-15-0]]
+=== Jó, 15
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v18-15-1]]
+
+^<<v18-15-1,1>>^ Então Elifaz, da região de Temã, em resposta disse:
+
+[[v18-15-2]]
+
+^<<v18-15-2,2>>^ "Jó, um sábio não responde com palavras ocas, não fica inchado com opiniões que não valem nada.
+
+[[v18-15-3]]
+
+^<<v18-15-3,3>>^ Um sábio não falaria palavras inúteis, nem se defenderia com argumentos sem valor.
+
+[[v18-15-4]]
+
+^<<v18-15-4,4>>^ Mas você quer acabar com o sentimento religioso; se dependesse de você, ninguém oraria a Deus.
+
+[[v18-15-5]]
+
+^<<v18-15-5,5>>^ Você fala assim por causa do seu pecado e procura enganar os outros com as suas palavras.
+
+[[v18-15-6]]
+
+^<<v18-15-6,6>>^ Eu não preciso acusá-lo, pois as suas próprias palavras o condenam.
+
+[[v18-15-7]]
+
+^<<v18-15-7,7>>^ "Você está pensando que é o primeiro ser humano que nasceu? Por acaso, você veio ao mundo antes das montanhas?
+
+[[v18-15-8]]
+
+^<<v18-15-8,8>>^ Será que você conhece os planos secretos de Deus? Será que só você é sábio?
+
+[[v18-15-9]]
+
+^<<v18-15-9,9>>^ Será que você sabe o que nós não sabemos ou compreende as coisas melhor do que nós?
+
+[[v18-15-10]]
+
+^<<v18-15-10,10>>^ O que sabemos nós aprendemos com pessoas idosas, que nasceram antes do seu pai.
+
+[[v18-15-11]]
+
+^<<v18-15-11,11>>^ "Por que você não quer aceitar o consolo que Deus lhe oferece? Em nome dele nós falamos delicadamente com você.
+
+[[v18-15-12]]
+
+^<<v18-15-12,12>>^ Por que você se deixa levar pelo seu coração? Por que esses olhares de ódio?
+
+[[v18-15-13]]
+
+^<<v18-15-13,13>>^ Por que essa revolta, essa ira contra Deus? Por que você se queixa assim?
+
+[[v18-15-14]]
+
+^<<v18-15-14,14>>^ "Será que alguém pode ser puro? Poderá alguma pessoa ser correta diante de Deus?
+
+[[v18-15-15]]
+
+^<<v18-15-15,15>>^ Se Deus não confia nos anjos, e se nem o céu é puro aos seus olhos,
+
+[[v18-15-16]]
+
+^<<v18-15-16,16>>^ que diremos do ser humano, imundo e nojento, que bebe o pecado como se fosse água?
+
+[[v18-15-17]]
+
+^<<v18-15-17,17>>^ "Escute, Jó, que eu vou explicar; vou contar aquilo que tenho visto.
+
+[[v18-15-18]]
+
+^<<v18-15-18,18>>^ Os sábios ensinam verdades que aprenderam com os seus pais,
+
+[[v18-15-19]]
+
+^<<v18-15-19,19>>^ e estes moravam numa terra que não recebeu a influência de estrangeiros.
+
+[[v18-15-20]]
+
+^<<v18-15-20,20>>^ "Aquele que é mau, que persegue os outros, sofre atormentado a vida inteira.
+
+[[v18-15-21]]
+
+^<<v18-15-21,21>>^ Vozes de terror enchem os seus ouvidos, e, quando pensa que está seguro, os bandidos o atacam.
+
+[[v18-15-22]]
+
+^<<v18-15-22,22>>^ Ele não tem esperança de escapar da escuridão da morte, pois um punhal está pronto para matá-lo.
+
+[[v18-15-23]]
+
+^<<v18-15-23,23>>^ Os urubus estão esperando para devorar o seu corpo; ele sabe que o dia da escuridão está perto.
+
+[[v18-15-24]]
+
+^<<v18-15-24,24>>^ Ele será dominado pela angústia e pela aflição, como acontece quando um rei espera o ataque dos inimigos.
+
+[[v18-15-25]]
+
+^<<v18-15-25,25>>^ Tudo isso acontece porque ele levanta a mão contra Deus e desafia o Todo-Poderoso.
+
+[[v18-15-26]]
+
+^<<v18-15-26,26>>^ Ele é rebelde e, protegido por um pesado escudo , se joga contra Deus.
+
+[[v18-15-27]]
+
+^<<v18-15-27,27>>^ O seu olhar é orgulhoso, e o seu coração é egoísta.
+
+[[v18-15-28]]
+
+^<<v18-15-28,28>>^ "Esse homem mau conquistou cidades e ficou com as casas abandonadas pelos moradores, mas essas cidades e casas virarão um monte de ruínas.
+
+[[v18-15-29]]
+
+^<<v18-15-29,29>>^ Ele não ficará rico por muito tempo e perderá tudo o que tem. Até a sua sombra vai desaparecer da terra.
+
+[[v18-15-30]]
+
+^<<v18-15-30,30>>^ O homem mau não escapará da escuridão. Ele será como uma árvore cujos galhos foram queimados e cujas flores foram levadas pelo vento.
+
+[[v18-15-31]]
+
+^<<v18-15-31,31>>^ Como não tem juízo e confia na mentira, a própria mentira será a sua recompensa.
+
+[[v18-15-32]]
+
+^<<v18-15-32,32>>^ Ele secará antes da hora, como um galho que seca e nunca mais fica verde.
+
+[[v18-15-33]]
+
+^<<v18-15-33,33>>^ Ele será como uma parreira  que perde as uvas ainda verdes, como uma oliveira que deixa cair as suas flores.
+
+[[v18-15-34]]
+
+^<<v18-15-34,34>>^ Os maus não terão descendentes, e o fogo destruirá as casas dos desonestos.
+
+[[v18-15-35]]
+
+^<<v18-15-35,35>>^ Eles planejam a maldade, fazem o que é errado e só pensam em enganar os outros."
+
+'''
+
+xref:018-jo/018-jo-014.adoc#v18-14-0[&#60; Capítulo Anterior] | <<v18-15-0,Topo>> | xref:018-jo/018-jo-016.adoc#v18-16-0[Próximo Capítulo &#62;]

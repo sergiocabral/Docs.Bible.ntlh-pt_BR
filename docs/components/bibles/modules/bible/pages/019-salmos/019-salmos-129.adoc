@@ -1,0 +1,41 @@
+include::./index.adoc[]
+
+[[v19-129-0]]
+=== Salmos, 129
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-129-1]]
+
+^<<v19-129-1,1>>^ Povo de Israel, conte como os seus inimigos têm perseguido vocês desde o começo da sua história.
+
+[[v19-129-2]]
+
+^<<v19-129-2,2>>^ O povo responde: "Desde o começo, os nossos inimigos nos têm perseguido ferozmente, mas nunca nos venceram.
+
+[[v19-129-3]]
+
+^<<v19-129-3,3>>^ Eles abriram feridas fundas nas nossas costas, como um arado faz na terra.
+
+[[v19-129-4]]
+
+^<<v19-129-4,4>>^ Porém o Senhor , que é justo, nos livrou do domínio deles."
+
+[[v19-129-5]]
+
+^<<v19-129-5,5>>^ Que sejam derrotados e fujam todos os que odeiam Jerusalém!
+
+[[v19-129-6]]
+
+^<<v19-129-6,6>>^ Que todos eles sejam como a erva que cresce nos telhados e que seca antes de ser arrancada,
+
+[[v19-129-7]]
+
+^<<v19-129-7,7>>^ erva que ninguém colhe, nem leva embora em feixes!
+
+[[v19-129-8]]
+
+^<<v19-129-8,8>>^ E que os que passam não digam a eles: "Que o Senhor  Deus os abençoe! Nós os abençoamos em nome do Senhor ."
+
+'''
+
+xref:019-salmos/019-salmos-128.adoc#v19-128-0[&#60; Capítulo Anterior] | <<v19-129-0,Topo>> | xref:019-salmos/019-salmos-130.adoc#v19-130-0[Próximo Capítulo &#62;]

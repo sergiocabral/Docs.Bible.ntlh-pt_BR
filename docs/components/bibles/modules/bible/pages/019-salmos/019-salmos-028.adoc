@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v19-28-0]]
+=== Salmos, 28
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-28-1]]
+
+^<<v19-28-1,1>>^ Ó Senhor  Deus, minha rocha, eu peço a tua ajuda! Não deixes de ouvir o meu pedido. Se não me responderes, eu estarei com aqueles que descem ao mundo dos mortos .
+
+[[v19-28-2]]
+
+^<<v19-28-2,2>>^ Ouve-me quando levanto as mãos na direção do teu santo Templo e grito, pedindo a tua ajuda.
+
+[[v19-28-3]]
+
+^<<v19-28-3,3>>^ Não me castigues juntamente com os maus, com os que praticam más ações. Eles falam como se fossem amigos, mas o coração deles está cheio de maldade.
+
+[[v19-28-4]]
+
+^<<v19-28-4,4>>^ Castiga essas pessoas pelas suas ações, por todo o mal que têm feito. Dá aos maus o que merecem.
+
+[[v19-28-5]]
+
+^<<v19-28-5,5>>^ Eles não querem saber do que o Senhor  tem feito, nem reparam nos seus atos poderosos; por isso, ele os castigará e os destruirá para sempre.
+
+[[v19-28-6]]
+
+^<<v19-28-6,6>>^ Louvado seja Deus, o Senhor , pois ele ouviu o meu grito pedindo ajuda.
+
+[[v19-28-7]]
+
+^<<v19-28-7,7>>^ O Senhor  é a minha força e o meu escudo ; com todo o coração eu confio nele. O Senhor  me ajuda; por isso, o meu coração está feliz, e eu canto hinos em seu louvor.
+
+[[v19-28-8]]
+
+^<<v19-28-8,8>>^ O Senhor  Deus é a força do seu povo. O Senhor  é o refúgio seguro do rei que ele escolheu.
+
+[[v19-28-9]]
+
+^<<v19-28-9,9>>^ Ó Deus, salva o teu povo e abençoa aqueles que são teus! Sê o pastor deles e cuida deles para sempre.
+
+'''
+
+xref:019-salmos/019-salmos-027.adoc#v19-27-0[&#60; Capítulo Anterior] | <<v19-28-0,Topo>> | xref:019-salmos/019-salmos-029.adoc#v19-29-0[Próximo Capítulo &#62;]

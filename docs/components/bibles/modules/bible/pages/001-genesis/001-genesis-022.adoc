@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v1-22-0]]
+=== Gênesis, 22
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v1-22-1]]
+
+^<<v1-22-1,1>>^ Algum tempo depois Deus pôs Abraão à prova. Deus o chamou pelo nome, e ele respondeu: — Estou aqui.
+
+[[v1-22-2]]
+
+^<<v1-22-2,2>>^ Então Deus disse: — Pegue agora Isaque, o seu filho, o seu único filho, a quem você tanto ama, e vá até a terra de Moriá. Ali, na montanha que eu lhe mostrar, queime o seu filho como sacrifício .
+
+[[v1-22-3]]
+
+^<<v1-22-3,3>>^ No dia seguinte Abraão se levantou de madrugada, arreou o seu jumento, cortou lenha para o sacrifício e saiu para o lugar que Deus havia indicado. Isaque e dois empregados foram junto com ele.
+
+[[v1-22-4]]
+
+^<<v1-22-4,4>>^ No terceiro dia, Abraão viu o lugar, de longe.
+
+[[v1-22-5]]
+
+^<<v1-22-5,5>>^ Então disse aos empregados: — Fiquem aqui com o jumento. Eu e o menino vamos ali adiante para adorar a Deus. Daqui a pouco nós voltamos.
+
+[[v1-22-6]]
+
+^<<v1-22-6,6>>^ Abraão pegou a lenha para o sacrifício e pôs nos ombros de Isaque. Pegou uma faca e fogo, e os dois foram andando juntos.
+
+[[v1-22-7]]
+
+^<<v1-22-7,7>>^ Daí a pouco o menino disse: — Pai! Abraão respondeu: — Que foi, meu filho? Isaque perguntou: — Nós temos a lenha e o fogo, mas onde está o carneirinho para o sacrifício?
+
+[[v1-22-8]]
+
+^<<v1-22-8,8>>^ Abraão respondeu: — Deus dará o que for preciso; ele vai arranjar um carneirinho para o sacrifício, meu filho. E continuaram a caminhar juntos.
+
+[[v1-22-9]]
+
+^<<v1-22-9,9>>^ Quando chegaram ao lugar que Deus havia indicado, Abraão fez um altar e arrumou a lenha em cima dele. Depois amarrou Isaque e o colocou sobre o altar, em cima da lenha.
+
+[[v1-22-10]]
+
+^<<v1-22-10,10>>^ Em seguida pegou a faca para matá-lo.
+
+[[v1-22-11]]
+
+^<<v1-22-11,11>>^ Mas nesse instante, lá do céu, o Anjo do Senhor  o chamou, dizendo: — Abraão! Abraão! — Estou aqui — respondeu ele.
+
+[[v1-22-12]]
+
+^<<v1-22-12,12>>^ O Anjo disse: — Não machuque o menino e não lhe faça nenhum mal. Agora sei que você teme  a Deus, pois não me negou o seu filho, o seu único filho.
+
+[[v1-22-13]]
+
+^<<v1-22-13,13>>^ Abraão olhou em volta e viu um carneiro preso pelos chifres, no meio de uma moita. Abraão foi, pegou o carneiro e o ofereceu como sacrifício em lugar do seu filho.
+
+[[v1-22-14]]
+
+^<<v1-22-14,14>>^ Abraão pôs naquele lugar o nome de "O Senhor  Deus dará o que for preciso." É por isso que até hoje  o povo diz: "Na sua montanha o Senhor  Deus dá o que é preciso."
+
+[[v1-22-15]]
+
+^<<v1-22-15,15>>^ Mais uma vez o Anjo do Senhor , lá do céu, chamou Abraão
+
+[[v1-22-16]]
+
+^<<v1-22-16,16>>^ e disse: — Porque você fez isso e não me negou o seu filho, o seu único filho, eu juro pelo meu próprio nome — diz Deus, o Senhor  — que abençoarei você ricamente.
+
+[[v1-22-17]]
+
+^<<v1-22-17,17>>^ Farei com que os seus descendentes sejam tão numerosos como as estrelas do céu ou os grãos de areia da praia do mar; e eles vencerão os inimigos.
+
+[[v1-22-18]]
+
+^<<v1-22-18,18>>^ Por meio dos seus descendentes eu abençoarei todas as nações do mundo, pois você fez o que eu mandei.
+
+[[v1-22-19]]
+
+^<<v1-22-19,19>>^ Abraão voltou para o lugar onde estavam os seus empregados, e foram todos juntos para Berseba, onde Abraão ficou morando.
+
+[[v1-22-20]]
+
+^<<v1-22-20,20>>^ Algum tempo depois Abraão recebeu a notícia de que Naor, o seu irmão, tinha oito filhos, nascidos de Milca, a sua mulher.
+
+[[v1-22-21]]
+
+^<<v1-22-21,21>>^ O primeiro que nasceu foi Uz; depois vieram os seus irmãos Buz e Quemuel, que foi o pai de Arã;
+
+[[v1-22-22]]
+
+^<<v1-22-22,22>>^ depois nasceram Quesede, Hazo, Pildas, Jidlafe e Betuel.
+
+[[v1-22-23]]
+
+^<<v1-22-23,23>>^ Este Betuel foi o pai de Rebeca. São esses os oito filhos que Milca deu a Naor, o irmão de Abraão.
+
+[[v1-22-24]]
+
+^<<v1-22-24,24>>^ Reúma, a concubina  de Naor, lhe deu os seguintes filhos: Teba, Gaã, Taás e Maacá.
+
+'''
+
+xref:001-genesis/001-genesis-021.adoc#v1-21-0[&#60; Capítulo Anterior] | <<v1-22-0,Topo>> | xref:001-genesis/001-genesis-023.adoc#v1-23-0[Próximo Capítulo &#62;]

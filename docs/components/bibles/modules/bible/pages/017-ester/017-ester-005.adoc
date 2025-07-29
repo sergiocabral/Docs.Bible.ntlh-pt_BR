@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v17-5-0]]
+=== Ester, 5
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v17-5-1]]
+
+^<<v17-5-1,1>>^ No terceiro dia de jejum, Ester se vestiu com as suas roupas de rainha, foi e ficou esperando no pátio de dentro do palácio, em frente do salão nobre do rei. Ele estava lá dentro, sentado no trono, que ficava em frente da porta do pátio.
+
+[[v17-5-2]]
+
+^<<v17-5-2,2>>^ E, quando ele viu a rainha Ester esperando lá fora no pátio, teve boa vontade para com ela e estendeu-lhe o seu cetro  de ouro. Ester entrou, chegou perto dele e tocou na ponta do cetro.
+
+[[v17-5-3]]
+
+^<<v17-5-3,3>>^ E o rei perguntou: — O que está acontecendo, rainha Ester? O que você deseja? Peça o que quiser, que eu lhe darei, mesmo que seja a metade do meu reino.
+
+[[v17-5-4]]
+
+^<<v17-5-4,4>>^ Ester respondeu: — Se for do seu agrado, eu gostaria de convidar o senhor e Hamã para o banquete que estou preparando hoje para o senhor.
+
+[[v17-5-5]]
+
+^<<v17-5-5,5>>^ Aí o rei ordenou: — Digam a Hamã que venha depressa, para que nós aceitemos o convite de Ester. Assim o rei e Hamã foram ao banquete que Ester havia preparado.
+
+[[v17-5-6]]
+
+^<<v17-5-6,6>>^ Quando estavam bebendo vinho, o rei perguntou a Ester: — Qual é o seu pedido? Peça o que quiser, que eu lhe darei, mesmo que seja a metade do meu reino.
+
+[[v17-5-7]]
+
+^<<v17-5-7,7>>^ Ester respondeu: — É o seguinte:
+
+[[v17-5-8]]
+
+^<<v17-5-8,8>>^ se eu puder me valer da bondade do rei, e se for do seu agrado atender o meu pedido, gostaria de convidar o senhor e Hamã para outro banquete que eu vou preparar amanhã para os dois. Aí lhe direi o que eu quero.
+
+[[v17-5-9]]
+
+^<<v17-5-9,9>>^ Hamã saiu do banquete alegre e feliz da vida. Porém, quando chegou perto da entrada do palácio, ele encontrou Mordecai ali e ficou furioso porque Mordecai não se curvou diante dele, nem fez qualquer outro sinal de respeito.
+
+[[v17-5-10]]
+
+^<<v17-5-10,10>>^ Mas ele se controlou e voltou para casa. Então mandou chamar os amigos e pediu que Zeres, a sua mulher, também viesse.
+
+[[v17-5-11]]
+
+^<<v17-5-11,11>>^ Hamã começou a falar da sua riqueza, do número de filhos que tinha, das promoções que havia recebido do rei e de como agora ocupava a mais alta posição do reino, acima de todos os outros ministros e funcionários.
+
+[[v17-5-12]]
+
+^<<v17-5-12,12>>^ E continuou: — Além de tudo isso, eu fui a única pessoa que a rainha Ester convidou para acompanhar o rei ao banquete que ela preparou para ele. E ela também me pediu que eu fosse com ele a outro banquete amanhã!
+
+[[v17-5-13]]
+
+^<<v17-5-13,13>>^ Mas tudo isso não me vale nada enquanto eu continuar vendo Mordecai, aquele judeu, sentado na entrada do palácio.
+
+[[v17-5-14]]
+
+^<<v17-5-14,14>>^ Aí a mulher dele e todos os amigos deram a seguinte sugestão: — Mande fazer uma forca de uns vinte metros de altura e amanhã de manhã peça ao rei que mande enforcar Mordecai. Então você poderá ir feliz com o rei ao banquete. Hamã gostou da ideia e mandou construir a forca.
+
+'''
+
+xref:017-ester/017-ester-004.adoc#v17-4-0[&#60; Capítulo Anterior] | <<v17-5-0,Topo>> | xref:017-ester/017-ester-006.adoc#v17-6-0[Próximo Capítulo &#62;]

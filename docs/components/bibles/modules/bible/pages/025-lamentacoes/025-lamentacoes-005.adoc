@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v25-5-0]]
+=== Lamentações, 5
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v25-5-1]]
+
+^<<v25-5-1,1>>^ Ó Senhor  Deus, lembra do que nos aconteceu; olha para nós e vê a nossa desgraça.
+
+[[v25-5-2]]
+
+^<<v25-5-2,2>>^ A nossa terra está nas mãos de estrangeiros, e em nossas casas mora gente estranha.
+
+[[v25-5-3]]
+
+^<<v25-5-3,3>>^ Somos órfãos de pai; as nossas mães ficaram viúvas.
+
+[[v25-5-4]]
+
+^<<v25-5-4,4>>^ Temos de comprar a nossa própria água de beber; temos de pagar pela nossa própria lenha.
+
+[[v25-5-5]]
+
+^<<v25-5-5,5>>^ Os nossos inimigos nos tratam com dureza; estamos esgotados, porém não nos deixam descansar.
+
+[[v25-5-6]]
+
+^<<v25-5-6,6>>^ Para termos o que comer, precisamos pedir, estendendo as mãos aos egípcios e aos assírios.
+
+[[v25-5-7]]
+
+^<<v25-5-7,7>>^ Os nossos antepassados pecaram e não existem mais, e nós sofremos por causa dos seus pecados.
+
+[[v25-5-8]]
+
+^<<v25-5-8,8>>^ Somos governados por escravos, e não há ninguém que nos livre das suas mãos.
+
+[[v25-5-9]]
+
+^<<v25-5-9,9>>^ Corremos perigo para conseguir alimento, pois os bandidos do deserto nos atacam sem dó.
+
+[[v25-5-10]]
+
+^<<v25-5-10,10>>^ A fome nos faz queimar de febre, de modo que a nossa pele fica quente como um forno.
+
+[[v25-5-11]]
+
+^<<v25-5-11,11>>^ Em Jerusalém e nas cidades de Judá, mulheres e moças foram violentadas.
+
+[[v25-5-12]]
+
+^<<v25-5-12,12>>^ Os inimigos enforcaram os nossos líderes e desrespeitaram os nossos velhos.
+
+[[v25-5-13]]
+
+^<<v25-5-13,13>>^ Os nossos moços são forçados a trabalhar pesado nos moinhos; os meninos tropeçam, carregando feixes de lenha.
+
+[[v25-5-14]]
+
+^<<v25-5-14,14>>^ Os velhos não fazem mais as suas rodinhas nas praças, e os moços já não cantam mais.
+
+[[v25-5-15]]
+
+^<<v25-5-15,15>>^ A alegria fugiu do nosso coração; em lugar das nossas danças, ficou a tristeza.
+
+[[v25-5-16]]
+
+^<<v25-5-16,16>>^ Nada sobrou daquilo que era o nosso orgulho. Nós pecamos e estamos condenados.
+
+[[v25-5-17]]
+
+^<<v25-5-17,17>>^ O nosso coração está doente, e as lágrimas escurecem a nossa visão,
+
+[[v25-5-18]]
+
+^<<v25-5-18,18>>^ porque o monte Sião  está abandonado, e as raposas andam pelas ruínas.
+
+[[v25-5-19]]
+
+^<<v25-5-19,19>>^ Mas tu, ó Senhor , reinas para sempre, tu dominas as gentes de todos os tempos.
+
+[[v25-5-20]]
+
+^<<v25-5-20,20>>^ Por que nos abandonaste por tanto tempo? Será que lembrarás de nós outra vez?
+
+[[v25-5-21]]
+
+^<<v25-5-21,21>>^ Faze com que voltemos a ti, ó Senhor , sim, faze-nos voltar! Faze com que a nossa vida seja outra vez como era antes.
+
+[[v25-5-22]]
+
+^<<v25-5-22,22>>^ Ou será que nos rejeitaste para sempre? Será que a tua ira  contra nós nunca vai acabar?
+
+'''
+
+xref:025-lamentacoes/025-lamentacoes-004.adoc#v25-4-0[&#60; Capítulo Anterior] | <<v25-5-0,Topo>> | xref:026-ezequiel/026-ezequiel-001.adoc#v26-1-0[Próximo Capítulo &#62;]

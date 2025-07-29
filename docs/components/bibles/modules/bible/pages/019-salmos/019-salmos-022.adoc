@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v19-22-0]]
+=== Salmos, 22
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-22-1]]
+
+^<<v19-22-1,1>>^ Meu Deus, meu Deus, por que me abandonaste? Por que ficas tão longe? Por que não escutas quando grito pedindo socorro?
+
+[[v19-22-2]]
+
+^<<v19-22-2,2>>^ Meu Deus, durante o dia eu te chamo, mas tu não respondes. Eu te chamo de noite, mas não consigo descansar.
+
+[[v19-22-3]]
+
+^<<v19-22-3,3>>^ Tu, porém, és santo e, sentado no teu trono, recebes os louvores do povo de Israel.
+
+[[v19-22-4]]
+
+^<<v19-22-4,4>>^ Os nossos antepassados puseram a sua confiança em ti; eles confiaram em ti, e tu os salvaste.
+
+[[v19-22-5]]
+
+^<<v19-22-5,5>>^ Eles te pediram ajuda e escaparam do perigo; confiaram em ti e não ficaram desiludidos.
+
+[[v19-22-6]]
+
+^<<v19-22-6,6>>^ Eu não sou mais um ser humano; sou um verme. Todos zombam de mim e me desprezam.
+
+[[v19-22-7]]
+
+^<<v19-22-7,7>>^ Todos os que me veem caçoam de mim, mostrando a língua e balançando a cabeça.
+
+[[v19-22-8]]
+
+^<<v19-22-8,8>>^ Eles dizem: "Você confiou em Deus, o Senhor ; então por que ele não o salva? Se ele gosta de você, por que não o ajuda?"
+
+[[v19-22-9]]
+
+^<<v19-22-9,9>>^ No entanto, ó Deus, tu me trouxeste ao mundo quando nasci e, quando eu era uma criancinha, tu me guardaste.
+
+[[v19-22-10]]
+
+^<<v19-22-10,10>>^ Desde o meu nascimento, fui entregue aos teus cuidados; desde que nasci, tu tens sido o meu Deus.
+
+[[v19-22-11]]
+
+^<<v19-22-11,11>>^ Não te afastes de mim, pois o sofrimento está perto, e não há ninguém para me ajudar.
+
+[[v19-22-12]]
+
+^<<v19-22-12,12>>^ Como touros, muitos inimigos me cercam; todos eles estão em volta de mim, como fortes touros da terra de Basã.
+
+[[v19-22-13]]
+
+^<<v19-22-13,13>>^ Como leões, abrem a boca, rugem e se atiram contra mim.
+
+[[v19-22-14]]
+
+^<<v19-22-14,14>>^ Já não tenho mais forças; sou como água derramada no chão. Todos os meus ossos estão fora do lugar; o meu coração é como cera derretida.
+
+[[v19-22-15]]
+
+^<<v19-22-15,15>>^ A minha garganta está seca como o pó, e a minha língua gruda no céu da boca. Tu me deixaste como morto no chão.
+
+[[v19-22-16]]
+
+^<<v19-22-16,16>>^ Um bando de marginais está me cercando; eles avançam contra mim como cachorros e rasgam as minhas mãos e os meus pés.
+
+[[v19-22-17]]
+
+^<<v19-22-17,17>>^ Todos os meus ossos podem ser contados. Os meus inimigos me olham e gostam do que veem.
+
+[[v19-22-18]]
+
+^<<v19-22-18,18>>^ Eles repartem entre si as minhas roupas e fazem sorteio  da minha túnica .
+
+[[v19-22-19]]
+
+^<<v19-22-19,19>>^ Ó Senhor  Deus, não te afastes de mim! Vem depressa me socorrer.
+
+[[v19-22-20]]
+
+^<<v19-22-20,20>>^ Salva-me da espada; não deixes que esses cachorros me matem.
+
+[[v19-22-21]]
+
+^<<v19-22-21,21>>^ Livra-me desses leões; não consigo me defender desses touros selvagens.
+
+[[v19-22-22]]
+
+^<<v19-22-22,22>>^ Então contarei à minha gente o que tens feito; na reunião do povo eu te louvarei, dizendo:
+
+[[v19-22-23]]
+
+^<<v19-22-23,23>>^ "Louvem a Deus, o Senhor , todos os que o temem . Descendentes de Jacó, prestem culto a Deus! Povo de Israel, adore o Senhor !
+
+[[v19-22-24]]
+
+^<<v19-22-24,24>>^ Ele não abandona os pobres, nem esquece dos seus sofrimentos. Ele não se esconde deles, mas responde quando gritam por socorro."
+
+[[v19-22-25]]
+
+^<<v19-22-25,25>>^ Na reunião de todo o povo, ó Senhor , eu te louvarei pelo que tens feito. Na presença de todos os que te temem, oferecerei os sacrifícios que prometi.
+
+[[v19-22-26]]
+
+^<<v19-22-26,26>>^ Os pobres comerão da carne dos sacrifícios e ficarão satisfeitos; aqueles que adoram o Senhor o louvarão. Que sejam sempre prósperos e felizes!
+
+[[v19-22-27]]
+
+^<<v19-22-27,27>>^ Todas as nações lembrarão de Deus, o Senhor , todos os povos da terra se voltarão para ele, e todas as raças o adorarão.
+
+[[v19-22-28]]
+
+^<<v19-22-28,28>>^ Pois o Senhor  é Rei e governa as nações.
+
+[[v19-22-29]]
+
+^<<v19-22-29,29>>^ Todos os orgulhosos se curvarão na sua presença, e o adorarão todos os mortais, todos os que um dia vão morrer.
+
+[[v19-22-30]]
+
+^<<v19-22-30,30>>^ As pessoas dos tempos futuros o servirão e falarão às gerações  seguintes a respeito de Deus, o Senhor.
+
+[[v19-22-31]]
+
+^<<v19-22-31,31>>^ Os que ainda não nasceram ouvirão falar do que ele fez: "Deus salvou o seu povo!"
+
+'''
+
+xref:019-salmos/019-salmos-021.adoc#v19-21-0[&#60; Capítulo Anterior] | <<v19-22-0,Topo>> | xref:019-salmos/019-salmos-023.adoc#v19-23-0[Próximo Capítulo &#62;]

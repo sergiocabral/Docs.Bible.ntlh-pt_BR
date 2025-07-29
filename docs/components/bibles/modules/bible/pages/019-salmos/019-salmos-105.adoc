@@ -1,0 +1,185 @@
+include::./index.adoc[]
+
+[[v19-105-0]]
+=== Salmos, 105
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-105-1]]
+
+^<<v19-105-1,1>>^ Agradeçam a Deus, o Senhor , anunciem a sua grandeza e contem às nações as coisas que ele fez.
+
+[[v19-105-2]]
+
+^<<v19-105-2,2>>^ Cantem a Deus, cantem louvores a ele, falem dos seus atos maravilhosos.
+
+[[v19-105-3]]
+
+^<<v19-105-3,3>>^ Tenham orgulho daquilo que o Santo Deus tem feito. Que fique alegre o coração de todos os que adoram a Deus, o Senhor !
+
+[[v19-105-4]]
+
+^<<v19-105-4,4>>^ Procurem a ajuda do Senhor ; estejam sempre na sua presença.
+
+[[v19-105-5]]
+
+^<<v19-105-5,5>>^ Vocês, descendentes de Abraão, servo  de Deus, vocês, descendentes de Jacó, o escolhido de Deus, lembrem de tudo o que Deus tem feito, lembrem dos seus grandes e maravilhosos milagres e de como tem condenado os nossos inimigos!
+
+[[v19-105-6]]
+
+^<<v19-105-6,6>>^ Vocês, descendentes de Abraão,
+
+[[v19-105-7]]
+
+^<<v19-105-7,7>>^ Ele é o Senhor , nosso Deus; os seus mandamentos são para o mundo inteiro.
+
+[[v19-105-8]]
+
+^<<v19-105-8,8>>^ Ele sempre lembrará da sua aliança e, por milhares de gerações , cumprirá as suas promessas.
+
+[[v19-105-9]]
+
+^<<v19-105-9,9>>^ Ele será fiel à aliança feita com Abraão e à promessa que fez com juramento a Isaque.
+
+[[v19-105-10]]
+
+^<<v19-105-10,10>>^ Deus fez uma aliança com Jacó para sempre, fez com ele uma aliança eterna.
+
+[[v19-105-11]]
+
+^<<v19-105-11,11>>^ Naquela ocasião Deus disse: "Eu lhe darei a terra de Canaã, e ela será de vocês para sempre."
+
+[[v19-105-12]]
+
+^<<v19-105-12,12>>^ Eles eram muito poucos, eram estrangeiros na Terra Prometida .
+
+[[v19-105-13]]
+
+^<<v19-105-13,13>>^ Andavam de país em país, de reino em reino.
+
+[[v19-105-14]]
+
+^<<v19-105-14,14>>^ Mas Deus não deixou que ninguém os maltratasse e, para protegê-los, avisou reis.
+
+[[v19-105-15]]
+
+^<<v19-105-15,15>>^ Ele disse: "Não toquem nos servos que eu escolhi; não maltratem os meus profetas !"
+
+[[v19-105-16]]
+
+^<<v19-105-16,16>>^ Deus fez com que houvesse fome na terra deles e deixou o seu povo sem alimento.
+
+[[v19-105-17]]
+
+^<<v19-105-17,17>>^ Então mandou na frente deles um homem chamado José, que havia sido vendido como escravo.
+
+[[v19-105-18]]
+
+^<<v19-105-18,18>>^ Os seus pés foram presos com correntes, e no seu pescoço puseram uma coleira de ferro.
+
+[[v19-105-19]]
+
+^<<v19-105-19,19>>^ José ficou na prisão até que se cumpriu o que ele tinha dito. A palavra do Senhor  Deus provou que José estava certo.
+
+[[v19-105-20]]
+
+^<<v19-105-20,20>>^ Aí o rei do Egito mandou soltá-lo; o rei de muitas nações o pôs em liberdade.
+
+[[v19-105-21]]
+
+^<<v19-105-21,21>>^ Ele o colocou como a mais alta autoridade daquela terra, para governar o país inteiro.
+
+[[v19-105-22]]
+
+^<<v19-105-22,22>>^ José recebeu poder para dar ordens aos príncipes do reino e para orientar os conselheiros do rei.
+
+[[v19-105-23]]
+
+^<<v19-105-23,23>>^ Depois Jacó foi para o Egito e ficou morando naquela terra.
+
+[[v19-105-24]]
+
+^<<v19-105-24,24>>^ O Senhor  Deus fez com que o seu povo tivesse muitos filhos e o tornou mais forte do que os seus inimigos.
+
+[[v19-105-25]]
+
+^<<v19-105-25,25>>^ Ele fez com que os egípcios odiassem o seu povo e fez com que enganassem os israelitas, os servos de Deus.
+
+[[v19-105-26]]
+
+^<<v19-105-26,26>>^ Então Deus enviou o seu servo Moisés e também Arão, a quem havia escolhido.
+
+[[v19-105-27]]
+
+^<<v19-105-27,27>>^ Eles fizeram milagres de Deus no Egito e ali realizaram coisas maravilhosas.
+
+[[v19-105-28]]
+
+^<<v19-105-28,28>>^ Deus mandou uma escuridão, que cobriu a terra, mas os egípcios não obedeceram às suas ordens.
+
+[[v19-105-29]]
+
+^<<v19-105-29,29>>^ Ele transformou em sangue os rios do Egito e matou todos os seus peixes.
+
+[[v19-105-30]]
+
+^<<v19-105-30,30>>^ A terra do Egito ficou cheia de rãs, que invadiram até o palácio do rei.
+
+[[v19-105-31]]
+
+^<<v19-105-31,31>>^ Deus deu ordem, e moscas e piolhos encheram todo o país.
+
+[[v19-105-32]]
+
+^<<v19-105-32,32>>^ Em vez de chuva, ele mandou chuva de pedra e relâmpagos sobre a terra.
+
+[[v19-105-33]]
+
+^<<v19-105-33,33>>^ Deus destruiu as plantações de uvas e de figos e derrubou todas as árvores.
+
+[[v19-105-34]]
+
+^<<v19-105-34,34>>^ Ele deu ordem, e vieram gafanhotos, tantos, que nem podiam ser contados.
+
+[[v19-105-35]]
+
+^<<v19-105-35,35>>^ Os gafanhotos comeram todas as plantas, todas as colheitas do Egito.
+
+[[v19-105-36]]
+
+^<<v19-105-36,36>>^ Ele matou o filho mais velho de todas as famílias dos egípcios, matou aqueles que eram o orgulho dessas famílias.
+
+[[v19-105-37]]
+
+^<<v19-105-37,37>>^ Então Deus tirou os israelitas daquele país, e eles levaram consigo prata e ouro. Todos eram fortes e cheios de saúde.
+
+[[v19-105-38]]
+
+^<<v19-105-38,38>>^ Os egípcios ficaram contentes quando os israelitas foram embora, pois estavam com medo deles.
+
+[[v19-105-39]]
+
+^<<v19-105-39,39>>^ Deus pôs uma nuvem por cima do seu povo e fogo para guiá-los durante a noite.
+
+[[v19-105-40]]
+
+^<<v19-105-40,40>>^ Eles pediram, e Deus mandou codornas e do céu deu a eles pão bastante para matar a fome.
+
+[[v19-105-41]]
+
+^<<v19-105-41,41>>^ Ele partiu uma rocha, e jorrou água, que correu pelo deserto como um rio.
+
+[[v19-105-42]]
+
+^<<v19-105-42,42>>^ Pois ele lembrou da sua santa promessa feita a Abraão, seu servo.
+
+[[v19-105-43]]
+
+^<<v19-105-43,43>>^ Assim Deus tirou do Egito o seu povo escolhido, e eles saíram de lá cantando e gritando de alegria.
+
+[[v19-105-44]]
+
+^<<v19-105-44,44>>^ Deus lhes deu as terras de outras nações e deixou que tomassem os campos delas,
+
+'''
+
+xref:019-salmos/019-salmos-104.adoc#v19-104-0[&#60; Capítulo Anterior] | <<v19-105-0,Topo>> | xref:019-salmos/019-salmos-106.adoc#v19-106-0[Próximo Capítulo &#62;]

@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v22-1-0]]
+=== Cânticos, 1
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v22-1-1]]
+
+^<<v22-1-1,1>>^ Este é o Cântico dos Cânticos, a mais bela das canções de Salomão.
+
+[[v22-1-2]]
+
+^<<v22-1-2,2>>^ Que os seus lábios me cubram de beijos! O seu amor é melhor do que o vinho.
+
+[[v22-1-3]]
+
+^<<v22-1-3,3>>^ O seu perfume é suave; o seu nome é para mim como perfume derramado. Nenhuma mulher poderia deixar de amá-lo.
+
+[[v22-1-4]]
+
+^<<v22-1-4,4>>^ Leve-me com você! Vamos depressa! Seja o meu rei e leve-me para o seu quarto. Ó rei, ficaremos alegres e felizes por sua causa e cantaremos o seu amor, que é mais agradável do que o vinho. Não é sem razão que o amam, ó rei!
+
+[[v22-1-5]]
+
+^<<v22-1-5,5>>^ Mulheres de Jerusalém, eu sou morena, porém sou bela. Sou morena escura como as barracas do deserto, como as cortinas do palácio de Salomão.
+
+[[v22-1-6]]
+
+^<<v22-1-6,6>>^ Não fiquem me olhando assim por causa da minha cor, pois foi o sol que me queimou. Meus irmãos ficaram zangados comigo e me fizeram trabalhar nas plantações de uvas. Por isso, não tive tempo de cuidar de mim mesma.
+
+[[v22-1-7]]
+
+^<<v22-1-7,7>>^ Diga, meu amor: Aonde é que você leva as suas ovelhas para pastar? Onde é que elas descansam ao meio-dia? Diga, e assim não terei de andar procurando você entre as ovelhas dos outros pastores.
+
+[[v22-1-8]]
+
+^<<v22-1-8,8>>^ Se você, a mais bela de todas as mulheres, não sabe o lugar, siga as ovelhas dos outros e assim encontrará pasto para os seus cabritos perto das barracas dos pastores.
+
+[[v22-1-9]]
+
+^<<v22-1-9,9>>^ Você é tão bela, minha querida, como os animais da carruagem de Faraó.
+
+[[v22-1-10]]
+
+^<<v22-1-10,10>>^ O seu rosto é lindo no meio de duas tranças; como é formoso o seu pescoço enfeitado de colares!
+
+[[v22-1-11]]
+
+^<<v22-1-11,11>>^ Vamos fazer para você uma corrente de ouro, toda enfeitada de prata.
+
+[[v22-1-12]]
+
+^<<v22-1-12,12>>^ Quando o meu rei estava sentado no seu sofá, sentia-se o cheiro agradável do meu perfume.
+
+[[v22-1-13]]
+
+^<<v22-1-13,13>>^ O meu amado tem cheiro de mirra quando descansa sobre os meus seios.
+
+[[v22-1-14]]
+
+^<<v22-1-14,14>>^ O meu amado é como as flores do campo nas plantações de uvas que ficam perto da fonte de Gedi.
+
+[[v22-1-15]]
+
+^<<v22-1-15,15>>^ Como você é bela, minha querida! Como você é linda! Como os seus olhos brilham de amor!
+
+[[v22-1-16]]
+
+^<<v22-1-16,16>>^ Como você é belo, meu querido! Como é encantador! A grama verde será a nossa cama;
+
+[[v22-1-17]]
+
+^<<v22-1-17,17>>^ os cedros serão as vigas da nossa casa, e os pinheiros serão o telhado.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-012.adoc#v21-12-0[&#60; Capítulo Anterior] | <<v22-1-0,Topo>> | xref:022-canticos/022-canticos-002.adoc#v22-2-0[Próximo Capítulo &#62;]

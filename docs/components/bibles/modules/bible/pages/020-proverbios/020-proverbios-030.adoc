@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v20-30-0]]
+=== Provérbios, 30
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v20-30-1]]
+
+^<<v20-30-1,1>>^ São estas as palavras solenes de Agur, filho de Jaque: "Deus não está comigo, Deus não está comigo. Estou desamparado.
+
+[[v20-30-2]]
+
+^<<v20-30-2,2>>^ Sou mais animal do que gente; não tenho a inteligência que um ser humano deve ter.
+
+[[v20-30-3]]
+
+^<<v20-30-3,3>>^ Nunca aprendi a ser sábio e não conheço o Deus Santo.
+
+[[v20-30-4]]
+
+^<<v20-30-4,4>>^ Quem já sabe tudo a respeito do céu? Quem já pegou o vento com as mãos? Quem já embrulhou água num pano? Quem já marcou os limites da terra? Você sabe quem é ele? E quem é o filho dele?
+
+[[v20-30-5]]
+
+^<<v20-30-5,5>>^ Tudo o que Deus diz é verdade. Ele é como um escudo  para todos os que procuram a sua proteção.
+
+[[v20-30-6]]
+
+^<<v20-30-6,6>>^ Nunca declare que Deus disse alguma coisa que, de fato, ele não disse; se você fizer isso, ele o corrigirá e mostrará que você é mentiroso."
+
+[[v20-30-7]]
+
+^<<v20-30-7,7>>^ Eu te peço, ó Deus, que me dês duas coisas antes de eu morrer:
+
+[[v20-30-8]]
+
+^<<v20-30-8,8>>^ não me deixes mentir e não me deixes ficar nem rico nem pobre. Dá-me somente o alimento que preciso para viver.
+
+[[v20-30-9]]
+
+^<<v20-30-9,9>>^ Porque, se eu tiver mais do que o necessário, poderei dizer que não preciso de ti. E, se eu ficar pobre, poderei roubar e assim envergonharei o teu nome, ó meu Deus.
+
+[[v20-30-10]]
+
+^<<v20-30-10,10>>^ Nunca fale mal de um empregado ao patrão dele para que você não seja amaldiçoado, nem sofra por isso.
+
+[[v20-30-11]]
+
+^<<v20-30-11,11>>^ Há pessoas que amaldiçoam o próprio pai e são ingratas com a própria mãe.
+
+[[v20-30-12]]
+
+^<<v20-30-12,12>>^ Há pessoas que pensam que são puras, mas a sua sujeira ainda não foi lavada.
+
+[[v20-30-13]]
+
+^<<v20-30-13,13>>^ Há pessoas que são tão orgulhosas, que olham os outros com desprezo.
+
+[[v20-30-14]]
+
+^<<v20-30-14,14>>^ Há pessoas que ganham a vida explorando sem dó nem piedade os pobres e os necessitados.
+
+[[v20-30-15]]
+
+^<<v20-30-15,15>>^ A sanguessuga tem duas filhas, e as duas se chamam: Me dá! Me dá! Há quatro coisas que nunca estão satisfeitas:
+
+[[v20-30-16]]
+
+^<<v20-30-16,16>>^ o mundo dos mortos ; a mulher sem filhos; a terra seca que precisa sempre de chuva; e o fogo de um incêndio.
+
+[[v20-30-17]]
+
+^<<v20-30-17,17>>^ Quem caçoa do seu pai ou despreza a sua mãe, quando ela fica velha, será comido pelos urubus ou terá os olhos arrancados pelos corvos.
+
+[[v20-30-18]]
+
+^<<v20-30-18,18>>^ Há quatro coisas misteriosas que eu não consigo entender:
+
+[[v20-30-19]]
+
+^<<v20-30-19,19>>^ a águia voando no céu; a cobra se arrastando nas pedras; o navio que encontra o seu caminho no mar; e o amor entre um homem e uma mulher.
+
+[[v20-30-20]]
+
+^<<v20-30-20,20>>^ Uma esposa infiel age assim: comete adultério, toma um banho e depois diz: "Não fiz nada de errado!"
+
+[[v20-30-21]]
+
+^<<v20-30-21,21>>^ Há quatro coisas que a terra não pode tolerar:
+
+[[v20-30-22]]
+
+^<<v20-30-22,22>>^ o escravo que se torna rei; o tolo que tem para comer tudo o que quer;
+
+[[v20-30-23]]
+
+^<<v20-30-23,23>>^ a mulher de mau gênio que arranja casamento; e a escrava que toma o lugar da sua senhora.
+
+[[v20-30-24]]
+
+^<<v20-30-24,24>>^ No mundo há quatro animais que são pequenos, mas muito espertos:
+
+[[v20-30-25]]
+
+^<<v20-30-25,25>>^ as formigas, que são fracas, mas ajuntam a sua comida no verão;
+
+[[v20-30-26]]
+
+^<<v20-30-26,26>>^ os coelhos selvagens, que também não são fortes, mas fazem as suas casas nas pedras;
+
+[[v20-30-27]]
+
+^<<v20-30-27,27>>^ os gafanhotos, que não têm rei, mas avançam em bandos;
+
+[[v20-30-28]]
+
+^<<v20-30-28,28>>^ e as lagartixas, que qualquer um pode pegar com a mão, mas podem ser encontradas até nos palácios.
+
+[[v20-30-29]]
+
+^<<v20-30-29,29>>^ Há quatro seres vivos que, quando caminham, causam olhares de admiração:
+
+[[v20-30-30]]
+
+^<<v20-30-30,30>>^ o leão, o mais forte de todos os animais, que não tem medo de nada;
+
+[[v20-30-31]]
+
+^<<v20-30-31,31>>^ o bode; o galo, que anda de peito erguido; e um rei diante do seu povo.
+
+[[v20-30-32]]
+
+^<<v20-30-32,32>>^ Se você tem sido bastante tolo para ser orgulhoso e planejar o mal, então pare e pense:
+
+[[v20-30-33]]
+
+^<<v20-30-33,33>>^ bater o leite dá manteiga; pancada no nariz faz sair sangue; provocar a raiva dá briga.
+
+'''
+
+xref:020-proverbios/020-proverbios-029.adoc#v20-29-0[&#60; Capítulo Anterior] | <<v20-30-0,Topo>> | xref:020-proverbios/020-proverbios-031.adoc#v20-31-0[Próximo Capítulo &#62;]

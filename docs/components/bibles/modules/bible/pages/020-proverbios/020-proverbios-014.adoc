@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v20-14-0]]
+=== Provérbios, 14
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v20-14-1]]
+
+^<<v20-14-1,1>>^ A mulher sábia constrói o seu lar, mas a que não tem juízo o destrói com as próprias mãos.
+
+[[v20-14-2]]
+
+^<<v20-14-2,2>>^ Quem é honesto mostra que teme  o Senhor , mas a pessoa que se desvia dos caminhos do Senhor  o está desprezando.
+
+[[v20-14-3]]
+
+^<<v20-14-3,3>>^ O tolo orgulhoso sofre por causa das coisas que diz, mas os sábios são protegidos pelas suas próprias palavras.
+
+[[v20-14-4]]
+
+^<<v20-14-4,4>>^ Quem não põe um animal para puxar o arado colhe bem pouco, mas aquele que põe colhe muito.
+
+[[v20-14-5]]
+
+^<<v20-14-5,5>>^ A testemunha verdadeira não mente, mas a falsa diz muitas mentiras.
+
+[[v20-14-6]]
+
+^<<v20-14-6,6>>^ Quem zomba de tudo quer ser sábio e não consegue, mas quem tem juízo aprende com facilidade.
+
+[[v20-14-7]]
+
+^<<v20-14-7,7>>^ Afaste-se das pessoas sem juízo porque gente assim não tem nada para ensinar.
+
+[[v20-14-8]]
+
+^<<v20-14-8,8>>^ Por que será que a pessoa ajuizada é sábia? É porque ela sabe o que faz. Por que será que o tolo não tem juízo? É porque ele apenas pensa que sabe o que faz.
+
+[[v20-14-9]]
+
+^<<v20-14-9,9>>^ Os tolos pecam e não se importam, mas os bons querem ser perdoados.
+
+[[v20-14-10]]
+
+^<<v20-14-10,10>>^ Só você conhece a sua própria amargura e você também não pode repartir a sua alegria com os estranhos.
+
+[[v20-14-11]]
+
+^<<v20-14-11,11>>^ A casa dos maus será destruída, mas a cabana dos bons continuará de pé.
+
+[[v20-14-12]]
+
+^<<v20-14-12,12>>^ Há caminhos que parecem certos, mas podem acabar levando para a morte.
+
+[[v20-14-13]]
+
+^<<v20-14-13,13>>^ O sorriso pode esconder a tristeza; quando a felicidade vai embora, a tristeza já chegou.
+
+[[v20-14-14]]
+
+^<<v20-14-14,14>>^ Os maus terão o que merecem, mas os bons serão recompensados pelo que fazem.
+
+[[v20-14-15]]
+
+^<<v20-14-15,15>>^ A pessoa simples acredita em tudo, mas quem tem juízo está sempre prevenido.
+
+[[v20-14-16]]
+
+^<<v20-14-16,16>>^ Quem tem juízo toma cuidado a fim de não se meter em dificuldades, mas o tolo é descuidado e age sem pensar.
+
+[[v20-14-17]]
+
+^<<v20-14-17,17>>^ Quem se zanga facilmente faz coisas tolas, mas o sábio permanece calmo.
+
+[[v20-14-18]]
+
+^<<v20-14-18,18>>^ Os tolos recebem o que a sua tolice merece, mas os ajuizados são recompensados com o conhecimento.
+
+[[v20-14-19]]
+
+^<<v20-14-19,19>>^ Os maus terão de respeitar os bons e pedir humildemente a sua ajuda.
+
+[[v20-14-20]]
+
+^<<v20-14-20,20>>^ O pobre é desprezado até pelo seu vizinho, mas o rico tem muitos amigos.
+
+[[v20-14-21]]
+
+^<<v20-14-21,21>>^ Desprezar os outros é pecado, mas aquele que faz o bem aos pobres é feliz.
+
+[[v20-14-22]]
+
+^<<v20-14-22,22>>^ Quem trabalha para o bem ganha a confiança e o respeito dos outros, mas quem trabalha para o mal está cometendo um erro.
+
+[[v20-14-23]]
+
+^<<v20-14-23,23>>^ Quem trabalha tem com o que viver, mas quem só conversa passará necessidade.
+
+[[v20-14-24]]
+
+^<<v20-14-24,24>>^ Os sábios são recompensados com riquezas, mas a recompensa do tolo são as suas próprias tolices.
+
+[[v20-14-25]]
+
+^<<v20-14-25,25>>^ A testemunha que diz a verdade pode salvar vidas, mas a que diz mentiras é traidora.
+
+[[v20-14-26]]
+
+^<<v20-14-26,26>>^ No temor  ao Senhor , o homem encontra um forte apoio e também segurança para a sua família.
+
+[[v20-14-27]]
+
+^<<v20-14-27,27>>^ O temor ao Senhor  é uma fonte de vida e ajuda a evitar as armadilhas da morte.
+
+[[v20-14-28]]
+
+^<<v20-14-28,28>>^ A grandeza de um rei depende do número de pessoas que ele governa; sem elas ele não é nada.
+
+[[v20-14-29]]
+
+^<<v20-14-29,29>>^ A pessoa que se mantém calma é sábia, mas a que facilmente perde a calma mostra que não tem juízo.
+
+[[v20-14-30]]
+
+^<<v20-14-30,30>>^ A paz de espírito dá saúde ao corpo, mas a inveja destrói como câncer.
+
+[[v20-14-31]]
+
+^<<v20-14-31,31>>^ Quem persegue os pobres insulta a Deus, que os fez, mas quem é bom para eles honra a Deus.
+
+[[v20-14-32]]
+
+^<<v20-14-32,32>>^ A maldade leva os maus à desgraça, mas a honestidade protege os bons.
+
+[[v20-14-33]]
+
+^<<v20-14-33,33>>^ No coração das pessoas sensatas mora a sabedoria, mas os tolos não a conhecem.
+
+[[v20-14-34]]
+
+^<<v20-14-34,34>>^ A justiça engrandece um povo, mas o pecado é uma desgraça para qualquer nação.
+
+[[v20-14-35]]
+
+^<<v20-14-35,35>>^ Os reis recompensam os servidores competentes, mas castigam os que não agem bem.
+
+'''
+
+xref:020-proverbios/020-proverbios-013.adoc#v20-13-0[&#60; Capítulo Anterior] | <<v20-14-0,Topo>> | xref:020-proverbios/020-proverbios-015.adoc#v20-15-0[Próximo Capítulo &#62;]

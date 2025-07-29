@@ -1,0 +1,33 @@
+include::./index.adoc[]
+
+[[v23-12-0]]
+=== Isaías, 12
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v23-12-1]]
+
+^<<v23-12-1,1>>^ Naquele dia, todos cantarão assim: "Eu te louvo, ó Senhor ! Tu estavas irado  comigo, mas a tua ira já passou, e agora tu me consolas.
+
+[[v23-12-2]]
+
+^<<v23-12-2,2>>^ Deus é o meu Salvador; eu confiarei nele e não terei medo. Pois o Senhor  me dá força e poder, ele é o meu Salvador.
+
+[[v23-12-3]]
+
+^<<v23-12-3,3>>^ Cheios de alegria, todos irão até as fontes e beberão da água que os salvará."
+
+[[v23-12-4]]
+
+^<<v23-12-4,4>>^ Naquele dia, todos cantarão esta canção: "Louvem o Senhor ! Gritem pedindo a ajuda de Deus! Digam a todos os povos o que ele tem feito e anunciem a sua grandeza.
+
+[[v23-12-5]]
+
+^<<v23-12-5,5>>^ Cantem hinos de louvor ao Senhor , pois ele fez coisas maravilhosas. Que o mundo inteiro saiba disso!
+
+[[v23-12-6]]
+
+^<<v23-12-6,6>>^ Moradores de Sião , alegrem-se e louvem a Deus, pois o santo e poderoso Deus de Israel mora no meio do seu povo."
+
+'''
+
+xref:023-isaias/023-isaias-011.adoc#v23-11-0[&#60; Capítulo Anterior] | <<v23-12-0,Topo>> | xref:023-isaias/023-isaias-013.adoc#v23-13-0[Próximo Capítulo &#62;]

@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v9-19-0]]
+=== 1 Samuel, 19
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v9-19-1]]
+
+^<<v9-19-1,1>>^ Saul contou ao seu filho Jônatas e a todos os seus oficiais que ele planejava matar Davi. Mas Jônatas era muito amigo de Davi
+
+[[v9-19-2]]
+
+^<<v9-19-2,2>>^ e por isso lhe disse: — O meu pai está planejando matar você. Amanhã cedo, tenha cuidado. Esconda-se em algum lugar secreto e fique lá.
+
+[[v9-19-3]]
+
+^<<v9-19-3,3>>^ Eu vou esperar pelo meu pai no campo em que você estiver escondido e vou falar com ele a seu respeito. Se descobrir alguma coisa, eu aviso você.
+
+[[v9-19-4]]
+
+^<<v9-19-4,4>>^ Então Jônatas elogiou Davi para Saul e disse: — Meu pai, não faça nenhum mal ao seu servidor Davi, pois ele nunca lhe fez nenhum mal. Pelo contrário, tudo o que ele tem feito tem ajudado bastante o senhor.
+
+[[v9-19-5]]
+
+^<<v9-19-5,5>>^ Ele arriscou a própria vida quando matou Golias, e por meio dele o Senhor  Deus conquistou uma grande vitória para Israel. O senhor mesmo viu isso e ficou contente. Então, por que o senhor, meu pai, faria mal a um homem inocente, matando Davi sem nenhuma razão?
+
+[[v9-19-6]]
+
+^<<v9-19-6,6>>^ Saul atendeu o pedido de Jônatas e jurou em nome do Senhor , o Deus vivo, que Davi não seria morto.
+
+[[v9-19-7]]
+
+^<<v9-19-7,7>>^ Então Jônatas chamou Davi e lhe contou tudo. Aí o levou a Saul, e Davi continuou a servir o rei como antes.
+
+[[v9-19-8]]
+
+^<<v9-19-8,8>>^ E novamente houve guerra contra os filisteus. Davi os atacou e derrotou tão completamente, que eles fugiram.
+
+[[v9-19-9]]
+
+^<<v9-19-9,9>>^ Um dia um espírito mau mandado pelo Senhor  dominou Saul. Ele estava sentado em casa, com a lança na mão, e Davi estava ali tocando lira .
+
+[[v9-19-10]]
+
+^<<v9-19-10,10>>^ Saul tentou espetar Davi na parede com a sua lança, mas ele se desviou, e a lança ficou fincada na parede. Então Davi correu e escapou.
+
+[[v9-19-11]]
+
+^<<v9-19-11,11>>^ Naquela mesma noite Saul mandou alguns homens vigiarem a casa de Davi, para o matarem na manhã seguinte. Mical, a mulher de Davi, o avisou: — Se você não fugir esta noite, amanhã estará morto.
+
+[[v9-19-12]]
+
+^<<v9-19-12,12>>^ Aí ela desceu Davi por uma janela, e ele correu e escapou.
+
+[[v9-19-13]]
+
+^<<v9-19-13,13>>^ Então Mical pegou o ídolo protetor do lar e o deitou na cama. Pôs uma almofada feita de pelo de cabra na cabeça dele e o cobriu.
+
+[[v9-19-14]]
+
+^<<v9-19-14,14>>^ Quando os homens de Saul foram pegar Davi, Mical disse que ele estava doente.
+
+[[v9-19-15]]
+
+^<<v9-19-15,15>>^ Mas Saul mandou que voltassem lá e que eles mesmos vissem Davi. — Tragam Davi aqui na sua cama, e eu o matarei! — disse Saul.
+
+[[v9-19-16]]
+
+^<<v9-19-16,16>>^ Eles entraram e acharam o ídolo do lar na cama e a almofada de pelo de cabra na cabeça dele.
+
+[[v9-19-17]]
+
+^<<v9-19-17,17>>^ Então Saul perguntou a Mical: — Por que você me enganou assim e deixou o meu inimigo escapar? Ela respondeu: — Ele disse que me mataria se eu não o ajudasse a fugir.
+
+[[v9-19-18]]
+
+^<<v9-19-18,18>>^ Davi escapou, foi para Ramá e contou a Samuel tudo o que Saul tinha feito contra ele. Depois ele e Samuel foram para a casa dos profetas  e ficaram lá.
+
+[[v9-19-19]]
+
+^<<v9-19-19,19>>^ Saul ficou sabendo que Davi estava na casa dos profetas, em Ramá,
+
+[[v9-19-20]]
+
+^<<v9-19-20,20>>^ e mandou alguns homens lá para prendê-lo. Quando eles chegaram, viram um grupo de profetas profetizando , e Samuel era o líder. Então o Espírito de Deus dominou os homens de Saul, e eles também começaram a profetizar.
+
+[[v9-19-21]]
+
+^<<v9-19-21,21>>^ Quando Saul soube disso, mandou mais mensageiros, e eles também começaram a profetizar. Então mandou mensageiros pela terceira vez, e aconteceu a mesma coisa.
+
+[[v9-19-22]]
+
+^<<v9-19-22,22>>^ Aí o próprio Saul foi a Ramá. Quando chegou a um poço grande na cidade de Seco, perguntou onde estavam Samuel e Davi, e lhe disseram que eles estavam na casa dos profetas.
+
+[[v9-19-23]]
+
+^<<v9-19-23,23>>^ Enquanto Saul estava indo para lá, o Espírito de Deus o dominou também, e ele foi profetizando por todo o caminho, até chegar à casa dos profetas.
+
+[[v9-19-24]]
+
+^<<v9-19-24,24>>^ Lá, tirou a roupa e profetizou na presença de Samuel. E ficou deitado no chão, nu, o dia inteiro e a noite inteira. E foi assim que surgiu o seguinte ditado: "Será que Saul também virou profeta?"
+
+'''
+
+xref:009-1-samuel/009-1-samuel-018.adoc#v9-18-0[&#60; Capítulo Anterior] | <<v9-19-0,Topo>> | xref:009-1-samuel/009-1-samuel-020.adoc#v9-20-0[Próximo Capítulo &#62;]

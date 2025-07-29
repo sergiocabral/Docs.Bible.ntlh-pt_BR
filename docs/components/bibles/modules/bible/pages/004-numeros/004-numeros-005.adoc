@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v4-5-0]]
+=== Números, 5
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v4-5-1]]
+
+^<<v4-5-1,1>>^ O Senhor  Deus disse a Moisés:
+
+[[v4-5-2]]
+
+^<<v4-5-2,2>>^ — Mande que os israelitas expulsem do acampamento todos os que têm uma doença contagiosa da pele, todos os que têm corrimento no membro e todos os que estão impuros  por terem tocado em algum morto.
+
+[[v4-5-3]]
+
+^<<v4-5-3,3>>^ Mande para fora do acampamento os que estão impuros, sejam homens ou mulheres, para que não tornem impuro o lugar onde eu moro.
+
+[[v4-5-4]]
+
+^<<v4-5-4,4>>^ Os israelitas fizeram como o Senhor  havia ordenado a Moisés, isto é, expulsaram todas essas pessoas do acampamento.
+
+[[v4-5-5]]
+
+^<<v4-5-5,5>>^ O Senhor  Deus disse ainda a Moisés:
+
+[[v4-5-6]]
+
+^<<v4-5-6,6>>^ — Diga aos israelitas o seguinte: se um homem ou uma mulher prejudicar alguém, essa pessoa estará ofendendo ao Senhor  e por isso será culpada.
+
+[[v4-5-7]]
+
+^<<v4-5-7,7>>^ Terá de confessar o pecado, devolver tudo e pagar mais um quinto para a pessoa que foi prejudicada.
+
+[[v4-5-8]]
+
+^<<v4-5-8,8>>^ Mas, se essa pessoa morreu e não existe parente chegado que receba o pagamento, então o culpado deverá pagar ao Senhor , e o pagamento será do sacerdote. Além desse pagamento, também será entregue o carneiro que o sacerdote oferecerá em sacrifício  para conseguir o perdão do pecado dessa pessoa.
+
+[[v4-5-9]]
+
+^<<v4-5-9,9>>^ Todas as ofertas especiais que os israelitas entregam ao Senhor  pertencem ao sacerdote a quem elas forem apresentadas.
+
+[[v4-5-10]]
+
+^<<v4-5-10,10>>^ Cada sacerdote ficará com as ofertas sagradas que lhe forem apresentadas.
+
+[[v4-5-11]]
+
+^<<v4-5-11,11>>^ O Senhor  Deus disse a Moisés:
+
+[[v4-5-12]]
+
+^<<v4-5-12,12>>^ — Fale com os israelitas e diga o seguinte: pode acontecer que uma mulher se desvie e seja infiel ao marido
+
+[[v4-5-13]]
+
+^<<v4-5-13,13>>^ e tenha relações sexuais com outro homem, tornando-se assim impura . O marido não sabe disso, pois não houve testemunhas, e ela não foi apanhada no ato;
+
+[[v4-5-14]]
+
+^<<v4-5-14,14>>^ mesmo assim ele fica desconfiado. Pode acontecer também que o marido fique desconfiado, embora a mulher não tenha cometido adultério.
+
+[[v4-5-15]]
+
+^<<v4-5-15,15>>^ Em qualquer desses dois casos o homem levará a sua mulher ao sacerdote. E levará também a oferta de um quilo de farinha de cevada . Mas o sacerdote não porá azeite nem incenso em cima dessa farinha, pois é uma oferta de um marido desconfiado, isto é, uma oferta para descobrir a verdade.
+
+[[v4-5-16]]
+
+^<<v4-5-16,16>>^ — O sacerdote levará a mulher para a frente e a colocará diante do altar de Deus, o Senhor .
+
+[[v4-5-17]]
+
+^<<v4-5-17,17>>^ Ele derramará água santa num jarro de barro, e pegará um pouco de terra do chão da Tenda Sagrada , e porá na água.
+
+[[v4-5-18]]
+
+^<<v4-5-18,18>>^ E, com a mulher ainda em frente do altar, o sacerdote soltará os cabelos dela e porá nas suas mãos a oferta de farinha de cevada, que é a oferta por causa de ciúme. O sacerdote terá na mão o jarro de água amarga, que traz maldição.
+
+[[v4-5-19]]
+
+^<<v4-5-19,19>>^ — Então o sacerdote fará com que a mulher concorde com o seguinte juramento dito por ele: "Se você, estando debaixo da autoridade do seu marido, não teve relações com outro homem, nem cometeu com outro homem nenhum ato que a tenha tornado impura, então que nada lhe aconteça quando beber esta água amarga que traz maldição.
+
+[[v4-5-20]]
+
+^<<v4-5-20,20>>^ Mas, se você foi infiel e assim se tornou impura,
+
+[[v4-5-21]]
+
+^<<v4-5-21,21>>^ que o Senhor  Deus faça do seu nome uma maldição no meio do seu povo, e que os seus órgãos sexuais sequem, e a sua barriga fique inchada.
+
+[[v4-5-22]]
+
+^<<v4-5-22,22>>^ Que esta água entre no seu estômago e faça com que fique inchado, e os seus órgãos sexuais sequem." Então a mulher responderá: "Que assim seja!"
+
+[[v4-5-23]]
+
+^<<v4-5-23,23>>^ — Aí o sacerdote escreverá essas maldições numa tira de couro e em seguida lavará as palavras para dentro da água amarga.
+
+[[v4-5-24]]
+
+^<<v4-5-24,24>>^ Depois fará com que a mulher beba a água amarga que traz maldição. E a mulher sentirá dentro de si fortes dores.
+
+[[v4-5-25]]
+
+^<<v4-5-25,25>>^ Porém antes o sacerdote pegará da mão da mulher a oferta de cereais feita por causa de ciúmes; ele levantará a oferta na presença de Deus, o Senhor , e a trará ao altar.
+
+[[v4-5-26]]
+
+^<<v4-5-26,26>>^ Então pegará um punhado da oferta de cereais e a queimará em cima do altar para lembrar que é dada a Deus. Finalmente fará com que a mulher beba a água;
+
+[[v4-5-27]]
+
+^<<v4-5-27,27>>^ e, se, de fato, a mulher cometeu adultério e ficou impura, a água entrará nela, e ela sentirá fortes dores. A sua barriga ficará inchada, e os seus órgãos sexuais secarão. E ela será amaldiçoada no meio do seu povo.
+
+[[v4-5-28]]
+
+^<<v4-5-28,28>>^ Porém, se a mulher não cometeu adultério e for inocente, então ficará livre do castigo e poderá ter filhos.
+
+[[v4-5-29]]
+
+^<<v4-5-29,29>>^ — Essa é a lei  para os casos em que uma mulher casada comete adultério, e o marido fica desconfiado,
+
+[[v4-5-30]]
+
+^<<v4-5-30,30>>^ ou em que um homem, sem motivo, fica desconfiado da mulher. Ele deverá levar a mulher até o altar de Deus, o Senhor , e o sacerdote fará o que essa lei manda.
+
+[[v4-5-31]]
+
+^<<v4-5-31,31>>^ O marido ficará livre da culpa; mas, se a mulher for culpada, sofrerá o castigo.
+
+'''
+
+xref:004-numeros/004-numeros-004.adoc#v4-4-0[&#60; Capítulo Anterior] | <<v4-5-0,Topo>> | xref:004-numeros/004-numeros-006.adoc#v4-6-0[Próximo Capítulo &#62;]

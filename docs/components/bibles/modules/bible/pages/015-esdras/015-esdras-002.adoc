@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v15-2-0]]
+=== Esdras, 2
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v15-2-1]]
+
+^<<v15-2-1,1>>^ Entre os israelitas que o rei Nabucodonosor, da Babilônia, tinha levado como prisioneiros, havia muitos que eram da província  de Judá. Estes voltaram para Jerusalém e Judá, cada um para a sua própria cidade.
+
+[[v15-2-2]]
+
+^<<v15-2-2,2>>^ Os seus líderes eram Zorobabel, Josué, Neemias, Seraías, Reelaías, Mordecai, Bilsã, Mispar, Bigvai, Reum e Baaná. Esta é a lista dos grupos de famílias do povo de Israel que voltaram da Babilônia, sendo indicados o nome do chefe e o número de pessoas de cada grupo:
+
+[[v15-2-3]]
+
+^<<v15-2-3,3>>^ Parós: dois mil cento e setenta e dois; Sefatias: trezentos e setenta e dois; Ará: setecentos e setenta e cinco; Paate-Moabe, isto é, os descendentes de Jesua e de Moabe: dois mil oitocentos e doze; Elão: mil duzentos e cinquenta e quatro; Zatu: novecentos e quarenta e cinco; Zacai: setecentos e sessenta; Bani: seiscentos e quarenta e dois; Bebai: seiscentos e vinte e três; Azgade: mil duzentos e vinte e dois; Adonicã: seiscentos e sessenta e seis; Bigvai: dois mil e cinquenta e seis; Adim: quatrocentos e cinquenta e quatro; Ater, também chamado de Ezequias: noventa e oito; Besai: trezentos e vinte e três; Jora: cento e doze; Hasum: duzentos e vinte e três; Gibar: noventa e cinco.
+
+[[v15-2-4]]
+
+^<<v15-2-4,4>>^ Parós: dois mil cento e setenta e dois;
+
+[[v15-2-5]]
+
+^<<v15-2-5,5>>^ Parós: dois mil cento e setenta e dois;
+
+[[v15-2-6]]
+
+^<<v15-2-6,6>>^ Parós: dois mil cento e setenta e dois;
+
+[[v15-2-7]]
+
+^<<v15-2-7,7>>^ Parós: dois mil cento e setenta e dois;
+
+[[v15-2-8]]
+
+^<<v15-2-8,8>>^ Parós: dois mil cento e setenta e dois;
+
+[[v15-2-9]]
+
+^<<v15-2-9,9>>^ Parós: dois mil cento e setenta e dois;
+
+[[v15-2-10]]
+
+^<<v15-2-10,10>>^ Parós: dois mil cento e setenta e dois;
+
+[[v15-2-11]]
+
+^<<v15-2-11,11>>^ Parós: dois mil cento e setenta e dois;
+
+[[v15-2-12]]
+
+^<<v15-2-12,12>>^ Parós: dois mil cento e setenta e dois;
+
+[[v15-2-13]]
+
+^<<v15-2-13,13>>^ Parós: dois mil cento e setenta e dois;
+
+[[v15-2-14]]
+
+^<<v15-2-14,14>>^ Parós: dois mil cento e setenta e dois;
+
+[[v15-2-15]]
+
+^<<v15-2-15,15>>^ Parós: dois mil cento e setenta e dois;
+
+[[v15-2-16]]
+
+^<<v15-2-16,16>>^ Parós: dois mil cento e setenta e dois;
+
+[[v15-2-17]]
+
+^<<v15-2-17,17>>^ Parós: dois mil cento e setenta e dois;
+
+'''
+
+xref:015-esdras/015-esdras-001.adoc#v15-1-0[&#60; Capítulo Anterior] | <<v15-2-0,Topo>> | xref:015-esdras/015-esdras-003.adoc#v15-3-0[Próximo Capítulo &#62;]

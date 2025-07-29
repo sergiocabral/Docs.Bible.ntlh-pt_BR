@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v1-7-0]]
+=== Gênesis, 7
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v1-7-1]]
+
+^<<v1-7-1,1>>^ Depois o Senhor  Deus disse a Noé: — Entre na barca, você e toda a sua família, pois eu tenho visto que você é a única pessoa que faz o que é certo.
+
+[[v1-7-2]]
+
+^<<v1-7-2,2>>^ Leve junto com você sete casais de cada espécie de animal puro  e um casal de cada espécie de animal impuro .
+
+[[v1-7-3]]
+
+^<<v1-7-3,3>>^ Leve também sete casais de cada espécie de ave para que se conservem as espécies que existem na terra.
+
+[[v1-7-4]]
+
+^<<v1-7-4,4>>^ Pois daqui a sete dias eu vou fazer chover durante quarenta dias e quarenta noites. Assim vou acabar com todos os seres vivos que criei.
+
+[[v1-7-5]]
+
+^<<v1-7-5,5>>^ E Noé fez tudo conforme o que o Senhor  Deus havia mandado.
+
+[[v1-7-6]]
+
+^<<v1-7-6,6>>^ Noé tinha seiscentos anos de idade quando as águas do dilúvio cobriram a terra.
+
+[[v1-7-7]]
+
+^<<v1-7-7,7>>^ A fim de escapar do dilúvio, ele entrou na barca junto com os seus filhos, a sua mulher e as suas noras.
+
+[[v1-7-8]]
+
+^<<v1-7-8,8>>^ Os animais puros e os impuros, os que se arrastam pelo chão e as aves
+
+[[v1-7-9]]
+
+^<<v1-7-9,9>>^ entraram com Noé na barca de dois em dois, macho e fêmea, como Deus havia mandado.
+
+[[v1-7-10]]
+
+^<<v1-7-10,10>>^ Sete dias depois, as águas do dilúvio começaram a cobrir a terra.
+
+[[v1-7-11]]
+
+^<<v1-7-11,11>>^ Nesse tempo Noé tinha seiscentos anos. No dia dezessete do segundo mês, se arrebentaram todas as fontes do grande mar , e foram abertas as janelas do céu,
+
+[[v1-7-12]]
+
+^<<v1-7-12,12>>^ e caiu chuva sobre a terra durante quarenta dias e quarenta noites.
+
+[[v1-7-13]]
+
+^<<v1-7-13,13>>^ Nesse mesmo dia Noé e a sua mulher entraram na barca junto com os seus filhos Sem, Cam e Jafé e as suas mulheres.
+
+[[v1-7-14]]
+
+^<<v1-7-14,14>>^ Com eles entraram animais de todas as espécies: os domésticos e os selvagens, os que se arrastam pelo chão e as aves.
+
+[[v1-7-15]]
+
+^<<v1-7-15,15>>^ Todos os animais entraram com Noé na barca, de dois em dois.
+
+[[v1-7-16]]
+
+^<<v1-7-16,16>>^ Entraram machos e fêmeas de cada espécie, de acordo com o que Deus havia mandado Noé fazer. Aí o Senhor  fechou a porta da barca.
+
+[[v1-7-17]]
+
+^<<v1-7-17,17>>^ O dilúvio durou quarenta dias. A água subiu e levantou a barca, e ela começou a boiar.
+
+[[v1-7-18]]
+
+^<<v1-7-18,18>>^ A água foi subindo, e a barca continuou a boiar.
+
+[[v1-7-19]]
+
+^<<v1-7-19,19>>^ A água subiu tanto, que cobriu todas as montanhas mais altas da terra.
+
+[[v1-7-20]]
+
+^<<v1-7-20,20>>^ E depois ainda subiu mais sete metros.
+
+[[v1-7-21]]
+
+^<<v1-7-21,21>>^ Morreram todos os seres vivos que havia na terra, isto é, as aves, os animais domésticos, os animais selvagens, os animais que se arrastam pelo chão e os seres humanos.
+
+[[v1-7-22]]
+
+^<<v1-7-22,22>>^ Morreu tudo o que havia na terra, tudo o que tinha vida e respirava.
+
+[[v1-7-23]]
+
+^<<v1-7-23,23>>^ Somente Noé e os que estavam com ele na barca ficaram vivos. O resto foi destruído, isto é, os seres humanos, os animais domésticos, os animais selvagens e os que se arrastam pelo chão e as aves.
+
+[[v1-7-24]]
+
+^<<v1-7-24,24>>^ Só cento e cinquenta dias depois é que a água começou a baixar.
+
+'''
+
+xref:001-genesis/001-genesis-006.adoc#v1-6-0[&#60; Capítulo Anterior] | <<v1-7-0,Topo>> | xref:001-genesis/001-genesis-008.adoc#v1-8-0[Próximo Capítulo &#62;]

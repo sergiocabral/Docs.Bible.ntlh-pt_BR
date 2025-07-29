@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v19-45-0]]
+=== Salmos, 45
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-45-1]]
+
+^<<v19-45-1,1>>^ Lindas palavras enchem o meu coração enquanto escrevo esta canção em homenagem ao rei. A minha língua é como a pena de um bom escritor.
+
+[[v19-45-2]]
+
+^<<v19-45-2,2>>^ Ó rei, o senhor é o mais bonito de todos os homens e sabe fazer belos discursos. Deus sempre o tem abençoado.
+
+[[v19-45-3]]
+
+^<<v19-45-3,3>>^ Ponha a espada na cintura, ó rei poderoso, forte e glorioso !
+
+[[v19-45-4]]
+
+^<<v19-45-4,4>>^ Coberto de glória , avance para vencer, defendendo a verdade e a justiça. A sua força conquistará grandes vitórias.
+
+[[v19-45-5]]
+
+^<<v19-45-5,5>>^ As suas flechas são afiadas e atravessam o coração dos seus inimigos; as nações caem aos seus pés.
+
+[[v19-45-6]]
+
+^<<v19-45-6,6>>^ O reino que Deus lhe deu vai durar para sempre. Ó rei, o senhor governa o seu povo com justiça,
+
+[[v19-45-7]]
+
+^<<v19-45-7,7>>^ ama o bem e odeia o mal. Foi por isso que Deus, o seu Deus, o escolheu e deu mais felicidade ao senhor do que a qualquer outro rei.
+
+[[v19-45-8]]
+
+^<<v19-45-8,8>>^ A sua roupa está perfumada com mirra  e aloés . Os músicos tocam para o senhor, ó rei, em palácios enfeitados com marfim.
+
+[[v19-45-9]]
+
+^<<v19-45-9,9>>^ Entre as damas da sua corte, há filhas de reis, e, à direita do seu trono, está a rainha, usando enfeites de ouro puríssimo.
+
+[[v19-45-10]]
+
+^<<v19-45-10,10>>^ Ó noiva do rei, escute o meu conselho: "Esqueça o seu povo e os seus parentes.
+
+[[v19-45-11]]
+
+^<<v19-45-11,11>>^ Você é linda, e por isso o rei vai desejá-la; seja obediente a ele, pois ele é o seu senhor.
+
+[[v19-45-12]]
+
+^<<v19-45-12,12>>^ Ó noiva, o povo da cidade de Tiro vai lhe trazer presentes; muita gente rica vai querer lhe agradar."
+
+[[v19-45-13]]
+
+^<<v19-45-13,13>>^ A princesa está no palácio — e como é linda! O seu vestido é feito de fios de ouro.
+
+[[v19-45-14]]
+
+^<<v19-45-14,14>>^ Vestida de roupas coloridas e acompanhada pelas suas damas de honra, ela é levada até o rei.
+
+[[v19-45-15]]
+
+^<<v19-45-15,15>>^ Com prazer e alegria, elas chegam e entram no palácio dele.
+
+[[v19-45-16]]
+
+^<<v19-45-16,16>>^ Ó rei, o senhor terá muitos filhos, e eles serão reis também como foram os antepassados do senhor; e o senhor, ó rei, os fará governar o mundo inteiro.
+
+[[v19-45-17]]
+
+^<<v19-45-17,17>>^ A minha canção fará com que a sua fama seja sempre lembrada, e todos o elogiarão para sempre.
+
+'''
+
+xref:019-salmos/019-salmos-044.adoc#v19-44-0[&#60; Capítulo Anterior] | <<v19-45-0,Topo>> | xref:019-salmos/019-salmos-046.adoc#v19-46-0[Próximo Capítulo &#62;]

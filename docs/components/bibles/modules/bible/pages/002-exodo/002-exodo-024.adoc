@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v2-24-0]]
+=== Êxodo, 24
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v2-24-1]]
+
+^<<v2-24-1,1>>^ O Senhor  Deus disse a Moisés: — Você, Arão, Nadabe, Abiú e setenta líderes do povo de Israel, subam o monte e venham até a minha presença. E, quando ainda estiverem um pouco longe, ajoelhem-se para me adorar.
+
+[[v2-24-2]]
+
+^<<v2-24-2,2>>^ Só você, Moisés, chegará perto de mim; os outros, não. E o povo não deverá subir o monte.
+
+[[v2-24-3]]
+
+^<<v2-24-3,3>>^ Moisés foi e contou ao povo tudo o que o Senhor  tinha dito e todos os mandamentos que ele tinha dado. Então os israelitas responderam todos juntos: — Nós faremos tudo o que o Senhor  ordenou.
+
+[[v2-24-4]]
+
+^<<v2-24-4,4>>^ Então Moisés escreveu todas as leis  de Deus, o Senhor . No dia seguinte, de manhã, ele construiu um altar ao pé do monte e colocou ali doze colunas de pedra, uma para cada tribo  das doze tribos do povo de Israel.
+
+[[v2-24-5]]
+
+^<<v2-24-5,5>>^ Aí Moisés mandou que alguns moços queimassem animais em sacrifício  ao Senhor  e matassem touros como ofertas de paz.
+
+[[v2-24-6]]
+
+^<<v2-24-6,6>>^ Moisés pôs a metade do sangue dos animais em bacias e derramou a outra metade no altar.
+
+[[v2-24-7]]
+
+^<<v2-24-7,7>>^ Depois pegou o livro da aliança , onde estavam escritos os mandamentos do Senhor , e o leu em voz alta para o povo. Eles disseram: — Nós obedeceremos a Deus, o Senhor , e faremos tudo o que ele mandar.
+
+[[v2-24-8]]
+
+^<<v2-24-8,8>>^ Então Moisés pegou o sangue das bacias, borrifou o povo com ele e disse: — Este é o sangue que sela  a aliança que o Senhor  fez com vocês quando deu todos esses mandamentos.
+
+[[v2-24-9]]
+
+^<<v2-24-9,9>>^ Moisés, Arão, Nadabe, Abiú e setenta líderes do povo de Israel subiram o monte
+
+[[v2-24-10]]
+
+^<<v2-24-10,10>>^ e viram o Deus de Israel. Debaixo dos pés dele havia alguma coisa parecida com um piso feito de safiras , azul como o céu.
+
+[[v2-24-11]]
+
+^<<v2-24-11,11>>^ Deus não matou esses líderes de Israel; eles viram a Deus e depois comeram e beberam juntos.
+
+[[v2-24-12]]
+
+^<<v2-24-12,12>>^ O Senhor  Deus disse a Moisés: — Suba o monte onde eu estou e fique aqui, pois eu vou lhe dar as placas de pedra que têm as leis  e os mandamentos que escrevi, a fim de que você os ensine ao povo.
+
+[[v2-24-13]]
+
+^<<v2-24-13,13>>^ Moisés e Josué, o seu auxiliar, se aprontaram, e Moisés começou a subir o monte sagrado.
+
+[[v2-24-14]]
+
+^<<v2-24-14,14>>^ Então Moisés disse aos líderes: — Esperem aqui até nós voltarmos. Arão e Hur ficarão com vocês. Quem tiver alguma questão para resolver deverá falar com eles.
+
+[[v2-24-15]]
+
+^<<v2-24-15,15>>^ Então Moisés subiu o monte Sinai, e uma nuvem cobriu o monte.
+
+[[v2-24-16]]
+
+^<<v2-24-16,16>>^ A glória  do Senhor  desceu sobre o monte, e para os israelitas a luz parecia um fogo que queimava lá no alto. A nuvem cobriu o monte durante seis dias, e no sétimo dia o Senhor , lá da nuvem, chamou Moisés.
+
+[[v2-24-17]]
+
+^<<v2-24-17,17>>^ A glória  do Senhor  desceu sobre o monte, e para os israelitas a luz parecia um fogo que queimava lá no alto. A nuvem cobriu o monte durante seis dias, e no sétimo dia o Senhor , lá da nuvem, chamou Moisés.
+
+'''
+
+xref:002-exodo/002-exodo-023.adoc#v2-23-0[&#60; Capítulo Anterior] | <<v2-24-0,Topo>> | xref:002-exodo/002-exodo-025.adoc#v2-25-0[Próximo Capítulo &#62;]

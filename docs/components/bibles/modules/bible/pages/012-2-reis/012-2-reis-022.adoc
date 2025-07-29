@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v12-22-0]]
+=== 2 Reis, 22
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v12-22-1]]
+
+^<<v12-22-1,1>>^ Josias tinha oito anos de idade quando se tornou rei de Judá. Ele governou trinta e um anos em Jerusalém. A mãe dele se chamava Jedida e era filha de Adaías, da cidade de Boscate.
+
+[[v12-22-2]]
+
+^<<v12-22-2,2>>^ Josias fez o que agrada a Deus, o Senhor ; ele seguiu o exemplo do seu antepassado, o rei Davi, e não se desviou nem para um lado nem para o outro.
+
+[[v12-22-3]]
+
+^<<v12-22-3,3>>^ No ano dezoito do seu reinado, Josias mandou que Safã, o escrivão, filho de Azalias e neto de Mesulã, fosse ao Templo. Josias deu a seguinte ordem:
+
+[[v12-22-4]]
+
+^<<v12-22-4,4>>^ — Vá falar com Hilquias, o Grande Sacerdote , e diga a ele que conte o dinheiro que os sacerdotes que tomam conta da entrada do Templo têm recebido do povo.
+
+[[v12-22-5]]
+
+^<<v12-22-5,5>>^ Ele que entregue esse dinheiro aos homens que estão encarregados dos consertos do Templo. Eles devem pagar
+
+[[v12-22-6]]
+
+^<<v12-22-6,6>>^ os carpinteiros, os construtores e os pedreiros e comprar a madeira e as pedras para os consertos.
+
+[[v12-22-7]]
+
+^<<v12-22-7,7>>^ Os homens que estão encarregados dos consertos são honestos em tudo, e por isso não é preciso pedir que eles prestem contas desse dinheiro.
+
+[[v12-22-8]]
+
+^<<v12-22-8,8>>^ Safã deu a ordem do rei a Hilquias, e este lhe contou que havia achado o Livro da Lei  no Templo. Hilquias lhe entregou o livro, e ele o leu.
+
+[[v12-22-9]]
+
+^<<v12-22-9,9>>^ Depois Safã voltou e contou ao rei o seguinte: — Os seus servidores pegaram o dinheiro que estava no Templo e o entregaram aos encarregados dos consertos.
+
+[[v12-22-10]]
+
+^<<v12-22-10,10>>^ E Safã disse também: — Tenho aqui comigo um livro que Hilquias me entregou. E leu o livro em voz alta para o rei.
+
+[[v12-22-11]]
+
+^<<v12-22-11,11>>^ Quando ouviu o que o Livro da Lei dizia, o rei rasgou as suas roupas em sinal de tristeza.
+
+[[v12-22-12]]
+
+^<<v12-22-12,12>>^ Então deu a Hilquias, o sacerdote, e a Aicã, filho de Safã, e a Acbor, filho de Micaías, e a Safã, o escrivão, e a Asaías, o servidor do rei, a seguinte ordem:
+
+[[v12-22-13]]
+
+^<<v12-22-13,13>>^ — Vão consultar a Deus, o Senhor , por mim e por todo o povo de Judá a respeito dos ensinamentos deste livro. Deus está irado  conosco porque os nossos antepassados não fizeram o que este livro manda.
+
+[[v12-22-14]]
+
+^<<v12-22-14,14>>^ Hilquias, Aicã, Abdom, Safã e Asaías foram falar com uma profetisa  chamada Hulda, que morava no bairro novo de Jerusalém. O marido dela, que se chamava Salum, filho de Ticva e neto de Harás, era o encarregado da rouparia do Templo. Eles contaram a Hulda o que havia acontecido,
+
+[[v12-22-15]]
+
+^<<v12-22-15,15>>^ e ela lhes disse que voltassem e dessem ao rei
+
+[[v12-22-16]]
+
+^<<v12-22-16,16>>^ a seguinte mensagem: — Eu, o Senhor , o Deus de Israel, vou castigar a cidade de Jerusalém e todo o seu povo, como está escrito no livro que o rei leu.
+
+[[v12-22-17]]
+
+^<<v12-22-17,17>>^ Eles me abandonaram e têm oferecido sacrifícios  a outros deuses e assim me fizeram ficar irado por causa de todas as coisas que têm feito. A minha ira se acendeu contra Jerusalém e não vai se apagar.
+
+[[v12-22-18]]
+
+^<<v12-22-18,18>>^ Eu, o Senhor , o Deus de Israel, digo isto a respeito do rei: "Você ouviu o que está escrito no livro,
+
+[[v12-22-19]]
+
+^<<v12-22-19,19>>^ e se arrependeu, e se humilhou diante de mim, rasgando as suas roupas e chorando quando ouviu como ameacei castigar a cidade de Jerusalém e o seu povo. Eu vou fazer com que Jerusalém vire um lugar horrível de se ver, e o nome desta cidade será usado para rogar pragas. Mas eu ouvi a sua oração
+
+[[v12-22-20]]
+
+^<<v12-22-20,20>>^ e por isso só depois da sua morte é que vou castigar Jerusalém. Vou deixar que você morra em paz." Então os homens levaram ao rei essa resposta.
+
+'''
+
+xref:012-2-reis/012-2-reis-021.adoc#v12-21-0[&#60; Capítulo Anterior] | <<v12-22-0,Topo>> | xref:012-2-reis/012-2-reis-023.adoc#v12-23-0[Próximo Capítulo &#62;]

@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v12-20-0]]
+=== 2 Reis, 20
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v12-20-1]]
+
+^<<v12-20-1,1>>^ Por esse tempo, o rei Ezequias ficou doente e quase morreu. O profeta  Isaías, filho de Amoz, foi visitá-lo e disse: — O Senhor  Deus diz: "Ponha as suas coisas em ordem porque você não vai sarar. Apronte-se para morrer."
+
+[[v12-20-2]]
+
+^<<v12-20-2,2>>^ Então Ezequias virou o rosto para a parede e orou assim:
+
+[[v12-20-3]]
+
+^<<v12-20-3,3>>^ — Ó Senhor  Deus, lembra que eu tenho te servido com fidelidade e com todo o coração e sempre fiz aquilo que querias que eu fizesse. E chorou amargamente.
+
+[[v12-20-4]]
+
+^<<v12-20-4,4>>^ Isaías saiu do quarto em que o rei estava, mas, antes que tivesse passado pelo pátio central do palácio, o Senhor  Deus lhe disse:
+
+[[v12-20-5]]
+
+^<<v12-20-5,5>>^ — Volte e diga o seguinte a Ezequias, o governador do meu povo: "Eu, o Senhor , o Deus do seu antepassado Davi, escutei a sua oração e vi as suas lágrimas. Eu vou curá-lo, e daqui a três dias você irá até o Templo.
+
+[[v12-20-6]]
+
+^<<v12-20-6,6>>^ Vou deixar que você viva mais quinze anos. Livrarei você e esta cidade de Jerusalém do rei da Assíria. Defenderei esta cidade por causa da minha honra e por causa da promessa que fiz ao meu servo  Davi."
+
+[[v12-20-7]]
+
+^<<v12-20-7,7>>^ Então Isaías disse: — Ponham uma pasta de figos em cima da úlcera do rei, e ele ficará bom.
+
+[[v12-20-8]]
+
+^<<v12-20-8,8>>^ E o rei Ezequias perguntou: — Qual será o sinal de que o Senhor  Deus vai me curar e de que daqui a três dias eu poderei ir até o Templo?
+
+[[v12-20-9]]
+
+^<<v12-20-9,9>>^ Isaías respondeu: — O Senhor  lhe dará um sinal para provar que vai cumprir a sua promessa. O que você prefere: que a sombra da escadaria avance dez degraus ou volte dez degraus?
+
+[[v12-20-10]]
+
+^<<v12-20-10,10>>^ Ezequias respondeu: — Fazer a sombra avançar dez degraus é fácil! Eu quero é que ela volte dez degraus.
+
+[[v12-20-11]]
+
+^<<v12-20-11,11>>^ Então Isaías orou a Deus, o Senhor , e ele fez a sombra voltar dez degraus na escadaria feita pelo rei Acaz.
+
+[[v12-20-12]]
+
+^<<v12-20-12,12>>^ Por esse mesmo tempo, o rei da Babilônia, Merodaque-Baladã, filho de Baladã, soube que o rei Ezequias havia estado doente. Então lhe mandou uma carta e um presente.
+
+[[v12-20-13]]
+
+^<<v12-20-13,13>>^ Ezequias recebeu bem os mensageiros e lhes mostrou toda a sua riqueza, isto é, a sua prata e o seu ouro, as suas especiarias , os seus perfumes e todas as suas armas. Não houve nada nos seus depósitos ou em qualquer outro lugar que Ezequias não mostrasse.
+
+[[v12-20-14]]
+
+^<<v12-20-14,14>>^ Então o profeta  Isaías foi falar com ele e perguntou: — De onde vieram esses homens, e o que foi que lhe disseram? Ezequias respondeu: — Eles vieram de um país que fica muito longe daqui. Vieram da Babilônia.
+
+[[v12-20-15]]
+
+^<<v12-20-15,15>>^ Isaías perguntou: — O que foi que eles viram no palácio? O rei respondeu: — Viram tudo. Não houve nada nos depósitos que eu não lhes mostrasse.
+
+[[v12-20-16]]
+
+^<<v12-20-16,16>>^ Então Isaías disse ao rei: — O Senhor  Deus diz que
+
+[[v12-20-17]]
+
+^<<v12-20-17,17>>^ vai chegar o tempo em que tudo aquilo que está no seu palácio, isto é, tudo o que os seus antepassados ajuntaram até hoje, será levado para a Babilônia. Não ficará nada.
+
+[[v12-20-18]]
+
+^<<v12-20-18,18>>^ Alguns dos seus próprios filhos serão levados como prisioneiros e feitos eunucos  para trabalhar no palácio do rei da Babilônia.
+
+[[v12-20-19]]
+
+^<<v12-20-19,19>>^ O rei Ezequias entendeu que isso queria dizer que durante a vida dele haveria paz e segurança. Por isso, disse: — A mensagem do Senhor  que você me deu é boa.
+
+[[v12-20-20]]
+
+^<<v12-20-20,20>>^ Todas as outras coisas que o rei Ezequias fez, os seus atos de coragem, e como ele construiu um reservatório e cavou um túnel para levar água para dentro da cidade, tudo isso está escrito na História dos Reis de Judá .
+
+[[v12-20-21]]
+
+^<<v12-20-21,21>>^ Ezequias morreu, e o seu filho Manassés ficou no lugar dele como rei.
+
+'''
+
+xref:012-2-reis/012-2-reis-019.adoc#v12-19-0[&#60; Capítulo Anterior] | <<v12-20-0,Topo>> | xref:012-2-reis/012-2-reis-021.adoc#v12-21-0[Próximo Capítulo &#62;]

@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v21-3-0]]
+=== Eclesiastes, 3
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v21-3-1]]
+
+^<<v21-3-1,1>>^ Tudo neste mundo tem o seu tempo; cada coisa tem a sua ocasião.
+
+[[v21-3-2]]
+
+^<<v21-3-2,2>>^ Há tempo de nascer e tempo de morrer; tempo de plantar e tempo de arrancar;
+
+[[v21-3-3]]
+
+^<<v21-3-3,3>>^ tempo de matar e tempo de curar; tempo de derrubar e tempo de construir.
+
+[[v21-3-4]]
+
+^<<v21-3-4,4>>^ Há tempo de ficar triste e tempo de se alegrar; tempo de chorar e tempo de dançar;
+
+[[v21-3-5]]
+
+^<<v21-3-5,5>>^ tempo de espalhar pedras e tempo de ajuntá-las; tempo de abraçar e tempo de afastar.
+
+[[v21-3-6]]
+
+^<<v21-3-6,6>>^ Há tempo de procurar e tempo de perder; tempo de economizar e tempo de desperdiçar;
+
+[[v21-3-7]]
+
+^<<v21-3-7,7>>^ tempo de rasgar e tempo de remendar; tempo de ficar calado e tempo de falar.
+
+[[v21-3-8]]
+
+^<<v21-3-8,8>>^ Há tempo de amar e tempo de odiar; tempo de guerra e tempo de paz.
+
+[[v21-3-9]]
+
+^<<v21-3-9,9>>^ O que é que a pessoa ganha com todo o seu trabalho?
+
+[[v21-3-10]]
+
+^<<v21-3-10,10>>^ Eu tenho visto todo o trabalho que Deus dá às pessoas para que fiquem ocupadas.
+
+[[v21-3-11]]
+
+^<<v21-3-11,11>>^ Deus marcou o tempo certo para cada coisa. Ele nos deu o desejo de entender as coisas que já aconteceram e as que ainda vão acontecer, porém não nos deixa compreender completamente o que ele faz.
+
+[[v21-3-12]]
+
+^<<v21-3-12,12>>^ Então entendi que nesta vida tudo o que a pessoa pode fazer é procurar ser feliz e viver o melhor que puder.
+
+[[v21-3-13]]
+
+^<<v21-3-13,13>>^ Todos nós devemos comer e beber e aproveitar bem aquilo que ganhamos com o nosso trabalho. Isso é um presente de Deus.
+
+[[v21-3-14]]
+
+^<<v21-3-14,14>>^ Eu sei que tudo o que Deus faz dura para sempre; não podemos acrescentar nada, nem tirar nada. E uma coisa que Deus faz é levar as pessoas a temê-lo .
+
+[[v21-3-15]]
+
+^<<v21-3-15,15>>^ Tudo o que acontece ou que pode acontecer já aconteceu antes. Deus faz com que uma coisa que acontece torne a acontecer.
+
+[[v21-3-16]]
+
+^<<v21-3-16,16>>^ Neste mundo eu também reparei o seguinte: no lugar onde deviam estar a justiça e o direito, o que a gente encontra é a maldade.
+
+[[v21-3-17]]
+
+^<<v21-3-17,17>>^ Então pensei assim: "Deus julgará tanto os bons como os maus porque tudo o que se passa neste mundo, tudo o que a gente faz, acontece na hora que tem de acontecer."
+
+[[v21-3-18]]
+
+^<<v21-3-18,18>>^ Aí cheguei à conclusão de que Deus está pondo as pessoas à prova para que elas vejam que não são melhores do que os animais.
+
+[[v21-3-19]]
+
+^<<v21-3-19,19>>^ No fim das contas, o mesmo que acontece com as pessoas acontece com os animais. Tanto as pessoas como os animais morrem. O ser humano não leva nenhuma vantagem sobre o animal, pois os dois têm de respirar para viver. Como se vê, tudo é ilusão,
+
+[[v21-3-20]]
+
+^<<v21-3-20,20>>^ pois tanto um como o outro irão para o mesmo lugar, isto é, o pó da terra. Tanto um como o outro vieram de lá e voltarão para lá.
+
+[[v21-3-21]]
+
+^<<v21-3-21,21>>^ Como é que alguém pode ter a certeza de que o sopro de vida do ser humano vai para cima e que o sopro de vida do animal desce para a terra?
+
+[[v21-3-22]]
+
+^<<v21-3-22,22>>^ Assim, eu compreendi que não há nada melhor do que a gente ter prazer no trabalho. Esta é a nossa recompensa. Pois como é que podemos saber o que vai acontecer depois da nossa morte?
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-002.adoc#v21-2-0[&#60; Capítulo Anterior] | <<v21-3-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-004.adoc#v21-4-0[Próximo Capítulo &#62;]

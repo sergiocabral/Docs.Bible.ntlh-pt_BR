@@ -1,0 +1,29 @@
+include::./index.adoc[]
+
+[[v19-15-0]]
+=== Salmos, 15
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-15-1]]
+
+^<<v19-15-1,1>>^ Ó Senhor  Deus, quem tem o direito de morar no teu Templo? Quem pode viver no teu monte santo ?
+
+[[v19-15-2]]
+
+^<<v19-15-2,2>>^ Só tem esse direito aquele que vive uma vida correta, que faz o que é certo e que é sincero e verdadeiro no que diz.
+
+[[v19-15-3]]
+
+^<<v19-15-3,3>>^ Ele não fala mal dos outros, não prejudica os seus amigos e não espalha boatos a respeito dos seus vizinhos.
+
+[[v19-15-4]]
+
+^<<v19-15-4,4>>^ Ele despreza aqueles que o Senhor  rejeita, mas trata com respeito os que o temem . Ele cumpre o que promete, mesmo com prejuízo próprio,
+
+[[v19-15-5]]
+
+^<<v19-15-5,5>>^ empresta sem cobrar juros e não aceita suborno para ser testemunha contra pessoas inocentes. Aquele que age assim estará sempre seguro.
+
+'''
+
+xref:019-salmos/019-salmos-014.adoc#v19-14-0[&#60; Capítulo Anterior] | <<v19-15-0,Topo>> | xref:019-salmos/019-salmos-016.adoc#v19-16-0[Próximo Capítulo &#62;]

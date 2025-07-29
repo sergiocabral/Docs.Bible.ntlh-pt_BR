@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v20-23-0]]
+=== Provérbios, 23
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v20-23-1]]
+
+^<<v20-23-1,1>>^ Quando você for jantar com alguém importante, não esqueça quem ele é.
+
+[[v20-23-2]]
+
+^<<v20-23-2,2>>^ Se você é guloso, controle-se.
+
+[[v20-23-3]]
+
+^<<v20-23-3,3>>^ Não tenha pressa de comer a boa comida que ele serve, pois ele pode estar querendo enganar você.
+
+[[v20-23-4]]
+
+^<<v20-23-4,4>>^ Não se mate de trabalhar, tentando ficar rico,
+
+[[v20-23-5]]
+
+^<<v20-23-5,5>>^ nem pense demais nisso. Pois o seu dinheiro pode sumir de repente, como se tivesse criado asas e voado para longe como uma águia.
+
+[[v20-23-6]]
+
+^<<v20-23-6,6>>^ Não coma na casa de um homem miserável, nem tenha pressa de comer a boa comida que ele serve.
+
+[[v20-23-7]]
+
+^<<v20-23-7,7>>^ "Coma um pouco mais", diz ele, mas não está sendo sincero.
+
+[[v20-23-8]]
+
+^<<v20-23-8,8>>^ O jeito dele fará com que você fique enjoado. Você vomitará o pouco que comeu, e todos os seus elogios ficarão desperdiçados.
+
+[[v20-23-9]]
+
+^<<v20-23-9,9>>^ Não perca tempo falando com um tolo, porque ele desprezará a sua conversa inteligente.
+
+[[v20-23-10]]
+
+^<<v20-23-10,10>>^ Não mude de lugar uma divisa antiga, nem tome posse de terras que pertencem a órfãos.
+
+[[v20-23-11]]
+
+^<<v20-23-11,11>>^ Deus é o poderoso defensor dos órfãos e defenderá a causa deles contra você.
+
+[[v20-23-12]]
+
+^<<v20-23-12,12>>^ Preste atenção no que lhe ensinam e aprenda o mais que puder.
+
+[[v20-23-13]]
+
+^<<v20-23-13,13>>^ Não deixe de corrigir a criança. Umas palmadas não a matarão.
+
+[[v20-23-14]]
+
+^<<v20-23-14,14>>^ Para dizer a verdade, poderão até livrá-la da morte.
+
+[[v20-23-15]]
+
+^<<v20-23-15,15>>^ Meu filho, se você se tornar sábio, eu ficarei muito feliz.
+
+[[v20-23-16]]
+
+^<<v20-23-16,16>>^ Eu me sentirei orgulhoso quando ouvir você falar com sabedoria.
+
+[[v20-23-17]]
+
+^<<v20-23-17,17>>^ Não tenha inveja dos pecadores. Procure respeitar e obedecer a Deus todos os dias da sua vida.
+
+[[v20-23-18]]
+
+^<<v20-23-18,18>>^ Assim, o seu futuro será brilhante, e você não perderá a esperança.
+
+[[v20-23-19]]
+
+^<<v20-23-19,19>>^ Escute, meu filho. Seja sábio e pense seriamente na sua maneira de viver.
+
+[[v20-23-20]]
+
+^<<v20-23-20,20>>^ Não ande com gente que bebe demais, nem com quem come demais.
+
+[[v20-23-21]]
+
+^<<v20-23-21,21>>^ Porque tanto os beberrões como os comilões vivem com sono e acabam na pobreza, vestindo trapos.
+
+[[v20-23-22]]
+
+^<<v20-23-22,22>>^ Escute o seu pai, pois você lhe deve a vida; e não despreze a sua mãe quando ela envelhecer.
+
+[[v20-23-23]]
+
+^<<v20-23-23,23>>^ Compre a verdade, a sabedoria, a instrução e o bom senso, mas não venda nenhum deles.
+
+[[v20-23-24]]
+
+^<<v20-23-24,24>>^ O pai que tem um filho correto e sábio ficará muito feliz e se orgulhará dele.
+
+[[v20-23-25]]
+
+^<<v20-23-25,25>>^ Faça que o seu pai se alegre por causa de você; dê à sua mãe esse prazer.
+
+[[v20-23-26]]
+
+^<<v20-23-26,26>>^ Meu filho, preste bem atenção no que eu digo e siga o exemplo da minha vida.
+
+[[v20-23-27]]
+
+^<<v20-23-27,27>>^ As prostitutas e as mulheres imorais são uma armadilha perigosa e sem saída.
+
+[[v20-23-28]]
+
+^<<v20-23-28,28>>^ Como um ladrão, elas esperam pelas suas vítimas e tornam muitos homens infiéis.
+
+[[v20-23-29]]
+
+^<<v20-23-29,29>>^ Quem é que grita de dor? Para quem são as tristezas? Quem é que vive brigando e se queixando? Quem é que tem os olhos vermelhos e ferimentos que podiam ter sido evitados?
+
+[[v20-23-30]]
+
+^<<v20-23-30,30>>^ É aquele que bebe demais e anda procurando bebidas misturadas.
+
+[[v20-23-31]]
+
+^<<v20-23-31,31>>^ Não fique olhando para o vinho que brilha no copo, com a sua cor vermelha, e desce suavemente.
+
+[[v20-23-32]]
+
+^<<v20-23-32,32>>^ Pois no fim ele morde como uma cobra venenosa.
+
+[[v20-23-33]]
+
+^<<v20-23-33,33>>^ Você verá coisas esquisitas e falará tolices.
+
+[[v20-23-34]]
+
+^<<v20-23-34,34>>^ Você se sentirá como se estivesse no meio do mar, enjoado, balançando no alto do mastro de um navio.
+
+[[v20-23-35]]
+
+^<<v20-23-35,35>>^ Então você dirá: "Alguém deve ter batido em mim; acho que levei uma surra, mas não lembro. Por que não consigo levantar? Preciso de mais um gole."
+
+'''
+
+xref:020-proverbios/020-proverbios-022.adoc#v20-22-0[&#60; Capítulo Anterior] | <<v20-23-0,Topo>> | xref:020-proverbios/020-proverbios-024.adoc#v20-24-0[Próximo Capítulo &#62;]

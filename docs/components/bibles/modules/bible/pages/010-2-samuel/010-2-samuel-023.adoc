@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v10-23-0]]
+=== 2 Samuel, 23
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v10-23-1]]
+
+^<<v10-23-1,1>>^ São estas as últimas palavras de Davi, filho de Jessé. Davi foi o homem que Deus tornou importante, que o Deus de Jacó escolheu para ser rei e que compôs as belas canções de Israel. Davi disse:
+
+[[v10-23-2]]
+
+^<<v10-23-2,2>>^ O Espírito do Senhor  fala por meio de mim, e a sua mensagem está nos meus lábios.
+
+[[v10-23-3]]
+
+^<<v10-23-3,3>>^ O Deus de Israel falou, o protetor de Israel me disse: "O rei que governa com justiça, que governa respeitando a vontade de Deus
+
+[[v10-23-4]]
+
+^<<v10-23-4,4>>^ é como o nascer do sol numa madrugada sem nuvens, como o sol que faz a grama brilhar depois da chuva."
+
+[[v10-23-5]]
+
+^<<v10-23-5,5>>^ É assim que Deus abençoará os meus descendentes, pois ele fez uma aliança  eterna comigo, uma aliança bem certa e segura. Isso é tudo o que quero; será essa a minha vitória, e eu sei que Deus fará isso.
+
+[[v10-23-6]]
+
+^<<v10-23-6,6>>^ Mas os pagãos são como os espinhos jogados fora: ninguém se atreve a pegá-los com as mãos;
+
+[[v10-23-7]]
+
+^<<v10-23-7,7>>^ para isso é preciso uma ferramenta de ferro ou de madeira; eles serão totalmente queimados no fogo.
+
+[[v10-23-8]]
+
+^<<v10-23-8,8>>^ São estes os nomes dos soldados famosos de Davi: Josebe-Bassebete, de Taquemoni, que era o líder do grupo chamado "Os Três"; com a sua lança ele lutou contra oitocentos homens e matou todos numa batalha.
+
+[[v10-23-9]]
+
+^<<v10-23-9,9>>^ Eleazar, filho de Dodo e neto de Aoí, era um dos famosos "Três". Uma vez ele e Davi desafiaram os filisteus que se haviam reunido para a batalha. Os israelitas se retiraram,
+
+[[v10-23-10]]
+
+^<<v10-23-10,10>>^ mas Eleazar ficou e lutou contra os filisteus até que teve uma cãibra tão forte na mão, que não podia largar a espada. O Senhor  Deus conseguiu uma grande vitória nesse dia. Depois que a batalha terminou, os israelitas voltaram até o lugar onde Eleazar estava para tirar a armadura  dos mortos.
+
+[[v10-23-11]]
+
+^<<v10-23-11,11>>^ Em seguida vinha Sama, filho de Agé, o hararita. Os filisteus se juntaram em Leí, onde havia uma plantação de ervilhas. Os israelitas fugiram dos filisteus.
+
+[[v10-23-12]]
+
+^<<v10-23-12,12>>^ Porém Sama ficou na plantação, defendeu-a e matou os filisteus. Nesse dia o Senhor  conseguiu uma grande vitória.
+
+[[v10-23-13]]
+
+^<<v10-23-13,13>>^ Perto do começo do tempo da colheita, três do grupo chamado "Os Trinta" desceram até a caverna de Adulã, onde Davi estava, enquanto um bando de filisteus acampava no vale dos Gigantes.
+
+[[v10-23-14]]
+
+^<<v10-23-14,14>>^ Nessa época Davi se encontrava na fortaleza, e um grupo de filisteus estava na cidade de Belém.
+
+[[v10-23-15]]
+
+^<<v10-23-15,15>>^ Então Davi teve uma vontade e disse: — Como eu gostaria que alguém me trouxesse um pouco de água do poço que fica perto do portão de Belém!
+
+[[v10-23-16]]
+
+^<<v10-23-16,16>>^ Aí os três soldados famosos passaram pelo acampamento dos filisteus, tiraram água do poço e levaram para Davi. Mas ele não bebeu daquela água; em vez disso, a derramou como uma oferta a Deus, o Senhor ,
+
+[[v10-23-17]]
+
+^<<v10-23-17,17>>^ e disse: — Ó Senhor  Deus, eu nunca poderia beber desta água! Isso seria o mesmo que beber o sangue destes homens que arriscaram a sua vida para trazê-la! E assim ele não tomou daquela água. Foram essas as coisas que os famosos "Três" fizeram.
+
+[[v10-23-18]]
+
+^<<v10-23-18,18>>^ Abisai, irmão de Joabe (a mãe deles era Zeruia), era o líder dos famosos "Trinta". Com a sua lança, ele lutou contra trezentos homens e os matou, ficando famoso entre "Os Trinta".
+
+[[v10-23-19]]
+
+^<<v10-23-19,19>>^ Abisai era o mais famoso dos "Trinta" e se tornou o líder do grupo, mas ele não era tão famoso quanto "Os Três".
+
+[[v10-23-20]]
+
+^<<v10-23-20,20>>^ Benaías, filho de Jeoiada, da cidade de Cabzeel, foi um soldado famoso e praticou muitos atos de coragem. Ele matou dois grandes guerreiros moabitas. Em um dia de neve, desceu numa cova e matou um leão.
+
+[[v10-23-21]]
+
+^<<v10-23-21,21>>^ Ele matou também um egípcio, um homem enorme, que estava armado com uma lança. Benaías atacou o egípcio com o seu bastão, arrancou a lança da mão dele e o matou com ela.
+
+[[v10-23-22]]
+
+^<<v10-23-22,22>>^ Foram essas as coisas que Benaías fez. Ele tinha uma posição de destaque entre "Os Trinta", mas também não foi tão famoso quanto "Os Três". Davi o colocou como chefe da sua guarda pessoal.
+
+[[v10-23-23]]
+
+^<<v10-23-23,23>>^ Foram essas as coisas que Benaías fez. Ele tinha uma posição de destaque entre "Os Trinta", mas também não foi tão famoso quanto "Os Três". Davi o colocou como chefe da sua guarda pessoal.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-022.adoc#v10-22-0[&#60; Capítulo Anterior] | <<v10-23-0,Topo>> | xref:010-2-samuel/010-2-samuel-024.adoc#v10-24-0[Próximo Capítulo &#62;]

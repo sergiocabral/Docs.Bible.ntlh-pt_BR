@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v10-2-0]]
+=== 2 Samuel, 2
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v10-2-1]]
+
+^<<v10-2-1,1>>^ Depois disso Davi perguntou a Deus, o Senhor : — Devo ir e governar alguma das cidades de Judá? — Sim! — o Senhor  respondeu. — Qual delas? — perguntou ele. — Hebrom! — foi a resposta.
+
+[[v10-2-2]]
+
+^<<v10-2-2,2>>^ Então Davi foi para Hebrom, levando consigo as suas duas esposas. Uma era Ainoã, da cidade de Jezreel, e a outra era Abigail, viúva de Nabal, da cidade de Carmelo.
+
+[[v10-2-3]]
+
+^<<v10-2-3,3>>^ Davi também levou os seus soldados com as suas famílias, e eles ficaram morando nas cidades vizinhas de Hebrom.
+
+[[v10-2-4]]
+
+^<<v10-2-4,4>>^ Aí os homens de Judá foram a Hebrom e ungiram  Davi como rei de Judá. Quando Davi soube que os moradores da cidade de Jabes, da região de Gileade, tinham sepultado Saul,
+
+[[v10-2-5]]
+
+^<<v10-2-5,5>>^ mandou que alguns homens fossem lá com a seguinte mensagem: — Que o Senhor  abençoe vocês por terem feito a caridade de sepultar o nosso rei!
+
+[[v10-2-6]]
+
+^<<v10-2-6,6>>^ Que o Senhor  seja bom e fiel para vocês! Por causa do que fizeram, eu também os tratarei bem.
+
+[[v10-2-7]]
+
+^<<v10-2-7,7>>^ Sejam fortes e valentes! Saul, o rei de vocês, morreu, e o povo de Judá me ungiu como rei deles.
+
+[[v10-2-8]]
+
+^<<v10-2-8,8>>^ O comandante do exército de Saul, Abner, filho de Ner, havia fugido com Isbosete, filho de Saul, para Maanaim, no outro lado do rio Jordão.
+
+[[v10-2-9]]
+
+^<<v10-2-9,9>>^ Lá, Abner fez Isbosete rei das terras de Gileade, Aser, Jezreel, Efraim e Benjamim; na verdade, ele o fez rei de todo o povo de Israel.
+
+[[v10-2-10]]
+
+^<<v10-2-10,10>>^ Isbosete tinha quarenta anos de idade quando começou a reinar em Israel e reinou dois anos. Mas a tribo  de Judá ficou fiel a Davi,
+
+[[v10-2-11]]
+
+^<<v10-2-11,11>>^ e ele a governou em Hebrom sete anos e meio.
+
+[[v10-2-12]]
+
+^<<v10-2-12,12>>^ Abner e os oficiais de Isbosete foram de Maanaim para a cidade de Gibeão.
+
+[[v10-2-13]]
+
+^<<v10-2-13,13>>^ Joabe, cuja mãe era Zeruia, e os oficiais de Davi foram encontrá-los perto da represa de Gibeão. Lá todos eles se sentaram, um grupo de um lado da represa e o outro do outro lado.
+
+[[v10-2-14]]
+
+^<<v10-2-14,14>>^ Então Abner disse a Joabe: — Deixe que alguns dos nossos moços enfrentem alguns dos seus, em uma luta armada. — Está bem! — respondeu Joabe.
+
+[[v10-2-15]]
+
+^<<v10-2-15,15>>^ Aí doze soldados, representando Isbosete e a tribo  de Benjamim, lutaram contra doze soldados de Davi.
+
+[[v10-2-16]]
+
+^<<v10-2-16,16>>^ Cada um pegou o seu adversário pela cabeça e enfiou a espada no lado dele. E assim todos eles caíram mortos juntos. É por isso que aquele lugar perto da cidade de Gibeão é chamado de "Campo das Espadas".
+
+[[v10-2-17]]
+
+^<<v10-2-17,17>>^ Em seguida houve ali uma violenta batalha, e Abner e os israelitas foram derrotados pelos soldados de Davi.
+
+[[v10-2-18]]
+
+^<<v10-2-18,18>>^ Joabe, Abisai e Asael, os três filhos de Zeruia, estavam lá. Asael, que era tão ligeiro como uma gazela  selvagem,
+
+[[v10-2-19]]
+
+^<<v10-2-19,19>>^ começou a perseguir Abner, correndo atrás dele.
+
+[[v10-2-20]]
+
+^<<v10-2-20,20>>^ Abner olhou para trás e perguntou: — Asael, é você? — Sim, sou eu! — respondeu ele.
+
+[[v10-2-21]]
+
+^<<v10-2-21,21>>^ — Pare de me perseguir! — disse Abner. — Corra atrás de um dos soldados e pegue para você as coisas dele. Porém Asael continuou a persegui-lo.
+
+[[v10-2-22]]
+
+^<<v10-2-22,22>>^ Mais uma vez Abner disse: — Pare de me perseguir! Você está me forçando a matá-lo! Como é que eu poderia, depois, olhar o seu irmão Joabe nos olhos?
+
+[[v10-2-23]]
+
+^<<v10-2-23,23>>^ Porém Asael não parou de persegui-lo. Então Abner deu um golpe para trás com a sua lança. Ela entrou na barriga de Asael e saiu pelas costas. Ele caiu morto no chão, e todos os que chegavam paravam no lugar onde ele estava caído.
+
+[[v10-2-24]]
+
+^<<v10-2-24,24>>^ Mas Joabe e Abisai continuaram a perseguir Abner e, quando o sol estava se pondo, chegaram ao monte de Amá, a leste da cidade de Giá, na estrada que vai para o deserto de Gibeão.
+
+[[v10-2-25]]
+
+^<<v10-2-25,25>>^ Os soldados da tribo de Benjamim se reuniram novamente em volta de Abner e ficaram no alto de um morro.
+
+[[v10-2-26]]
+
+^<<v10-2-26,26>>^ Então Abner gritou para Joabe: — Será que vamos ter de continuar lutando para sempre? Você não vê que, no fim, não vai sobrar nada, a não ser amargura? Nós somos seus irmãos! Até quando você vai esperar para mandar que os seus soldados parem de nos perseguir?
+
+[[v10-2-27]]
+
+^<<v10-2-27,27>>^ Joabe respondeu: — Juro pelo Deus vivo que, se você não tivesse falado, os meus soldados continuariam a perseguir vocês até amanhã cedo.
+
+[[v10-2-28]]
+
+^<<v10-2-28,28>>^ Então Joabe tocou a corneta. Todos os seus soldados pararam de perseguir os israelitas, e a luta acabou.
+
+[[v10-2-29]]
+
+^<<v10-2-29,29>>^ Durante toda aquela noite, Abner e os seus soldados marcharam pelo vale do Jordão. Atravessaram o rio Jordão e, depois de marcharem toda a manhã do dia seguinte, chegaram à cidade de Maanaim.
+
+[[v10-2-30]]
+
+^<<v10-2-30,30>>^ Quando Joabe parou a perseguição, reuniu todos os seus soldados e viu que estavam faltando dezenove, além de Asael.
+
+[[v10-2-31]]
+
+^<<v10-2-31,31>>^ Porém os soldados de Davi haviam matado trezentos e sessenta soldados de Abner, todos eles da tribo de Benjamim.
+
+[[v10-2-32]]
+
+^<<v10-2-32,32>>^ Aí Joabe e os seus soldados pegaram o corpo de Asael e o sepultaram no túmulo da sua família, em Belém. Então marcharam durante a noite inteira e, ao amanhecer, chegaram a Hebrom.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-001.adoc#v10-1-0[&#60; Capítulo Anterior] | <<v10-2-0,Topo>> | xref:010-2-samuel/010-2-samuel-003.adoc#v10-3-0[Próximo Capítulo &#62;]

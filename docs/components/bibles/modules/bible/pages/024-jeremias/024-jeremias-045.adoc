@@ -1,0 +1,25 @@
+include::./index.adoc[]
+
+[[v24-45-0]]
+=== Jeremias, 45
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v24-45-1]]
+
+^<<v24-45-1,1>>^ No quarto ano do reinado de Jeoaquim, filho de Josias, em Judá, Baruque, filho de Nerias, escreveu aquilo que o Senhor , o Deus de Israel, me tinha dito. Foram estas as palavras que eu ditei e que Baruque escreveu num livro: — Baruque,
+
+[[v24-45-2]]
+
+^<<v24-45-2,2>>^ No quarto ano do reinado de Jeoaquim, filho de Josias, em Judá, Baruque, filho de Nerias, escreveu aquilo que o Senhor , o Deus de Israel, me tinha dito. Foram estas as palavras que eu ditei e que Baruque escreveu num livro:
+
+[[v24-45-3]]
+
+^<<v24-45-3,3>>^ você está dizendo: "Eu desisto! O Senhor  Deus aumentou a minha tristeza e o meu sofrimento. Estou cansado de gemer e não consigo descansar!"
+
+[[v24-45-4]]
+
+^<<v24-45-4,4>>^ Aí o Senhor  me mandou dizer a Baruque: — Estou destruindo o que construí e arrancando o que plantei. Farei isso em toda esta terra.
+
+'''
+
+xref:024-jeremias/024-jeremias-044.adoc#v24-44-0[&#60; Capítulo Anterior] | <<v24-45-0,Topo>> | xref:024-jeremias/024-jeremias-046.adoc#v24-46-0[Próximo Capítulo &#62;]

@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v3-10-0]]
+=== Levítico, 10
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v3-10-1]]
+
+^<<v3-10-1,1>>^ Nadabe e Abiú, filhos de Arão, pegaram cada um o seu queimador de incenso, colocaram incenso dentro, puseram fogo e apresentaram a Deus, o Senhor , como oferta. Mas não fizeram isso de acordo com as leis  de Deus, e por isso ele não aceitou a oferta.
+
+[[v3-10-2]]
+
+^<<v3-10-2,2>>^ De repente, saiu fogo da presença do Senhor  e os matou; e assim os dois morreram ali onde Deus estava.
+
+[[v3-10-3]]
+
+^<<v3-10-3,3>>^ E Moisés disse a Arão: — Foi isso o que o Senhor  quis dizer quando disse: "Os que chegam perto de mim devem respeitar a minha santidade, e o meu povo deve me honrar." Mas Arão não disse nada.
+
+[[v3-10-4]]
+
+^<<v3-10-4,4>>^ Então Moisés chamou Misael e Elzafã, filhos de Uziel, tio de Arão, e disse: — Tirem o corpo dos seus dois parentes da frente da Tenda Sagrada  e levem para fora do acampamento.
+
+[[v3-10-5]]
+
+^<<v3-10-5,5>>^ Eles foram, pegaram os corpos pelas túnicas  com que estavam vestidos e os levaram para fora do acampamento, como Moisés tinha ordenado.
+
+[[v3-10-6]]
+
+^<<v3-10-6,6>>^ Depois Moisés disse a Arão e aos seus filhos Eleazar e Itamar: — Todos os outros israelitas podem ficar de luto pelas mortes que o fogo do Senhor  causou. Mas vocês não deixem de pentear os cabelos, nem rasguem as suas roupas em sinal de luto. Se fizerem isso, vocês morrerão, e o Senhor  ficará irado  com todo o povo.
+
+[[v3-10-7]]
+
+^<<v3-10-7,7>>^ Não se afastem da entrada da Tenda Sagrada, para que não morram, pois vocês foram ordenados  com o azeite sagrado de Deus, o Senhor . E os três fizeram o que Moisés mandou.
+
+[[v3-10-8]]
+
+^<<v3-10-8,8>>^ O Senhor  Deus disse a Arão:
+
+[[v3-10-9]]
+
+^<<v3-10-9,9>>^ — Nem você nem os seus filhos podem entrar na Tenda Sagrada  depois de terem bebido vinho ou cerveja; se fizerem isso, morrerão. Todos os seus descendentes também deverão obedecer a essa lei .
+
+[[v3-10-10]]
+
+^<<v3-10-10,10>>^ Vocês devem estar em condições de fazer diferença entre o que é e o que não é sagrado, e entre o que é impuro  e o que é puro .
+
+[[v3-10-11]]
+
+^<<v3-10-11,11>>^ E devem ensinar aos israelitas todas as leis que eu, o Senhor , dei a eles por meio de Moisés.
+
+[[v3-10-12]]
+
+^<<v3-10-12,12>>^ E Moisés disse a Arão e a Eleazar e Itamar, os dois filhos de Arão que ainda estavam vivos: — Peguem a farinha da oferta de cereais que sobrou das ofertas de alimento apresentadas a Deus, o Senhor , e façam com ela pães sem fermento . E comam esses pães perto do altar, pois são uma coisa muito sagrada.
+
+[[v3-10-13]]
+
+^<<v3-10-13,13>>^ Comam os pães num lugar sagrado, pois é a parte do alimento oferecido a Deus que pertence a vocês e aos seus filhos. Foi isso o que o Senhor  me ordenou.
+
+[[v3-10-14]]
+
+^<<v3-10-14,14>>^ Vocês e as suas famílias têm o direito de comer o peito e a coxa que são apresentados ao Senhor  como oferta especial. Essa parte das ofertas de paz feitas pelos israelitas pertence a vocês e aos seus filhos. Comam isso num lugar puro.
+
+[[v3-10-15]]
+
+^<<v3-10-15,15>>^ Os israelitas trarão para Deus como oferta especial a coxa e o peito do animal na hora em que a gordura for queimada como alimento oferecido ao Senhor . Essas partes do animal pertencem a vocês e aos seus descendentes para sempre, conforme o Senhor  ordenou.
+
+[[v3-10-16]]
+
+^<<v3-10-16,16>>^ Depois Moisés perguntou onde estava o bode que seria sacrificado como oferta para tirar pecados e ficou sabendo que já tinha sido queimado. Ele ficou muito zangado com Eleazar e Itamar e perguntou:
+
+[[v3-10-17]]
+
+^<<v3-10-17,17>>^ — Por que vocês não comeram num lugar sagrado a oferta feita para tirar pecados? É uma oferta muito sagrada, e o Senhor  a deu a vocês a fim de que a oferecessem na presença de Deus para conseguir o perdão dos pecados do povo.
+
+[[v3-10-18]]
+
+^<<v3-10-18,18>>^ Já que o sangue do animal sacrificado não foi levado para dentro da Tenda Sagrada, ali é que vocês deveriam ter comido a oferta, conforme a ordem que eu dei.
+
+[[v3-10-19]]
+
+^<<v3-10-19,19>>^ Arão respondeu: — O povo apresentou hoje a Deus, o Senhor , a oferta para tirar pecados e as ofertas que são completamente queimadas, mas mesmo assim me aconteceram essas coisas terríveis. Portanto, se eu tivesse comido hoje a oferta para tirar pecados, será que o Senhor  teria gostado?
+
+[[v3-10-20]]
+
+^<<v3-10-20,20>>^ E Moisés ficou satisfeito com a resposta de Arão.
+
+'''
+
+xref:003-levitico/003-levitico-009.adoc#v3-9-0[&#60; Capítulo Anterior] | <<v3-10-0,Topo>> | xref:003-levitico/003-levitico-011.adoc#v3-11-0[Próximo Capítulo &#62;]

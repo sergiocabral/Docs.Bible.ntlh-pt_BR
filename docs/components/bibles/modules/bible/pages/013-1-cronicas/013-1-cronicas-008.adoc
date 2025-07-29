@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v13-8-0]]
+=== 1 Crônicas, 8
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v13-8-1]]
+
+^<<v13-8-1,1>>^ Benjamim foi pai de cinco filhos. São estes os seus nomes, por ordem de idade: Belá, Asbel, Aará,
+
+[[v13-8-2]]
+
+^<<v13-8-2,2>>^ Noá e Rafa.
+
+[[v13-8-3]]
+
+^<<v13-8-3,3>>^ Os descendentes de Belá foram: Adar, Gera, Abiúde,
+
+[[v13-8-4]]
+
+^<<v13-8-4,4>>^ Abisua, Naamã, Aoá,
+
+[[v13-8-5]]
+
+^<<v13-8-5,5>>^ Gera, Sefufã e Hurã.
+
+[[v13-8-6]]
+
+^<<v13-8-6,6>>^ Os descendentes de Eúde foram: Naamã, Aías e Gera. Eles foram chefes de famílias e moravam em Geba, mas foram obrigados a sair dali e ir morar em Manaate. Gera, o pai de Uzá e Aiude, foi o chefe deles nessa mudança.
+
+[[v13-8-7]]
+
+^<<v13-8-7,7>>^ Os descendentes de Eúde foram: Naamã, Aías e Gera. Eles foram chefes de famílias e moravam em Geba, mas foram obrigados a sair dali e ir morar em Manaate. Gera, o pai de Uzá e Aiude, foi o chefe deles nessa mudança.
+
+[[v13-8-8]]
+
+^<<v13-8-8,8>>^ Saaraim se divorciou das suas duas mulheres, que se chamavam Husim e Baara. Algum tempo depois, quando estava morando na terra de Moabe, ele casou com Hodes e teve com ela sete filhos: Jobabe, Zíbia, Messa, Malcã,
+
+[[v13-8-9]]
+
+^<<v13-8-9,9>>^ Saaraim se divorciou das suas duas mulheres, que se chamavam Husim e Baara. Algum tempo depois, quando estava morando na terra de Moabe, ele casou com Hodes e teve com ela sete filhos: Jobabe, Zíbia, Messa, Malcã,
+
+[[v13-8-10]]
+
+^<<v13-8-10,10>>^ Jeús, Saquias e Mirma. Todos os seus filhos se tornaram chefes de famílias.
+
+[[v13-8-11]]
+
+^<<v13-8-11,11>>^ Saaraim também teve dois filhos com a sua mulher Husim. Os nomes deles eram Abitube e Elpaal.
+
+[[v13-8-12]]
+
+^<<v13-8-12,12>>^ Elpaal foi pai de três filhos: Héber, Misã e Semede. Semede construiu as cidades de Ono e Lode e os povoados que ficavam ao seu redor.
+
+[[v13-8-13]]
+
+^<<v13-8-13,13>>^ Berias e Sema foram os chefes das famílias que ficaram morando na cidade de Aijalom. Eles expulsaram os moradores da cidade de Gate.
+
+[[v13-8-14]]
+
+^<<v13-8-14,14>>^ Entre os descendentes de Berias estavam: Aiô, Sasaque, Jeremote,
+
+[[v13-8-15]]
+
+^<<v13-8-15,15>>^ Zebadias, Arade, Éder,
+
+[[v13-8-16]]
+
+^<<v13-8-16,16>>^ Micael, Ispa e Joá.
+
+[[v13-8-17]]
+
+^<<v13-8-17,17>>^ Entre os descendentes de Elpaal estavam: Zebadias, Mesulã, Hizequi, Héber,
+
+[[v13-8-18]]
+
+^<<v13-8-18,18>>^ Ismerai, Izlias e Jobabe.
+
+[[v13-8-19]]
+
+^<<v13-8-19,19>>^ Entre os descendentes de Simei estavam: Jaquim, Zicri, Zabdi,
+
+[[v13-8-20]]
+
+^<<v13-8-20,20>>^ Elienai, Ziletai, Eliel,
+
+[[v13-8-21]]
+
+^<<v13-8-21,21>>^ Adaías, Beraías e Sinrate.
+
+[[v13-8-22]]
+
+^<<v13-8-22,22>>^ Entre os descendentes de Sasaque estavam: Ispã, Éber, Eliel,
+
+[[v13-8-23]]
+
+^<<v13-8-23,23>>^ Abdom, Zicri, Hanã,
+
+[[v13-8-24]]
+
+^<<v13-8-24,24>>^ Hananias, Elão, Antotias,
+
+[[v13-8-25]]
+
+^<<v13-8-25,25>>^ Ifdeias e Penuel.
+
+[[v13-8-26]]
+
+^<<v13-8-26,26>>^ Entre os descendentes de Jeroão estavam: Sanserai, Searias, Atalias,
+
+[[v13-8-27]]
+
+^<<v13-8-27,27>>^ Jaaresias, Elias e Zicri.
+
+[[v13-8-28]]
+
+^<<v13-8-28,28>>^ Estes foram os primeiros chefes de famílias que moraram em Jerusalém e os seus principais descendentes.
+
+[[v13-8-29]]
+
+^<<v13-8-29,29>>^ Jeiel fundou a cidade de Gibeão e ficou morando ali. A sua mulher se chamava Maacá,
+
+[[v13-8-30]]
+
+^<<v13-8-30,30>>^ e o seu filho mais velho, Abdom. Os seus outros filhos foram: Zur, Quis, Baal, Ner, Nadabe,
+
+[[v13-8-31]]
+
+^<<v13-8-31,31>>^ Gedor, Aiô, Zequer
+
+[[v13-8-32]]
+
+^<<v13-8-32,32>>^ e Miclote, o pai de Simeia. Os seus descendentes moravam em Jerusalém, perto das outras famílias do seu grupo de famílias.
+
+[[v13-8-33]]
+
+^<<v13-8-33,33>>^ Ner foi pai de Quis, e Quis foi pai do rei Saul. Saul foi pai de quatro filhos: Jônatas, Malquisua, Abinadabe e Esbaal .
+
+[[v13-8-34]]
+
+^<<v13-8-34,34>>^ Jônatas foi pai de Meribe-Baal , que foi pai de Mica.
+
+[[v13-8-35]]
+
+^<<v13-8-35,35>>^ Mica foi pai de quatro filhos: Pitom, Meleque, Tareia e Acaz.
+
+[[v13-8-36]]
+
+^<<v13-8-36,36>>^ Acaz foi pai de Jeoada, e Jeoada foi pai de três filhos: Alemete, Azmavete e Zinri. Zinri foi pai de Mosa,
+
+[[v13-8-37]]
+
+^<<v13-8-37,37>>^ Mosa foi pai de Bineá, Bineá foi pai de Rafa, Rafa foi pai de Eleasa, e Eleasa foi pai de Azel.
+
+[[v13-8-38]]
+
+^<<v13-8-38,38>>^ Azel foi pai de seis filhos: Azricã, Bocru, Ismael, Searias, Obadias e Hanã.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-007.adoc#v13-7-0[&#60; Capítulo Anterior] | <<v13-8-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-009.adoc#v13-9-0[Próximo Capítulo &#62;]

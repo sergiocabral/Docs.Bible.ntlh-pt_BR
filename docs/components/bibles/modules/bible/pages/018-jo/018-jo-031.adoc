@@ -1,0 +1,169 @@
+include::./index.adoc[]
+
+[[v18-31-0]]
+=== Jó, 31
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v18-31-1]]
+
+^<<v18-31-1,1>>^ "Eu jurei que os meus olhos nunca haveriam de cobiçar uma virgem.
+
+[[v18-31-2]]
+
+^<<v18-31-2,2>>^ Se eu tivesse quebrado o juramento, que recompensa Deus me daria, e como é que lá dos céus o Todo-Poderoso me abençoaria?
+
+[[v18-31-3]]
+
+^<<v18-31-3,3>>^ Pois Deus manda a infelicidade e a desgraça para aqueles que só fazem o mal.
+
+[[v18-31-4]]
+
+^<<v18-31-4,4>>^ Deus sabe tudo o que eu faço; ele vê cada passo que dou.
+
+[[v18-31-5]]
+
+^<<v18-31-5,5>>^ "Juro que não tenho sido falso e que nunca procurei enganar os outros.
+
+[[v18-31-6]]
+
+^<<v18-31-6,6>>^ Que Deus me pese numa balança justa e ele ficará convencido de que sou inocente!
+
+[[v18-31-7]]
+
+^<<v18-31-7,7>>^ "Se por acaso me desviei do caminho certo, se o meu coração foi levado pela cobiça dos olhos, se pequei, ficando com qualquer coisa que pertence a outra pessoa,
+
+[[v18-31-8]]
+
+^<<v18-31-8,8>>^ então que outros comam o que eu semeei, ou que as minhas plantações sejam destruídas.
+
+[[v18-31-9]]
+
+^<<v18-31-9,9>>^ Se o meu coração alguma vez foi seduzido pela mulher do meu vizinho, e se fiquei escondido, espiando a porta da casa dela,
+
+[[v18-31-10]]
+
+^<<v18-31-10,10>>^ então que a minha mulher se torne escrava de outro, e que outros durmam com ela.
+
+[[v18-31-11]]
+
+^<<v18-31-11,11>>^ Se eu tivesse cometido esse crime horrível, o tribunal deveria me condenar.
+
+[[v18-31-12]]
+
+^<<v18-31-12,12>>^ Esse pecado seria como um incêndio terrível, infernal, que destruiria tudo o que tenho.
+
+[[v18-31-13]]
+
+^<<v18-31-13,13>>^ "Quando um empregado ou empregada reclamava contra mim, eu resolvia o assunto com justiça.
+
+[[v18-31-14]]
+
+^<<v18-31-14,14>>^ Se eu não tivesse agido assim, que faria quando Deus me julgasse? Que responderia, quando ele pedisse conta dos meus atos?
+
+[[v18-31-15]]
+
+^<<v18-31-15,15>>^ Pois o mesmo Deus que me criou, criou também os meus empregados; ele deu a vida tanto a mim como a eles.
+
+[[v18-31-16]]
+
+^<<v18-31-16,16>>^ "Nunca deixei de ajudar os pobres, nem permiti que as viúvas chorassem de desespero.
+
+[[v18-31-17]]
+
+^<<v18-31-17,17>>^ Nunca tomei sozinho as minhas refeições, mas sempre reparti a minha comida com os órfãos.
+
+[[v18-31-18]]
+
+^<<v18-31-18,18>>^ Eu os tratava como se fosse pai deles e sempre protegi as viúvas.
+
+[[v18-31-19]]
+
+^<<v18-31-19,19>>^ Quando via alguém morrendo de frio por falta de roupa ou notava algum pobre que não tinha com que se cobrir,
+
+[[v18-31-20]]
+
+^<<v18-31-20,20>>^ eu lhe dava roupas quentes, feitas com a lã das minhas próprias ovelhas, e ele me agradecia do fundo do coração.
+
+[[v18-31-21]]
+
+^<<v18-31-21,21>>^ Se alguma vez fui violento com um órfão, sabendo que eu tinha o apoio dos juízes,
+
+[[v18-31-22]]
+
+^<<v18-31-22,22>>^ então que os meus braços sejam quebrados, que sejam arrancados dos meus ombros.
+
+[[v18-31-23]]
+
+^<<v18-31-23,23>>^ Eu nunca faria nenhuma dessas coisas, pois tenho pavor do castigo de Deus e não poderia enfrentar a sua presença gloriosa .
+
+[[v18-31-24]]
+
+^<<v18-31-24,24>>^ "Jamais confiei no ouro; ele nunca foi a base da minha segurança.
+
+[[v18-31-25]]
+
+^<<v18-31-25,25>>^ Nunca me orgulhei de ter muitas riquezas, nem de ganhar muito dinheiro.
+
+[[v18-31-26]]
+
+^<<v18-31-26,26>>^ Tenho visto o sol brilhar e a lua caminhar em toda a sua beleza,
+
+[[v18-31-27]]
+
+^<<v18-31-27,27>>^ porém nunca os adorei, nem em segredo, e não lhes atirei beijos com a mão.
+
+[[v18-31-28]]
+
+^<<v18-31-28,28>>^ Se tivesse cometido esse terrível pecado, eu teria sido infiel a Deus, que está lá em cima, e o tribunal deveria me condenar.
+
+[[v18-31-29]]
+
+^<<v18-31-29,29>>^ "Jamais me alegrei com o sofrimento dos meus inimigos, nem fiquei contente se lhes acontecia alguma desgraça.
+
+[[v18-31-30]]
+
+^<<v18-31-30,30>>^ E nunca fiz uma oração pedindo a Deus que matasse algum deles.
+
+[[v18-31-31]]
+
+^<<v18-31-31,31>>^ "Os empregados que trabalham para mim sabem que os meus convidados comem à vontade, do bom e do melhor.
+
+[[v18-31-32]]
+
+^<<v18-31-32,32>>^ Nunca deixei um estrangeiro dormir na rua; os viajantes sempre se hospedaram na minha casa.
+
+[[v18-31-33]]
+
+^<<v18-31-33,33>>^ Jamais procurei encobrir as minhas faltas, como fazem algumas pessoas, nem escondi no coração os meus pecados.
+
+[[v18-31-34]]
+
+^<<v18-31-34,34>>^ Nunca tive medo daquilo que os outros poderiam dizer; não fiquei dentro de casa, calado, com receio de que zombassem de mim.
+
+[[v18-31-35]]
+
+^<<v18-31-35,35>>^ "Como gostaria que alguém me ouvisse! Aqui eu termino e assino a minha defesa; que o Todo-Poderoso me responda! Que o meu Adversário escreva a acusação,
+
+[[v18-31-36]]
+
+^<<v18-31-36,36>>^ e, com orgulho, eu a carregarei no ombro e a porei na cabeça como se fosse uma coroa!
+
+[[v18-31-37]]
+
+^<<v18-31-37,37>>^ Darei conta a Deus de todos os meus atos e na presença dele ficarei de cabeça erguida.
+
+[[v18-31-38]]
+
+^<<v18-31-38,38>>^ "As minhas terras nunca choraram, nem gritaram ao céu contra mim.
+
+[[v18-31-39]]
+
+^<<v18-31-39,39>>^ Pois, se comi os seus frutos, sempre paguei os trabalhadores como devia e jamais deixei que morressem de fome.
+
+[[v18-31-40]]
+
+^<<v18-31-40,40>>^ Se não estou dizendo a verdade, então que nas minhas terras cresçam espinhos em vez de trigo e mato em vez de cevada ." Aqui terminam as palavras de Jó.
+
+'''
+
+xref:018-jo/018-jo-030.adoc#v18-30-0[&#60; Capítulo Anterior] | <<v18-31-0,Topo>> | xref:018-jo/018-jo-032.adoc#v18-32-0[Próximo Capítulo &#62;]

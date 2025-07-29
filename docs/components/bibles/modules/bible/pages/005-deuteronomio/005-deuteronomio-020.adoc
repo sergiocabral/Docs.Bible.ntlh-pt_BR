@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v5-20-0]]
+=== Deuteronômio, 20
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v5-20-1]]
+
+^<<v5-20-1,1>>^ Moisés disse ao povo: — Quando vocês saírem para combater os inimigos e virem que eles têm mais soldados do que vocês e que têm muitos cavalos e carros de guerra, não fiquem com medo deles. Pois o Senhor , nosso Deus, que os livrou do Egito, está com vocês.
+
+[[v5-20-2]]
+
+^<<v5-20-2,2>>^ Antes de começarem o combate, o sacerdote ficará na frente dos soldados e dirá:
+
+[[v5-20-3]]
+
+^<<v5-20-3,3>>^ "Israelitas, escutem o que estou dizendo! Vocês estão aqui para lutar contra os inimigos. Não se assustem, não se apavorem, não fiquem com medo,
+
+[[v5-20-4]]
+
+^<<v5-20-4,4>>^ pois o Senhor , nosso Deus, está com vocês para lutar ao seu lado e salvá-los do inimigo."
+
+[[v5-20-5]]
+
+^<<v5-20-5,5>>^ Depois disso os oficiais dirão: "Se houver aqui um homem que acabou de construir a sua casa, mas não teve tempo de morar nela, então que volte para casa. Se não, pode acontecer que ele morra na batalha e outro homem venha a morar na casa.
+
+[[v5-20-6]]
+
+^<<v5-20-6,6>>^ E, se houver aqui um homem que plantou uma parreira , mas ainda não colheu as uvas, então que volte para casa. Se não, pode acontecer que ele morra na batalha e outro homem colha as uvas.
+
+[[v5-20-7]]
+
+^<<v5-20-7,7>>^ E, se houver aqui um homem que já contratou casamento, mas ainda não casou, então que volte para casa. Se não, pode acontecer que ele morra na luta e outro homem case com a mulher."
+
+[[v5-20-8]]
+
+^<<v5-20-8,8>>^ — E os oficiais dirão também: "Se houver aqui um homem tímido e medroso, então que volte para casa. Se não, pode acontecer que os outros soldados fiquem com medo também."
+
+[[v5-20-9]]
+
+^<<v5-20-9,9>>^ E, quando os oficiais acabarem de falar, serão escolhidos os chefes das tropas para comandarem os soldados.
+
+[[v5-20-10]]
+
+^<<v5-20-10,10>>^ — Antes de atacarem uma cidade, façam uma proposta de paz.
+
+[[v5-20-11]]
+
+^<<v5-20-11,11>>^ Se os moradores da cidade aceitarem a proposta e se entregarem a vocês, então eles serão seus escravos e farão trabalhos forçados.
+
+[[v5-20-12]]
+
+^<<v5-20-12,12>>^ Porém, se eles não se entregarem, mas começarem a lutar, então cerquem a cidade,
+
+[[v5-20-13]]
+
+^<<v5-20-13,13>>^ e Deus a entregará nas mãos de vocês. Matem à espada todos os homens,
+
+[[v5-20-14]]
+
+^<<v5-20-14,14>>^ mas fiquem com as mulheres, as crianças, os animais e todos os objetos de valor que encontrarem na cidade. O Senhor , nosso Deus, lhes dará o que era do inimigo, e vocês usarão tudo para o seu próprio bem.
+
+[[v5-20-15]]
+
+^<<v5-20-15,15>>^ Façam isso com todas as cidades que ficam fora da terra onde vocês vão morar.
+
+[[v5-20-16]]
+
+^<<v5-20-16,16>>^ — Mas, quando conquistarem as cidades que ficam na terra que o Senhor , nosso Deus, está dando a vocês, matem todos os moradores.
+
+[[v5-20-17]]
+
+^<<v5-20-17,17>>^ Conforme Deus mandou, acabem com todos estes povos: os heteus, os amorreus, os cananeus, os perizeus, os heveus e os jebuseus.
+
+[[v5-20-18]]
+
+^<<v5-20-18,18>>^ Matem todos, para que eles não ensinem vocês a imitar as cerimônias nojentas que praticam quando adoram os seus deuses. Isso seria um pecado grave contra o Senhor , nosso Deus.
+
+[[v5-20-19]]
+
+^<<v5-20-19,19>>^ — Pode acontecer que vocês fiquem cercando uma cidade muito tempo e que demorem a conquistá-la. Nesse caso, não derrubem as árvores frutíferas que houver ali. Comam dos frutos, mas não cortem as árvores; será que elas são seus inimigos, para que vocês as destruam?
+
+[[v5-20-20]]
+
+^<<v5-20-20,20>>^ Mas podem derrubar as outras árvores, as que não são frutíferas; e usem os troncos no cerco da cidade até que seja conquistada.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-019.adoc#v5-19-0[&#60; Capítulo Anterior] | <<v5-20-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-021.adoc#v5-21-0[Próximo Capítulo &#62;]

@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v18-4-0]]
+=== Jó, 4
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v18-4-1]]
+
+^<<v18-4-1,1>>^ Então Elifaz, da região de Temã, em resposta disse:
+
+[[v18-4-2]]
+
+^<<v18-4-2,2>>^ "Jó, será que você ficará ofendido se eu falar? Mas quem é que pode ficar calado?
+
+[[v18-4-3]]
+
+^<<v18-4-3,3>>^ Você ensinou muita gente e deu forças a muitas pessoas desanimadas.
+
+[[v18-4-4]]
+
+^<<v18-4-4,4>>^ Quando alguém tropeçava, cansado e fraco, as suas palavras o animavam a ficar de pé.
+
+[[v18-4-5]]
+
+^<<v18-4-5,5>>^ Mas agora que chegou a sua vez de sofrer, como é que você perde a paciência e a coragem?
+
+[[v18-4-6]]
+
+^<<v18-4-6,6>>^ O seu temor a Deus  não lhe dá confiança? A sua vida correta não o enche de esperança?
+
+[[v18-4-7]]
+
+^<<v18-4-7,7>>^ Você lembra de alguma pessoa inocente que tenha caído na desgraça ou de alguma pessoa honesta que tenha sido destruída?
+
+[[v18-4-8]]
+
+^<<v18-4-8,8>>^ Tenho notado que os que aram campos de maldade e plantam sementes de desgraça só colhem maldade e desgraça.
+
+[[v18-4-9]]
+
+^<<v18-4-9,9>>^ Como uma tempestade, Deus os destrói na sua ira .
+
+[[v18-4-10]]
+
+^<<v18-4-10,10>>^ Eles rugem como um leão feroz, mas Deus os faz calar e lhes quebra os dentes.
+
+[[v18-4-11]]
+
+^<<v18-4-11,11>>^ Assim como leões que não podem caçar, eles morrem de fome, e os seus filhos se espalham.
+
+[[v18-4-12]]
+
+^<<v18-4-12,12>>^ "Veio a mim de mansinho uma mensagem, em voz tão baixa, que mal pude ouvir.
+
+[[v18-4-13]]
+
+^<<v18-4-13,13>>^ À noite, quando as pessoas dormem um sono pesado, eu tive um pesadelo que me deixou agitado.
+
+[[v18-4-14]]
+
+^<<v18-4-14,14>>^ O terror tomou conta de mim, e o meu corpo inteiro começou a tremer.
+
+[[v18-4-15]]
+
+^<<v18-4-15,15>>^ Um sopro passou pelo meu rosto, e eu fiquei todo arrepiado.
+
+[[v18-4-16]]
+
+^<<v18-4-16,16>>^ Alguém estava ali; olhei bem, mas não pude ver a sua forma. Houve silêncio, e depois ouvi uma voz, que disse:
+
+[[v18-4-17]]
+
+^<<v18-4-17,17>>^ ‘Será que alguém pode ser correto diante de Deus? Será que alguém pode ser puro aos olhos do seu Criador?
+
+[[v18-4-18]]
+
+^<<v18-4-18,18>>^ Deus não confia nem nos seus servidores celestiais e até nos seus anjos ele encontra defeitos.
+
+[[v18-4-19]]
+
+^<<v18-4-19,19>>^ Então você pensa que ele vai confiar nos seres humanos, que são feitos de barro, que foram criados do pó e que podem ser esmagados como uma traça?
+
+[[v18-4-20]]
+
+^<<v18-4-20,20>>^ Podemos estar vivos de manhã, mas de tarde morremos para sempre, e ninguém se importa.
+
+[[v18-4-21]]
+
+^<<v18-4-21,21>>^ A nossa vida se acaba como cai uma barraca, e morremos sem termos alcançado a sabedoria.’
+
+'''
+
+xref:018-jo/018-jo-003.adoc#v18-3-0[&#60; Capítulo Anterior] | <<v18-4-0,Topo>> | xref:018-jo/018-jo-005.adoc#v18-5-0[Próximo Capítulo &#62;]

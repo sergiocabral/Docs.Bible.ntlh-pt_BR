@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v1-10-0]]
+=== Gênesis, 10
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v1-10-1]]
+
+^<<v1-10-1,1>>^ São estes os descendentes de Sem, Cam e Jafé, os filhos de Noé. Aos três nasceram filhos depois do dilúvio.
+
+[[v1-10-2]]
+
+^<<v1-10-2,2>>^ Os filhos de Jafé foram Gomer, Magogue, Madai, Javã, Tubal, Meseque e Tirás.
+
+[[v1-10-3]]
+
+^<<v1-10-3,3>>^ Os filhos de Gomer foram Asquenaz, Rifate e Togarma.
+
+[[v1-10-4]]
+
+^<<v1-10-4,4>>^ Os descendentes de Javã foram os povos de Elisá, Espanha, Chipre e Rodes.
+
+[[v1-10-5]]
+
+^<<v1-10-5,5>>^ Esses foram os descendentes de Jafé; eles moram no litoral e nas ilhas, cada povo e cada família na sua própria terra, com a sua própria língua.
+
+[[v1-10-6]]
+
+^<<v1-10-6,6>>^ Os filhos de Cam foram Cuche, Egito, Líbia e Canaã.
+
+[[v1-10-7]]
+
+^<<v1-10-7,7>>^ Os filhos de Cuche foram Sebá, Havilá, Sabtá, Raamá e Sabteca. Os filhos de Raamá foram Sabá e Dedã.
+
+[[v1-10-8]]
+
+^<<v1-10-8,8>>^ Cuche foi pai de Ninrode, o primeiro grande conquistador do mundo.
+
+[[v1-10-9]]
+
+^<<v1-10-9,9>>^ Com a ajuda de Deus, o Senhor , ele se tornou um caçador famoso, e é por isso que se diz: "Seja igual a Ninrode, que com a ajuda do Senhor  foi um grande caçador."
+
+[[v1-10-10]]
+
+^<<v1-10-10,10>>^ No começo faziam parte do seu reino as cidades de Babilônia, Ereque e Acade, todas as três em Sinar.
+
+[[v1-10-11]]
+
+^<<v1-10-11,11>>^ Daquela região Ninrode foi para a Assíria e ali construiu as cidades de Nínive, Reobote-Ir, Calá
+
+[[v1-10-12]]
+
+^<<v1-10-12,12>>^ e Resém, que fica entre Nínive e a grande cidade de Calá.
+
+[[v1-10-13]]
+
+^<<v1-10-13,13>>^ Os descendentes de Egito foram os povos da Lídia, Anam, Leabe, Naftu,
+
+[[v1-10-14]]
+
+^<<v1-10-14,14>>^ Patrus, Caslu e de Creta, de quem os filisteus descendem.
+
+[[v1-10-15]]
+
+^<<v1-10-15,15>>^ Canaã foi pai de dois filhos: Sidom, o mais velho, e Hete.
+
+[[v1-10-16]]
+
+^<<v1-10-16,16>>^ De Canaã também descendem os jebuseus, os amorreus, os girgaseus,
+
+[[v1-10-17]]
+
+^<<v1-10-17,17>>^ os heveus, os arquitas, os sineus,
+
+[[v1-10-18]]
+
+^<<v1-10-18,18>>^ os arvaditas, os zemareus e os hamateus.
+
+[[v1-10-19]]
+
+^<<v1-10-19,19>>^ O território dos cananeus se estendeu para o sul desde Sidom até Gerar, perto de Gaza; e para o leste foi até Sodoma, Gomorra, Admá e Zeboim, perto de Lasa.
+
+[[v1-10-20]]
+
+^<<v1-10-20,20>>^ Esses foram os descendentes de Cam, cada povo e cada família na sua própria terra, com a sua própria língua.
+
+[[v1-10-21]]
+
+^<<v1-10-21,21>>^ Sem, o irmão mais velho de Jafé, foi o pai de todos os hebreus.
+
+[[v1-10-22]]
+
+^<<v1-10-22,22>>^ Os filhos de Sem foram Elão, Assur, Arpaxade, Lude e Arã.
+
+[[v1-10-23]]
+
+^<<v1-10-23,23>>^ Os filhos de Arã foram Uz, Hul, Géter e Más.
+
+[[v1-10-24]]
+
+^<<v1-10-24,24>>^ Arpaxade foi o pai de Selá, e Selá foi o pai de Éber.
+
+[[v1-10-25]]
+
+^<<v1-10-25,25>>^ Éber foi pai de dois filhos: um se chamava Pelegue porque no seu tempo os povos do mundo foram divididos; o seu irmão se chamava Joctã.
+
+[[v1-10-26]]
+
+^<<v1-10-26,26>>^ Joctã foi pai de Almodá, Selefe, Hazar-Mavé, Jera,
+
+[[v1-10-27]]
+
+^<<v1-10-27,27>>^ Adonirão, Uzal, Dicla,
+
+[[v1-10-28]]
+
+^<<v1-10-28,28>>^ Obal, Abimael, Sabá,
+
+[[v1-10-29]]
+
+^<<v1-10-29,29>>^ Ofir, Havilá e Jobabe. Todos estes foram filhos de Joctã.
+
+[[v1-10-30]]
+
+^<<v1-10-30,30>>^ Eles viveram nas terras que vão desde a região de Mesa até Sefar, na região montanhosa do Leste.
+
+[[v1-10-31]]
+
+^<<v1-10-31,31>>^ Estes foram os descendentes de Sem, cada povo e cada família na sua própria terra, com a sua própria língua.
+
+[[v1-10-32]]
+
+^<<v1-10-32,32>>^ São essas as famílias dos filhos de Noé, nação por nação, de acordo com as várias linhas de descendentes. Depois do dilúvio todas as nações da terra descenderam de Noé.
+
+'''
+
+xref:001-genesis/001-genesis-009.adoc#v1-9-0[&#60; Capítulo Anterior] | <<v1-10-0,Topo>> | xref:001-genesis/001-genesis-011.adoc#v1-11-0[Próximo Capítulo &#62;]

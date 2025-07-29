@@ -1,0 +1,261 @@
+include::./index.adoc[]
+
+[[v6-15-0]]
+=== Josué, 15
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v6-15-1]]
+
+^<<v6-15-1,1>>^ As famílias da tribo  de Judá receberam uma parte da terra com os seguintes limites: ao sul as terras iam até a divisa de Edom e até o deserto de Zim.
+
+[[v6-15-2]]
+
+^<<v6-15-2,2>>^ Começavam bem no sul do mar Morto
+
+[[v6-15-3]]
+
+^<<v6-15-3,3>>^ e iam em direção ao sul, desde a subida de Acrabim até chegar a Zim. Partindo da região sul, a divisa subia a Cades-Barneia, passava por Hezrom, ia até Adar e rodeava Carca.
+
+[[v6-15-4]]
+
+^<<v6-15-4,4>>^ Continuava até Azmom e seguia o ribeirão, na divisa do Egito, até o mar Mediterrâneo, onde terminava. Estas eram as divisas da tribo de Judá, ao sul.
+
+[[v6-15-5]]
+
+^<<v6-15-5,5>>^ A leste a divisa era o mar Morto, até o ponto onde o rio Jordão desemboca. Ao norte a divisa começava ali,
+
+[[v6-15-6]]
+
+^<<v6-15-6,6>>^ seguia até Bete-Hogla e passava ao norte de Bete-Arabá. Daí subia até a pedra de Boã (Boã era filho de Rúben).
+
+[[v6-15-7]]
+
+^<<v6-15-7,7>>^ Depois, começando no vale da Desgraça, ia até Debir e voltava para o norte na direção de Gilgal, que fica em frente da subida de Adumim, no sul do vale. Em seguida continuava até as fontes de Semes e depois até a fonte de Rogel.
+
+[[v6-15-8]]
+
+^<<v6-15-8,8>>^ Daí atravessava o vale de Ben-Hinom, no sul da montanha dos jebuseus, onde fica a cidade de Jerusalém. Depois a divisa seguia até o alto da montanha que fica em frente do vale de Hinom, no lado oeste, no fim do vale dos Gigantes, ao norte.
+
+[[v6-15-9]]
+
+^<<v6-15-9,9>>^ Partindo do alto da montanha, ia até as fontes de Neftoa e daí até as cidades vizinhas do monte Efrom. Aí voltava na direção de Baalá (ou Quiriate-Jearim)
+
+[[v6-15-10]]
+
+^<<v6-15-10,10>>^ e rodeava Baalá pelo oeste até o monte Seir. Então passava pelo lado norte do monte Jearim (ou Quesalom), descia até Bete-Semes e ia além de Timna.
+
+[[v6-15-11]]
+
+^<<v6-15-11,11>>^ Daí a divisa seguia pelas subidas das montanhas ao norte de Ecrom, voltava até Siquerom, passava o monte Baalá, saindo em Jâmnia e terminando no mar Mediterrâneo.
+
+[[v6-15-12]]
+
+^<<v6-15-12,12>>^ A oeste a divisa era o litoral do mar Mediterrâneo. Estas eram as divisas da terra das famílias da tribo de Judá.
+
+[[v6-15-13]]
+
+^<<v6-15-13,13>>^ Como o Senhor  havia ordenado a Josué, uma parte da terra do povo de Judá foi dada a Calebe, filho de Jefoné. Josué lhe deu Hebrom, que era a cidade de Arba, o pai de Anaque.
+
+[[v6-15-14]]
+
+^<<v6-15-14,14>>^ Calebe expulsou dali os três filhos de Anaque, isto é, Sesai, Aimã e Talmai.
+
+[[v6-15-15]]
+
+^<<v6-15-15,15>>^ De lá foi atacar o povo que vivia em Debir, cidade que antes se chamava Quiriate-Sefer.
+
+[[v6-15-16]]
+
+^<<v6-15-16,16>>^ Calebe disse: — Eu darei minha filha Acsa em casamento ao homem que conseguir conquistar a cidade de Quiriate-Sefer.
+
+[[v6-15-17]]
+
+^<<v6-15-17,17>>^ Otoniel conquistou a cidade. Ele era filho de Quenaz, o irmão de Calebe. Então Calebe lhe deu sua filha Acsa em casamento.
+
+[[v6-15-18]]
+
+^<<v6-15-18,18>>^ Quando Acsa foi morar com Otoniel, ela insistiu com ele que pedisse ao pai dela algumas terras. Acsa foi para o lugar onde Calebe estava, e, quando ela desceu do jumento, o seu pai perguntou: — O que é que você quer?
+
+[[v6-15-19]]
+
+^<<v6-15-19,19>>^ — Eu quero um presente! — respondeu ela. — Já que o senhor me deu uma terra seca, me dê também algumas fontes de água. Então Calebe lhe deu as fontes que ficavam nas terras altas e nas baixas.
+
+[[v6-15-20]]
+
+^<<v6-15-20,20>>^ As terras que as famílias da tribo  de Judá receberam como sua propriedade são citadas em seguida.
+
+[[v6-15-21]]
+
+^<<v6-15-21,21>>^ Bem no sul, perto da divisa de Edom, elas receberam as cidades de Cabzeel, Éder, Jagur,
+
+[[v6-15-22]]
+
+^<<v6-15-22,22>>^ Quiná, Dimona, Adada,
+
+[[v6-15-23]]
+
+^<<v6-15-23,23>>^ Quedes, Azor, Itnã,
+
+[[v6-15-24]]
+
+^<<v6-15-24,24>>^ Zife, Telém, Bealote,
+
+[[v6-15-25]]
+
+^<<v6-15-25,25>>^ Hazor-Hadata, Queriote-Hezrom (ou Hazor),
+
+[[v6-15-26]]
+
+^<<v6-15-26,26>>^ Amã, Sema, Molada,
+
+[[v6-15-27]]
+
+^<<v6-15-27,27>>^ Hazar-Gada, Hesmom, Bete-Palete,
+
+[[v6-15-28]]
+
+^<<v6-15-28,28>>^ Hazar-Sual, Berseba, Biziotia,
+
+[[v6-15-29]]
+
+^<<v6-15-29,29>>^ Baalá, Iim, Ezém,
+
+[[v6-15-30]]
+
+^<<v6-15-30,30>>^ Eltolade, Quesil, Horma,
+
+[[v6-15-31]]
+
+^<<v6-15-31,31>>^ Ziclague, Madmana, Sansana,
+
+[[v6-15-32]]
+
+^<<v6-15-32,32>>^ Lebaote, Silim, Aim e Rimom. Ao todo vinte e nove cidades, mais os povoados vizinhos.
+
+[[v6-15-33]]
+
+^<<v6-15-33,33>>^ As cidades na planície foram Estaol, Zora, Asnate,
+
+[[v6-15-34]]
+
+^<<v6-15-34,34>>^ Zanoa, En-Ganim, Tapua, Enã,
+
+[[v6-15-35]]
+
+^<<v6-15-35,35>>^ Jarmute, Adulã, Socó, Azeca,
+
+[[v6-15-36]]
+
+^<<v6-15-36,36>>^ Saaraim, Aditaim, Gedera e Gederotaim. Ao todo catorze cidades, mais os povoados vizinhos.
+
+[[v6-15-37]]
+
+^<<v6-15-37,37>>^ Também receberam as cidades de Zenã, Hadasa, Migdal-Gade,
+
+[[v6-15-38]]
+
+^<<v6-15-38,38>>^ Dileã, Mispa, Jocteel,
+
+[[v6-15-39]]
+
+^<<v6-15-39,39>>^ Laquis, Boscate, Eglom,
+
+[[v6-15-40]]
+
+^<<v6-15-40,40>>^ Cabom, Laamas, Quitlis,
+
+[[v6-15-41]]
+
+^<<v6-15-41,41>>^ Gederote, Bete-Dagom, Naama e Maquedá. Ao todo dezesseis cidades, mais os povoados vizinhos.
+
+[[v6-15-42]]
+
+^<<v6-15-42,42>>^ As famílias de Judá também receberam Libna, Eter, Asã,
+
+[[v6-15-43]]
+
+^<<v6-15-43,43>>^ Ifta, Asnate, Nezibe,
+
+[[v6-15-44]]
+
+^<<v6-15-44,44>>^ Queila, Aczibe e Maressa. Ao todo nove cidades, mais os povoados vizinhos.
+
+[[v6-15-45]]
+
+^<<v6-15-45,45>>^ Receberam ainda Ecrom com os seus povoados e aldeias
+
+[[v6-15-46]]
+
+^<<v6-15-46,46>>^ e todas as cidades e povoados perto de Asdode, desde Ecrom até o mar Mediterrâneo.
+
+[[v6-15-47]]
+
+^<<v6-15-47,47>>^ Receberam as cidades de Asdode e Gaza, com os seus povoados e aldeias, que iam até o ribeirão na divisa do Egito e até o litoral do mar Mediterrâneo.
+
+[[v6-15-48]]
+
+^<<v6-15-48,48>>^ Na região montanhosa, as cidades de Samir, Jatir, Socó,
+
+[[v6-15-49]]
+
+^<<v6-15-49,49>>^ Daná, Quiriate-Sana (ou Debir),
+
+[[v6-15-50]]
+
+^<<v6-15-50,50>>^ Anabe, Estemoa, Anim,
+
+[[v6-15-51]]
+
+^<<v6-15-51,51>>^ Gosém, Holom e Gilo. Ao todo onze cidades, mais os povoados vizinhos.
+
+[[v6-15-52]]
+
+^<<v6-15-52,52>>^ As famílias de Judá também receberam Arabe, Dumá, Esã,
+
+[[v6-15-53]]
+
+^<<v6-15-53,53>>^ Janim, Bete-Tapua, Afeca,
+
+[[v6-15-54]]
+
+^<<v6-15-54,54>>^ Hunta, Quiriate-Arba (ou Hebrom) e Zior. Ao todo nove cidades, mais os povoados vizinhos.
+
+[[v6-15-55]]
+
+^<<v6-15-55,55>>^ Receberam as cidades de Maom, Carmelo, Zife, Jutá,
+
+[[v6-15-56]]
+
+^<<v6-15-56,56>>^ Jezreel, Jocdeão, Zanoa,
+
+[[v6-15-57]]
+
+^<<v6-15-57,57>>^ Caim, Gibeá e Timna. Ao todo dez cidades, mais os povoados vizinhos.
+
+[[v6-15-58]]
+
+^<<v6-15-58,58>>^ Receberam ainda Halul, Bete-Zur, Gedor,
+
+[[v6-15-59]]
+
+^<<v6-15-59,59>>^ Maarate, Bete-Anote e Eltecom. Ao todo seis cidades, mais os povoados vizinhos.
+
+[[v6-15-60]]
+
+^<<v6-15-60,60>>^ Receberam também Quiriate-Baal (ou Quiriate-Jearim) e Rabá: duas cidades, mais os povoados vizinhos.
+
+[[v6-15-61]]
+
+^<<v6-15-61,61>>^ No deserto, Bete-Arabá, Midim, Secaca,
+
+[[v6-15-62]]
+
+^<<v6-15-62,62>>^ Nibsã, a "Cidade do Sal" e a Fonte de Gedi. Ao todo seis cidades, mais os povoados vizinhos.
+
+[[v6-15-63]]
+
+^<<v6-15-63,63>>^ Mas o povo de Judá não conseguiu expulsar os jebuseus que moravam em Jerusalém; até hoje  eles moram ali com o povo de Judá.
+
+'''
+
+xref:006-josue/006-josue-014.adoc#v6-14-0[&#60; Capítulo Anterior] | <<v6-15-0,Topo>> | xref:006-josue/006-josue-016.adoc#v6-16-0[Próximo Capítulo &#62;]

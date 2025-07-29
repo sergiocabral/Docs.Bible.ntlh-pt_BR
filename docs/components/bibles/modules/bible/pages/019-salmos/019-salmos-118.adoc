@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v19-118-0]]
+=== Salmos, 118
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-118-1]]
+
+^<<v19-118-1,1>>^ Deem graças a Deus, o Senhor , porque ele é bom e porque o seu amor dura para sempre.
+
+[[v19-118-2]]
+
+^<<v19-118-2,2>>^ Que o povo de Israel diga: "O seu amor dura para sempre!"
+
+[[v19-118-3]]
+
+^<<v19-118-3,3>>^ Que os sacerdotes de Deus digam: "O seu amor dura para sempre!"
+
+[[v19-118-4]]
+
+^<<v19-118-4,4>>^ E que todos os que o temem  digam: "O seu amor dura para sempre!"
+
+[[v19-118-5]]
+
+^<<v19-118-5,5>>^ Na minha aflição, eu clamei ao Senhor ; ele me respondeu e me livrou da angústia.
+
+[[v19-118-6]]
+
+^<<v19-118-6,6>>^ O Senhor  está comigo, e eu não tenho medo; que mal pode alguém me fazer?
+
+[[v19-118-7]]
+
+^<<v19-118-7,7>>^ O Senhor  está comigo; é ele quem me ajuda. Por isso, verei a derrota dos meus inimigos.
+
+[[v19-118-8]]
+
+^<<v19-118-8,8>>^ É melhor confiar no Senhor , do que depender de seres humanos.
+
+[[v19-118-9]]
+
+^<<v19-118-9,9>>^ É melhor confiar no Senhor do que depender de pessoas importantes.
+
+[[v19-118-10]]
+
+^<<v19-118-10,10>>^ Os inimigos que estavam em volta de mim eram muitos, mas, pelo poder de Deus, o Senhor , eu acabei com eles.
+
+[[v19-118-11]]
+
+^<<v19-118-11,11>>^ Eles me cercaram por todos os lados, mas, pelo poder do Senhor , eu acabei com eles.
+
+[[v19-118-12]]
+
+^<<v19-118-12,12>>^ Eles se juntaram, como abelhas, em volta de mim, porém foram queimados no fogo como galhos secos; pelo poder do Senhor , eu acabei com eles.
+
+[[v19-118-13]]
+
+^<<v19-118-13,13>>^ Eles me atacaram com violência, e eu quase fui derrotado, porém o Senhor  me ajudou.
+
+[[v19-118-14]]
+
+^<<v19-118-14,14>>^ O Senhor  Deus me torna forte e poderoso; ele me salvou.
+
+[[v19-118-15]]
+
+^<<v19-118-15,15>>^ Escutem os gritos alegres de vitória no acampamento do povo de Deus: "O poder do Senhor nos deu a vitória.
+
+[[v19-118-16]]
+
+^<<v19-118-16,16>>^ Com o seu poder ele fez grandes coisas. O poder do Senhor nos deu a vitória."
+
+[[v19-118-17]]
+
+^<<v19-118-17,17>>^ Não vou morrer; pelo contrário, vou viver e anunciar o que o Senhor  Deus tem feito.
+
+[[v19-118-18]]
+
+^<<v19-118-18,18>>^ Ele me castigou com dureza, mas não deixou que eu morresse.
+
+[[v19-118-19]]
+
+^<<v19-118-19,19>>^ Abram os portões do Templo para mim; eu entrarei e louvarei o Senhor .
+
+[[v19-118-20]]
+
+^<<v19-118-20,20>>^ Este é o portão do Senhor ; somente os que lhe obedecem podem entrar por ele.
+
+[[v19-118-21]]
+
+^<<v19-118-21,21>>^ Ó Deus, eu te louvo porque me escutaste e me deste a vitória.
+
+[[v19-118-22]]
+
+^<<v19-118-22,22>>^ A pedra que os construtores rejeitaram veio a ser a mais importante de todas.
+
+[[v19-118-23]]
+
+^<<v19-118-23,23>>^ Isso foi feito pelo Senhor e é uma coisa maravilhosa!
+
+[[v19-118-24]]
+
+^<<v19-118-24,24>>^ Este é o dia da vitória de Deus, o Senhor ; que seja para nós um dia de felicidade e alegria!
+
+[[v19-118-25]]
+
+^<<v19-118-25,25>>^ Salva-nos, ó Senhor , salva-nos! Dá-nos prosperidade, ó Deus!
+
+[[v19-118-26]]
+
+^<<v19-118-26,26>>^ Que Deus abençoe aquele que vem em nome de Deus, o Senhor ! Daqui do Templo do Senhor , nós abençoamos todos vocês.
+
+[[v19-118-27]]
+
+^<<v19-118-27,27>>^ O Senhor  é Deus; ele é a nossa luz. Com ramos nas mãos, comecem a festa e andem em volta do altar.
+
+[[v19-118-28]]
+
+^<<v19-118-28,28>>^ Tu és o meu Deus — eu te louvarei; tu és o meu Deus — eu anunciarei a tua grandeza.
+
+[[v19-118-29]]
+
+^<<v19-118-29,29>>^ Deem graças a Deus, o Senhor , porque ele é bom e porque o seu amor dura para sempre.
+
+'''
+
+xref:019-salmos/019-salmos-117.adoc#v19-117-0[&#60; Capítulo Anterior] | <<v19-118-0,Topo>> | xref:019-salmos/019-salmos-119.adoc#v19-119-0[Próximo Capítulo &#62;]

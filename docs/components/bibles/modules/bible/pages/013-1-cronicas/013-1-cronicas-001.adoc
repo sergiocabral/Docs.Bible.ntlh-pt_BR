@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v13-1-0]]
+=== 1 Crônicas, 1
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v13-1-1]]
+
+^<<v13-1-1,1>>^ Adão foi pai de Sete, Sete foi pai de Enos, Enos foi pai de Cainã,
+
+[[v13-1-2]]
+
+^<<v13-1-2,2>>^ Cainã foi pai de Maalalel, Maalalel foi pai de Jarede.
+
+[[v13-1-3]]
+
+^<<v13-1-3,3>>^ Jarede foi pai de Enoque, Enoque foi pai de Matusalém, Matusalém foi pai de Lameque,
+
+[[v13-1-4]]
+
+^<<v13-1-4,4>>^ e Lameque foi pai de Noé. Noé foi pai de três filhos: Sem, Cam e Jafé.
+
+[[v13-1-5]]
+
+^<<v13-1-5,5>>^ Os filhos de Jafé foram: Gomer, Magogue, Madai, Javã, Tubal, Meseque e Tirás. Eles foram os antepassados dos povos que trazem os seus nomes.
+
+[[v13-1-6]]
+
+^<<v13-1-6,6>>^ Os descendentes de Gomer foram os povos de Asquenaz, de Rifate e de Togarma.
+
+[[v13-1-7]]
+
+^<<v13-1-7,7>>^ Os descendentes de Javã foram os povos de Elisá, da Espanha, de Chipre e de Rodes.
+
+[[v13-1-8]]
+
+^<<v13-1-8,8>>^ Os filhos de Cam foram os antepassados dos povos que trazem os seus nomes, isto é, dos povos de Cuche, Egito, Líbia e Canaã.
+
+[[v13-1-9]]
+
+^<<v13-1-9,9>>^ Os descendentes de Cuche foram os povos de Sebá, Havilá, Sabtá, Raamá e Sabteca. Os descendentes de Raamá foram os povos de Sabá e Dedã.
+
+[[v13-1-10]]
+
+^<<v13-1-10,10>>^ (Cuche foi pai de um filho chamado Ninrode, que se tornou o primeiro grande conquistador do mundo.)
+
+[[v13-1-11]]
+
+^<<v13-1-11,11>>^ Os descendentes de Egito foram os povos de Lídia, Anam, Leabe, Naftu,
+
+[[v13-1-12]]
+
+^<<v13-1-12,12>>^ Patrus, Caslu e Creta (de quem os filisteus são descendentes).
+
+[[v13-1-13]]
+
+^<<v13-1-13,13>>^ Os filhos de Canaã foram: Sidom, o mais velho, e Hete. Eles foram os antepassados dos povos que trazem os seus nomes.
+
+[[v13-1-14]]
+
+^<<v13-1-14,14>>^ Canaã também foi o antepassado dos jebuseus, dos amorreus, dos girgaseus,
+
+[[v13-1-15]]
+
+^<<v13-1-15,15>>^ dos heveus, dos arquitas, dos sineus,
+
+[[v13-1-16]]
+
+^<<v13-1-16,16>>^ dos arvaditas, dos zemareus e dos hamateus.
+
+[[v13-1-17]]
+
+^<<v13-1-17,17>>^ Os filhos de Sem foram Elão, Assur, Arpaxade, Lude, Arã, Uz, Hul, Geter e Meseque. Eles foram os antepassados dos povos que trazem os seus nomes.
+
+[[v13-1-18]]
+
+^<<v13-1-18,18>>^ Arpaxade foi pai de Selá, e Selá foi pai de Éber.
+
+[[v13-1-19]]
+
+^<<v13-1-19,19>>^ Éber foi pai de dois filhos: um se chamava Pelegue porque no seu tempo os povos do mundo foram divididos; o nome do seu irmão era Joctã.
+
+[[v13-1-20]]
+
+^<<v13-1-20,20>>^ Os descendentes de Joctã foram os povos de Almodá, Selefe, Hazar-Mavé, Jera,
+
+[[v13-1-21]]
+
+^<<v13-1-21,21>>^ Adonirão, Uzal, Dicla,
+
+[[v13-1-22]]
+
+^<<v13-1-22,22>>^ Obal, Abimael, Sabá,
+
+[[v13-1-23]]
+
+^<<v13-1-23,23>>^ Ofir, Havilá e Jobabe.
+
+[[v13-1-24]]
+
+^<<v13-1-24,24>>^ A linha de famílias de Sem a Abrão foi a seguinte: Sem, Arpaxade, Selá,
+
+[[v13-1-25]]
+
+^<<v13-1-25,25>>^ Éber, Pelegue, Reú,
+
+[[v13-1-26]]
+
+^<<v13-1-26,26>>^ Serugue, Naor, Tera
+
+[[v13-1-27]]
+
+^<<v13-1-27,27>>^ e Abrão, também conhecido como Abraão.
+
+[[v13-1-28]]
+
+^<<v13-1-28,28>>^ Abraão foi pai de dois filhos, que se chamaram Isaque e Ismael.
+
+[[v13-1-29]]
+
+^<<v13-1-29,29>>^ Os filhos de Ismael foram os chefes de doze tribos: Nebaiote, o seu filho mais velho, Quedar, Adbeel, Mibsão,
+
+[[v13-1-30]]
+
+^<<v13-1-30,30>>^ Misma, Dumá, Massá, Hadade, Temá,
+
+[[v13-1-31]]
+
+^<<v13-1-31,31>>^ Jetur, Nafis e Quedemá.
+
+[[v13-1-32]]
+
+^<<v13-1-32,32>>^ Abraão teve uma concubina  chamada Quetura, e ela lhe deu seis filhos. Os nomes deles foram: Zinrã, Jocsã, Medã, Midiã, Isbaque e Sua. Jocsã foi pai de dois filhos: Sabá e Dedã.
+
+[[v13-1-33]]
+
+^<<v13-1-33,33>>^ Midiã foi pai de cinco filhos: Efa, Éfer, Enoque, Abida e Elda.
+
+[[v13-1-34]]
+
+^<<v13-1-34,34>>^ Isaque, filho de Abraão, foi pai de dois filhos: Esaú e Jacó.
+
+[[v13-1-35]]
+
+^<<v13-1-35,35>>^ Os filhos de Esaú foram: Elifaz, Reuel, Jeús, Jalã e Corá.
+
+[[v13-1-36]]
+
+^<<v13-1-36,36>>^ Elifaz foi o antepassado das seguintes tribos: Temã, Omar, Zefo, Gaetã, Quenaz, Timna e Amaleque.
+
+[[v13-1-37]]
+
+^<<v13-1-37,37>>^ Reuel foi o antepassado das tribos de Naate, Zera, Sama e Miza.
+
+[[v13-1-38]]
+
+^<<v13-1-38,38>>^ Os primeiros moradores de Edom eram descendentes dos seguintes filhos de Seir: Lotã, que foi o antepassado dos grupos de famílias de Hori e Homã. (Lotã tinha uma irmã chamada Timna.) Sobal, que foi o antepassado dos grupos de famílias de Alvã, Manaate, Ebal, Sefô e Onã. Zibeão, que foi pai de dois filhos: Aías e Aná. Aná foi pai de Disom, e Disom foi o antepassado dos grupos de famílias de Hanrão, Esbã, Itrã e Querã. Eser, que foi o antepassado dos grupos de famílias de Bilã, Zaavã e Jaacã. Disã, que foi o antepassado dos grupos de famílias de Uz e Arã.
+
+[[v13-1-39]]
+
+^<<v13-1-39,39>>^ Os primeiros moradores de Edom eram descendentes dos seguintes filhos de Seir:
+
+[[v13-1-40]]
+
+^<<v13-1-40,40>>^ Os primeiros moradores de Edom eram descendentes dos seguintes filhos de Seir:
+
+[[v13-1-41]]
+
+^<<v13-1-41,41>>^ Os primeiros moradores de Edom eram descendentes dos seguintes filhos de Seir:
+
+[[v13-1-42]]
+
+^<<v13-1-42,42>>^ Os primeiros moradores de Edom eram descendentes dos seguintes filhos de Seir:
+
+[[v13-1-43]]
+
+^<<v13-1-43,43>>^ Os seguintes reis governaram a terra de Edom, um depois do outro, no tempo em que Israel ainda não tinha rei. Belá, filho de Beor, da cidade de Dinaba. Jobabe, filho de Zera, da cidade de Bosra. Husã, da região de Temã. Hadade, filho de Bedade, da cidade de Avite. Ele derrotou os midianitas numa batalha na terra de Moabe. Samlá, da cidade de Masreca. Saul, da cidade de Reobote-do-Rio-Eufrates. Baal-Hanã, filho de Acbor. Hadade, da cidade de Paú (o nome da mulher dele era Meetabel, filha de Matrede e neta de Me-Zaabe).
+
+'''
+
+xref:012-2-reis/012-2-reis-025.adoc#v12-25-0[&#60; Capítulo Anterior] | <<v13-1-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-002.adoc#v13-2-0[Próximo Capítulo &#62;]

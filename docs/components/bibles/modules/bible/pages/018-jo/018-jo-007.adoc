@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v18-7-0]]
+=== Jó, 7
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v18-7-1]]
+
+^<<v18-7-1,1>>^ "A vida neste mundo é dura como o serviço militar; todos têm de trabalhar pesado,
+
+[[v18-7-2]]
+
+^<<v18-7-2,2>>^ como o escravo que suspira pela sombra, como o trabalhador que espera o seu salário.
+
+[[v18-7-3]]
+
+^<<v18-7-3,3>>^ Mês após mês só tenho tido desilusões, e as minhas noites têm sido cheias de aflição.
+
+[[v18-7-4]]
+
+^<<v18-7-4,4>>^ Essas noites são compridas; eu me canso de me virar na cama até de madrugada e fico perguntando: "Será que já é hora de levantar?"
+
+[[v18-7-5]]
+
+^<<v18-7-5,5>>^ O meu corpo está coberto de bichos e de cascas de feridas; a minha pele racha, e dela escorre pus.
+
+[[v18-7-6]]
+
+^<<v18-7-6,6>>^ Os meus dias passam mais depressa do que a lançadeira do tecelão e vão embora sem deixar esperança.
+
+[[v18-7-7]]
+
+^<<v18-7-7,7>>^ Lembra, ó Deus, que a minha vida é apenas um sopro; os meus olhos nunca mais verão a felicidade.
+
+[[v18-7-8]]
+
+^<<v18-7-8,8>>^ Tu me vês agora, porém não me verás mais; olharás para mim, mas eu já terei desaparecido.
+
+[[v18-7-9]]
+
+^<<v18-7-9,9>>^ "Como a nuvem que passa e some, assim aquele que desce ao mundo dos mortos  nunca mais volta;
+
+[[v18-7-10]]
+
+^<<v18-7-10,10>>^ ele não volta para casa; ninguém lembra mais dele.
+
+[[v18-7-11]]
+
+^<<v18-7-11,11>>^ Por isso, não posso ficar calado. Estou aflito, tenho de falar, preciso me queixar, pois o meu coração está cheio de amargura.
+
+[[v18-7-12]]
+
+^<<v18-7-12,12>>^ Será que eu sou o Mar ou algum outro monstro do mar para que fiques aí me vigiando?
+
+[[v18-7-13]]
+
+^<<v18-7-13,13>>^ Quando penso que na cama encontrarei descanso e que o sono aliviará a minha dor,
+
+[[v18-7-14]]
+
+^<<v18-7-14,14>>^ então me espantas com sonhos e com pesadelos me enches de medo.
+
+[[v18-7-15]]
+
+^<<v18-7-15,15>>^ Eu prefiro ser estrangulado; é melhor morrer do que viver neste meu corpo.
+
+[[v18-7-16]]
+
+^<<v18-7-16,16>>^ Detesto a vida; não quero mais viver. Deixa-me em paz, pois a minha vida não vale nada.
+
+[[v18-7-17]]
+
+^<<v18-7-17,17>>^ "O que somos nós, para que nos dês tanta importância e te preocupes com a gente?
+
+[[v18-7-18]]
+
+^<<v18-7-18,18>>^ Por que nos vigias todos os dias e a todo instante nos fazes passar por provas?
+
+[[v18-7-19]]
+
+^<<v18-7-19,19>>^ Quando deixarás de olhar para mim, a fim de que eu tenha um momento de sossego?
+
+[[v18-7-20]]
+
+^<<v18-7-20,20>>^ Se pequei, que mal fiz a ti, ó vigia das pessoas? Por que fizeste de mim o alvo das tuas flechas? Por acaso, sou uma carga tão pesada assim?
+
+[[v18-7-21]]
+
+^<<v18-7-21,21>>^ Por que não perdoas o meu pecado e não apagas a minha maldade? Logo estarei na sepultura; tu me procurarás, mas eu não existirei mais."
+
+'''
+
+xref:018-jo/018-jo-006.adoc#v18-6-0[&#60; Capítulo Anterior] | <<v18-7-0,Topo>> | xref:018-jo/018-jo-008.adoc#v18-8-0[Próximo Capítulo &#62;]

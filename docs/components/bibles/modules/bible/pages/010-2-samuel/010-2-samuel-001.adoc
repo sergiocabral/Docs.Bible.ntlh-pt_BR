@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v10-1-0]]
+=== 2 Samuel, 1
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v10-1-1]]
+
+^<<v10-1-1,1>>^ Depois que Saul morreu, Davi voltou da sua vitória sobre os amalequitas e ficou dois dias na cidade de Ziclague.
+
+[[v10-1-2]]
+
+^<<v10-1-2,2>>^ No dia seguinte chegou um moço que vinha do acampamento de Saul. Para mostrar a sua tristeza, ele havia rasgado as suas roupas e posto terra na cabeça. O moço foi até o lugar onde Davi estava, ajoelhou-se e encostou o rosto no chão em sinal de respeito.
+
+[[v10-1-3]]
+
+^<<v10-1-3,3>>^ Davi lhe perguntou: — De onde você está vindo? — Eu fugi do acampamento israelita! — respondeu ele.
+
+[[v10-1-4]]
+
+^<<v10-1-4,4>>^ — Conte o que foi que aconteceu! — disse Davi. — O nosso exército fugiu da batalha, e muitos dos nossos homens foram mortos! — disse o moço. — Saul e o seu filho Jônatas também morreram.
+
+[[v10-1-5]]
+
+^<<v10-1-5,5>>^ — Como é que você sabe que Saul e Jônatas estão mortos? — perguntou Davi.
+
+[[v10-1-6]]
+
+^<<v10-1-6,6>>^ E o moço respondeu assim: — Acontece que eu cheguei, por acaso, ao monte Gilboa e vi Saul apoiado na sua lança. Os carros e os cavaleiros inimigos chegavam cada vez mais perto dele.
+
+[[v10-1-7]]
+
+^<<v10-1-7,7>>^ Então ele se virou, me viu e me chamou. E eu respondi: "Aqui estou, senhor!"
+
+[[v10-1-8]]
+
+^<<v10-1-8,8>>^ Saul perguntou quem eu era, e eu respondi que era amalequita.
+
+[[v10-1-9]]
+
+^<<v10-1-9,9>>^ Aí ele disse: "Fui ferido gravemente e estou morrendo. Venha aqui e me mate."
+
+[[v10-1-10]]
+
+^<<v10-1-10,10>>^ Então eu subi até o lugar onde ele estava e o matei porque eu sabia que, logo que caísse no chão, ele morreria. Aí tirei a coroa da cabeça dele e a pulseira do seu braço e trouxe para o senhor.
+
+[[v10-1-11]]
+
+^<<v10-1-11,11>>^ Então Davi rasgou as suas roupas em sinal de tristeza, e todos os seus soldados fizeram o mesmo.
+
+[[v10-1-12]]
+
+^<<v10-1-12,12>>^ Choraram, se lamentaram e jejuaram até a tarde por Saul, por Jônatas e por Israel, o povo de Deus, o Senhor , pois muitos deles tinham sido mortos na batalha.
+
+[[v10-1-13]]
+
+^<<v10-1-13,13>>^ Aí Davi perguntou ao moço que tinha trazido as notícias: — De onde você é? — Eu sou amalequita, mas estou morando aqui na sua terra! — respondeu ele.
+
+[[v10-1-14]]
+
+^<<v10-1-14,14>>^ — Como é que você se atreveu a matar o rei escolhido por Deus, o Senhor ? — perguntou Davi.
+
+[[v10-1-15]]
+
+^<<v10-1-15,15>>^ Então chamou um dos seus homens e ordenou: — Mate-o! O homem atacou o amalequita e o matou.
+
+[[v10-1-16]]
+
+^<<v10-1-16,16>>^ E Davi disse ao amalequita: — O culpado disso foi você mesmo. Você se condenou quando confessou que havia matado o rei escolhido pelo Senhor .
+
+[[v10-1-17]]
+
+^<<v10-1-17,17>>^ Davi cantou esta lamentação por Saul e por seu filho Jônatas
+
+[[v10-1-18]]
+
+^<<v10-1-18,18>>^ e ordenou que fosse ensinada ao povo de Judá. (Esta lamentação está escrita no Livro do Justo .)
+
+[[v10-1-19]]
+
+^<<v10-1-19,19>>^ Os nossos líderes estão mortos nos montes de Israel! Caíram os nossos soldados mais valentes!
+
+[[v10-1-20]]
+
+^<<v10-1-20,20>>^ Não contem isso na cidade de Gate nem nas ruas de Asquelom, para que as mulheres filisteias não se alegrem, nem pulem de contentamento as filhas dos pagãos.
+
+[[v10-1-21]]
+
+^<<v10-1-21,21>>^ Não caia chuva nem orvalho nos montes de Gilboa, e que os seus campos não produzam mais nada. Pois ali os escudos  dos guerreiros valentes estão cobertos de pó, e o escudo de Saul perdeu o seu brilho.
+
+[[v10-1-22]]
+
+^<<v10-1-22,22>>^ O arco de Jônatas era mortal, e a espada de Saul nunca falhava para derrubar os poderosos e matar os inimigos.
+
+[[v10-1-23]]
+
+^<<v10-1-23,23>>^ Saul e Jônatas, tão queridos e maravilhosos; juntos na vida, juntos na morte! Eram mais rápidos do que as águias e mais fortes do que os leões!
+
+[[v10-1-24]]
+
+^<<v10-1-24,24>>^ Mulheres de Israel, chorem por Saul! Ele vestia vocês com vestidos de fina lã vermelha e as enfeitava com joias de ouro.
+
+[[v10-1-25]]
+
+^<<v10-1-25,25>>^ Os soldados mais valentes caíram e foram mortos na batalha. Jônatas está morto nas montanhas.
+
+[[v10-1-26]]
+
+^<<v10-1-26,26>>^ Eu choro por você, meu irmão Jônatas; como eu o estimava! Como era maravilhoso o seu amor para mim, melhor ainda do que o amor das mulheres.
+
+[[v10-1-27]]
+
+^<<v10-1-27,27>>^ Os soldados mais valentes caíram, e as suas armas não têm mais utilidade.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-031.adoc#v9-31-0[&#60; Capítulo Anterior] | <<v10-1-0,Topo>> | xref:010-2-samuel/010-2-samuel-002.adoc#v10-2-0[Próximo Capítulo &#62;]

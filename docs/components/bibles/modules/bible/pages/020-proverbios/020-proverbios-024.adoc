@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v20-24-0]]
+=== Provérbios, 24
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v20-24-1]]
+
+^<<v20-24-1,1>>^ Não tenha inveja dos maus, nem procure ter amizade com eles.
+
+[[v20-24-2]]
+
+^<<v20-24-2,2>>^ Eles só pensam em violências e, quando falam, é para ferir alguém.
+
+[[v20-24-3]]
+
+^<<v20-24-3,3>>^ Com a sabedoria se constrói o lar e sobre a prudência ele se firma.
+
+[[v20-24-4]]
+
+^<<v20-24-4,4>>^ Na casa da pessoa sábia os quartos ficam cheios de coisas bonitas e de valor.
+
+[[v20-24-5]]
+
+^<<v20-24-5,5>>^ Ser sábio é melhor do que ser forte; o conhecimento é mais importante do que a força.
+
+[[v20-24-6]]
+
+^<<v20-24-6,6>>^ Afinal, antes de entrar numa batalha, é preciso planejar bem, e, quando há muitos conselheiros, é mais fácil vencer.
+
+[[v20-24-7]]
+
+^<<v20-24-7,7>>^ Os provérbios dos sábios são profundos demais para serem entendidos pelos tolos; quando são discutidos assuntos importantes, os tolos não têm nada para dizer.
+
+[[v20-24-8]]
+
+^<<v20-24-8,8>>^ Quem planeja o mal será chamado de "criador de problemas".
+
+[[v20-24-9]]
+
+^<<v20-24-9,9>>^ Os planos dos que não têm juízo são pecados. Todos odeiam quem vive zombando dos outros.
+
+[[v20-24-10]]
+
+^<<v20-24-10,10>>^ Quem é fraco numa crise é realmente fraco.
+
+[[v20-24-11]]
+
+^<<v20-24-11,11>>^ Procure salvar quem está sendo arrastado para a morte.
+
+[[v20-24-12]]
+
+^<<v20-24-12,12>>^ Você pode dizer que o problema não é seu, mas Deus conhece o seu coração e sabe os seus motivos. Ele pagará de acordo com o que cada um fizer.
+
+[[v20-24-13]]
+
+^<<v20-24-13,13>>^ Meu filho, coma mel, pois o mel faz bem. Assim como o favo de mel é doce na sua língua,
+
+[[v20-24-14]]
+
+^<<v20-24-14,14>>^ assim também a sabedoria é boa para a sua alma. Se você a conseguir, terá um bom futuro e não perderá a esperança.
+
+[[v20-24-15]]
+
+^<<v20-24-15,15>>^ Você, homem perverso, não fique espiando a casa do homem honesto para assaltá-la.
+
+[[v20-24-16]]
+
+^<<v20-24-16,16>>^ A pessoa honesta pode cair muitas vezes, que sempre se levanta de novo. Mas a desgraça acaba com os maus.
+
+[[v20-24-17]]
+
+^<<v20-24-17,17>>^ Não fique contente quando o seu inimigo cair na desgraça.
+
+[[v20-24-18]]
+
+^<<v20-24-18,18>>^ O Senhor  Deus vai saber que você ficou contente com isso e não vai gostar. E ele poderá parar de castigar esse inimigo.
+
+[[v20-24-19]]
+
+^<<v20-24-19,19>>^ Não se revolte por causa dos maus, nem tenha inveja deles.
+
+[[v20-24-20]]
+
+^<<v20-24-20,20>>^ Os pecadores não têm futuro; eles são como uma luz que está se apagando.
+
+[[v20-24-21]]
+
+^<<v20-24-21,21>>^ Meu filho, tema a Deus , o Senhor , e respeite as autoridades. Não se envolva com as pessoas que se revoltam contra eles,
+
+[[v20-24-22]]
+
+^<<v20-24-22,22>>^ pois num instante elas podem se arruinar. Você pode fazer uma ideia da destruição que Deus ou as autoridades podem causar?
+
+[[v20-24-23]]
+
+^<<v20-24-23,23>>^ Estas coisas também foram ditas por homens sábios: O juiz não deve favorecer ninguém.
+
+[[v20-24-24]]
+
+^<<v20-24-24,24>>^ Se ele declarar inocente um homem que é culpado, será amaldiçoado e odiado por todos.
+
+[[v20-24-25]]
+
+^<<v20-24-25,25>>^ Porém os juízes que castigam o culpado receberão bênçãos e gozarão de boa fama.
+
+[[v20-24-26]]
+
+^<<v20-24-26,26>>^ A resposta sincera é sinal de uma amizade verdadeira.
+
+[[v20-24-27]]
+
+^<<v20-24-27,27>>^ Não construa a sua casa, nem forme o seu lar até que as suas plantações estejam prontas e você esteja certo de que pode ganhar a vida.
+
+[[v20-24-28]]
+
+^<<v20-24-28,28>>^ Se você não tiver motivo, não seja testemunha contra o seu vizinho, nem fale mal dele.
+
+[[v20-24-29]]
+
+^<<v20-24-29,29>>^ Nunca diga: "Vou lhe pagar com a mesma moeda. Vou acertar as contas com ele!"
+
+[[v20-24-30]]
+
+^<<v20-24-30,30>>^ Eu andei pelos campos e plantações de uva de um homem tolo e preguiçoso.
+
+[[v20-24-31]]
+
+^<<v20-24-31,31>>^ Tudo estava cheio de espinhos e coberto de mato, e o muro de pedras havia caído.
+
+[[v20-24-32]]
+
+^<<v20-24-32,32>>^ Olhei para aquilo, pensei bem e aprendi a seguinte lição:
+
+[[v20-24-33]]
+
+^<<v20-24-33,33>>^ Durma um pouco mais, cruze os braços e descanse mais um pouco;
+
+[[v20-24-34]]
+
+^<<v20-24-34,34>>^ mas, enquanto você estiver dormindo, a pobreza o atacará como um ladrão armado.
+
+'''
+
+xref:020-proverbios/020-proverbios-023.adoc#v20-23-0[&#60; Capítulo Anterior] | <<v20-24-0,Topo>> | xref:020-proverbios/020-proverbios-025.adoc#v20-25-0[Próximo Capítulo &#62;]

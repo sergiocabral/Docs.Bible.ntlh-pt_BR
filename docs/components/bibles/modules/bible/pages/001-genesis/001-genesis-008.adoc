@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v1-8-0]]
+=== Gênesis, 8
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v1-8-1]]
+
+^<<v1-8-1,1>>^ Então Deus lembrou de Noé e de todos os animais que estavam com ele na barca. Deus fez com que um vento soprasse sobre a terra, e a água começou a baixar.
+
+[[v1-8-2]]
+
+^<<v1-8-2,2>>^ As fontes do grande mar e as janelas do céu se fecharam. Parou de chover,
+
+[[v1-8-3]]
+
+^<<v1-8-3,3>>^ e durante cento e cinquenta dias a água foi baixando pouco a pouco.
+
+[[v1-8-4]]
+
+^<<v1-8-4,4>>^ No dia dezessete do sétimo mês, a barca parou na região montanhosa de Ararate.
+
+[[v1-8-5]]
+
+^<<v1-8-5,5>>^ A água continuou a baixar, até que no primeiro dia do décimo mês apareceram os picos das montanhas.
+
+[[v1-8-6]]
+
+^<<v1-8-6,6>>^ No fim de quarenta dias, Noé abriu a janela que havia feito na barca
+
+[[v1-8-7]]
+
+^<<v1-8-7,7>>^ e soltou um corvo, que ficou voando de um lado para outro, esperando que a terra secasse.
+
+[[v1-8-8]]
+
+^<<v1-8-8,8>>^ Depois Noé soltou uma pomba a fim de ver se a terra já estava seca;
+
+[[v1-8-9]]
+
+^<<v1-8-9,9>>^ mas a pomba não achou lugar para pousar porque a terra ainda estava toda coberta de água. Aí Noé estendeu a mão, pegou a pomba e a pôs dentro da barca.
+
+[[v1-8-10]]
+
+^<<v1-8-10,10>>^ Noé esperou mais sete dias e soltou a pomba de novo.
+
+[[v1-8-11]]
+
+^<<v1-8-11,11>>^ Ela voltou à tardinha, trazendo no bico uma folha verde de oliveira. Assim Noé ficou sabendo que a água havia baixado.
+
+[[v1-8-12]]
+
+^<<v1-8-12,12>>^ E ele esperou mais sete dias e de novo soltou a pomba, e dessa vez ela não voltou.
+
+[[v1-8-13]]
+
+^<<v1-8-13,13>>^ Quando Noé tinha seiscentos e um anos, as águas que estavam sobre a terra secaram. No dia primeiro do primeiro mês, Noé tirou a cobertura da barca e viu que a terra estava secando.
+
+[[v1-8-14]]
+
+^<<v1-8-14,14>>^ No dia vinte e sete do segundo mês, a terra estava bem seca.
+
+[[v1-8-15]]
+
+^<<v1-8-15,15>>^ Aí Deus disse a Noé:
+
+[[v1-8-16]]
+
+^<<v1-8-16,16>>^ — Saia da barca junto com a sua mulher, os seus filhos e as suas noras.
+
+[[v1-8-17]]
+
+^<<v1-8-17,17>>^ Faça sair também todos os animais que estão com você, isto é, as aves, os animais domésticos, os animais selvagens e os que se arrastam pelo chão. Que eles se espalhem por toda parte e tenham muitas crias para encherem a terra.
+
+[[v1-8-18]]
+
+^<<v1-8-18,18>>^ Assim Noé e a sua mulher saíram da barca, junto com os seus filhos e as suas noras.
+
+[[v1-8-19]]
+
+^<<v1-8-19,19>>^ Também saíram todos os animais e as aves, em grupos, de acordo com as suas espécies.
+
+[[v1-8-20]]
+
+^<<v1-8-20,20>>^ Noé construiu um altar para oferecer sacrifícios  a Deus, o Senhor . Ele pegou aves e animais puros , um de cada espécie, e os queimou como sacrifício no altar.
+
+[[v1-8-21]]
+
+^<<v1-8-21,21>>^ O cheiro dos sacrifícios agradou ao Senhor , e ele pensou assim: "Nunca mais vou amaldiçoar a terra por causa da raça humana, pois eu sei que desde a sua juventude as pessoas só pensam em coisas más.
+
+[[v1-8-22]]
+
+^<<v1-8-22,22>>^ Também nunca mais destruirei todos os seres vivos, como fiz desta vez. Enquanto o mundo existir, sempre haverá semeadura e colheita, frio e calor, verão e inverno, dia e noite."
+
+'''
+
+xref:001-genesis/001-genesis-007.adoc#v1-7-0[&#60; Capítulo Anterior] | <<v1-8-0,Topo>> | xref:001-genesis/001-genesis-009.adoc#v1-9-0[Próximo Capítulo &#62;]

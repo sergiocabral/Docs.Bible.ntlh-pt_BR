@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v2-20-0]]
+=== Êxodo, 20
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v2-20-1]]
+
+^<<v2-20-1,1>>^ Deus falou, e foi isto o que ele disse:
+
+[[v2-20-2]]
+
+^<<v2-20-2,2>>^ — Meu povo, eu, o Senhor , sou o seu Deus. Eu o tirei do Egito, a terra onde você era escravo.
+
+[[v2-20-3]]
+
+^<<v2-20-3,3>>^ — Não adore outros deuses; adore somente a mim.
+
+[[v2-20-4]]
+
+^<<v2-20-4,4>>^ — Não faça imagens de nenhuma coisa que há lá em cima no céu, ou aqui embaixo na terra, ou nas águas debaixo da terra .
+
+[[v2-20-5]]
+
+^<<v2-20-5,5>>^ Não se ajoelhe diante de ídolos, nem os adore, pois eu, o Senhor , sou o seu Deus e não tolero outros deuses. Eu castigo aqueles que me odeiam, até os seus bisnetos e trinetos.
+
+[[v2-20-6]]
+
+^<<v2-20-6,6>>^ Porém sou bondoso com aqueles que me amam e obedecem aos meus mandamentos e abençoo os seus descendentes por milhares de gerações .
+
+[[v2-20-7]]
+
+^<<v2-20-7,7>>^ — Não use o meu nome sem o respeito que ele merece; pois eu sou o Senhor , o Deus de vocês, e castigo aqueles que desrespeitam o meu nome.
+
+[[v2-20-8]]
+
+^<<v2-20-8,8>>^ — Guarde o sábado, que é um dia santo.
+
+[[v2-20-9]]
+
+^<<v2-20-9,9>>^ Faça todo o seu trabalho durante seis dias da semana;
+
+[[v2-20-10]]
+
+^<<v2-20-10,10>>^ mas o sétimo dia da semana é o dia de descanso, dedicado a mim, o Senhor , seu Deus. Não faça nenhum trabalho nesse dia, nem você, nem os seus filhos, nem as suas filhas, nem os seus escravos, nem as suas escravas, nem os seus animais, nem os estrangeiros que vivem na terra de vocês.
+
+[[v2-20-11]]
+
+^<<v2-20-11,11>>^ Em seis dias eu, o Senhor , fiz o céu, a terra, o mar e tudo o que há neles, mas no sétimo dia descansei. Foi por isso que eu, o Senhor , abençoei o sábado e o separei para ser um dia santo.
+
+[[v2-20-12]]
+
+^<<v2-20-12,12>>^ — Respeite o seu pai e a sua mãe, para que você viva muito tempo na terra que estou lhe dando.
+
+[[v2-20-13]]
+
+^<<v2-20-13,13>>^ — Não mate.
+
+[[v2-20-14]]
+
+^<<v2-20-14,14>>^ — Não cometa adultério.
+
+[[v2-20-15]]
+
+^<<v2-20-15,15>>^ — Não roube.
+
+[[v2-20-16]]
+
+^<<v2-20-16,16>>^ — Não dê testemunho falso contra ninguém.
+
+[[v2-20-17]]
+
+^<<v2-20-17,17>>^ — Não cobice a casa de outro homem. Não cobice a sua mulher, os seus escravos, o seu gado, os seus jumentos ou qualquer outra coisa que seja dele.
+
+[[v2-20-18]]
+
+^<<v2-20-18,18>>^ O povo ouviu os trovões e o som da trombeta e viu os relâmpagos e a fumaça que saía do monte. Então eles tremeram de medo e ficaram de longe.
+
+[[v2-20-19]]
+
+^<<v2-20-19,19>>^ E disseram a Moisés: — Se você falar, nós ouviremos; mas, se Deus falar conosco, nós seremos mortos.
+
+[[v2-20-20]]
+
+^<<v2-20-20,20>>^ Então Moisés respondeu: — Não tenham medo, pois Deus só quer pôr vocês à prova. Ele quer que vocês continuem a temê-lo  a fim de que não pequem.
+
+[[v2-20-21]]
+
+^<<v2-20-21,21>>^ E o povo ficou em pé de longe, e somente Moisés chegou perto da nuvem escura onde Deus estava.
+
+[[v2-20-22]]
+
+^<<v2-20-22,22>>^ Então o Senhor  ordenou que Moisés dissesse aos israelitas o seguinte: — Vocês viram que lá do céu eu lhes falei.
+
+[[v2-20-23]]
+
+^<<v2-20-23,23>>^ Não façam deuses de prata ou de ouro para adorá-los ao mesmo tempo que vocês adoram a mim.
+
+[[v2-20-24]]
+
+^<<v2-20-24,24>>^ Façam um altar de terra para mim e em cima dele ofereçam as suas ovelhas e os seus bois como sacrifícios  que serão completamente queimados e como ofertas de paz. Eu separarei lugares para que neles vocês me adorem, e nesses lugares eu me encontrarei com vocês e os abençoarei.
+
+[[v2-20-25]]
+
+^<<v2-20-25,25>>^ Se fizerem um altar de pedras para mim, não usem pedras cortadas com ferramentas. Pois na construção do meu altar não poderão ser usadas pedras cortadas com ferramentas.
+
+[[v2-20-26]]
+
+^<<v2-20-26,26>>^ Não façam o meu altar com degraus; porque, se fizerem, a nudez de vocês vai aparecer ali.
+
+'''
+
+xref:002-exodo/002-exodo-019.adoc#v2-19-0[&#60; Capítulo Anterior] | <<v2-20-0,Topo>> | xref:002-exodo/002-exodo-021.adoc#v2-21-0[Próximo Capítulo &#62;]

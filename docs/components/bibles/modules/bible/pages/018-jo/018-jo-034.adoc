@@ -1,0 +1,157 @@
+include::./index.adoc[]
+
+[[v18-34-0]]
+=== Jó, 34
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v18-34-1]]
+
+^<<v18-34-1,1>>^ Eliú disse mais:
+
+[[v18-34-2]]
+
+^<<v18-34-2,2>>^ "Vocês que são sábios e instruídos, escutem o que vou dizer.
+
+[[v18-34-3]]
+
+^<<v18-34-3,3>>^ Assim como os ouvidos julgam o valor das palavras, e o paladar prova os alimentos,
+
+[[v18-34-4]]
+
+^<<v18-34-4,4>>^ assim nós agora vamos examinar o caso e resolvê-lo do jeito que nos parecer melhor.
+
+[[v18-34-5]]
+
+^<<v18-34-5,5>>^ "Jó está dizendo que é inocente e que Deus não quer lhe fazer justiça.
+
+[[v18-34-6]]
+
+^<<v18-34-6,6>>^ E pergunta: ‘Como é que eu poderia mentir, dizendo que estou errado? Sofro de uma doença que não tem cura, embora não tenha cometido nenhum pecado.’
+
+[[v18-34-7]]
+
+^<<v18-34-7,7>>^ "Neste mundo não há ninguém como Jó, para quem é tão fácil zombar de Deus como beber um copo de água.
+
+[[v18-34-8]]
+
+^<<v18-34-8,8>>^ Ele anda com homens maus e se ajunta com gente que não presta.
+
+[[v18-34-9]]
+
+^<<v18-34-9,9>>^ E diz assim: ‘Não adianta nada procurar agradar a Deus.’
+
+[[v18-34-10]]
+
+^<<v18-34-10,10>>^ "Agora, vocês que têm juízo, me escutem. Será que Deus faria alguma coisa errada? Será que o Todo-Poderoso cometeria uma injustiça?
+
+[[v18-34-11]]
+
+^<<v18-34-11,11>>^ Ele nos paga de acordo com o que fazemos e dá a cada um o que merece.
+
+[[v18-34-12]]
+
+^<<v18-34-12,12>>^ Na verdade, o Deus Todo-Poderoso não faz o mal e não é injusto com ninguém.
+
+[[v18-34-13]]
+
+^<<v18-34-13,13>>^ Quem entregou o poder a Deus? Quem o fez governador do Universo ?
+
+[[v18-34-14]]
+
+^<<v18-34-14,14>>^ Se Deus quisesse, poderia fazer voltar para si o fôlego, a respiração da gente;
+
+[[v18-34-15]]
+
+^<<v18-34-15,15>>^ então todas as pessoas morreriam juntas, no mesmo instante, e voltariam de novo para o pó.
+
+[[v18-34-16]]
+
+^<<v18-34-16,16>>^ "Agora, Jó, se você é sábio, escute e preste atenção no que vou dizer.
+
+[[v18-34-17]]
+
+^<<v18-34-17,17>>^ Se Deus odiasse a justiça, não poderia governar o mundo. Será que você quer condenar aquele que é justo e poderoso?
+
+[[v18-34-18]]
+
+^<<v18-34-18,18>>^ Deus condena os reis e as autoridades quando são maus, quando não prestam.
+
+[[v18-34-19]]
+
+^<<v18-34-19,19>>^ Ele não mostra preferência pelas pessoas que estão no poder, nem favorece os ricos em prejuízo dos pobres, pois todos foram criados por ele.
+
+[[v18-34-20]]
+
+^<<v18-34-20,20>>^ A morte pode vir de repente, no meio da noite. A pessoa tem um ataque e morre. Deus não precisa de ajuda para matar os poderosos.
+
+[[v18-34-21]]
+
+^<<v18-34-21,21>>^ Pois ele sabe tudo o que fazemos e vê todos os passos que damos.
+
+[[v18-34-22]]
+
+^<<v18-34-22,22>>^ Não existe nenhum lugar, por mais escuro que seja, onde um pecador possa se esconder de Deus.
+
+[[v18-34-23]]
+
+^<<v18-34-23,23>>^ Deus não precisa marcar um dia para que uma pessoa se apresente a fim de ser julgada por ele.
+
+[[v18-34-24]]
+
+^<<v18-34-24,24>>^ Ele não necessita de examinar a vida dos poderosos para acabar com eles e dar a outros o seu lugar.
+
+[[v18-34-25]]
+
+^<<v18-34-25,25>>^ Pois Deus conhece o que eles fazem; de noite ele os derruba e esmaga.
+
+[[v18-34-26]]
+
+^<<v18-34-26,26>>^ Em público, na frente de todos, Deus os castiga como se fossem criminosos
+
+[[v18-34-27]]
+
+^<<v18-34-27,27>>^ porque eles se afastaram dele e não quiseram obedecer a nenhum dos seus mandamentos.
+
+[[v18-34-28]]
+
+^<<v18-34-28,28>>^ Eles fizeram com que os gritos dos pobres e explorados subissem até Deus, e ele os escutou.
+
+[[v18-34-29]]
+
+^<<v18-34-29,29>>^ "Mas, se Deus se calar, ninguém poderá condená-lo. Se ele esconder o rosto, as pessoas e as nações ficarão sem defesa
+
+[[v18-34-30]]
+
+^<<v18-34-30,30>>^ e nada poderão fazer para evitar que homens maus as governem e explorem.
+
+[[v18-34-31]]
+
+^<<v18-34-31,31>>^ "Jó, será que você já reconheceu diante de Deus que você sofreu por causa dos seus pecados e que prometeu que não vai pecar mais?
+
+[[v18-34-32]]
+
+^<<v18-34-32,32>>^ Será que você pediu a Deus que lhe mostrasse as suas faltas e resolveu parar de praticar o mal?
+
+[[v18-34-33]]
+
+^<<v18-34-33,33>>^ Se você não aceita o que Deus faz, como espera que ele faça o que você quer? Você é quem precisa responder, e não eu; diga-nos o que está pensando.
+
+[[v18-34-34]]
+
+^<<v18-34-34,34>>^ "As pessoas sábias e sensatas que me estão escutando certamente dirão assim:
+
+[[v18-34-35]]
+
+^<<v18-34-35,35>>^ ‘Jó não sabe o que está falando; o que ele diz não faz sentido.
+
+[[v18-34-36]]
+
+^<<v18-34-36,36>>^ É só examinar bem as suas palavras, e a gente vê que ele responde como um perverso.
+
+[[v18-34-37]]
+
+^<<v18-34-37,37>>^ Jó é pecador, um pecador rebelde. Na nossa presença, zomba de Deus e não para de falar contra ele.’ "
+
+'''
+
+xref:018-jo/018-jo-033.adoc#v18-33-0[&#60; Capítulo Anterior] | <<v18-34-0,Topo>> | xref:018-jo/018-jo-035.adoc#v18-35-0[Próximo Capítulo &#62;]

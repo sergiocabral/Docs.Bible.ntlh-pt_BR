@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v20-26-0]]
+=== Provérbios, 26
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v20-26-1]]
+
+^<<v20-26-1,1>>^ Elogiar um tolo é tão absurdo como cair neve no verão ou chover no tempo da colheita.
+
+[[v20-26-2]]
+
+^<<v20-26-2,2>>^ A maldição não cai sobre quem não merece; ela é como um passarinho que voa sem rumo.
+
+[[v20-26-3]]
+
+^<<v20-26-3,3>>^ O chicote foi feito para o cavalo, o freio, para o jumento, e a vara, para as costas de quem não tem juízo.
+
+[[v20-26-4]]
+
+^<<v20-26-4,4>>^ Quem dá uma resposta séria a uma pergunta tola é tão tolo como quem a fez.
+
+[[v20-26-5]]
+
+^<<v20-26-5,5>>^ Responda ao tolo de acordo com a tolice dele para que ele não fique pensando que é sábio.
+
+[[v20-26-6]]
+
+^<<v20-26-6,6>>^ Quem manda um tolo dar um recado está procurando problemas; seria melhor que cortasse os próprios pés.
+
+[[v20-26-7]]
+
+^<<v20-26-7,7>>^ Um provérbio citado por um tolo tem tanto valor como as pernas de um aleijado.
+
+[[v20-26-8]]
+
+^<<v20-26-8,8>>^ Elogiar um tolo é o mesmo que amarrar a pedra no estilingue .
+
+[[v20-26-9]]
+
+^<<v20-26-9,9>>^ O tolo, citando um provérbio, é como o bêbado tentando tirar um espinho da mão.
+
+[[v20-26-10]]
+
+^<<v20-26-10,10>>^ O patrão que contrata qualquer tolo que lhe pede emprego acaba prejudicando todos.
+
+[[v20-26-11]]
+
+^<<v20-26-11,11>>^ O tolo que faz uma tolice pela segunda vez é como um cachorro que volta ao seu vômito.
+
+[[v20-26-12]]
+
+^<<v20-26-12,12>>^ Pode-se esperar mais de um tolo do que de quem pensa que é mais sábio do que é.
+
+[[v20-26-13]]
+
+^<<v20-26-13,13>>^ O preguiçoso fica em casa e diz: "Se eu sair, o leão me pega."
+
+[[v20-26-14]]
+
+^<<v20-26-14,14>>^ O preguiçoso vira de um lado para outro na cama. Ele é como uma porta que gira nas dobradiças, mas, de fato, não sai do lugar.
+
+[[v20-26-15]]
+
+^<<v20-26-15,15>>^ Existe gente que tem preguiça até de pôr a comida na própria boca.
+
+[[v20-26-16]]
+
+^<<v20-26-16,16>>^ O preguiçoso acha que ele sozinho sabe mais do que sete homens capazes de dar respostas certas.
+
+[[v20-26-17]]
+
+^<<v20-26-17,17>>^ Quem se mete na discussão dos outros é como quem agarra pelas orelhas um cachorro que vai passando.
+
+[[v20-26-18]]
+
+^<<v20-26-18,18>>^ Quem engana os outros e diz que é brincadeira é como um louco brincando com uma arma mortal.
+
+[[v20-26-19]]
+
+^<<v20-26-19,19>>^ Quem engana os outros e diz que é brincadeira é como um louco brincando com uma arma mortal.
+
+[[v20-26-20]]
+
+^<<v20-26-20,20>>^ Sem lenha o fogo se apaga; sem mexericos a briga se acaba.
+
+[[v20-26-21]]
+
+^<<v20-26-21,21>>^ Como carvão sobre as brasas e lenha no fogo, assim é o briguento para atiçar uma briga.
+
+[[v20-26-22]]
+
+^<<v20-26-22,22>>^ Os mexericos são tão deliciosos! Como gostamos de saboreá-los!
+
+[[v20-26-23]]
+
+^<<v20-26-23,23>>^ Como o verniz cobre um pote de barro, as palavras fingidas encobrem um coração mau.
+
+[[v20-26-24]]
+
+^<<v20-26-24,24>>^ O hipócrita que odeia esconde o seu ódio atrás da bajulação.
+
+[[v20-26-25]]
+
+^<<v20-26-25,25>>^ Ele pode falar muito bem, mas não acredite no que ele diz porque o seu coração está cheio de ódio.
+
+[[v20-26-26]]
+
+^<<v20-26-26,26>>^ Ele pode disfarçar, mas todos acabarão vendo a sua maldade.
+
+[[v20-26-27]]
+
+^<<v20-26-27,27>>^ Quem coloca uma armadilha para os outros acaba caindo nela; quem rola uma pedra será esmagado por ela.
+
+'''
+
+xref:020-proverbios/020-proverbios-025.adoc#v20-25-0[&#60; Capítulo Anterior] | <<v20-26-0,Topo>> | xref:020-proverbios/020-proverbios-027.adoc#v20-27-0[Próximo Capítulo &#62;]

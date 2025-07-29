@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v9-27-0]]
+=== 1 Samuel, 27
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v9-27-1]]
+
+^<<v9-27-1,1>>^ Davi pensou assim: — Algum dia Saul vai me matar. A melhor coisa que posso fazer é fugir para a terra dos filisteus. Aí Saul deixará de me procurar em toda a terra de Israel, e assim eu ficarei livre de perigo.
+
+[[v9-27-2]]
+
+^<<v9-27-2,2>>^ Então Davi e os seus seiscentos homens foram imediatamente para onde estava Aquis, filho de Maoque, governador de Gate.
+
+[[v9-27-3]]
+
+^<<v9-27-3,3>>^ E Davi e os seus homens ficaram morando ali em Gate, com as suas famílias. Estavam com Davi as suas duas mulheres: Ainoã, de Jezreel, e Abigail, a viúva de Nabal, de Carmelo.
+
+[[v9-27-4]]
+
+^<<v9-27-4,4>>^ Quando Saul soube que Davi tinha fugido para Gate, deixou de procurá-lo.
+
+[[v9-27-5]]
+
+^<<v9-27-5,5>>^ Davi disse a Aquis: — Se você é meu amigo, me dê uma cidade pequena para eu morar nela. Não é preciso que eu fique morando com você na capital.
+
+[[v9-27-6]]
+
+^<<v9-27-6,6>>^ Então Aquis deu a Davi a cidade de Ziclague. Por isso, até hoje  Ziclague pertence aos reis de Judá.
+
+[[v9-27-7]]
+
+^<<v9-27-7,7>>^ Davi morou um ano e quatro meses na terra dos filisteus.
+
+[[v9-27-8]]
+
+^<<v9-27-8,8>>^ Davi e os seus homens costumavam atacar os gesuritas, os girzitas e os amalequitas que viviam naquela região há muito tempo. Atacavam a terra deles desde Sur até o Egito.
+
+[[v9-27-9]]
+
+^<<v9-27-9,9>>^ Matavam todos os homens e mulheres e tomavam as ovelhas, o gado, os jumentos, os camelos e também as roupas. Aí Davi voltava para Gate,
+
+[[v9-27-10]]
+
+^<<v9-27-10,10>>^ e Aquis lhe perguntava: — Quem foi que você atacou hoje? E Davi respondia que tinha atacado o Sul de Judá, ou a tribo de Jerameel, ou a terra dos queneus.
+
+[[v9-27-11]]
+
+^<<v9-27-11,11>>^ Davi matava todos, homens e mulheres, para que ninguém voltasse a Gate e contasse o que ele e os seus homens faziam. Davi fez isso todo o tempo em que morou entre os filisteus.
+
+[[v9-27-12]]
+
+^<<v9-27-12,12>>^ Aquis confiava em Davi e dizia: — Ele é muito odiado pelo seu próprio povo, os israelitas, e por isso trabalhará para mim a vida inteira.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-026.adoc#v9-26-0[&#60; Capítulo Anterior] | <<v9-27-0,Topo>> | xref:009-1-samuel/009-1-samuel-028.adoc#v9-28-0[Próximo Capítulo &#62;]

@@ -1,0 +1,225 @@
+include::./index.adoc[]
+
+[[v13-2-0]]
+=== 1 Crônicas, 2
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v13-2-1]]
+
+^<<v13-2-1,1>>^ Jacó foi pai de doze filhos: Rúben, Simeão, Levi, Judá, Issacar, Zebulom,
+
+[[v13-2-2]]
+
+^<<v13-2-2,2>>^ Dã, José, Benjamim, Naftali, Gade e Aser.
+
+[[v13-2-3]]
+
+^<<v13-2-3,3>>^ Judá foi pai de cinco filhos ao todo. A sua mulher cananeia, que se chamava Bate-Sua, lhe deu três filhos: Er, Onã e Selá. Er, o filho mais velho, era tão mau, que o Senhor  Deus o matou.
+
+[[v13-2-4]]
+
+^<<v13-2-4,4>>^ Tamar, a nora de Judá, lhe deu mais dois filhos: Peres e Zera.
+
+[[v13-2-5]]
+
+^<<v13-2-5,5>>^ Peres foi pai de dois filhos: Hezrom e Hamul.
+
+[[v13-2-6]]
+
+^<<v13-2-6,6>>^ Zera foi pai de cinco filhos: Zinri, Etã, Hemã, Calcol e Dara.
+
+[[v13-2-7]]
+
+^<<v13-2-7,7>>^ Acar , filho de Carmi, um dos descendentes de Zera, trouxe desgraça para o povo de Israel, por ter ficado com coisas conquistadas na guerra, as quais haviam sido dedicadas a Deus.
+
+[[v13-2-8]]
+
+^<<v13-2-8,8>>^ Etã foi pai de um filho chamado Azarias.
+
+[[v13-2-9]]
+
+^<<v13-2-9,9>>^ Hezrom foi pai de três filhos: Jerameel, Rão e Calebe.
+
+[[v13-2-10]]
+
+^<<v13-2-10,10>>^ Rão foi pai de Aminadabe, e Aminadabe foi pai de Nasom, um dos chefes da tribo  de Judá;
+
+[[v13-2-11]]
+
+^<<v13-2-11,11>>^ Nasom foi pai de Salma, e Salma foi pai de Boaz;
+
+[[v13-2-12]]
+
+^<<v13-2-12,12>>^ Boaz foi pai de Obede, e Obede foi pai de Jessé.
+
+[[v13-2-13]]
+
+^<<v13-2-13,13>>^ Jessé foi pai de sete filhos, que foram os seguintes, por ordem de idade: Eliabe, Abinadabe, Simeia,
+
+[[v13-2-14]]
+
+^<<v13-2-14,14>>^ Netanel, Radai,
+
+[[v13-2-15]]
+
+^<<v13-2-15,15>>^ Ozém e Davi.
+
+[[v13-2-16]]
+
+^<<v13-2-16,16>>^ Jessé também foi pai de duas filhas: Zeruia e Abigail. Zeruia teve três filhos: Abisai, Joabe e Asael.
+
+[[v13-2-17]]
+
+^<<v13-2-17,17>>^ Abigail casou com Jéter, que era descendente de Ismael, e eles tiveram um filho chamado Amasa.
+
+[[v13-2-18]]
+
+^<<v13-2-18,18>>^ Calebe, filho de Hezrom, casou com Azuba, e eles tiveram uma filha chamada Jeriote. Ela teve três filhos: Jeser, Sobabe e Ardom.
+
+[[v13-2-19]]
+
+^<<v13-2-19,19>>^ Depois da morte de Azuba, Calebe casou com Efrata, e eles tiveram um filho chamado Hur.
+
+[[v13-2-20]]
+
+^<<v13-2-20,20>>^ Hur foi pai de um filho chamado Uri e teve um neto chamado Bezalel.
+
+[[v13-2-21]]
+
+^<<v13-2-21,21>>^ Quando Hezrom tinha sessenta anos de idade, casou com a filha de Maquir, a irmã de Gileade. Eles tiveram um filho chamado Segube,
+
+[[v13-2-22]]
+
+^<<v13-2-22,22>>^ e Segube foi pai de um filho chamado Jair. Jair governou vinte e três cidades na região de Gileade.
+
+[[v13-2-23]]
+
+^<<v13-2-23,23>>^ Mas os reinos de Gesur e Arã conquistaram sessenta cidades dali, incluindo as aldeias de Jair e a cidade de Quenate e os seus povoados. Todas as pessoas que moravam ali eram descendentes de Maquir, o pai de Gileade.
+
+[[v13-2-24]]
+
+^<<v13-2-24,24>>^ Depois que Hezrom morreu, o seu filho Calebe casou com Efrata, a viúva do seu pai. Eles tiveram um filho chamado Azur, que fundou a cidade de Tecoa.
+
+[[v13-2-25]]
+
+^<<v13-2-25,25>>^ Jerameel, o filho mais velho de Hezrom, foi pai de cinco filhos: Rão, o mais velho, Buna, Orém, Ozém e Aías.
+
+[[v13-2-26]]
+
+^<<v13-2-26,26>>^ Rão foi pai de três filhos: Maaz, Jamim e Équer. Jerameel teve outra esposa, uma mulher chamada Atara, e eles tiveram um filho chamado Onã.
+
+[[v13-2-27]]
+
+^<<v13-2-27,27>>^ Rão foi pai de três filhos: Maaz, Jamim e Équer. Jerameel teve outra esposa, uma mulher chamada Atara, e eles tiveram um filho chamado Onã.
+
+[[v13-2-28]]
+
+^<<v13-2-28,28>>^ Onã foi pai de dois filhos: Samai e Jada, e Samai também foi pai de dois filhos, que se chamavam Nadabe e Abisur.
+
+[[v13-2-29]]
+
+^<<v13-2-29,29>>^ Abisur casou com uma mulher chamada Abiail, e eles tiveram dois filhos, que se chamavam Abã e Molide.
+
+[[v13-2-30]]
+
+^<<v13-2-30,30>>^ Nadabe foi pai de dois filhos, que se chamavam Selede e Apaim. Selede morreu sem ter tido filhos,
+
+[[v13-2-31]]
+
+^<<v13-2-31,31>>^ e Apaim foi pai de Isi, Isi foi pai de Sesã, e Sesã foi pai de Alai.
+
+[[v13-2-32]]
+
+^<<v13-2-32,32>>^ Jada, o irmão de Samai, foi pai de dois filhos, que se chamavam Jéter e Jônatas. Jéter morreu sem ter tido filhos,
+
+[[v13-2-33]]
+
+^<<v13-2-33,33>>^ e Jônatas foi pai de dois filhos: Pelete e Zaza. Todos esses foram descendentes de Jerameel.
+
+[[v13-2-34]]
+
+^<<v13-2-34,34>>^ Sesã não teve filhos; só filhas. Ele tinha um escravo egípcio que se chamava Jara.
+
+[[v13-2-35]]
+
+^<<v13-2-35,35>>^ Sesã deu uma das suas filhas em casamento a Jara. Eles tiveram um filho, que se chamava Atai.
+
+[[v13-2-36]]
+
+^<<v13-2-36,36>>^ Atai foi pai de Natã, e Natã foi pai de Zabade.
+
+[[v13-2-37]]
+
+^<<v13-2-37,37>>^ Zabade foi pai de Eflal, e Eflal foi pai de Obede.
+
+[[v13-2-38]]
+
+^<<v13-2-38,38>>^ Obede foi pai de Jeú, e Jeú foi pai de Azarias.
+
+[[v13-2-39]]
+
+^<<v13-2-39,39>>^ Azarias foi pai de Heles, e Heles foi pai de Eleasa.
+
+[[v13-2-40]]
+
+^<<v13-2-40,40>>^ Eleasa foi pai de Sisamai, e Sisamai foi pai de Salum.
+
+[[v13-2-41]]
+
+^<<v13-2-41,41>>^ Salum foi pai de Jecamias, e Jecamias foi pai de Elisama.
+
+[[v13-2-42]]
+
+^<<v13-2-42,42>>^ O filho mais velho de Calebe, irmão de Jerameel, se chamava Messa. Messa foi pai de Zife, Zife foi pai de Maressa, e Maressa foi pai de Hebrom.
+
+[[v13-2-43]]
+
+^<<v13-2-43,43>>^ Hebrom foi pai de quatro filhos: Corá, Tapua, Requém e Sema.
+
+[[v13-2-44]]
+
+^<<v13-2-44,44>>^ Sema foi pai de Raão e avô de Jorqueão. Requém foi pai de Samai,
+
+[[v13-2-45]]
+
+^<<v13-2-45,45>>^ Samai foi pai de Maom, e Maom foi pai de Bete-Zur.
+
+[[v13-2-46]]
+
+^<<v13-2-46,46>>^ Calebe tinha uma concubina  chamada Efa, e ela lhe deu mais três filhos: Harã, Mosa e Gazez. Harã também foi pai de um filho chamado Gazez.
+
+[[v13-2-47]]
+
+^<<v13-2-47,47>>^ (Um homem chamado Jadai foi pai de seis filhos: Regém, Jotão, Gesã, Pelete, Efa e Saafe.)
+
+[[v13-2-48]]
+
+^<<v13-2-48,48>>^ Calebe tinha outra concubina, chamada Maacá, que lhe deu dois filhos: Seber e Tiraná.
+
+[[v13-2-49]]
+
+^<<v13-2-49,49>>^ Mais tarde ela teve mais dois filhos: Saafe e Seva. Saafe fundou a cidade de Madmana, e Seva fundou as cidades de Macbena e Gibeá. Calebe também foi pai de uma filha chamada Acsa.
+
+[[v13-2-50]]
+
+^<<v13-2-50,50>>^ As seguintes pessoas também foram descendentes de Calebe: Hur foi o filho mais velho de Calebe com a sua mulher Efrata. Sobal, filho de Hur, fundou a cidade de Quiriate-Jearim.
+
+[[v13-2-51]]
+
+^<<v13-2-51,51>>^ Salma, o seu segundo filho, fundou a cidade de Belém, e Harefe, o terceiro, fundou Bete-Gader.
+
+[[v13-2-52]]
+
+^<<v13-2-52,52>>^ Sobal, que fundou Quiriate-Jearim, foi o antepassado do povo de Haroé e de metade dos moradores de Menuote.
+
+[[v13-2-53]]
+
+^<<v13-2-53,53>>^ Foi também o antepassado dos seguintes grupos de famílias que moravam em Quiriate-Jearim: os itritas, os puítas, os sumateus e os misraeus. Os povos das cidades de Zora e Estaol pertenciam a esses grupos de famílias.
+
+[[v13-2-54]]
+
+^<<v13-2-54,54>>^ Salma, o fundador de Belém, foi o antepassado do povo de Netofa, de Atarote-Bete-Joabe e dos zoreus, que eram um dos dois grupos de famílias de Manaate.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-001.adoc#v13-1-0[&#60; Capítulo Anterior] | <<v13-2-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-003.adoc#v13-3-0[Próximo Capítulo &#62;]

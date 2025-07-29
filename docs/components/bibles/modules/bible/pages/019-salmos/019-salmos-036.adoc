@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-36-0]]
+=== Salmos, 36
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-36-1]]
+
+^<<v19-36-1,1>>^ O pecado fala ao perverso lá no fundo do seu coração. O perverso não aprende a temer a Deus .
+
+[[v19-36-2]]
+
+^<<v19-36-2,2>>^ Ele se julga muito importante e pensa que Deus não descobrirá o seu pecado e não o condenará.
+
+[[v19-36-3]]
+
+^<<v19-36-3,3>>^ A conversa dele é má e cheia de mentiras; ele não tem juízo e não quer fazer o bem.
+
+[[v19-36-4]]
+
+^<<v19-36-4,4>>^ Deitado na sua cama, ele planeja maldades. Ele anda por caminhos que não são bons e nunca rejeita as coisas más.
+
+[[v19-36-5]]
+
+^<<v19-36-5,5>>^ Ó Senhor  Deus, o teu amor chega até o céu, e a tua fidelidade vai até as nuvens.
+
+[[v19-36-6]]
+
+^<<v19-36-6,6>>^ A tua justiça é firme como as grandes montanhas, e os teus julgamentos são profundos como o mar. Ó Senhor  Deus, tu cuidas das pessoas e dos animais.
+
+[[v19-36-7]]
+
+^<<v19-36-7,7>>^ Como é precioso o teu amor! Na sombra das tuas asas, encontramos proteção.
+
+[[v19-36-8]]
+
+^<<v19-36-8,8>>^ Ficamos satisfeitos com a comida que nos dás com fartura; tu nos deixas beber do rio da tua bondade.
+
+[[v19-36-9]]
+
+^<<v19-36-9,9>>^ Tu és a fonte da vida, e, por causa da tua luz, nós vemos a luz.
+
+[[v19-36-10]]
+
+^<<v19-36-10,10>>^ Ó Deus, continua a amar os que te conhecem e a fazer o bem aos que têm um coração honesto!
+
+[[v19-36-11]]
+
+^<<v19-36-11,11>>^ Não deixes que os orgulhosos e os maus me pisem e me obriguem a fugir.
+
+[[v19-36-12]]
+
+^<<v19-36-12,12>>^ Lá estão eles, caídos; foram derrubados e não podem se levantar.
+
+'''
+
+xref:019-salmos/019-salmos-035.adoc#v19-35-0[&#60; Capítulo Anterior] | <<v19-36-0,Topo>> | xref:019-salmos/019-salmos-037.adoc#v19-37-0[Próximo Capítulo &#62;]

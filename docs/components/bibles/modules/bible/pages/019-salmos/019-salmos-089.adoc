@@ -1,0 +1,217 @@
+include::./index.adoc[]
+
+[[v19-89-0]]
+=== Salmos, 89
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-89-1]]
+
+^<<v19-89-1,1>>^ Ó Senhor  Deus, eu sempre cantarei a respeito do teu amor e anunciarei a tua fidelidade a todas as gerações.
+
+[[v19-89-2]]
+
+^<<v19-89-2,2>>^ Sei que o teu amor dura para sempre e que a tua fidelidade é tão firme como o céu.
+
+[[v19-89-3]]
+
+^<<v19-89-3,3>>^ Tu disseste: "Eu escolhi o meu servo  Davi, fiz uma aliança com ele e lhe prometi isto:
+
+[[v19-89-4]]
+
+^<<v19-89-4,4>>^ ‘Um dos seus descendentes sempre reinará; eu farei com que eles sempre sejam reis depois de você.’ "
+
+[[v19-89-5]]
+
+^<<v19-89-5,5>>^ Ó Senhor , os céus cantam as maravilhas que fazes, e, reunidos, os anjos cantam a tua fidelidade.
+
+[[v19-89-6]]
+
+^<<v19-89-6,6>>^ Não há no céu ninguém como tu, ó Senhor ! Entre os seres celestiais não há nenhum igual a ti.
+
+[[v19-89-7]]
+
+^<<v19-89-7,7>>^ Tu és respeitado na assembleia deles, és temido  por todos os que estão ao teu redor.
+
+[[v19-89-8]]
+
+^<<v19-89-8,8>>^ Ó Senhor , Deus Todo-Poderoso, não há ninguém que tenha tanto poder como tu! Em todas as coisas, tu és fiel, ó Senhor !
+
+[[v19-89-9]]
+
+^<<v19-89-9,9>>^ Tu dominas o Mar poderoso, tu acalmas as suas ondas furiosas.
+
+[[v19-89-10]]
+
+^<<v19-89-10,10>>^ Esmagaste o monstro Raabe e o mataste; com a tua grande força, derrotaste os teus inimigos.
+
+[[v19-89-11]]
+
+^<<v19-89-11,11>>^ O céu é teu, e a terra é tua; tu criaste o mundo e tudo o que nele existe.
+
+[[v19-89-12]]
+
+^<<v19-89-12,12>>^ Tu fizeste o Norte e o Sul. Os montes Tabor e Hermom te louvam com alegria.
+
+[[v19-89-13]]
+
+^<<v19-89-13,13>>^ Como és poderoso! Como é grande a tua força!
+
+[[v19-89-14]]
+
+^<<v19-89-14,14>>^ A honestidade e a justiça são as bases do teu reinado. Tu és fiel e amoroso em tudo o que fazes.
+
+[[v19-89-15]]
+
+^<<v19-89-15,15>>^ Feliz o povo que te adora com canções e que vive na luz da tua presença!
+
+[[v19-89-16]]
+
+^<<v19-89-16,16>>^ Por causa de ti, eles se alegram o dia todo e te louvam porque és bondoso.
+
+[[v19-89-17]]
+
+^<<v19-89-17,17>>^ Tu, ó Deus, és o nosso poder glorioso ; por tua bondade, nos fazes vencer,
+
+[[v19-89-18]]
+
+^<<v19-89-18,18>>^ pois escolhes o nosso protetor. Foste tu, Senhor , o Santo Deus de Israel, que nos deste o nosso rei.
+
+[[v19-89-19]]
+
+^<<v19-89-19,19>>^ Há muito tempo, numa visão, tu disseste aos teus servos  fiéis: "Eu ajudei um soldado famoso; dei a autoridade a um homem que escolhi do meio do povo.
+
+[[v19-89-20]]
+
+^<<v19-89-20,20>>^ Escolhi o meu servo Davi para ser rei, ungindo-o  com azeite sagrado.
+
+[[v19-89-21]]
+
+^<<v19-89-21,21>>^ A minha força estará sempre com ele, o meu poder o tornará forte.
+
+[[v19-89-22]]
+
+^<<v19-89-22,22>>^ Os seus inimigos nunca o vencerão, os maus não o derrotarão.
+
+[[v19-89-23]]
+
+^<<v19-89-23,23>>^ Eu acabarei com os seus inimigos e matarei todos os que o odeiam.
+
+[[v19-89-24]]
+
+^<<v19-89-24,24>>^ Sempre serei fiel a Davi e o amarei, e, por causa do meu poder, ele sempre vencerá.
+
+[[v19-89-25]]
+
+^<<v19-89-25,25>>^ Estenderei o seu reinado desde o mar Mediterrâneo até o rio Eufrates.
+
+[[v19-89-26]]
+
+^<<v19-89-26,26>>^ Então ele me dirá: ‘Tu és o meu pai e o meu Deus; tu és a rocha que me salva.’
+
+[[v19-89-27]]
+
+^<<v19-89-27,27>>^ Eu lhe darei os direitos de filho mais velho, farei com que ele seja o maior de todos os reis do mundo.
+
+[[v19-89-28]]
+
+^<<v19-89-28,28>>^ Eu sempre o amarei, e a minha aliança com ele ficará firme.
+
+[[v19-89-29]]
+
+^<<v19-89-29,29>>^ Depois dele os seus descendentes sempre serão reis e reinarão enquanto o céu existir.
+
+[[v19-89-30]]
+
+^<<v19-89-30,30>>^ "Mas, se os seus descendentes desobedecerem à minha lei , se não viverem de acordo com os meus ensinamentos,
+
+[[v19-89-31]]
+
+^<<v19-89-31,31>>^ se desprezarem as minhas ordens e não guardarem os meus mandamentos,
+
+[[v19-89-32]]
+
+^<<v19-89-32,32>>^ então eu os castigarei pelos seus pecados, eu os farei sofrer por causa dos seus erros.
+
+[[v19-89-33]]
+
+^<<v19-89-33,33>>^ Porém não deixarei de amar a Davi, mas cumprirei a promessa que lhe fiz.
+
+[[v19-89-34]]
+
+^<<v19-89-34,34>>^ Não quebrarei a aliança que fiz com ele, nem deixarei de cumprir nenhuma das minhas promessas.
+
+[[v19-89-35]]
+
+^<<v19-89-35,35>>^ "De uma vez por todas, jurei pelo meu santo nome que nunca mentiria a Davi.
+
+[[v19-89-36]]
+
+^<<v19-89-36,36>>^ Ele sempre terá descendentes, e, enquanto o sol brilhar, eu protegerei o seu reinado.
+
+[[v19-89-37]]
+
+^<<v19-89-37,37>>^ Esse reinado durará como a lua, aquela fiel testemunha que está no céu."
+
+[[v19-89-38]]
+
+^<<v19-89-38,38>>^ Mas agora, ó Deus, tu estás irado com o rei que escolheste; tu o abandonaste e o rejeitaste.
+
+[[v19-89-39]]
+
+^<<v19-89-39,39>>^ Quebraste a aliança que fizeste com o teu servo e jogaste a sua coroa no chão.
+
+[[v19-89-40]]
+
+^<<v19-89-40,40>>^ Derrubaste as muralhas da sua cidade e arrasaste as suas fortalezas.
+
+[[v19-89-41]]
+
+^<<v19-89-41,41>>^ Os que passam roubam tudo o que ele tem, e os seus vizinhos zombam dele.
+
+[[v19-89-42]]
+
+^<<v19-89-42,42>>^ Deste a vitória aos seus inimigos e fizeste com que eles ficassem felizes.
+
+[[v19-89-43]]
+
+^<<v19-89-43,43>>^ Tu tornaste inúteis as armas do rei e deixaste que ele fosse derrotado na batalha.
+
+[[v19-89-44]]
+
+^<<v19-89-44,44>>^ Tiraste a sua autoridade de rei e derrubaste o seu trono.
+
+[[v19-89-45]]
+
+^<<v19-89-45,45>>^ Tu fizeste com que ele envelhecesse antes do tempo e o cobriste de humilhação.
+
+[[v19-89-46]]
+
+^<<v19-89-46,46>>^ Até quando te esconderás, ó Senhor  Deus? Será para sempre? Até quando a tua ira  queimará como fogo?
+
+[[v19-89-47]]
+
+^<<v19-89-47,47>>^ Lembra como é curta a minha vida; lembra que todas as pessoas que criaste vão morrer um dia.
+
+[[v19-89-48]]
+
+^<<v19-89-48,48>>^ Quem pode continuar vivo e nunca morrer? Quem pode escapar da sepultura?
+
+[[v19-89-49]]
+
+^<<v19-89-49,49>>^ Ó Senhor, onde estão as antigas provas do teu amor? Onde estão os juramentos que fizeste a Davi?
+
+[[v19-89-50]]
+
+^<<v19-89-50,50>>^ Lembra que eu, teu servo , estou sendo insultado e suporto todas as ofensas dos pagãos.
+
+[[v19-89-51]]
+
+^<<v19-89-51,51>>^ Ó Senhor , como os teus inimigos falam mal do rei que escolheste! Aonde ele vai, eles o insultam.
+
+[[v19-89-52]]
+
+^<<v19-89-52,52>>^ Louvemos o Senhor  Deus para sempre! Amém ! Amém!
+
+'''
+
+xref:019-salmos/019-salmos-088.adoc#v19-88-0[&#60; Capítulo Anterior] | <<v19-89-0,Topo>> | xref:019-salmos/019-salmos-090.adoc#v19-90-0[Próximo Capítulo &#62;]

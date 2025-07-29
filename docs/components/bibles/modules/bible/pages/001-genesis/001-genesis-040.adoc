@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v1-40-0]]
+=== Gênesis, 40
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v1-40-1]]
+
+^<<v1-40-1,1>>^ Passado algum tempo, o rei do Egito foi ofendido por dois dos seus servidores, isto é, o chefe dos copeiros, que era encarregado de servir vinho, e o chefe dos padeiros.
+
+[[v1-40-2]]
+
+^<<v1-40-2,2>>^ O rei ficou furioso com os dois
+
+[[v1-40-3]]
+
+^<<v1-40-3,3>>^ e mandou que fossem postos na cadeia que ficava na casa do capitão da guarda, no mesmo lugar onde José estava preso.
+
+[[v1-40-4]]
+
+^<<v1-40-4,4>>^ Eles ficaram muito tempo ali, e o capitão deu a José a tarefa de cuidar deles.
+
+[[v1-40-5]]
+
+^<<v1-40-5,5>>^ Certa noite, ali na cadeia, o copeiro e o padeiro tiveram um sonho cada um. E cada sonho queria dizer alguma coisa.
+
+[[v1-40-6]]
+
+^<<v1-40-6,6>>^ Quando José veio vê-los de manhã, notou que estavam preocupados.
+
+[[v1-40-7]]
+
+^<<v1-40-7,7>>^ Então perguntou: — Por que vocês estão com essa cara tão triste hoje?
+
+[[v1-40-8]]
+
+^<<v1-40-8,8>>^ Eles responderam: — Cada um de nós teve um sonho, e não há ninguém que saiba explicar o que esses sonhos querem dizer. — É Deus quem dá à gente a capacidade de explicar os sonhos — disse José. — Vamos, contem o que sonharam.
+
+[[v1-40-9]]
+
+^<<v1-40-9,9>>^ Então o chefe dos copeiros contou o seu sonho. Ele disse: — Sonhei que na minha frente havia uma parreira
+
+[[v1-40-10]]
+
+^<<v1-40-10,10>>^ que tinha três galhos. Assim que as folhas saíam, apareciam as flores, e estas viravam uvas maduras.
+
+[[v1-40-11]]
+
+^<<v1-40-11,11>>^ Eu estava segurando o copo do rei; espremia as uvas no copo e o entregava ao rei.
+
+[[v1-40-12]]
+
+^<<v1-40-12,12>>^ José disse: — A explicação é a seguinte: os três galhos são três dias.
+
+[[v1-40-13]]
+
+^<<v1-40-13,13>>^ Daqui a três dias o rei vai mandar soltá-lo. Você vai voltar ao seu trabalho e servirá vinho ao rei, como fazia antes.
+
+[[v1-40-14]]
+
+^<<v1-40-14,14>>^ Porém, quando você estiver muito bem lá, lembre de mim e por favor tenha a bondade de falar a meu respeito com o rei, ajudando-me assim a sair desta cadeia.
+
+[[v1-40-15]]
+
+^<<v1-40-15,15>>^ A verdade é que foi à força que me tiraram da terra dos hebreus e me trouxeram para o Egito; e mesmo aqui no Egito não fiz nada para vir parar na cadeia.
+
+[[v1-40-16]]
+
+^<<v1-40-16,16>>^ Quando o chefe dos padeiros viu que a explicação era boa, disse: — Eu também tive um sonho. Sonhei que estava carregando na cabeça três cestos de pão.
+
+[[v1-40-17]]
+
+^<<v1-40-17,17>>^ No cesto de cima havia todo tipo de comidas assadas que os padeiros fazem para o rei. E as aves vinham e comiam dessas comidas.
+
+[[v1-40-18]]
+
+^<<v1-40-18,18>>^ José explicou assim: — O seu sonho quer dizer isto: os três cestos são três dias.
+
+[[v1-40-19]]
+
+^<<v1-40-19,19>>^ Daqui a três dias o rei vai soltá-lo e vai mandar cortar a sua cabeça. Depois o seu corpo será pendurado num poste de madeira, e as aves comerão a sua carne.
+
+[[v1-40-20]]
+
+^<<v1-40-20,20>>^ Três dias depois o rei comemorou o seu aniversário, oferecendo um banquete a todos os seus funcionários. Ele mandou soltar o chefe dos copeiros e o chefe dos padeiros e deu ordem para que viessem ao banquete.
+
+[[v1-40-21]]
+
+^<<v1-40-21,21>>^ E aconteceu exatamente o que José tinha dito: o rei fez com que o copeiro voltasse ao seu antigo trabalho de servir vinho ao rei e mandou que o padeiro fosse executado.
+
+[[v1-40-22]]
+
+^<<v1-40-22,22>>^ E aconteceu exatamente o que José tinha dito: o rei fez com que o copeiro voltasse ao seu antigo trabalho de servir vinho ao rei e mandou que o padeiro fosse executado.
+
+'''
+
+xref:001-genesis/001-genesis-039.adoc#v1-39-0[&#60; Capítulo Anterior] | <<v1-40-0,Topo>> | xref:001-genesis/001-genesis-041.adoc#v1-41-0[Próximo Capítulo &#62;]

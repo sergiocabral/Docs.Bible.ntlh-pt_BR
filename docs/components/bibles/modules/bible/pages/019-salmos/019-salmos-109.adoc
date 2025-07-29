@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v19-109-0]]
+=== Salmos, 109
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-109-1]]
+
+^<<v19-109-1,1>>^ Eu te louvo, ó Deus. Não fiques assim silencioso.
+
+[[v19-109-2]]
+
+^<<v19-109-2,2>>^ Os maus e os mentirosos falam contra mim e me caluniam.
+
+[[v19-109-3]]
+
+^<<v19-109-3,3>>^ Eles dizem coisas terríveis a meu respeito e me atacam sem motivo nenhum.
+
+[[v19-109-4]]
+
+^<<v19-109-4,4>>^ Eles me acusam, embora eu os ame e tenha orado por eles.
+
+[[v19-109-5]]
+
+^<<v19-109-5,5>>^ Eles pagam o bem com o mal e o amor, com o ódio.
+
+[[v19-109-6]]
+
+^<<v19-109-6,6>>^ Ó Deus, escolhe um juiz corrupto para julgar o meu inimigo, e que o seu acusador seja um dos seus inimigos!
+
+[[v19-109-7]]
+
+^<<v19-109-7,7>>^ Quando for julgado, que ele seja condenado! Que até a sua oração seja considerada como pecado!
+
+[[v19-109-8]]
+
+^<<v19-109-8,8>>^ Que o meu inimigo morra logo, e que outra pessoa faça o trabalho que ele fazia!
+
+[[v19-109-9]]
+
+^<<v19-109-9,9>>^ Que os seus filhos fiquem órfãos, e que a sua mulher fique viúva!
+
+[[v19-109-10]]
+
+^<<v19-109-10,10>>^ Que os seus filhos fiquem sem lar e sejam mendigos! Que sejam expulsos das casas em ruínas, onde moram!
+
+[[v19-109-11]]
+
+^<<v19-109-11,11>>^ Que tudo o que o meu inimigo tem seja tomado como pagamento das suas dívidas! E que estranhos fiquem com o que ele conseguiu com o seu esforço!
+
+[[v19-109-12]]
+
+^<<v19-109-12,12>>^ Que ninguém seja bom para ele, e que não haja quem cuide dos seus filhos órfãos!
+
+[[v19-109-13]]
+
+^<<v19-109-13,13>>^ Que todos os seus descendentes morram logo, e que o seu nome seja esquecido em pouco tempo!
+
+[[v19-109-14]]
+
+^<<v19-109-14,14>>^ Que o Senhor  Deus nunca esqueça dos pecados da sua mãe e sempre lembre da maldade dos seus antepassados!
+
+[[v19-109-15]]
+
+^<<v19-109-15,15>>^ Que o Senhor  lembre sempre dos pecados deles, porém que eles mesmos sejam completamente esquecidos!
+
+[[v19-109-16]]
+
+^<<v19-109-16,16>>^ Pois esse homem nunca pensou em fazer o bem, mas perseguiu e matou o pobre, o necessitado e o desamparado.
+
+[[v19-109-17]]
+
+^<<v19-109-17,17>>^ Ele gostava de amaldiçoar: que a maldição caia sobre ele! Ele não gostava de abençoar: que ninguém o abençoe!
+
+[[v19-109-18]]
+
+^<<v19-109-18,18>>^ Para ele, era tão fácil amaldiçoar como se vestir. Que as suas maldições entrem nele como água e cheguem até os seus ossos como azeite!
+
+[[v19-109-19]]
+
+^<<v19-109-19,19>>^ Que as maldições nunca o larguem! Que seja como a roupa que o cobre e como o cinto que ele usa!
+
+[[v19-109-20]]
+
+^<<v19-109-20,20>>^ Ó Senhor  Deus, paga assim aos meus inimigos e aos que falam mal de mim!
+
+[[v19-109-21]]
+
+^<<v19-109-21,21>>^ Mas, quanto a mim, ó Senhor , meu Deus, ajuda-me como prometeste e livra-me, pois és bom e amoroso!
+
+[[v19-109-22]]
+
+^<<v19-109-22,22>>^ Eu sou pobre e necessitado; estou ferido no fundo do coração.
+
+[[v19-109-23]]
+
+^<<v19-109-23,23>>^ Vou me acabando como a sombra do anoitecer; sou levado pelo vento como se eu fosse um inseto.
+
+[[v19-109-24]]
+
+^<<v19-109-24,24>>^ De tanto eu jejuar, os meus joelhos tremem, e o meu corpo é pele e osso.
+
+[[v19-109-25]]
+
+^<<v19-109-25,25>>^ Quando os outros me veem, caçoam de mim e, zombando, balançam a cabeça.
+
+[[v19-109-26]]
+
+^<<v19-109-26,26>>^ Ajuda-me, ó Senhor , meu Deus! Salva-me por causa do amor que tens por mim.
+
+[[v19-109-27]]
+
+^<<v19-109-27,27>>^ Que os meus inimigos fiquem sabendo que és tu que me salvas!
+
+[[v19-109-28]]
+
+^<<v19-109-28,28>>^ Eles podem me amaldiçoar, mas tu me abençoarás. Que os meus perseguidores sejam derrotados, e que eu, que sou teu servo , fique alegre!
+
+[[v19-109-29]]
+
+^<<v19-109-29,29>>^ Que sobre os meus inimigos caia a desgraça, e que a humilhação os cubra como roupa!
+
+[[v19-109-30]]
+
+^<<v19-109-30,30>>^ Em voz alta, darei graças a Deus, o Senhor ; eu o louvarei na reunião do povo
+
+[[v19-109-31]]
+
+^<<v19-109-31,31>>^ porque ele defende o pobre para salvá-lo daqueles que o condenam à morte.
+
+'''
+
+xref:019-salmos/019-salmos-108.adoc#v19-108-0[&#60; Capítulo Anterior] | <<v19-109-0,Topo>> | xref:019-salmos/019-salmos-110.adoc#v19-110-0[Próximo Capítulo &#62;]

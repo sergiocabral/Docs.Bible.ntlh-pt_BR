@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v1-9-0]]
+=== Gênesis, 9
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v1-9-1]]
+
+^<<v1-9-1,1>>^ Deus abençoou Noé e os seus filhos, dizendo o seguinte: — Tenham muitos filhos, e que os seus descendentes se espalhem por toda a terra.
+
+[[v1-9-2]]
+
+^<<v1-9-2,2>>^ Todos os animais selvagens, todas as aves, todos os animais que se arrastam pelo chão e todos os peixes terão medo e pavor de vocês. Todos eles serão dominados por vocês.
+
+[[v1-9-3]]
+
+^<<v1-9-3,3>>^ Vocês podem comer os animais e também as verduras; eu os dou para vocês como alimento.
+
+[[v1-9-4]]
+
+^<<v1-9-4,4>>^ Mas uma coisa que vocês não devem comer é carne com sangue, pois no sangue está a vida.
+
+[[v1-9-5]]
+
+^<<v1-9-5,5>>^ Eu acertarei as contas com cada ser humano e com cada animal que matar alguém.
+
+[[v1-9-6]]
+
+^<<v1-9-6,6>>^ O ser humano foi criado parecido com Deus, e por isso quem matar uma pessoa será morto por outra.
+
+[[v1-9-7]]
+
+^<<v1-9-7,7>>^ — Tenham muitos filhos, e que os descendentes de vocês se espalhem por toda a terra.
+
+[[v1-9-8]]
+
+^<<v1-9-8,8>>^ Deus também disse a Noé e aos seus filhos:
+
+[[v1-9-9]]
+
+^<<v1-9-9,9>>^ — Agora vou fazer a minha aliança  com vocês, e com os seus descendentes,
+
+[[v1-9-10]]
+
+^<<v1-9-10,10>>^ e com todos os animais que saíram da barca e que estão com vocês, isto é, as aves, os animais domésticos e os animais selvagens, sim, todos os animais do mundo.
+
+[[v1-9-11]]
+
+^<<v1-9-11,11>>^ Eu faço a seguinte aliança com vocês: prometo que nunca mais os seres vivos serão destruídos por um dilúvio. E nunca mais haverá outro dilúvio para destruir a terra.
+
+[[v1-9-12]]
+
+^<<v1-9-12,12>>^ Como sinal desta aliança que estou fazendo para sempre com vocês e com todos os animais,
+
+[[v1-9-13]]
+
+^<<v1-9-13,13>>^ vou colocar o meu arco nas nuvens. O arco-íris será o sinal da aliança que estou fazendo com o mundo.
+
+[[v1-9-14]]
+
+^<<v1-9-14,14>>^ Quando eu cobrir de nuvens o céu e aparecer o arco-íris,
+
+[[v1-9-15]]
+
+^<<v1-9-15,15>>^ então eu lembrarei da aliança que fiz com vocês e com todos os animais. E assim não haverá outro dilúvio para destruir todos os seres vivos.
+
+[[v1-9-16]]
+
+^<<v1-9-16,16>>^ Quando o arco-íris aparecer nas nuvens, eu o verei e lembrarei da aliança que fiz para sempre com todos os seres vivos que há no mundo.
+
+[[v1-9-17]]
+
+^<<v1-9-17,17>>^ O arco-íris é o sinal da aliança que estou fazendo com todos os seres vivos que vivem na terra.
+
+[[v1-9-18]]
+
+^<<v1-9-18,18>>^ Os filhos de Noé, que saíram da barca com ele, foram Sem, Cam e Jafé (Cam foi o pai de Canaã.).
+
+[[v1-9-19]]
+
+^<<v1-9-19,19>>^ Esses três foram os filhos de Noé, e os descendentes deles se espalharam pelo mundo inteiro.
+
+[[v1-9-20]]
+
+^<<v1-9-20,20>>^ Noé era agricultor; ele foi a primeira pessoa que fez uma plantação de uvas.
+
+[[v1-9-21]]
+
+^<<v1-9-21,21>>^ Um dia Noé bebeu muito vinho, ficou bêbado e se deitou nu dentro da sua barraca.
+
+[[v1-9-22]]
+
+^<<v1-9-22,22>>^ Cam, o pai de Canaã, viu que o seu pai estava nu e saiu para contar aos seus dois irmãos.
+
+[[v1-9-23]]
+
+^<<v1-9-23,23>>^ Então Sem e Jafé pegaram uma capa , puseram sobre os seus próprios ombros, foram andando de costas e com a capa cobriram o seu pai, que estava nu. E, a fim de não verem o pai nu, eles fizeram isso olhando para o lado.
+
+[[v1-9-24]]
+
+^<<v1-9-24,24>>^ Quando Noé acordou depois da bebedeira, soube do que Cam, o filho mais moço, havia feito.
+
+[[v1-9-25]]
+
+^<<v1-9-25,25>>^ Aí Noé disse o seguinte: "Maldito seja Canaã! Ele será escravo dos seus irmãos, um escravo miserável."
+
+[[v1-9-26]]
+
+^<<v1-9-26,26>>^ E Noé disse mais: "Bendito seja o Senhor , Deus de Sem, e que Canaã seja seu escravo.
+
+[[v1-9-27]]
+
+^<<v1-9-27,27>>^ Deus faça com que Jafé tenha domínio sobre muitas terras, e que os seus descendentes morem nos acampamentos de Sem. E que Canaã seja escravo de Jafé."
+
+[[v1-9-28]]
+
+^<<v1-9-28,28>>^ Depois do dilúvio Noé viveu mais trezentos e cinquenta anos
+
+[[v1-9-29]]
+
+^<<v1-9-29,29>>^ e morreu quando tinha novecentos e cinquenta anos de idade.
+
+'''
+
+xref:001-genesis/001-genesis-008.adoc#v1-8-0[&#60; Capítulo Anterior] | <<v1-9-0,Topo>> | xref:001-genesis/001-genesis-010.adoc#v1-10-0[Próximo Capítulo &#62;]

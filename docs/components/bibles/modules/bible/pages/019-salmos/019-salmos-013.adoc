@@ -1,0 +1,33 @@
+include::./index.adoc[]
+
+[[v19-13-0]]
+=== Salmos, 13
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-13-1]]
+
+^<<v19-13-1,1>>^ Ó Senhor  Deus, até quando esquecerás de mim? Será para sempre? Por quanto tempo esconderás de mim o teu rosto?
+
+[[v19-13-2]]
+
+^<<v19-13-2,2>>^ Até quando terei de suportar este sofrimento? Até quando o meu coração se encherá dia e noite de tristeza? Até quando os meus inimigos me vencerão?
+
+[[v19-13-3]]
+
+^<<v19-13-3,3>>^ Ó Senhor , meu Deus, olha para mim e responde-me! Dá-me forças novamente para que eu não morra.
+
+[[v19-13-4]]
+
+^<<v19-13-4,4>>^ Assim os meus inimigos não poderão se alegrar com a minha desgraça, nem poderão dizer: "Nós o derrotamos!"
+
+[[v19-13-5]]
+
+^<<v19-13-5,5>>^ Eu confio no teu amor. O meu coração ficará alegre, pois tu me salvarás.
+
+[[v19-13-6]]
+
+^<<v19-13-6,6>>^ E, porque tens sido bom para mim, cantarei hinos a ti, ó Senhor .
+
+'''
+
+xref:019-salmos/019-salmos-012.adoc#v19-12-0[&#60; Capítulo Anterior] | <<v19-13-0,Topo>> | xref:019-salmos/019-salmos-014.adoc#v19-14-0[Próximo Capítulo &#62;]

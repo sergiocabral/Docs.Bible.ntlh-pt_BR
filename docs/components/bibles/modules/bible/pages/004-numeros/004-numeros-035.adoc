@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v4-35-0]]
+=== Números, 35
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v4-35-1]]
+
+^<<v4-35-1,1>>^ Nas planícies de Moabe, perto do rio Jordão, na altura de Jericó, que ficava no outro lado do rio, o Senhor  disse a Moisés o seguinte:
+
+[[v4-35-2]]
+
+^<<v4-35-2,2>>^ — Mande que os israelitas, das terras que vão receber, deem aos levitas  algumas cidades onde estes possam morar e também terras de pastagens ao redor delas.
+
+[[v4-35-3]]
+
+^<<v4-35-3,3>>^ Essas cidades serão dos levitas, e eles morarão nelas. As terras ao seu redor serão para o gado, para as ovelhas e as cabras e para os outros animais.
+
+[[v4-35-4]]
+
+^<<v4-35-4,4>>^ Os pastos ficarão em volta de toda a cidade, numa distância de quatrocentos e cinquenta metros a partir da muralha.
+
+[[v4-35-5]]
+
+^<<v4-35-5,5>>^ Todo o terreno formará um quadrado de novecentos metros de cada lado, isto é, medirá a mesma coisa a leste e a oeste, ao norte e ao sul. A cidade ficará no meio, e os pastos ficarão em volta.
+
+[[v4-35-6]]
+
+^<<v4-35-6,6>>^ — Deem aos levitas seis cidades para fugitivos. Se um homem, sem querer ou por engano, matar alguém, poderá fugir para uma dessas cidades. Além dessas, vocês darão aos levitas quarenta e duas cidades.
+
+[[v4-35-7]]
+
+^<<v4-35-7,7>>^ Portanto, o total será de quarenta e oito cidades, todas elas com pastos ao seu redor.
+
+[[v4-35-8]]
+
+^<<v4-35-8,8>>^ O número de cidades de levitas em cada tribo  será determinado pelo tamanho do seu território, isto é, dos territórios maiores será escolhido um número maior de cidades, e dos territórios menores, menor número de cidades.
+
+[[v4-35-9]]
+
+^<<v4-35-9,9>>^ O Senhor  Deus mandou que Moisés
+
+[[v4-35-10]]
+
+^<<v4-35-10,10>>^ dissesse ao povo de Israel o seguinte: — Quando vocês atravessarem o rio Jordão para entrar em Canaã,
+
+[[v4-35-11]]
+
+^<<v4-35-11,11>>^ deverão escolher algumas cidades para fugitivos, onde poderá ficar morando qualquer homem que, sem querer ou por engano, tenha matado alguém.
+
+[[v4-35-12]]
+
+^<<v4-35-12,12>>^ Ali ele ficará a salvo do parente da vítima que estiver procurando vingança e não morrerá sem ter sido julgado em público.
+
+[[v4-35-13]]
+
+^<<v4-35-13,13>>^ Escolham seis cidades para fugitivos,
+
+[[v4-35-14]]
+
+^<<v4-35-14,14>>^ três a leste do rio Jordão e três na terra de Canaã.
+
+[[v4-35-15]]
+
+^<<v4-35-15,15>>^ Essas seis cidades serão de refúgio, tanto para os israelitas como para os estrangeiros que moram com vocês, seja só por algum tempo, seja para sempre. Quem tiver matado alguém sem querer ou por engano poderá ficar refugiado ali.
+
+[[v4-35-16]]
+
+^<<v4-35-16,16>>^ — Se um homem ferir uma pessoa com um objeto de ferro, ou com uma pedra, ou com um pau e causar a morte dessa pessoa, ele é culpado pelo crime e será condenado à morte.
+
+[[v4-35-17]]
+
+^<<v4-35-17,17>>^ — Se um homem ferir uma pessoa com um objeto de ferro, ou com uma pedra, ou com um pau e causar a morte dessa pessoa, ele é culpado pelo crime e será condenado à morte.
+
+[[v4-35-18]]
+
+^<<v4-35-18,18>>^ — Se um homem ferir uma pessoa com um objeto de ferro, ou com uma pedra, ou com um pau e causar a morte dessa pessoa, ele é culpado pelo crime e será condenado à morte.
+
+[[v4-35-19]]
+
+^<<v4-35-19,19>>^ Quando o parente mais chegado do morto encontrar o assassino, deverá matá-lo.
+
+[[v4-35-20]]
+
+^<<v4-35-20,20>>^ — Se um homem empurrar o outro com ódio ou jogar alguma coisa contra ele com má intenção, e ele morrer;
+
+[[v4-35-21]]
+
+^<<v4-35-21,21>>^ ou se um homem esmurrar um inimigo, e este morrer, o culpado será morto, pois é um assassino. Quando o parente mais chegado do falecido encontrar o assassino, deverá matá-lo.
+
+[[v4-35-22]]
+
+^<<v4-35-22,22>>^ — Mas pode acontecer que alguém, sem querer, empurre o companheiro que não era seu inimigo; ou atire, sem má intenção, alguma coisa contra ele.
+
+[[v4-35-23]]
+
+^<<v4-35-23,23>>^ Pode acontecer também que alguém, sem ver, atire uma pedra que venha a cair em cima de alguém e cause a sua morte. Porém os dois não eram inimigos, e quem matou não fez isso de propósito.
+
+[[v4-35-24]]
+
+^<<v4-35-24,24>>^ Nesses casos o povo julgará a favor do que matou sem querer e não a favor do homem que era responsável por vingar a morte do seu parente.
+
+[[v4-35-25]]
+
+^<<v4-35-25,25>>^ O povo deverá proteger o homem que matou sem querer, não deixando que ele seja morto pelo parente do homem que morreu. O povo o fará voltar à cidade de refúgio para onde havia fugido, e ali o assassino ficará até a morte do Grande Sacerdote , que foi ungido  com azeite sagrado.
+
+[[v4-35-26]]
+
+^<<v4-35-26,26>>^ Mas, se em qualquer tempo o homem que matou alguém sair da cidade de refúgio para onde havia fugido,
+
+[[v4-35-27]]
+
+^<<v4-35-27,27>>^ e o responsável por vingar a morte do seu parente o encontrar, ele poderá matá-lo e não será culpado por essa morte.
+
+[[v4-35-28]]
+
+^<<v4-35-28,28>>^ O homem que matou alguém deverá ficar na sua cidade de refúgio até a morte do Grande Sacerdote, mas depois poderá voltar para a sua casa.
+
+[[v4-35-29]]
+
+^<<v4-35-29,29>>^ Essas ordens serão uma lei  para vocês e os seus descendentes, em todos os lugares onde vocês morarem.
+
+[[v4-35-30]]
+
+^<<v4-35-30,30>>^ — Quem matar uma pessoa será condenado à morte, conforme o que duas ou mais testemunhas disserem; uma testemunha só não basta para condenar alguém à morte.
+
+[[v4-35-31]]
+
+^<<v4-35-31,31>>^ A vida de um criminoso condenado à morte não pode ser comprada com dinheiro. Ele será morto.
+
+[[v4-35-32]]
+
+^<<v4-35-32,32>>^ Também não aceitem dinheiro para libertar aquele que tiver fugido para uma cidade de refúgio e que quiser voltar para a sua terra antes da morte do Grande Sacerdote.
+
+'''
+
+xref:004-numeros/004-numeros-034.adoc#v4-34-0[&#60; Capítulo Anterior] | <<v4-35-0,Topo>> | xref:004-numeros/004-numeros-036.adoc#v4-36-0[Próximo Capítulo &#62;]

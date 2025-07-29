@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v7-17-0]]
+=== Juízes, 17
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v7-17-1]]
+
+^<<v7-17-1,1>>^ Havia um homem chamado Mica, que morava na região montanhosa de Efraim.
+
+[[v7-17-2]]
+
+^<<v7-17-2,2>>^ Ele disse à sua mãe: — Quando roubaram aquelas suas mil e cem barras de prata, a senhora amaldiçoou o ladrão. Eu ouvi a senhora fazer isso. Sabe de uma coisa? A prata está comigo. Fui eu que roubei. A sua mãe disse: — Que o Senhor  abençoe você, meu filho!
+
+[[v7-17-3]]
+
+^<<v7-17-3,3>>^ Então ele devolveu à sua mãe as mil e cem barras de prata. E ela disse: — Meu filho, para tirar a maldição de cima de você, vou dar esta prata como oferta ao Senhor . Ela será usada para fazer um ídolo de madeira, folheado a prata. Por isso eu devolvo agora esta prata a você.
+
+[[v7-17-4]]
+
+^<<v7-17-4,4>>^ Mas o filho tornou a devolver a prata à sua mãe. Então ela pegou duzentas barras de prata e entregou a um ourives. Ele fez um ídolo de madeira e o folheou com a prata. E o ídolo foi colocado na casa de Mica.
+
+[[v7-17-5]]
+
+^<<v7-17-5,5>>^ Mica fez uma capela. Ele fez outros ídolos e também uma roupa de sacerdote. Separou um dos seus filhos para ser o seu sacerdote.
+
+[[v7-17-6]]
+
+^<<v7-17-6,6>>^ Naquele tempo não havia rei em Israel, e cada um fazia o que bem queria.
+
+[[v7-17-7]]
+
+^<<v7-17-7,7>>^ Um rapaz estava passando uns tempos na cidade de Belém de Judá. Ele era levita .
+
+[[v7-17-8]]
+
+^<<v7-17-8,8>>^ Esse moço saiu de Belém, procurando um lugar para morar. E, viajando pela região montanhosa de Efraim, chegou à casa de Mica.
+
+[[v7-17-9]]
+
+^<<v7-17-9,9>>^ E Mica lhe perguntou: — De onde você vem? E o moço respondeu: — Eu sou levita, de Belém, da região de Judá, e estou procurando um lugar para morar.
+
+[[v7-17-10]]
+
+^<<v7-17-10,10>>^ — Fique comigo — disse Mica — e seja o meu conselheiro e sacerdote. Eu lhe darei dez barras de prata por ano, roupa e comida.
+
+[[v7-17-11]]
+
+^<<v7-17-11,11>>^ Então o jovem levita concordou em ficar com Mica e ficou sendo como um filho para ele.
+
+[[v7-17-12]]
+
+^<<v7-17-12,12>>^ Assim Mica o escolheu para ser o seu sacerdote, e o rapaz ficou morando na sua casa.
+
+[[v7-17-13]]
+
+^<<v7-17-13,13>>^ E Mica disse: — Eu sei que agora o Senhor  Deus fará com que tudo corra bem para mim, pois tenho um levita como sacerdote.
+
+'''
+
+xref:007-juizes/007-juizes-016.adoc#v7-16-0[&#60; Capítulo Anterior] | <<v7-17-0,Topo>> | xref:007-juizes/007-juizes-018.adoc#v7-18-0[Próximo Capítulo &#62;]

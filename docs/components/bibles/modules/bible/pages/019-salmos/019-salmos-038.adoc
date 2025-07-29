@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v19-38-0]]
+=== Salmos, 38
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-38-1]]
+
+^<<v19-38-1,1>>^ Ó Senhor  Deus, não me corrijas quando estiveres irado ! Não me castigues no teu furor.
+
+[[v19-38-2]]
+
+^<<v19-38-2,2>>^ As tuas flechas de dor me atingiram; eu senti o peso do castigo da tua mão.
+
+[[v19-38-3]]
+
+^<<v19-38-3,3>>^ Por causa da tua ira, estou muito doente. O meu corpo todo está enfermo por causa das minhas maldades.
+
+[[v19-38-4]]
+
+^<<v19-38-4,4>>^ Estou me afogando nos meus pecados; eles são uma carga pesada demais para mim.
+
+[[v19-38-5]]
+
+^<<v19-38-5,5>>^ Por causa da minha falta de juízo, tenho feridas que cheiram mal e apodrecem.
+
+[[v19-38-6]]
+
+^<<v19-38-6,6>>^ Estou muito abatido e encurvado e choro o dia todo.
+
+[[v19-38-7]]
+
+^<<v19-38-7,7>>^ Estou muito doente, queimando de febre.
+
+[[v19-38-8]]
+
+^<<v19-38-8,8>>^ Sinto-me profundamente abatido e desanimado; o meu coração está aflito, e eu fico gemendo de dor.
+
+[[v19-38-9]]
+
+^<<v19-38-9,9>>^ Ó Senhor, tu sabes o que eu desejo, pois ouves todos os meus gemidos.
+
+[[v19-38-10]]
+
+^<<v19-38-10,10>>^ O meu coração bate depressa, estou fraco, e os meus olhos perderam o brilho.
+
+[[v19-38-11]]
+
+^<<v19-38-11,11>>^ Por causa das minhas feridas, os meus amigos não chegam perto de mim, e até a minha família se afasta.
+
+[[v19-38-12]]
+
+^<<v19-38-12,12>>^ Os que me querem matar armam armadilhas para me pegar; os que me querem ferir ameaçam me desgraçar e não param de fazer planos contra mim.
+
+[[v19-38-13]]
+
+^<<v19-38-13,13>>^ Porém eu finjo que sou surdo e não ouço; eu me faço de mudo e não falo;
+
+[[v19-38-14]]
+
+^<<v19-38-14,14>>^ sou como alguém que não responde porque não pode ouvir.
+
+[[v19-38-15]]
+
+^<<v19-38-15,15>>^ Apesar disso, eu ponho a minha esperança em ti, ó Senhor ; tu, Senhor meu Deus, me responderás.
+
+[[v19-38-16]]
+
+^<<v19-38-16,16>>^ Não deixes que os meus inimigos se alegrem com a minha desgraça; não deixes que fiquem contentes com o meu fracasso.
+
+[[v19-38-17]]
+
+^<<v19-38-17,17>>^ Pois estou quase caindo, e o meu sofrimento não acaba mais.
+
+[[v19-38-18]]
+
+^<<v19-38-18,18>>^ Eu confesso as minhas maldades e os meus pecados, pois me deixam muito aflito.
+
+[[v19-38-19]]
+
+^<<v19-38-19,19>>^ No entanto, os meus inimigos estão fortes e com saúde, e há muita gente que me odeia sem motivo.
+
+[[v19-38-20]]
+
+^<<v19-38-20,20>>^ Aqueles que pagam o bem com o mal estão contra mim porque procuro fazer o bem.
+
+[[v19-38-21]]
+
+^<<v19-38-21,21>>^ Ó Senhor  Deus, não me abandones! Não te afastes de mim, meu Deus!
+
+[[v19-38-22]]
+
+^<<v19-38-22,22>>^ Ajuda-me agora, ó Senhor, meu Salvador!
+
+'''
+
+xref:019-salmos/019-salmos-037.adoc#v19-37-0[&#60; Capítulo Anterior] | <<v19-38-0,Topo>> | xref:019-salmos/019-salmos-039.adoc#v19-39-0[Próximo Capítulo &#62;]

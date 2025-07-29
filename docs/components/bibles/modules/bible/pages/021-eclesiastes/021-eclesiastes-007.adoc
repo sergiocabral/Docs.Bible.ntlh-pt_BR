@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v21-7-0]]
+=== Eclesiastes, 7
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v21-7-1]]
+
+^<<v21-7-1,1>>^ O nome limpo vale mais do que o perfume mais caro; e o dia da morte é melhor do que o dia do nascimento.
+
+[[v21-7-2]]
+
+^<<v21-7-2,2>>^ É melhor ir a uma casa onde há luto do que ir a uma casa onde há festa, pois onde há luto lembramos que um dia também vamos morrer. E os vivos nunca devem esquecer isso.
+
+[[v21-7-3]]
+
+^<<v21-7-3,3>>^ A tristeza é melhor do que o riso; pois a tristeza faz o rosto ficar abatido, mas torna o coração compreensivo.
+
+[[v21-7-4]]
+
+^<<v21-7-4,4>>^ Quem só pensa em se divertir é tolo; quem é sábio pensa também na morte.
+
+[[v21-7-5]]
+
+^<<v21-7-5,5>>^ É melhor ouvir a repreensão de um sábio do que escutar elogios de um tolo.
+
+[[v21-7-6]]
+
+^<<v21-7-6,6>>^ A risada dos tolos é como os estalos de espinhos no fogo — não quer dizer nada.
+
+[[v21-7-7]]
+
+^<<v21-7-7,7>>^ Quando o sábio usa a violência, ele se torna tolo. Quem aceita suborno  estraga o seu caráter.
+
+[[v21-7-8]]
+
+^<<v21-7-8,8>>^ O fim de uma coisa vale mais do que o seu começo. A pessoa paciente é melhor do que a orgulhosa.
+
+[[v21-7-9]]
+
+^<<v21-7-9,9>>^ Controle sempre o seu gênio; é tolice alimentar o ódio.
+
+[[v21-7-10]]
+
+^<<v21-7-10,10>>^ Nunca pergunte: "Por que será que antigamente tudo era melhor?" Essa pergunta não é inteligente.
+
+[[v21-7-11]]
+
+^<<v21-7-11,11>>^ Todos neste mundo devem ser sábios. Ter sabedoria é tão bom como receber uma herança.
+
+[[v21-7-12]]
+
+^<<v21-7-12,12>>^ A sabedoria é melhor do que o dinheiro. A vantagem da sabedoria é que ela conserva a vida da gente.
+
+[[v21-7-13]]
+
+^<<v21-7-13,13>>^ Pense no que Deus faz. Quem pode endireitar o que ele fez torto?
+
+[[v21-7-14]]
+
+^<<v21-7-14,14>>^ Quando as coisas correrem bem, fique contente; quando as dificuldades chegarem, lembre disto: é Deus quem manda tanto a felicidade como as dificuldades, e a gente nunca sabe o que vai acontecer amanhã.
+
+[[v21-7-15]]
+
+^<<v21-7-15,15>>^ A minha vida tem sido uma ilusão, mas nela eu tenho visto de tudo. Há pessoas boas que morrem, e há pessoas más que continuam a viver a sua vida errada.
+
+[[v21-7-16]]
+
+^<<v21-7-16,16>>^ Por isso, não seja bom demais, nem sábio demais; por que você iria se destruir?
+
+[[v21-7-17]]
+
+^<<v21-7-17,17>>^ Mas também não seja mau demais, nem tolo demais; por que você iria morrer antes do tempo?
+
+[[v21-7-18]]
+
+^<<v21-7-18,18>>^ Evite tanto uma coisa como a outra. Se você temer a Deus , terá sucesso em tudo.
+
+[[v21-7-19]]
+
+^<<v21-7-19,19>>^ A sabedoria pode fazer mais por uma pessoa do que dez prefeitos juntos podem fazer por uma cidade.
+
+[[v21-7-20]]
+
+^<<v21-7-20,20>>^ Não existe no mundo ninguém que faça sempre o que é direito e que nunca erre.
+
+[[v21-7-21]]
+
+^<<v21-7-21,21>>^ Não fique escutando tudo o que os outros dizem, pois poderá ouvir o seu empregado falar mal de você.
+
+[[v21-7-22]]
+
+^<<v21-7-22,22>>^ E você sabe muito bem que muitas vezes você mesmo tem falado mal dos outros.
+
+[[v21-7-23]]
+
+^<<v21-7-23,23>>^ Eu usei a minha sabedoria para examinar tudo isso. Estava resolvido a ser sábio, mas não conseguia alcançar a sabedoria.
+
+[[v21-7-24]]
+
+^<<v21-7-24,24>>^ Como é que alguém pode descobrir o sentido das coisas que acontecem? Isso é profundo demais para nós e muito difícil de entender.
+
+[[v21-7-25]]
+
+^<<v21-7-25,25>>^ Mas eu resolvi estudar e conhecer as coisas. Estava decidido a encontrar a sabedoria e a achar as respostas para as minhas perguntas; queria saber por que a maldade e a falta de juízo são loucura.
+
+[[v21-7-26]]
+
+^<<v21-7-26,26>>^ Eu encontrei uma coisa que é mais amarga do que a morte — um certo tipo de mulher. O amor que ela oferece é uma armadilha ou uma rede para pegar você; os seus braços são correntes para prendê-lo. O homem que agrada a Deus consegue fugir dela, mas o pecador, não.
+
+[[v21-7-27]]
+
+^<<v21-7-27,27>>^ Eu descobri isso pouco a pouco, quando procurava respostas para as minhas perguntas.
+
+[[v21-7-28]]
+
+^<<v21-7-28,28>>^ Procurei outras respostas, mas não encontrei nenhuma. Entre mil homens encontrei um que eu poderia respeitar, mas entre as mulheres não achei nem uma.
+
+[[v21-7-29]]
+
+^<<v21-7-29,29>>^ Tudo o que aprendi se resume nisto: Deus nos fez simples e direitos, mas nós complicamos tudo.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-006.adoc#v21-6-0[&#60; Capítulo Anterior] | <<v21-7-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-008.adoc#v21-8-0[Próximo Capítulo &#62;]

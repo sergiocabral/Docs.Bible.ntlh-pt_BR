@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v19-73-0]]
+=== Salmos, 73
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-73-1]]
+
+^<<v19-73-1,1>>^ Na verdade, Deus é bom para o povo de Israel, ele é bom para aqueles que têm um coração puro.
+
+[[v19-73-2]]
+
+^<<v19-73-2,2>>^ Porém, quando vi que tudo ia bem para os orgulhosos e os maus, quase perdi a confiança em Deus porque fiquei com inveja deles.
+
+[[v19-73-3]]
+
+^<<v19-73-3,3>>^ Porém, quando vi que tudo ia bem
+
+[[v19-73-4]]
+
+^<<v19-73-4,4>>^ Os maus não sofrem; eles são fortes e cheios de saúde.
+
+[[v19-73-5]]
+
+^<<v19-73-5,5>>^ Eles não sofrem como os outros sofrem, nem têm as aflições que os outros têm.
+
+[[v19-73-6]]
+
+^<<v19-73-6,6>>^ Por isso, usam o orgulho como se fosse um colar e a violência, como uma capa .
+
+[[v19-73-7]]
+
+^<<v19-73-7,7>>^ O coração deles está cheio de maldade, e a mente deles só vive fazendo planos perversos.
+
+[[v19-73-8]]
+
+^<<v19-73-8,8>>^ Eles gostam de caçoar e só falam de coisas más. São orgulhosos e fazem planos para explorar os outros.
+
+[[v19-73-9]]
+
+^<<v19-73-9,9>>^ Falam mal de Deus, que está no céu, e com orgulho dão ordens às pessoas aqui na terra.
+
+[[v19-73-10]]
+
+^<<v19-73-10,10>>^ Assim o povo de Deus vai atrás deles e crê no que eles dizem.
+
+[[v19-73-11]]
+
+^<<v19-73-11,11>>^ Eles afirmam: "Deus não vai saber disso; o Altíssimo não descobrirá nada!"
+
+[[v19-73-12]]
+
+^<<v19-73-12,12>>^ Os maus são assim: eles têm muito e ficam cada vez mais ricos.
+
+[[v19-73-13]]
+
+^<<v19-73-13,13>>^ Parece que não adiantou nada eu me conservar puro e ter as mãos limpas de pecado.
+
+[[v19-73-14]]
+
+^<<v19-73-14,14>>^ Pois tu, ó Deus, me tens feito sofrer o dia inteiro, e todas as manhãs me castigas.
+
+[[v19-73-15]]
+
+^<<v19-73-15,15>>^ Se eu tivesse falado como os maus, teria traído o teu povo.
+
+[[v19-73-16]]
+
+^<<v19-73-16,16>>^ Então eu me esforcei para entender essas coisas, mas isso era difícil demais para mim.
+
+[[v19-73-17]]
+
+^<<v19-73-17,17>>^ Porém, quando fui ao teu Templo, entendi o que acontecerá no fim com os maus.
+
+[[v19-73-18]]
+
+^<<v19-73-18,18>>^ Tu os pões em lugares onde eles escorregam e fazes com que caiam mortos.
+
+[[v19-73-19]]
+
+^<<v19-73-19,19>>^ Eles são destruídos num momento e têm um fim horrível.
+
+[[v19-73-20]]
+
+^<<v19-73-20,20>>^ Quando te levantas, Senhor, tu não lembras dos maus, pois eles são como um sonho que a gente esquece quando acorda de manhã.
+
+[[v19-73-21]]
+
+^<<v19-73-21,21>>^ O meu coração estava cheio de amargura, e eu fiquei revoltado.
+
+[[v19-73-22]]
+
+^<<v19-73-22,22>>^ Eu não podia compreender, ó Deus; era como um animal, sem entendimento.
+
+[[v19-73-23]]
+
+^<<v19-73-23,23>>^ No entanto, estou sempre contigo, e tu me seguras pela mão.
+
+[[v19-73-24]]
+
+^<<v19-73-24,24>>^ Tu me guias com os teus conselhos e no fim me receberás com honras.
+
+[[v19-73-25]]
+
+^<<v19-73-25,25>>^ No céu, eu só tenho a ti. E, se tenho a ti, que mais poderia querer na terra?
+
+[[v19-73-26]]
+
+^<<v19-73-26,26>>^ Ainda que a minha mente e o meu corpo enfraqueçam, Deus é a minha força, ele é tudo o que sempre preciso.
+
+[[v19-73-27]]
+
+^<<v19-73-27,27>>^ Os que se afastam de ti certamente morrerão, e tu destruirás os que são infiéis a ti.
+
+'''
+
+xref:019-salmos/019-salmos-072.adoc#v19-72-0[&#60; Capítulo Anterior] | <<v19-73-0,Topo>> | xref:019-salmos/019-salmos-074.adoc#v19-74-0[Próximo Capítulo &#62;]

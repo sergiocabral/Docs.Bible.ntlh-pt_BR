@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v4-19-0]]
+=== Números, 19
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v4-19-1]]
+
+^<<v4-19-1,1>>^ O Senhor  Deus mandou que Moisés e Arão
+
+[[v4-19-2]]
+
+^<<v4-19-2,2>>^ dessem aos israelitas a seguinte ordem: — Tragam uma novilha vermelha sem defeito e que ainda não tenha trabalhado na lavoura
+
+[[v4-19-3]]
+
+^<<v4-19-3,3>>^ e entreguem ao sacerdote Eleazar. Ela deverá ser levada para fora do acampamento e será morta ali na frente dele.
+
+[[v4-19-4]]
+
+^<<v4-19-4,4>>^ Então Eleazar pegará o sangue e com o dedo o borrifará sete vezes na direção da entrada da Tenda Sagrada .
+
+[[v4-19-5]]
+
+^<<v4-19-5,5>>^ Em seguida a novilha será queimada na frente dele. Serão queimados o couro, a carne, o sangue e as tripas.
+
+[[v4-19-6]]
+
+^<<v4-19-6,6>>^ O sacerdote pegará um pedaço de madeira de cedro, um galho de hissopo  e lã tingida de vermelho e os jogará no fogo em que a novilha estiver sendo queimada.
+
+[[v4-19-7]]
+
+^<<v4-19-7,7>>^ Aí ele lavará a roupa que estiver vestindo e tomará um banho e depois poderá entrar no acampamento. Mas ficará impuro  até o pôr do sol.
+
+[[v4-19-8]]
+
+^<<v4-19-8,8>>^ Aquele que queimar a novilha também lavará a roupa que estiver vestindo e tomará um banho, mas ficará impuro até o pôr do sol.
+
+[[v4-19-9]]
+
+^<<v4-19-9,9>>^ Um homem que esteja puro  ajuntará as cinzas da novilha e as colocará fora do acampamento, num lugar puro. Ali elas serão guardadas pelo povo de Israel para serem usadas na preparação da água que tira a impureza das pessoas. Essa cerimônia serve para tirar pecados.
+
+[[v4-19-10]]
+
+^<<v4-19-10,10>>^ Aquele que ajuntar as cinzas deverá lavar a roupa que estiver vestindo, mas ficará impuro até o pôr do sol. Essa lei  será para sempre, tanto para os israelitas como para os estrangeiros que moram com vocês.
+
+[[v4-19-11]]
+
+^<<v4-19-11,11>>^ — Quem tocar em algum defunto ficará impuro  sete dias.
+
+[[v4-19-12]]
+
+^<<v4-19-12,12>>^ No terceiro dia e no sétimo essa pessoa deverá se purificar  com a água da purificação e ficará pura . Mas, se ela não se purificar no terceiro dia e no sétimo, não ficará pura.
+
+[[v4-19-13]]
+
+^<<v4-19-13,13>>^ Toda pessoa que tocar num defunto e não se purificar ficará impura porque a água da purificação não foi jogada sobre ela. Ela faz com que a Tenda  de Deus, o Senhor , fique impura. Essa pessoa não pertencerá mais ao povo de Israel.
+
+[[v4-19-14]]
+
+^<<v4-19-14,14>>^ — Se alguém morrer numa barraca, quem entrar nela ou estiver nela ficará impuro sete dias.
+
+[[v4-19-15]]
+
+^<<v4-19-15,15>>^ O pote ou jarro que estiver aberto ou destampado ficará impuro.
+
+[[v4-19-16]]
+
+^<<v4-19-16,16>>^ Se no campo alguém tocar numa pessoa que foi morta ou teve morte natural, ou tocar em qualquer osso de gente ou numa sepultura, ficará impuro sete dias.
+
+[[v4-19-17]]
+
+^<<v4-19-17,17>>^ — Para purificarem essa pessoa que ficou impura, vocês deverão pegar as cinzas da novilha vermelha que foi queimada como oferta para tirar o pecado, deverão colocá-las dentro de um pote e derramar água limpa em cima.
+
+[[v4-19-18]]
+
+^<<v4-19-18,18>>^ No caso de alguém ter tocado num defunto, um homem que esteja puro pegará um galho de hissopo , molhará naquela água e com ela borrifará a barraca e todas as coisas e pessoas que estiverem ali dentro. Se alguém tiver tocado em osso de gente ou numa sepultura, deverá ser borrifado com a água da purificação por uma pessoa que esteja pura.
+
+[[v4-19-19]]
+
+^<<v4-19-19,19>>^ No terceiro dia e no sétimo quem estiver puro borrifará água sobre a pessoa impura. No sétimo dia a pessoa ficará pura. Ela deverá lavar a roupa que estiver vestindo, e tomará um banho, e ao pôr do sol ficará pura.
+
+[[v4-19-20]]
+
+^<<v4-19-20,20>>^ — No entanto, quem estiver impuro e não se purificar ficará impuro porque a água da purificação não foi borrifada nele. Essa pessoa fez com que a Tenda do Senhor  ficasse impura e por isso essa pessoa será expulsa do meio do povo de Israel.
+
+[[v4-19-21]]
+
+^<<v4-19-21,21>>^ Vocês deverão obedecer a essa lei para sempre. A pessoa que borrifar a água da purificação deverá lavar a roupa que estiver vestindo. E quem tocar na água ficará impuro até o pôr do sol.
+
+[[v4-19-22]]
+
+^<<v4-19-22,22>>^ Tudo o que uma pessoa impura tocar ficará impuro; e quem tocar nessa pessoa também ficará impuro até o pôr do sol.
+
+'''
+
+xref:004-numeros/004-numeros-018.adoc#v4-18-0[&#60; Capítulo Anterior] | <<v4-19-0,Topo>> | xref:004-numeros/004-numeros-020.adoc#v4-20-0[Próximo Capítulo &#62;]

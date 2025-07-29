@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v14-36-0]]
+=== 2 Crônicas, 36
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v14-36-1]]
+
+^<<v14-36-1,1>>^ O povo de Judá escolheu Joacaz, filho de Josias, e o colocou como rei em Jerusalém, em lugar do seu pai.
+
+[[v14-36-2]]
+
+^<<v14-36-2,2>>^ Joacaz tinha vinte e três anos de idade quando se tornou rei de Judá. Ele governou três meses em Jerusalém.
+
+[[v14-36-3]]
+
+^<<v14-36-3,3>>^ Joacaz foi tirado do trono pelo rei Neco, do Egito, o qual também obrigou o povo de Judá a pagar três mil e quatrocentos quilos de prata e trinta e quatro quilos de ouro.
+
+[[v14-36-4]]
+
+^<<v14-36-4,4>>^ Neco pôs Eliaquim, irmão de Joacaz, como rei de Judá e de Jerusalém e mudou o nome dele para Jeoaquim. Joacaz foi levado por Neco para o Egito.
+
+[[v14-36-5]]
+
+^<<v14-36-5,5>>^ Jeoaquim tinha vinte e cinco anos de idade quando se tornou rei de Judá e governou durante onze anos em Jerusalém. Ele fez aquilo que não agrada ao Senhor , seu Deus.
+
+[[v14-36-6]]
+
+^<<v14-36-6,6>>^ Nabucodonosor, rei da Babilônia, invadiu o país, prendeu Jeoaquim e o mandou preso com correntes para a Babilônia.
+
+[[v14-36-7]]
+
+^<<v14-36-7,7>>^ Nabucodonosor levou também alguns objetos do Templo para a Babilônia e os colocou no seu palácio.
+
+[[v14-36-8]]
+
+^<<v14-36-8,8>>^ O resto da história de Jeoaquim, as coisas nojentas que fez e as acusações que foram feitas contra ele, tudo isso está escrito na História dos Reis de Israel e de Judá . E o seu filho Joaquim ficou no lugar dele como rei.
+
+[[v14-36-9]]
+
+^<<v14-36-9,9>>^ Joaquim tinha dezoito anos de idade quando se tornou rei de Judá. Ele governou três meses e dez dias em Jerusalém. Joaquim fez coisas erradas, que não agradam a Deus, o Senhor .
+
+[[v14-36-10]]
+
+^<<v14-36-10,10>>^ Na primavera daquele ano, o rei Nabucodonosor mandou prendê-lo e levá-lo como prisioneiro para a Babilônia, levando também os objetos mais valiosos que havia no Templo. E Nabucodonosor colocou Zedequias, tio de Joaquim, como rei de Judá e de Jerusalém.
+
+[[v14-36-11]]
+
+^<<v14-36-11,11>>^ Zedequias tinha vinte e um anos de idade quando se tornou rei de Judá. Ele governou onze anos em Jerusalém.
+
+[[v14-36-12]]
+
+^<<v14-36-12,12>>^ Zedequias fez coisas erradas, que não agradam a Deus, o Senhor . E também não se humilhou diante do profeta  Jeremias, que anunciava a mensagem do Senhor .
+
+[[v14-36-13]]
+
+^<<v14-36-13,13>>^ Zedequias se revoltou contra o rei Nabucodonosor, que o havia obrigado a jurar pelo nome de Deus que seria seu aliado. Foi teimoso e não quis se arrepender e voltar para o Senhor , o Deus de Israel.
+
+[[v14-36-14]]
+
+^<<v14-36-14,14>>^ Além disso, as autoridades de Judá, os sacerdotes e o povo estavam pecando cada vez mais, seguindo o exemplo dos povos pagãos e adorando ídolos. Com isso profanaram  o Templo, que o Senhor  havia escolhido como o lugar santo onde ele devia ser adorado.
+
+[[v14-36-15]]
+
+^<<v14-36-15,15>>^ O Senhor , o Deus dos seus antepassados, continuou a avisá-los por meio dos seus profetas  porque tinha pena do seu povo e do Templo, a sua casa.
+
+[[v14-36-16]]
+
+^<<v14-36-16,16>>^ Mas eles riram desses mensageiros de Deus, rejeitaram as suas mensagens e zombaram deles. Finalmente, Deus ficou tão irado  com o seu povo, que não houve mais remédio.
+
+[[v14-36-17]]
+
+^<<v14-36-17,17>>^ Então Deus fez com que o rei da Babilônia marchasse com o seu exército contra eles. Ele matou os moços à espada, até mesmo no Templo, e não teve dó de ninguém, nem dos moços nem das moças, nem dos adultos nem dos velhinhos. Deus entregou todos nas mãos do rei da Babilônia.
+
+[[v14-36-18]]
+
+^<<v14-36-18,18>>^ Este pegou todos os objetos do Templo, os grandes e os pequenos, todos os tesouros do Templo, do rei e das altas autoridades e levou tudo para a Babilônia.
+
+[[v14-36-19]]
+
+^<<v14-36-19,19>>^ Os soldados queimaram o Templo, derrubaram as muralhas de Jerusalém, queimaram todos os palácios e destruíram todos os objetos de valor.
+
+[[v14-36-20]]
+
+^<<v14-36-20,20>>^ Os moradores de Jerusalém que não foram mortos foram levados como prisioneiros para a Babilônia, onde se tornaram escravos do rei e dos seus descendentes, até que o Reino da Pérsia começou a dominar.
+
+[[v14-36-21]]
+
+^<<v14-36-21,21>>^ Assim se cumpriu o que Senhor  Deus tinha dito pelo profeta Jeremias: "O país ficará em ruínas setenta anos, e durante todo esse tempo a terra vai guardar os seus sábados e descansar ."
+
+[[v14-36-22]]
+
+^<<v14-36-22,22>>^ No primeiro ano do reinado de Ciro , rei da Pérsia, cumpriu-se o que o Senhor  Deus tinha dito pelo profeta  Jeremias. O Senhor  tocou no coração de Ciro, e este ordenou que fosse comunicado em todo o seu reino, por escrito e também por meio de leitura em público, este decreto:
+
+[[v14-36-23]]
+
+^<<v14-36-23,23>>^ "Eu, Ciro, rei da Pérsia, declaro o seguinte: O Senhor , o Deus do céu, me fez governador do mundo inteiro e me encarregou de construir para ele um templo em Jerusalém, na região de Judá. Eu ordeno que todos vocês que são o seu povo vão a Jerusalém e peço que Deus esteja com vocês."
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-035.adoc#v14-35-0[&#60; Capítulo Anterior] | <<v14-36-0,Topo>> | xref:015-esdras/015-esdras-001.adoc#v15-1-0[Próximo Capítulo &#62;]

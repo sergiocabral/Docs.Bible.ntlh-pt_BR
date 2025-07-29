@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v4-10-0]]
+=== Números, 10
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v4-10-1]]
+
+^<<v4-10-1,1>>^ O Senhor  Deus disse a Moisés o seguinte:
+
+[[v4-10-2]]
+
+^<<v4-10-2,2>>^ — Faça duas trombetas de prata batida. Com elas você chamará o povo para se reunir e dará o sinal de partida do acampamento.
+
+[[v4-10-3]]
+
+^<<v4-10-3,3>>^ Quando forem tocadas as duas trombetas, todo o povo se reunirá com você na entrada da Tenda Sagrada .
+
+[[v4-10-4]]
+
+^<<v4-10-4,4>>^ Porém, quando uma só for tocada, apenas os chefes dos grupos de famílias se reunirão com você.
+
+[[v4-10-5]]
+
+^<<v4-10-5,5>>^ Quando tocarem sons curtos e fortes, as tribos  acampadas a leste deverão começar a sair.
+
+[[v4-10-6]]
+
+^<<v4-10-6,6>>^ Quando tocarem pela segunda vez sons curtos e fortes, as tribos que estão ao sul começarão a sair. O sinal para partida serão toques curtos e fortes;
+
+[[v4-10-7]]
+
+^<<v4-10-7,7>>^ mas, para reunir o povo, deverão ser dados toques longos.
+
+[[v4-10-8]]
+
+^<<v4-10-8,8>>^ Os encarregados de tocar as trombetas serão os sacerdotes, que são descendentes de Arão. — A seguinte lei  será obedecida para sempre pelos israelitas.
+
+[[v4-10-9]]
+
+^<<v4-10-9,9>>^ Quando vocês estiverem em guerra no seu próprio país, defendendo-se de um inimigo que os atacou, toquem o sinal para a batalha com essas trombetas. Eu, o Senhor , o Deus de vocês, os ajudarei e os livrarei dos seus inimigos.
+
+[[v4-10-10]]
+
+^<<v4-10-10,10>>^ Também nas ocasiões de alegria, isto é, nas Festas da Lua Nova  e nas outras festas religiosas, vocês deverão tocar as trombetas quando apresentarem os sacrifícios  que serão completamente queimados e as ofertas de paz. Então eu os ajudarei. Eu sou o Senhor , o Deus de vocês.
+
+[[v4-10-11]]
+
+^<<v4-10-11,11>>^ No segundo ano depois que o povo saiu do Egito, no dia vinte do segundo mês, a nuvem se levantou de cima da Tenda Sagrada .
+
+[[v4-10-12]]
+
+^<<v4-10-12,12>>^ Nesse dia os israelitas começaram a caminhar, partindo assim do deserto do Sinai; e a nuvem parou no deserto de Parã.
+
+[[v4-10-13]]
+
+^<<v4-10-13,13>>^ Assim, pela primeira vez, eles começaram a caminhar, conforme a ordem que o Senhor  tinha dado a Moisés.
+
+[[v4-10-14]]
+
+^<<v4-10-14,14>>^ Primeiro saíram os que eram da bandeira da tribo  de Judá, grupo por grupo, comandados por Nasom, filho de Aminadabe.
+
+[[v4-10-15]]
+
+^<<v4-10-15,15>>^ Netanel, filho de Zuar, comandava a tribo de Issacar;
+
+[[v4-10-16]]
+
+^<<v4-10-16,16>>^ e Eliabe, filho de Helom, comandava a tribo de Zebulom.
+
+[[v4-10-17]]
+
+^<<v4-10-17,17>>^ Então a Tenda foi desarmada, e os levitas  dos grupos de famílias de Gérson e de Merari partiram, levando a Tenda.
+
+[[v4-10-18]]
+
+^<<v4-10-18,18>>^ Depois saíram aqueles que eram da bandeira levada pela tribo de Rúben, grupo por grupo, comandados por Elisur, filho de Sedeur.
+
+[[v4-10-19]]
+
+^<<v4-10-19,19>>^ Selumiel, filho de Zurisadai, comandava a tribo de Simeão,
+
+[[v4-10-20]]
+
+^<<v4-10-20,20>>^ e Eliasafe, filho de Deuel, comandava a tribo de Gade.
+
+[[v4-10-21]]
+
+^<<v4-10-21,21>>^ Em seguida saíram os levitas do grupo de famílias de Coate, carregando os objetos sagrados. E, quando chegaram ao outro acampamento, a Tenda já estava armada.
+
+[[v4-10-22]]
+
+^<<v4-10-22,22>>^ Então saíram aqueles que eram da bandeira da tribo de Efraim, grupo por grupo, comandados por Elisama, filho de Amiúde.
+
+[[v4-10-23]]
+
+^<<v4-10-23,23>>^ Gamaliel, filho de Pedasur, comandava a tribo de Manassés;
+
+[[v4-10-24]]
+
+^<<v4-10-24,24>>^ e Abidã, filho de Gideoni, comandava a tribo de Benjamim.
+
+[[v4-10-25]]
+
+^<<v4-10-25,25>>^ Depois, atrás de todas as outras tribos, saíram aqueles que eram da bandeira da tribo de Dã, grupo por grupo, comandados por Aiezer, filho de Amisadai.
+
+[[v4-10-26]]
+
+^<<v4-10-26,26>>^ Pagiel, filho de Ocrã, comandava a tribo de Aser,
+
+[[v4-10-27]]
+
+^<<v4-10-27,27>>^ e Aira, filho de Enã, comandava a tribo de Naftali.
+
+[[v4-10-28]]
+
+^<<v4-10-28,28>>^ Os israelitas começaram a caminhar nesta ordem, grupo por grupo.
+
+[[v4-10-29]]
+
+^<<v4-10-29,29>>^ Moisés disse ao seu cunhado Hobabe, filho de Jetro, o midianita: — Nós estamos saindo para o lugar que o Senhor  disse que nos daria. Ele prometeu que faria do povo de Israel uma nação rica; portanto, venha com a gente, e repartiremos com você as coisas boas que conseguirmos.
+
+[[v4-10-30]]
+
+^<<v4-10-30,30>>^ Hobabe respondeu: — Não. Eu vou voltar para a minha terra e para a minha família.
+
+[[v4-10-31]]
+
+^<<v4-10-31,31>>^ — Por favor, não faça isso — disse Moisés. — Você conhece o deserto e sabe onde podemos acampar; você poderia ser o nosso guia.
+
+[[v4-10-32]]
+
+^<<v4-10-32,32>>^ Se você vier com a gente, nós repartiremos com você todas as bênçãos que o Senhor  nos der.
+
+[[v4-10-33]]
+
+^<<v4-10-33,33>>^ E assim os israelitas partiram do Sinai, o monte de Deus, o Senhor , e caminharam durante três dias. A arca da aliança  do Senhor  ia sempre na frente deles a fim de marcar o lugar de acampar.
+
+[[v4-10-34]]
+
+^<<v4-10-34,34>>^ Quando partiam, a nuvem do Senhor  ficava por cima deles durante o dia.
+
+[[v4-10-35]]
+
+^<<v4-10-35,35>>^ Sempre que a arca partia, Moisés dizia assim: "Ó Senhor  Deus, levanta-te e espalha os teus inimigos! E que fujam da tua frente os que te odeiam!"
+
+[[v4-10-36]]
+
+^<<v4-10-36,36>>^ E, sempre que a arca parava, Moisés dizia assim: "Ó Senhor  Deus, volta para ficar com os milhares de famílias do povo de Israel!"
+
+'''
+
+xref:004-numeros/004-numeros-009.adoc#v4-9-0[&#60; Capítulo Anterior] | <<v4-10-0,Topo>> | xref:004-numeros/004-numeros-011.adoc#v4-11-0[Próximo Capítulo &#62;]

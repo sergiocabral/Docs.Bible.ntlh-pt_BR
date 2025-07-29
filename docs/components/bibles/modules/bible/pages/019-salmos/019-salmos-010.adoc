@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v19-10-0]]
+=== Salmos, 10
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-10-1]]
+
+^<<v19-10-1,1>>^ Ó Senhor  Deus, por que ficas aí tão longe? Por que te escondes em tempos de aflição?
+
+[[v19-10-2]]
+
+^<<v19-10-2,2>>^ Os maus são orgulhosos e perseguem os pobres; que eles caiam nas suas próprias armadilhas!
+
+[[v19-10-3]]
+
+^<<v19-10-3,3>>^ Os maus falam com orgulho dos seus desejos. As pessoas que exploram os outros desprezam o Senhor e blasfemam  contra ele.
+
+[[v19-10-4]]
+
+^<<v19-10-4,4>>^ O homem mau não se importa com Deus; por causa do seu orgulho ele pensa assim: "Para mim, Deus não tem importância."
+
+[[v19-10-5]]
+
+^<<v19-10-5,5>>^ Tudo o que esse homem faz dá certo. Ele não pode entender os julgamentos de Deus e zomba dos seus inimigos.
+
+[[v19-10-6]]
+
+^<<v19-10-6,6>>^ Ele pensa assim: "Nunca fracassarei; nunca terei dificuldades."
+
+[[v19-10-7]]
+
+^<<v19-10-7,7>>^ A sua boca está cheia de maldições, mentiras e ameaças. Ele só fala de desgraças e de maldades.
+
+[[v19-10-8]]
+
+^<<v19-10-8,8>>^ Ele se esconde perto dos povoados; espera ali e mata pessoas inocentes.
+
+[[v19-10-9]]
+
+^<<v19-10-9,9>>^ Como um leão, ele espera no seu esconderijo e espia os que não podem se defender. Fica de tocaia, esperando pelos que são perseguidos; então pega as vítimas na armadilha e as arrasta dali.
+
+[[v19-10-10]]
+
+^<<v19-10-10,10>>^ Elas são esmagadas e caem, derrotadas pela força bruta.
+
+[[v19-10-11]]
+
+^<<v19-10-11,11>>^ Esse homem mau pensa assim: "Deus não se importa; ele fechou os olhos e nunca vê nada!"
+
+[[v19-10-12]]
+
+^<<v19-10-12,12>>^ Vem, ó Senhor  Deus, e castiga essa gente má! Não te esqueças dos que estão sendo perseguidos!
+
+[[v19-10-13]]
+
+^<<v19-10-13,13>>^ Como pode a pessoa má desprezar a Deus e pensar que Deus não a castigará?
+
+[[v19-10-14]]
+
+^<<v19-10-14,14>>^ Mas tu, ó Deus, vês e percebes o sofrimento e a tristeza e sempre estás pronto para ajudar. Os que não podem se defender confiam em ti; tu sempre tens socorrido os necessitados.
+
+[[v19-10-15]]
+
+^<<v19-10-15,15>>^ Senhor, acaba com o poder dos maus e dos perversos. Castiga-os por causa das suas maldades até que eles não as pratiquem mais.
+
+[[v19-10-16]]
+
+^<<v19-10-16,16>>^ O Senhor  é Rei para sempre; os pagãos serão expulsos da terra dele.
+
+[[v19-10-17]]
+
+^<<v19-10-17,17>>^ Ó Senhor  Deus, tu ouvirás as orações dos que são perseguidos e lhes darás coragem.
+
+[[v19-10-18]]
+
+^<<v19-10-18,18>>^ Tu ouvirás os gritos dos oprimidos e dos necessitados e julgarás a favor deles para que seres humanos, que são mortais, nunca mais espalhem o terror.
+
+'''
+
+xref:019-salmos/019-salmos-009.adoc#v19-9-0[&#60; Capítulo Anterior] | <<v19-10-0,Topo>> | xref:019-salmos/019-salmos-011.adoc#v19-11-0[Próximo Capítulo &#62;]

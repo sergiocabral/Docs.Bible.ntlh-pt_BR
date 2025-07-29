@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v13-24-0]]
+=== 1 Crônicas, 24
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v13-24-1]]
+
+^<<v13-24-1,1>>^ São estes os grupos aos quais pertenciam os descendentes de Arão. Arão foi pai de quatro filhos: Nadabe, Abiú, Eleazar e Itamar.
+
+[[v13-24-2]]
+
+^<<v13-24-2,2>>^ Nadabe e Abiú morreram antes do seu pai; eles não deixaram filhos, e por isso os seus irmãos Eleazar e Itamar se tornaram sacerdotes.
+
+[[v13-24-3]]
+
+^<<v13-24-3,3>>^ O rei Davi organizou os descendentes de Arão de acordo com os seus deveres. Foi ajudado nesse trabalho por Zadoque, que era descendente de Eleazar, e por Aimeleque, que era descendente de Itamar.
+
+[[v13-24-4]]
+
+^<<v13-24-4,4>>^ Os descendentes de Eleazar foram divididos em dezesseis grupos, e os descendentes de Itamar foram divididos em oito. Isso foi feito assim porque entre os descendentes de Eleazar havia um número maior de chefes de famílias.
+
+[[v13-24-5]]
+
+^<<v13-24-5,5>>^ Como havia oficiais do Templo e líderes espirituais tanto entre os descendentes de Eleazar como entre os de Itamar, eles foram divididos por sorteio .
+
+[[v13-24-6]]
+
+^<<v13-24-6,6>>^ Os descendentes de Eleazar e de Itamar eram sorteados alternadamente, e os seus nomes foram escritos num livro pelo escrivão Semaías, filho de Netanel. Foram testemunhas o rei, os seus oficiais, o sacerdote Zadoque, Aimeleque, filho de Abiatar, e os chefes das famílias de sacerdotes e das famílias de levitas .
+
+[[v13-24-7]]
+
+^<<v13-24-7,7>>^ Depois de tirada a sorte, os vinte e quatro grupos receberam os seus turnos na seguinte ordem: 1) Jeoiaribe; 2) Jedaías; 3) Harim; 4) Seorim; 5) Malquias; 6) Miamim; 7) Hacoz; 8) Abias; 9) Jesua; 10) Secanias; 11) Eliasibe; 12) Jaquim; 13) Hupá; 14) Jesebeabe; 15) Bilga; 16) Imer; 17) Hezir; 18) Hapises; 19) Petaías; 20) Jeezquel; 21) Jaquim; 22) Gamul; 23) Delaías; 24) Maazias.
+
+[[v13-24-8]]
+
+^<<v13-24-8,8>>^ Depois de tirada a sorte, os vinte e quatro grupos receberam os seus turnos na seguinte ordem: 1) Jeoiaribe; 2) Jedaías; 3) Harim; 4) Seorim; 5) Malquias; 6) Miamim; 7) Hacoz; 8) Abias; 9) Jesua; 10) Secanias; 11) Eliasibe; 12) Jaquim; 13) Hupá; 14) Jesebeabe; 15) Bilga; 16) Imer; 17) Hezir; 18) Hapises; 19) Petaías; 20) Jeezquel; 21) Jaquim; 22) Gamul; 23) Delaías; 24) Maazias.
+
+[[v13-24-9]]
+
+^<<v13-24-9,9>>^ Depois de tirada a sorte, os vinte e quatro grupos receberam os seus turnos na seguinte ordem: 1) Jeoiaribe; 2) Jedaías; 3) Harim; 4) Seorim; 5) Malquias; 6) Miamim; 7) Hacoz; 8) Abias; 9) Jesua; 10) Secanias; 11) Eliasibe; 12) Jaquim; 13) Hupá; 14) Jesebeabe; 15) Bilga; 16) Imer; 17) Hezir; 18) Hapises; 19) Petaías; 20) Jeezquel; 21) Jaquim; 22) Gamul; 23) Delaías; 24) Maazias.
+
+[[v13-24-10]]
+
+^<<v13-24-10,10>>^ Depois de tirada a sorte, os vinte e quatro grupos receberam os seus turnos na seguinte ordem: 1) Jeoiaribe; 2) Jedaías; 3) Harim; 4) Seorim; 5) Malquias; 6) Miamim; 7) Hacoz; 8) Abias; 9) Jesua; 10) Secanias; 11) Eliasibe; 12) Jaquim; 13) Hupá; 14) Jesebeabe; 15) Bilga; 16) Imer; 17) Hezir; 18) Hapises; 19) Petaías; 20) Jeezquel; 21) Jaquim; 22) Gamul; 23) Delaías; 24) Maazias.
+
+[[v13-24-11]]
+
+^<<v13-24-11,11>>^ Depois de tirada a sorte, os vinte e quatro grupos receberam os seus turnos na seguinte ordem: 1) Jeoiaribe; 2) Jedaías; 3) Harim; 4) Seorim; 5) Malquias; 6) Miamim; 7) Hacoz; 8) Abias; 9) Jesua; 10) Secanias; 11) Eliasibe; 12) Jaquim; 13) Hupá; 14) Jesebeabe; 15) Bilga; 16) Imer; 17) Hezir; 18) Hapises; 19) Petaías; 20) Jeezquel; 21) Jaquim; 22) Gamul; 23) Delaías; 24) Maazias.
+
+[[v13-24-12]]
+
+^<<v13-24-12,12>>^ Depois de tirada a sorte, os vinte e quatro grupos receberam os seus turnos na seguinte ordem: 1) Jeoiaribe; 2) Jedaías; 3) Harim; 4) Seorim; 5) Malquias; 6) Miamim; 7) Hacoz; 8) Abias; 9) Jesua; 10) Secanias; 11) Eliasibe; 12) Jaquim; 13) Hupá; 14) Jesebeabe; 15) Bilga; 16) Imer; 17) Hezir; 18) Hapises; 19) Petaías; 20) Jeezquel; 21) Jaquim; 22) Gamul; 23) Delaías; 24) Maazias.
+
+[[v13-24-13]]
+
+^<<v13-24-13,13>>^ Depois de tirada a sorte, os vinte e quatro grupos receberam os seus turnos na seguinte ordem: 1) Jeoiaribe; 2) Jedaías; 3) Harim; 4) Seorim; 5) Malquias; 6) Miamim; 7) Hacoz; 8) Abias; 9) Jesua; 10) Secanias; 11) Eliasibe; 12) Jaquim; 13) Hupá; 14) Jesebeabe; 15) Bilga; 16) Imer; 17) Hezir; 18) Hapises; 19) Petaías; 20) Jeezquel; 21) Jaquim; 22) Gamul; 23) Delaías; 24) Maazias.
+
+[[v13-24-14]]
+
+^<<v13-24-14,14>>^ Depois de tirada a sorte, os vinte e quatro grupos receberam os seus turnos na seguinte ordem: 1) Jeoiaribe; 2) Jedaías; 3) Harim; 4) Seorim; 5) Malquias; 6) Miamim; 7) Hacoz; 8) Abias; 9) Jesua; 10) Secanias; 11) Eliasibe; 12) Jaquim; 13) Hupá; 14) Jesebeabe; 15) Bilga; 16) Imer; 17) Hezir; 18) Hapises; 19) Petaías; 20) Jeezquel; 21) Jaquim; 22) Gamul; 23) Delaías; 24) Maazias.
+
+[[v13-24-15]]
+
+^<<v13-24-15,15>>^ Depois de tirada a sorte, os vinte e quatro grupos receberam os seus turnos na seguinte ordem: 1) Jeoiaribe; 2) Jedaías; 3) Harim; 4) Seorim; 5) Malquias; 6) Miamim; 7) Hacoz; 8) Abias; 9) Jesua; 10) Secanias; 11) Eliasibe; 12) Jaquim; 13) Hupá; 14) Jesebeabe; 15) Bilga; 16) Imer; 17) Hezir; 18) Hapises; 19) Petaías; 20) Jeezquel; 21) Jaquim; 22) Gamul; 23) Delaías; 24) Maazias.
+
+[[v13-24-16]]
+
+^<<v13-24-16,16>>^ Depois de tirada a sorte, os vinte e quatro grupos receberam os seus turnos na seguinte ordem: 1) Jeoiaribe; 2) Jedaías; 3) Harim; 4) Seorim; 5) Malquias; 6) Miamim; 7) Hacoz; 8) Abias; 9) Jesua; 10) Secanias; 11) Eliasibe; 12) Jaquim; 13) Hupá; 14) Jesebeabe; 15) Bilga; 16) Imer; 17) Hezir; 18) Hapises; 19) Petaías; 20) Jeezquel; 21) Jaquim; 22) Gamul; 23) Delaías; 24) Maazias.
+
+[[v13-24-17]]
+
+^<<v13-24-17,17>>^ Depois de tirada a sorte, os vinte e quatro grupos receberam os seus turnos na seguinte ordem: 1) Jeoiaribe; 2) Jedaías; 3) Harim; 4) Seorim; 5) Malquias; 6) Miamim; 7) Hacoz; 8) Abias; 9) Jesua; 10) Secanias; 11) Eliasibe; 12) Jaquim; 13) Hupá; 14) Jesebeabe; 15) Bilga; 16) Imer; 17) Hezir; 18) Hapises; 19) Petaías; 20) Jeezquel; 21) Jaquim; 22) Gamul; 23) Delaías; 24) Maazias.
+
+[[v13-24-18]]
+
+^<<v13-24-18,18>>^ Depois de tirada a sorte, os vinte e quatro grupos receberam os seus turnos na seguinte ordem: 1) Jeoiaribe; 2) Jedaías; 3) Harim; 4) Seorim; 5) Malquias; 6) Miamim; 7) Hacoz; 8) Abias; 9) Jesua; 10) Secanias; 11) Eliasibe; 12) Jaquim; 13) Hupá; 14) Jesebeabe; 15) Bilga; 16) Imer; 17) Hezir; 18) Hapises; 19) Petaías; 20) Jeezquel; 21) Jaquim; 22) Gamul; 23) Delaías; 24) Maazias.
+
+[[v13-24-19]]
+
+^<<v13-24-19,19>>^ Os nomes desses homens foram escritos num livro, de acordo com os seus turnos, para entrarem no Templo e cumprirem os deveres conforme as regras deixadas por Arão, o seu antepassado, conforme o Senhor , o Deus de Israel, lhe havia ordenado.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-023.adoc#v13-23-0[&#60; Capítulo Anterior] | <<v13-24-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-025.adoc#v13-25-0[Próximo Capítulo &#62;]

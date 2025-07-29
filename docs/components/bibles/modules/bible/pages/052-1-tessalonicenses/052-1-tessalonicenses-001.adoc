@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v52-1-0]]
+=== 1 Tessalonicenses, 1
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v52-1-1]]
+
+^<<v52-1-1,1>>^ Eu, Paulo, e Silas, e Timóteo escrevemos esta carta aos irmãos da igreja da cidade de Tessalônica, a vocês que estão unidos com Deus, o Pai, e com o Senhor Jesus Cristo. Que a graça  e a paz estejam com vocês!
+
+[[v52-1-2]]
+
+^<<v52-1-2,2>>^ Nas nossas orações sempre damos graças a Deus por todos vocês e nunca deixamos de pedir em favor de vocês.
+
+[[v52-1-3]]
+
+^<<v52-1-3,3>>^ Pois lembramos, na presença do nosso Deus e Pai, como vocês puseram em prática a sua fé, como o amor de vocês os fez trabalhar tanto e como é firme a esperança que vocês têm no nosso Senhor Jesus Cristo.
+
+[[v52-1-4]]
+
+^<<v52-1-4,4>>^ Irmãos, sabemos que Deus os ama e os escolheu para serem dele.
+
+[[v52-1-5]]
+
+^<<v52-1-5,5>>^ Pois temos anunciado o evangelho  a vocês não somente com palavras, mas também com poder, com o Espírito Santo e com a certeza de que esta mensagem é a verdade. Vocês sabem de que maneira nos comportamos no meio de vocês, para o próprio bem de vocês.
+
+[[v52-1-6]]
+
+^<<v52-1-6,6>>^ E vocês seguiram o nosso exemplo e o exemplo do Senhor Jesus. Embora tenham sofrido muito, vocês receberam a mensagem com aquela alegria que vem do Espírito Santo.
+
+[[v52-1-7]]
+
+^<<v52-1-7,7>>^ Desse modo vocês se tornaram um exemplo para todos os cristãos das províncias  da Macedônia e da Acaia.
+
+[[v52-1-8]]
+
+^<<v52-1-8,8>>^ Pois a mensagem a respeito do Senhor partiu de vocês e se espalhou pela Macedônia e pela Acaia, e as notícias sobre a fé que vocês têm em Deus chegaram a todos os lugares. Portanto, sobre isso não é preciso falarmos mais nada.
+
+[[v52-1-9]]
+
+^<<v52-1-9,9>>^ Todas as pessoas desses lugares falam da nossa visita a vocês e contam como vocês nos receberam bem e como vocês deixaram os ídolos para seguir e servir ao Deus vivo e verdadeiro.
+
+[[v52-1-10]]
+
+^<<v52-1-10,10>>^ Elas contam também como vocês estão esperando que Jesus, o Filho de Deus, a quem Deus ressuscitou, volte do céu, esse Jesus que nos salva do castigo divino que está para vir.
+
+'''
+
+xref:051-colossenses/051-colossenses-004.adoc#v51-4-0[&#60; Capítulo Anterior] | <<v52-1-0,Topo>> | xref:052-1-tessalonicenses/052-1-tessalonicenses-002.adoc#v52-2-0[Próximo Capítulo &#62;]

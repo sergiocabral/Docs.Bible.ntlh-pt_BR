@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v19-39-0]]
+=== Salmos, 39
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-39-1]]
+
+^<<v19-39-1,1>>^ Eu disse: "Vou ter cuidado com a minha maneira de viver e não vou deixar que a minha língua me faça pecar. Enquanto os maus estiverem em volta de mim, não falarei nada."
+
+[[v19-39-2]]
+
+^<<v19-39-2,2>>^ Fiquei calado, não disse uma palavra nem mesmo a respeito de coisas boas. Mas o meu sofrimento piorou ainda mais,
+
+[[v19-39-3]]
+
+^<<v19-39-3,3>>^ e o meu coração ficou muito aflito. Quanto mais eu pensava, mais agoniado ficava. Então comecei a perguntar:
+
+[[v19-39-4]]
+
+^<<v19-39-4,4>>^ "Ó Senhor  Deus, quanto tempo ainda vou viver? Mostra-me como é passageira a minha vida. Quando é que vou morrer?"
+
+[[v19-39-5]]
+
+^<<v19-39-5,5>>^ Como é curta a vida que me deste! Diante de ti, a duração da minha vida não é nada. De fato, o ser humano é apenas um sopro.
+
+[[v19-39-6]]
+
+^<<v19-39-6,6>>^ Ele anda por aí como uma sombra. Não adianta nada ele se esforçar; ajunta riquezas, mas não sabe quem vai ficar com elas.
+
+[[v19-39-7]]
+
+^<<v19-39-7,7>>^ E agora, Senhor, o que posso esperar? A minha esperança está em ti.
+
+[[v19-39-8]]
+
+^<<v19-39-8,8>>^ Livra-me de todos os meus pecados e não deixes que os tolos zombem de mim.
+
+[[v19-39-9]]
+
+^<<v19-39-9,9>>^ Não falo, não digo nada, pois foste tu que me fizeste sofrer assim.
+
+[[v19-39-10]]
+
+^<<v19-39-10,10>>^ Senhor, para de me castigar, pois estou quase morrendo por causa das tuas chicotadas!
+
+[[v19-39-11]]
+
+^<<v19-39-11,11>>^ Tu nos repreendes e assim nos castigas por causa dos nossos pecados. Tu destróis, como a traça, aquilo que mais amamos. De fato, o ser humano é apenas um sopro!
+
+[[v19-39-12]]
+
+^<<v19-39-12,12>>^ Ó Senhor  Deus, ouve a minha oração! Escuta o meu pedido. Não te cales quando choro. Como todos os meus antepassados, sou teu hóspede por pouco tempo.
+
+[[v19-39-13]]
+
+^<<v19-39-13,13>>^ Desvia de mim o teu olhar, para que eu possa ter um pouco de felicidade, antes que eu vá embora e não exista mais.
+
+'''
+
+xref:019-salmos/019-salmos-038.adoc#v19-38-0[&#60; Capítulo Anterior] | <<v19-39-0,Topo>> | xref:019-salmos/019-salmos-040.adoc#v19-40-0[Próximo Capítulo &#62;]

@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v22-2-0]]
+=== Cânticos, 2
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v22-2-1]]
+
+^<<v22-2-1,1>>^ Eu sou a rosa dos campos de Sarom; sou o lírio dos vales.
+
+[[v22-2-2]]
+
+^<<v22-2-2,2>>^ Como um lírio entre os espinhos, assim é a minha amada entre as outras mulheres.
+
+[[v22-2-3]]
+
+^<<v22-2-3,3>>^ Como a macieira entre as árvores da floresta, assim é o meu amado entre os outros homens. Eu me sinto feliz nos seus braços, e os seus carinhos são doces para mim.
+
+[[v22-2-4]]
+
+^<<v22-2-4,4>>^ Ele me levou ao salão de festas, e ali nós nos entregamos ao amor.
+
+[[v22-2-5]]
+
+^<<v22-2-5,5>>^ Tragam passas para eu recuperar as minhas forças e maçãs para me refrescar, pois estou desmaiando de amor.
+
+[[v22-2-6]]
+
+^<<v22-2-6,6>>^ A sua mão esquerda está debaixo da minha cabeça, e a direita me abraça.
+
+[[v22-2-7]]
+
+^<<v22-2-7,7>>^ Mulheres de Jerusalém, prometam e jurem, pelas gazelas  e pelas corças  selvagens, que vocês não vão perturbar o nosso amor.
+
+[[v22-2-8]]
+
+^<<v22-2-8,8>>^ Estou ouvindo a voz do meu amor. Ele vem depressa, descendo as montanhas, correndo pelos montes.
+
+[[v22-2-9]]
+
+^<<v22-2-9,9>>^ O meu amado é como uma gazela ; é como um filhote de corço . O meu querido está ali, do lado de fora da nossa casa. Ele está olhando para dentro, pelas janelas; está me espiando pelas grades.
+
+[[v22-2-10]]
+
+^<<v22-2-10,10>>^ O meu amor está falando comigo. Venha então, minha querida; venha comigo, meu amor.
+
+[[v22-2-11]]
+
+^<<v22-2-11,11>>^ O inverno já foi, a chuva passou,
+
+[[v22-2-12]]
+
+^<<v22-2-12,12>>^ e as flores aparecem nos campos. É tempo de cantar; ouve-se nos campos o canto das rolinhas.
+
+[[v22-2-13]]
+
+^<<v22-2-13,13>>^ Os figos estão começando a amadurecer, e já se pode sentir o perfume das parreiras  em flor. Venha então, meu amor. Venha comigo, minha querida.
+
+[[v22-2-14]]
+
+^<<v22-2-14,14>>^ Você está escondida como uma pomba na fenda de uma rocha. Mostre-me o seu rosto; deixe-me ouvir a sua voz; pois a sua voz é suave, e o seu rosto é lindo.
+
+[[v22-2-15]]
+
+^<<v22-2-15,15>>^ Peguem as raposas, apanhem as raposinhas, antes que elas estraguem a nossa plantação de uvas, que está em flor.
+
+[[v22-2-16]]
+
+^<<v22-2-16,16>>^ O meu querido é meu, e eu sou dele. Ele leva as suas ovelhas para pastarem entre os lírios,
+
+[[v22-2-17]]
+
+^<<v22-2-17,17>>^ enquanto o dia ainda está fresco e a escuridão está desaparecendo. Meu querido, volte depressa, correndo como uma gazela, como um filhote de corço  nos montes de Beter.
+
+'''
+
+xref:022-canticos/022-canticos-001.adoc#v22-1-0[&#60; Capítulo Anterior] | <<v22-2-0,Topo>> | xref:022-canticos/022-canticos-003.adoc#v22-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v19-146-0]]
+=== Salmos, 146
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-146-1]]
+
+^<<v19-146-1,1>>^ Aleluia ! Que todo o meu ser te louve, ó Senhor !
+
+[[v19-146-2]]
+
+^<<v19-146-2,2>>^ A vida inteira eu louvarei o meu Deus, cantarei louvores a ele enquanto eu viver.
+
+[[v19-146-3]]
+
+^<<v19-146-3,3>>^ Não ponham a sua confiança em pessoas importantes, nem confiem em seres humanos, pois eles são mortais e não podem ajudar ninguém.
+
+[[v19-146-4]]
+
+^<<v19-146-4,4>>^ Quando eles morrem, voltam para o pó da terra, e naquele dia todos os seus planos se acabam.
+
+[[v19-146-5]]
+
+^<<v19-146-5,5>>^ Feliz aquele que recebe ajuda do Deus de Jacó, aquele que põe a sua esperança no Senhor , seu Deus,
+
+[[v19-146-6]]
+
+^<<v19-146-6,6>>^ o Criador do céu, da terra e do mar e de tudo o que neles existe! O Senhor  sempre cumpre as suas promessas;
+
+[[v19-146-7]]
+
+^<<v19-146-7,7>>^ ele julga a favor dos que são explorados e dá comida aos que têm fome. O Senhor  Deus põe em liberdade os que estão presos
+
+[[v19-146-8]]
+
+^<<v19-146-8,8>>^ e faz com que os cegos vejam. O Senhor  levanta os que caem e ama aqueles que lhe obedecem.
+
+[[v19-146-9]]
+
+^<<v19-146-9,9>>^ O Senhor  protege os estrangeiros que moram em nossa terra; ele ajuda as viúvas e os órfãos, mas faz com que fracassem os planos dos maus.
+
+[[v19-146-10]]
+
+^<<v19-146-10,10>>^ O Senhor  será Rei para sempre. Ó Jerusalém, o seu Deus reinará eternamente. Aleluia!
+
+'''
+
+xref:019-salmos/019-salmos-145.adoc#v19-145-0[&#60; Capítulo Anterior] | <<v19-146-0,Topo>> | xref:019-salmos/019-salmos-147.adoc#v19-147-0[Próximo Capítulo &#62;]

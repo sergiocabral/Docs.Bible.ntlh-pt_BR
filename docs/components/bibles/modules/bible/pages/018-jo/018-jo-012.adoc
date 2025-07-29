@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v18-12-0]]
+=== Jó, 12
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v18-12-1]]
+
+^<<v18-12-1,1>>^ Então em resposta Jó disse:
+
+[[v18-12-2]]
+
+^<<v18-12-2,2>>^ "Sem dúvida, vocês são a voz do povo, e, quando morrerem, não haverá mais sabedoria…
+
+[[v18-12-3]]
+
+^<<v18-12-3,3>>^ Mas eu também entendo as coisas e não sou menos do que vocês. Quem não sabe isso que vocês disseram?
+
+[[v18-12-4]]
+
+^<<v18-12-4,4>>^ "Sou motivo de riso para os meus amigos — eu, que sou honesto, que estou inocente; eu, que orava a Deus, e ele me respondia.
+
+[[v18-12-5]]
+
+^<<v18-12-5,5>>^ Os que estão seguros desprezam os desgraçados e empurram os que estão para cair.
+
+[[v18-12-6]]
+
+^<<v18-12-6,6>>^ Os bandidos têm paz em suas casas, os que ofendem a Deus vivem tranquilos, embora o seu deus seja a sua própria força.
+
+[[v18-12-7]]
+
+^<<v18-12-7,7>>^ "Zofar, faça perguntas às aves e aos animais, e eles o ensinarão.
+
+[[v18-12-8]]
+
+^<<v18-12-8,8>>^ Peça aos bichos da terra e aos peixes do mar, e eles lhe darão lições.
+
+[[v18-12-9]]
+
+^<<v18-12-9,9>>^ Todas essas criaturas sabem que foi a mão do Senhor  que as fez.
+
+[[v18-12-10]]
+
+^<<v18-12-10,10>>^ A vida de todas as criaturas está na mão de Deus; é ele quem mantém todas as pessoas com vida.
+
+[[v18-12-11]]
+
+^<<v18-12-11,11>>^ Meus amigos, assim como os ouvidos julgam o valor das palavras, e o paladar prova os alimentos, assim escuto o que vocês dizem, mas só aceito aquilo que acho certo.
+
+[[v18-12-12]]
+
+^<<v18-12-12,12>>^ "Os velhos são sábios, pois a idade traz a compreensão.
+
+[[v18-12-13]]
+
+^<<v18-12-13,13>>^ No entanto, Deus é sábio e poderoso; ele tem inteligência e entendimento.
+
+[[v18-12-14]]
+
+^<<v18-12-14,14>>^ Ninguém pode reconstruir o que Deus derruba; e, se ele prende, ninguém pode soltar.
+
+[[v18-12-15]]
+
+^<<v18-12-15,15>>^ Quando Deus segura a chuva, vem a seca; quando deixa saírem as águas, há enchentes.
+
+[[v18-12-16]]
+
+^<<v18-12-16,16>>^ "Deus é forte e vitorioso; ele tem poder tanto sobre o enganado como sobre o enganador.
+
+[[v18-12-17]]
+
+^<<v18-12-17,17>>^ Ele tira das autoridades a sabedoria e faz com que os líderes percam o juízo.
+
+[[v18-12-18]]
+
+^<<v18-12-18,18>>^ Deus tira os reis dos seus tronos e os põe na prisão.
+
+[[v18-12-19]]
+
+^<<v18-12-19,19>>^ Deus afasta os sacerdotes do seu ofício; ele derruba os que estão no poder.
+
+[[v18-12-20]]
+
+^<<v18-12-20,20>>^ Deus faz calarem conselheiros de confiança e acaba com a sabedoria dos idosos.
+
+[[v18-12-21]]
+
+^<<v18-12-21,21>>^ Ele mostra desprezo pelas autoridades e acaba com a força dos poderosos.
+
+[[v18-12-22]]
+
+^<<v18-12-22,22>>^ Deus revela os segredos escondidos nas trevas e faz a luz brilhar na escuridão mais completa.
+
+[[v18-12-23]]
+
+^<<v18-12-23,23>>^ Deus dá às nações grandeza e poder, mas depois as derrota e destrói.
+
+[[v18-12-24]]
+
+^<<v18-12-24,24>>^ Ele faz com que os líderes das nações percam o juízo e os leva por desertos sem caminhos.
+
+[[v18-12-25]]
+
+^<<v18-12-25,25>>^ Eles andam na escuridão, às cegas, tropeçando como bêbados.
+
+'''
+
+xref:018-jo/018-jo-011.adoc#v18-11-0[&#60; Capítulo Anterior] | <<v18-12-0,Topo>> | xref:018-jo/018-jo-013.adoc#v18-13-0[Próximo Capítulo &#62;]

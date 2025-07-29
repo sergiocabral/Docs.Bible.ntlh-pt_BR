@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v18-18-0]]
+=== Jó, 18
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v18-18-1]]
+
+^<<v18-18-1,1>>^ Então Bildade, da região de Sua, em resposta disse:
+
+[[v18-18-2]]
+
+^<<v18-18-2,2>>^ "Jó, por que você não para de falar? Cale-se e preste atenção, e então poderemos conversar.
+
+[[v18-18-3]]
+
+^<<v18-18-3,3>>^ Por que você pensa que não temos juízo, que somos como os animais?
+
+[[v18-18-4]]
+
+^<<v18-18-4,4>>^ Com a sua raiva, você só está se ferindo. Será que, por você estar zangado, o mundo vai virar um deserto? Será que, por sua causa, as montanhas vão mudar de lugar?
+
+[[v18-18-5]]
+
+^<<v18-18-5,5>>^ "A vida do perverso se acabará como a luz que se apaga, como as chamas do fogo que deixa de queimar.
+
+[[v18-18-6]]
+
+^<<v18-18-6,6>>^ A lamparina da sua casa não brilhará mais; em vez de luz, haverá escuridão.
+
+[[v18-18-7]]
+
+^<<v18-18-7,7>>^ O perverso andava com passos firmes, mas agora está tropeçando; os seus próprios planos o fazem cair.
+
+[[v18-18-8]]
+
+^<<v18-18-8,8>>^ Ele pisa uma rede, e os seus pés ficam presos.
+
+[[v18-18-9]]
+
+^<<v18-18-9,9>>^ A armadilha o pega pelo calcanhar, e o laço o aperta.
+
+[[v18-18-10]]
+
+^<<v18-18-10,10>>^ A armadilha estava escondida no chão, no caminho por onde ele ia passar.
+
+[[v18-18-11]]
+
+^<<v18-18-11,11>>^ Ameaças de todos os lados o deixam apavorado; elas o perseguem a cada passo.
+
+[[v18-18-12]]
+
+^<<v18-18-12,12>>^ Ele era rico, mas agora passa fome; a desgraça está pronta para cair em cima dele.
+
+[[v18-18-13]]
+
+^<<v18-18-13,13>>^ Uma doença mortal se espalha pelo seu corpo e faz com que os seus braços e pernas apodreçam.
+
+[[v18-18-14]]
+
+^<<v18-18-14,14>>^ Ele é arrancado da sua casa, onde vivia seguro, e arrastado até a presença do Rei, isto é, a Morte.
+
+[[v18-18-15]]
+
+^<<v18-18-15,15>>^ Essa casa será desinfetada com enxofre, e depois um estranho vai morar nela.
+
+[[v18-18-16]]
+
+^<<v18-18-16,16>>^ O perverso é como uma árvore seca, seca desde as raízes até os galhos mais altos.
+
+[[v18-18-17]]
+
+^<<v18-18-17,17>>^ Ninguém lembrará mais dele; o seu nome será esquecido na sua terra.
+
+[[v18-18-18]]
+
+^<<v18-18-18,18>>^ Ele será expulso do mundo dos vivos e da luz será jogado na escuridão.
+
+[[v18-18-19]]
+
+^<<v18-18-19,19>>^ Não deixará filhos nem netos; não terá descendentes que fiquem com a sua casa.
+
+[[v18-18-20]]
+
+^<<v18-18-20,20>>^ Em toda parte, os que ouvirem falar do seu fim tremerão de medo e pavor.
+
+[[v18-18-21]]
+
+^<<v18-18-21,21>>^ É esse o fim dos maus, daqueles que não querem saber de Deus."
+
+'''
+
+xref:018-jo/018-jo-017.adoc#v18-17-0[&#60; Capítulo Anterior] | <<v18-18-0,Topo>> | xref:018-jo/018-jo-019.adoc#v18-19-0[Próximo Capítulo &#62;]

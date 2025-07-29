@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v19-55-0]]
+=== Salmos, 55
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-55-1]]
+
+^<<v19-55-1,1>>^ Ouve a minha oração, ó Deus! Não deixes de atender o meu pedido.
+
+[[v19-55-2]]
+
+^<<v19-55-2,2>>^ Escuta-me e responde. As minhas aflições me deixam desgastado.
+
+[[v19-55-3]]
+
+^<<v19-55-3,3>>^ Eu tremo quando ouço as ameaças dos meus inimigos; a perseguição dos maus me esmaga. Eles fazem com que desgraças caiam sobre mim; estão com raiva de mim e me odeiam.
+
+[[v19-55-4]]
+
+^<<v19-55-4,4>>^ O meu coração está cheio de medo, e o pavor da morte cai sobre mim.
+
+[[v19-55-5]]
+
+^<<v19-55-5,5>>^ Sinto um medo terrível e estou tremendo; o pavor tomou conta de mim.
+
+[[v19-55-6]]
+
+^<<v19-55-6,6>>^ Ah! Se eu tivesse asas como a pomba, voaria para um lugar de descanso!
+
+[[v19-55-7]]
+
+^<<v19-55-7,7>>^ Fugiria para bem longe e moraria no deserto.
+
+[[v19-55-8]]
+
+^<<v19-55-8,8>>^ Bem depressa procuraria achar um lugar seguro para me esconder da ventania e da tempestade.
+
+[[v19-55-9]]
+
+^<<v19-55-9,9>>^ Ó Senhor, atrapalha e destrói os conchavos dos meus inimigos, pois vejo violência e pancadaria na cidade!
+
+[[v19-55-10]]
+
+^<<v19-55-10,10>>^ Dia e noite, eles andam em volta dela, nas muralhas, enchendo-a de crimes e de maldade.
+
+[[v19-55-11]]
+
+^<<v19-55-11,11>>^ Por toda parte há destruição, e as ruas estão cheias de exploração e desonestidade.
+
+[[v19-55-12]]
+
+^<<v19-55-12,12>>^ Não era um inimigo que estava zombando de mim; se fosse, eu poderia suportar; nem era um adversário que me tratava com desprezo, pois eu poderia me esconder dele.
+
+[[v19-55-13]]
+
+^<<v19-55-13,13>>^ Porém foi você mesmo, meu companheiro, meu colega e amigo íntimo!
+
+[[v19-55-14]]
+
+^<<v19-55-14,14>>^ Conversávamos com toda a liberdade e íamos juntos adorar com o povo no Templo.
+
+[[v19-55-15]]
+
+^<<v19-55-15,15>>^ Que a morte venha de repente sobre os meus inimigos! Que eles desçam vivos para o mundo dos mortos , pois a maldade está na casa e no coração deles!
+
+[[v19-55-16]]
+
+^<<v19-55-16,16>>^ Mas eu chamo a Deus, o Senhor , pedindo ajuda, e ele me salva.
+
+[[v19-55-17]]
+
+^<<v19-55-17,17>>^ De manhã, ao meio-dia e de noite, eu choro e me queixo, e ele me ouve.
+
+[[v19-55-18]]
+
+^<<v19-55-18,18>>^ Ele me traz são e salvo de volta das batalhas em que luto contra os meus muitos inimigos.
+
+[[v19-55-19]]
+
+^<<v19-55-19,19>>^ O Deus que reina desde a eternidade me ouve e os derrota. Pois eles não querem mudar de vida e não temem a Deus .
+
+[[v19-55-20]]
+
+^<<v19-55-20,20>>^ O meu antigo companheiro atacou os seus próprios amigos e quebrou as promessas que havia feito a eles.
+
+[[v19-55-21]]
+
+^<<v19-55-21,21>>^ As palavras dele eram mais macias do que a manteiga, mas no seu coração havia ódio. As palavras dele eram mais suaves do que o azeite, mas cortavam como espadas afiadas.
+
+[[v19-55-22]]
+
+^<<v19-55-22,22>>^ Entregue os seus problemas ao Senhor , e ele o ajudará; ele nunca deixa que fracasse a pessoa que lhe obedece.
+
+[[v19-55-23]]
+
+^<<v19-55-23,23>>^ Mas, quanto àqueles assassinos e traidores, tu, ó Deus, os jogarás no fundo do mundo dos mortos; eles não chegarão até a metade da sua vida. Eu, porém, confiarei em ti.
+
+'''
+
+xref:019-salmos/019-salmos-054.adoc#v19-54-0[&#60; Capítulo Anterior] | <<v19-55-0,Topo>> | xref:019-salmos/019-salmos-056.adoc#v19-56-0[Próximo Capítulo &#62;]

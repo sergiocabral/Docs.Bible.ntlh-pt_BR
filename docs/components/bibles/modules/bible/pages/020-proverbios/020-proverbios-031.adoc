@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v20-31-0]]
+=== Provérbios, 31
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v20-31-1]]
+
+^<<v20-31-1,1>>^ São estas as palavras solenes que a mãe do rei Lemuel lhe disse:
+
+[[v20-31-2]]
+
+^<<v20-31-2,2>>^ Você é o meu filho querido, a resposta das minhas orações. O que lhe direi?
+
+[[v20-31-3]]
+
+^<<v20-31-3,3>>^ Não gaste toda a sua energia nem todo o seu dinheiro com mulheres, pois até reis já se destruíram assim.
+
+[[v20-31-4]]
+
+^<<v20-31-4,4>>^ Escute, Lemuel! Os reis não devem beber vinho nem outras bebidas alcoólicas.
+
+[[v20-31-5]]
+
+^<<v20-31-5,5>>^ Quando eles bebem, não lembram das leis  e esquecem os direitos dos que são explorados.
+
+[[v20-31-6]]
+
+^<<v20-31-6,6>>^ As bebidas alcoólicas são para os que estão morrendo, para os que estão na miséria.
+
+[[v20-31-7]]
+
+^<<v20-31-7,7>>^ Que eles bebam e esqueçam que são pobres e infelizes!
+
+[[v20-31-8]]
+
+^<<v20-31-8,8>>^ Fale a favor daqueles que não podem se defender. Proteja os direitos de todos os desamparados.
+
+[[v20-31-9]]
+
+^<<v20-31-9,9>>^ Fale por eles e seja um juiz justo. Proteja os direitos dos pobres e dos necessitados.
+
+[[v20-31-10]]
+
+^<<v20-31-10,10>>^ Como é difícil encontrar uma boa esposa! Ela vale mais do que pedras preciosas!
+
+[[v20-31-11]]
+
+^<<v20-31-11,11>>^ O seu marido confia nela e nunca ficará pobre.
+
+[[v20-31-12]]
+
+^<<v20-31-12,12>>^ Em todos os dias da sua vida, ela só lhe faz o bem e nunca o mal.
+
+[[v20-31-13]]
+
+^<<v20-31-13,13>>^ Está sempre ocupada, fazendo roupas de lã e de linho.
+
+[[v20-31-14]]
+
+^<<v20-31-14,14>>^ De lugares distantes ela traz comida para casa, como fazem os navios que carregam mercadorias.
+
+[[v20-31-15]]
+
+^<<v20-31-15,15>>^ Ela se levanta de madrugada para preparar comida para a família e para dar ordens às empregadas.
+
+[[v20-31-16]]
+
+^<<v20-31-16,16>>^ Examina e compra uma propriedade com o dinheiro que ganhou e faz nela uma plantação de uvas.
+
+[[v20-31-17]]
+
+^<<v20-31-17,17>>^ É esforçada, forte e trabalhadora.
+
+[[v20-31-18]]
+
+^<<v20-31-18,18>>^ Conhece o valor de tudo o que faz e trabalha até tarde da noite.
+
+[[v20-31-19]]
+
+^<<v20-31-19,19>>^ Ela prepara fios de lã e de linho para tecer as suas próprias roupas.
+
+[[v20-31-20]]
+
+^<<v20-31-20,20>>^ Ajuda os pobres e os necessitados.
+
+[[v20-31-21]]
+
+^<<v20-31-21,21>>^ Quando faz muito frio, ela não se preocupa, porque a sua família tem agasalhos para vestir.
+
+[[v20-31-22]]
+
+^<<v20-31-22,22>>^ Faz cobertas e usa roupas de linho e de outros tecidos finos.
+
+[[v20-31-23]]
+
+^<<v20-31-23,23>>^ O seu marido é estimado por todos — é um dos principais cidadãos do lugar.
+
+[[v20-31-24]]
+
+^<<v20-31-24,24>>^ Ela faz roupas e cintos para vender aos comerciantes.
+
+[[v20-31-25]]
+
+^<<v20-31-25,25>>^ É forte, respeitada e não tem medo do futuro.
+
+[[v20-31-26]]
+
+^<<v20-31-26,26>>^ Fala com sabedoria e delicadeza.
+
+[[v20-31-27]]
+
+^<<v20-31-27,27>>^ Ela nunca tem preguiça e está sempre cuidando da sua família.
+
+[[v20-31-28]]
+
+^<<v20-31-28,28>>^ Os seus filhos a respeitam e falam bem dela, e o seu marido a elogia.
+
+[[v20-31-29]]
+
+^<<v20-31-29,29>>^ Ele diz: "Muitas mulheres são boas esposas, mas você é a melhor de todas."
+
+[[v20-31-30]]
+
+^<<v20-31-30,30>>^ A formosura é uma ilusão, e a beleza acaba, mas a mulher que teme  o Senhor  Deus será elogiada.
+
+[[v20-31-31]]
+
+^<<v20-31-31,31>>^ Deem a ela o que merece por tudo o que faz, e que seja elogiada por todos.
+
+'''
+
+xref:020-proverbios/020-proverbios-030.adoc#v20-30-0[&#60; Capítulo Anterior] | <<v20-31-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-001.adoc#v21-1-0[Próximo Capítulo &#62;]

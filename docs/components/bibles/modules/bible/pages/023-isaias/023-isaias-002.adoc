@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v23-2-0]]
+=== Isaías, 2
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v23-2-1]]
+
+^<<v23-2-1,1>>^ Esta é a mensagem a respeito de Judá e de Jerusalém que o Senhor  Deus deu a Isaías, filho de Amoz:
+
+[[v23-2-2]]
+
+^<<v23-2-2,2>>^ No futuro, o monte do Templo do Senhor será o mais alto de todos e ficará acima de todos os montes. Os povos de todas as nações irão correndo para lá
+
+[[v23-2-3]]
+
+^<<v23-2-3,3>>^ e dirão assim: "Vamos subir o monte do Senhor , vamos ao Templo do Deus de Israel. Ele nos ensinará o que devemos fazer, e nós andaremos nos seus caminhos. Pois os ensinamentos do Senhor  vêm de Jerusalém; do monte Sião  ele fala com o seu povo."
+
+[[v23-2-4]]
+
+^<<v23-2-4,4>>^ Deus será o juiz das nações, decidirá questões entre muitos povos. Eles transformarão as suas espadas em arados e as suas lanças, em foices. Nunca mais as nações farão guerra, nem se prepararão para batalhas.
+
+[[v23-2-5]]
+
+^<<v23-2-5,5>>^ Venham, descendentes de Jacó, vamos caminhar na luz que o Senhor  nos dá.
+
+[[v23-2-6]]
+
+^<<v23-2-6,6>>^ Ó Deus, tu abandonaste o teu povo, os descendentes de Jacó. Pois o país está cheio de médiuns da Filisteia e de adivinhos que vêm do Oriente. O teu povo segue costumes estrangeiros.
+
+[[v23-2-7]]
+
+^<<v23-2-7,7>>^ A terra de Israel está cheia de prata e de ouro; não se pode calcular a sua riqueza, e não é possível contar os seus carros de guerra e cavalos.
+
+[[v23-2-8]]
+
+^<<v23-2-8,8>>^ Mas o país está cheio também de imagens! O teu povo se ajoelha diante dessas imagens; eles adoram aquilo que eles mesmos fizeram.
+
+[[v23-2-9]]
+
+^<<v23-2-9,9>>^ Porém todos serão humilhados e envergonhados. Ó Deus, não os perdoes!
+
+[[v23-2-10]]
+
+^<<v23-2-10,10>>^ Vão procurar esconderijo nas cavernas! Cavem buracos no chão a fim de escapar da ira  de Deus, da glória  majestosa do Senhor !
+
+[[v23-2-11]]
+
+^<<v23-2-11,11>>^ Virá o dia em que os orgulhosos serão humilhados e os vaidosos serão rebaixados; e somente o Senhor  receberá os mais altos louvores.
+
+[[v23-2-12]]
+
+^<<v23-2-12,12>>^ Naquele dia, o Senhor  Todo-Poderoso vai humilhar todos os orgulhosos e vaidosos, todos os que pensam que são importantes.
+
+[[v23-2-13]]
+
+^<<v23-2-13,13>>^ Ele destruirá os altos e majestosos cedros do Líbano e todos os carvalhos da terra de Basã.
+
+[[v23-2-14]]
+
+^<<v23-2-14,14>>^ Ele arrasará todas as montanhas altas e os montes elevados.
+
+[[v23-2-15]]
+
+^<<v23-2-15,15>>^ Ele derrubará todas as torres altas e as muralhas fortes.
+
+[[v23-2-16]]
+
+^<<v23-2-16,16>>^ Ele afundará todos os grandes navios e os barcos mais bonitos.
+
+[[v23-2-17]]
+
+^<<v23-2-17,17>>^ Naquele dia, os orgulhosos serão humilhados, e os vaidosos serão rebaixados; somente o Senhor  receberá os mais altos louvores,
+
+[[v23-2-18]]
+
+^<<v23-2-18,18>>^ e todas as imagens desaparecerão.
+
+[[v23-2-19]]
+
+^<<v23-2-19,19>>^ Quando o Senhor  aparecer, os moradores da terra ficarão apavorados e fugirão para as cavernas. Eles descerão nos buracos profundos a fim de escapar da ira de Deus, da glória majestosa do Senhor .
+
+[[v23-2-20]]
+
+^<<v23-2-20,20>>^ Naquele dia, todos pegarão as imagens de prata e de ouro que eles mesmos fizeram para adorar e as deixarão para os ratos e os morcegos.
+
+[[v23-2-21]]
+
+^<<v23-2-21,21>>^ Quando o Senhor  aparecer, os moradores da terra ficarão apavorados. Eles fugirão para as cavernas e se meterão nas fendas das rochas a fim de escapar da ira de Deus, da glória majestosa do Senhor .
+
+[[v23-2-22]]
+
+^<<v23-2-22,22>>^ Não confiem mais nos seres humanos, pois são mortais! Será que eles valem alguma coisa?
+
+'''
+
+xref:023-isaias/023-isaias-001.adoc#v23-1-0[&#60; Capítulo Anterior] | <<v23-2-0,Topo>> | xref:023-isaias/023-isaias-003.adoc#v23-3-0[Próximo Capítulo &#62;]

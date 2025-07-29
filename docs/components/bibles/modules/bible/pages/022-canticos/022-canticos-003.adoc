@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v22-3-0]]
+=== Cânticos, 3
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v22-3-1]]
+
+^<<v22-3-1,1>>^ Noites e noites, na minha cama, eu procurei o meu amado; procurei, porém não o encontrei.
+
+[[v22-3-2]]
+
+^<<v22-3-2,2>>^ Então me levantei e andei por toda a cidade, pelas ruas e pelas praças. Eu procurei o meu amado; procurei, mas não o pude achar.
+
+[[v22-3-3]]
+
+^<<v22-3-3,3>>^ Os guardas que patrulham a cidade me encontraram, e eu perguntei: "Vocês viram o meu amado?"
+
+[[v22-3-4]]
+
+^<<v22-3-4,4>>^ E, logo que saí de perto deles, eu o encontrei. Eu abracei o meu amado e não o deixei ir embora até que ele foi comigo à casa da minha mãe, ao quarto daquela que me deu à luz.
+
+[[v22-3-5]]
+
+^<<v22-3-5,5>>^ Mulheres de Jerusalém, prometam e jurem, pelas gazelas  e pelas corças  selvagens, que vocês não vão perturbar o nosso amor.
+
+[[v22-3-6]]
+
+^<<v22-3-6,6>>^ O que é aquilo que vem subindo do deserto? Parece uma nuvem de fumaça de mirra , e de incenso, e de todo tipo de perfumes vendidos pelos mercadores.
+
+[[v22-3-7]]
+
+^<<v22-3-7,7>>^ É a liteira do rei Salomão; sessenta soldados, os melhores de Israel, formam a sua guarda pessoal.
+
+[[v22-3-8]]
+
+^<<v22-3-8,8>>^ Todos eles sabem usar bem a espada e são treinados para a guerra. Cada um está armado com uma espada, por causa dos perigos da noite.
+
+[[v22-3-9]]
+
+^<<v22-3-9,9>>^ A liteira que o rei Salomão mandou fazer era de madeira da melhor qualidade.
+
+[[v22-3-10]]
+
+^<<v22-3-10,10>>^ As suas colunas eram cobertas de prata, e o seu teto era de tecido bordado a ouro. As suas almofadas, forradas de fino tecido vermelho, foram feitas com carinho pelas mulheres de Jerusalém.
+
+[[v22-3-11]]
+
+^<<v22-3-11,11>>^ Mulheres de Sião , venham ver o rei! O rei Salomão está usando a coroa que recebeu da sua mãe no dia do seu casamento, naquele dia de tanta felicidade.
+
+'''
+
+xref:022-canticos/022-canticos-002.adoc#v22-2-0[&#60; Capítulo Anterior] | <<v22-3-0,Topo>> | xref:022-canticos/022-canticos-004.adoc#v22-4-0[Próximo Capítulo &#62;]

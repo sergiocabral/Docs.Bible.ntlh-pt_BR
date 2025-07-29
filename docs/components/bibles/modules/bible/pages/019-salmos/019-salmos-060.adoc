@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-60-0]]
+=== Salmos, 60
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-60-1]]
+
+^<<v19-60-1,1>>^ Ó Deus, tu nos rejeitaste e nos derrotaste. Estavas irado  conosco, mas agora volta para nós!
+
+[[v19-60-2]]
+
+^<<v19-60-2,2>>^ Fizeste a terra tremer e se abrir; agora fecha as suas brechas, pois ela está se desfazendo.
+
+[[v19-60-3]]
+
+^<<v19-60-3,3>>^ Fizeste o teu povo passar por muitas aflições; tu nos deste vinho para beber, e por isso andamos por aí às tontas.
+
+[[v19-60-4]]
+
+^<<v19-60-4,4>>^ Levantaste uma bandeira para avisar os que te temem , para que eles pudessem escapar da derrota.
+
+[[v19-60-5]]
+
+^<<v19-60-5,5>>^ Salva-nos com o teu poder; responde à nossa oração para que o povo que tu amas seja salvo.
+
+[[v19-60-6]]
+
+^<<v19-60-6,6>>^ No seu Templo, Deus disse: "Quando eu vencer, dividirei a cidade de Siquém e repartirei o vale de Sucote entre o meu povo.
+
+[[v19-60-7]]
+
+^<<v19-60-7,7>>^ Gileade é meu, e Manassés, também; Efraim é o meu capacete, e Judá é o meu cetro  de rei.
+
+[[v19-60-8]]
+
+^<<v19-60-8,8>>^ Porém Moabe será a minha bacia de lavar; e eu jogarei as minhas sandálias sobre Edom, como um sinal de que esse país é meu. Será que os filisteus pensaram que iriam cantar a sua vitória sobre mim?"
+
+[[v19-60-9]]
+
+^<<v19-60-9,9>>^ Ó Deus, quem me levará para dentro da cidade protegida por muralhas? Quem me guiará até Edom?
+
+[[v19-60-10]]
+
+^<<v19-60-10,10>>^ Será que, de fato, nos rejeitaste? Será que não vais marchar com os nossos exércitos?
+
+[[v19-60-11]]
+
+^<<v19-60-11,11>>^ Ajuda-nos a combater o inimigo, pois o auxílio de seres humanos não vale nada.
+
+[[v19-60-12]]
+
+^<<v19-60-12,12>>^ Com Deus do nosso lado, venceremos; ele derrotará os nossos inimigos.
+
+'''
+
+xref:019-salmos/019-salmos-059.adoc#v19-59-0[&#60; Capítulo Anterior] | <<v19-60-0,Topo>> | xref:019-salmos/019-salmos-061.adoc#v19-61-0[Próximo Capítulo &#62;]

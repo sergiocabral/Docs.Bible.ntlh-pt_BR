@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v20-17-0]]
+=== Provérbios, 17
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v20-17-1]]
+
+^<<v20-17-1,1>>^ É melhor comer um pedaço de pão seco, tendo paz de espírito, do que ter um banquete numa casa cheia de brigas.
+
+[[v20-17-2]]
+
+^<<v20-17-2,2>>^ O escravo sábio mandará no filho que envergonhou o pai e também receberá uma parte da herança.
+
+[[v20-17-3]]
+
+^<<v20-17-3,3>>^ O ouro e a prata são provados pelo fogo, mas é o Senhor  Deus quem mostra o que as pessoas realmente são.
+
+[[v20-17-4]]
+
+^<<v20-17-4,4>>^ Os maus ouvem com atenção as coisas más, e os mentirosos gostam de ouvir mentiras.
+
+[[v20-17-5]]
+
+^<<v20-17-5,5>>^ Quem caçoa do pobre insulta a Deus, que o fez; quem se alegra com a desgraça dos outros será castigado.
+
+[[v20-17-6]]
+
+^<<v20-17-6,6>>^ Assim como os avós se orgulham dos netos, os filhos se orgulham dos pais.
+
+[[v20-17-7]]
+
+^<<v20-17-7,7>>^ É mais fácil um tolo dizer alguma coisa que se aproveite do que um homem de respeito dizer uma mentira.
+
+[[v20-17-8]]
+
+^<<v20-17-8,8>>^ Alguns pensam que, com dinheiro, podem comprar qualquer pessoa; acham que o suborno  é uma coisa mágica.
+
+[[v20-17-9]]
+
+^<<v20-17-9,9>>^ Quem perdoa uma ofensa mostra que tem amor, mas quem fica lembrando o assunto estraga a amizade.
+
+[[v20-17-10]]
+
+^<<v20-17-10,10>>^ Quem tem juízo aprende mais com uma repreensão do que o tolo, com cem chicotadas.
+
+[[v20-17-11]]
+
+^<<v20-17-11,11>>^ As pessoas revoltadas estão sempre criando problemas; por isso a morte virá para elas como um mensageiro cruel.
+
+[[v20-17-12]]
+
+^<<v20-17-12,12>>^ É melhor encontrar uma ursa da qual roubaram os filhotes do que um homem sem juízo, ocupado com as suas tolices.
+
+[[v20-17-13]]
+
+^<<v20-17-13,13>>^ Quem paga o bem com o mal não afastará o mal da sua casa.
+
+[[v20-17-14]]
+
+^<<v20-17-14,14>>^ O começo de uma briga é como a primeira rachadura numa represa: é bom parar antes que a coisa piore.
+
+[[v20-17-15]]
+
+^<<v20-17-15,15>>^ Há duas coisas que o Senhor  Deus detesta: que o inocente seja condenado e que o culpado seja declarado inocente.
+
+[[v20-17-16]]
+
+^<<v20-17-16,16>>^ Não adianta nada o tolo gastar dinheiro para conseguir a sabedoria porque ele não aprende nada mesmo.
+
+[[v20-17-17]]
+
+^<<v20-17-17,17>>^ O amigo ama sempre e na desgraça ele se torna um irmão.
+
+[[v20-17-18]]
+
+^<<v20-17-18,18>>^ Somente um tolo aceitaria ficar como fiador do seu vizinho.
+
+[[v20-17-19]]
+
+^<<v20-17-19,19>>^ As pessoas revoltadas gostam de briga, e quem vive se gabando está correndo para a desgraça.
+
+[[v20-17-20]]
+
+^<<v20-17-20,20>>^ Quem vive pensando e dizendo coisas más não pode esperar nada de bom, mas só a desgraça.
+
+[[v20-17-21]]
+
+^<<v20-17-21,21>>^ O pai de filhos sem juízo só tem tristezas e sofrimentos.
+
+[[v20-17-22]]
+
+^<<v20-17-22,22>>^ A alegria faz bem à saúde; estar sempre triste é morrer aos poucos.
+
+[[v20-17-23]]
+
+^<<v20-17-23,23>>^ Os juízes desonestos se vendem por dinheiro e por isso são injustos nas suas sentenças.
+
+[[v20-17-24]]
+
+^<<v20-17-24,24>>^ Quem tem juízo procura a sabedoria, mas o tolo não sabe o que quer.
+
+[[v20-17-25]]
+
+^<<v20-17-25,25>>^ O filho sem juízo é tristeza para o seu pai e amargura para a sua mãe.
+
+[[v20-17-26]]
+
+^<<v20-17-26,26>>^ Não é bom multar um homem correto; não é certo castigar os líderes honestos.
+
+[[v20-17-27]]
+
+^<<v20-17-27,27>>^ Quem controla as suas palavras é sábio, e quem mantém a calma mostra que é inteligente.
+
+[[v20-17-28]]
+
+^<<v20-17-28,28>>^ Até um tolo pode passar por sábio e inteligente se ficar calado.
+
+'''
+
+xref:020-proverbios/020-proverbios-016.adoc#v20-16-0[&#60; Capítulo Anterior] | <<v20-17-0,Topo>> | xref:020-proverbios/020-proverbios-018.adoc#v20-18-0[Próximo Capítulo &#62;]

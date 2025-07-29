@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v2-15-0]]
+=== Êxodo, 15
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v2-15-1]]
+
+^<<v2-15-1,1>>^ Então Moisés e os israelitas cantaram esta canção a Deus, o Senhor : Cantarei ao Senhor porque ele conquistou uma vitória maravilhosa; ele jogou os cavalos e os cavaleiros dentro do mar.
+
+[[v2-15-2]]
+
+^<<v2-15-2,2>>^ O Senhor  é o meu forte defensor; foi ele quem me salvou. Ele é o meu Deus, e eu o louvarei. Ele é o Deus do meu pai, e eu cantarei a sua grandeza.
+
+[[v2-15-3]]
+
+^<<v2-15-3,3>>^ O Senhor  é um guerreiro; o seu nome é Senhor .
+
+[[v2-15-4]]
+
+^<<v2-15-4,4>>^ Ele jogou no mar o exército egípcio e os seus carros de guerra; os seus melhores oficiais se afogaram no mar Vermelho.
+
+[[v2-15-5]]
+
+^<<v2-15-5,5>>^ O mar profundo os cobriu; como uma pedra eles foram até o fundo.
+
+[[v2-15-6]]
+
+^<<v2-15-6,6>>^ A tua mão direita, ó Senhor , tem um poder terrível; ela despedaça o inimigo.
+
+[[v2-15-7]]
+
+^<<v2-15-7,7>>^ Como é maravilhosa a tua vitória! Derrotas os teus inimigos e com a tua ira  furiosa tu os queimas como se fossem palha.
+
+[[v2-15-8]]
+
+^<<v2-15-8,8>>^ Tu sopraste, e as águas se amontoaram; as ondas se levantaram como muralhas, e o fundo do mar ficou duro como gelo.
+
+[[v2-15-9]]
+
+^<<v2-15-9,9>>^ Os inimigos disseram: "Nós iremos atrás deles e os alcançaremos; pegaremos todas as coisas que são deles e ficaremos com tudo o que quisermos. Com as nossas espadas nós os mataremos."
+
+[[v2-15-10]]
+
+^<<v2-15-10,10>>^ Porém tu, ó Senhor , sopraste, e os egípcios se afogaram; afundaram como chumbo no mar bravo.
+
+[[v2-15-11]]
+
+^<<v2-15-11,11>>^ Não há outro deus como tu, ó Senhor ! Quem é santo e majestoso como tu? Quem pode fazer os milagres e as maravilhas que fazes?
+
+[[v2-15-12]]
+
+^<<v2-15-12,12>>^ Estendeste a mão direita, e a terra engoliu os que nos perseguiam.
+
+[[v2-15-13]]
+
+^<<v2-15-13,13>>^ Por causa do teu amor tu guiaste o povo que salvaste; com o teu grande poder tu os levaste para a tua terra santa.
+
+[[v2-15-14]]
+
+^<<v2-15-14,14>>^ Os povos ouviram falar do que fizeste e estão tremendo de medo. Os filisteus ficaram apavorados.
+
+[[v2-15-15]]
+
+^<<v2-15-15,15>>^ Os chefes dos edomitas estão assustados, os poderosos moabitas perderam a coragem, e todos os cananeus estão tremendo.
+
+[[v2-15-16]]
+
+^<<v2-15-16,16>>^ O medo e o terror caíram sobre eles. Eles viram o teu grande poder e ficaram parados como se fossem pedras até que tivesse passado o teu povo, o povo que livraste da escravidão.
+
+[[v2-15-17]]
+
+^<<v2-15-17,17>>^ Tu levarás o teu povo para viver no teu monte , o lugar, ó Senhor, que escolheste para morar, o Templo que tu mesmo construíste.
+
+[[v2-15-18]]
+
+^<<v2-15-18,18>>^ O Senhor  Deus será rei para todo o sempre!
+
+[[v2-15-19]]
+
+^<<v2-15-19,19>>^ Os israelitas atravessaram o mar em terra seca. Porém, quando os carros de guerra dos egípcios, com os seus cavalos e cavaleiros, entraram no mar, o Senhor  Deus fez com que as águas voltassem e os cobrissem.
+
+[[v2-15-20]]
+
+^<<v2-15-20,20>>^ A profetisa  Míriam, que era irmã de Arão, pegou um pandeiro, e todas as mulheres a acompanharam, tocando pandeiro e dançando.
+
+[[v2-15-21]]
+
+^<<v2-15-21,21>>^ E Míriam cantou para elas assim: Cantem ao Senhor porque ele conquistou uma vitória gloriosa ; ele jogou os cavalos e os cavaleiros dentro do mar.
+
+[[v2-15-22]]
+
+^<<v2-15-22,22>>^ Aí Moisés levou o povo de Israel do mar Vermelho para o deserto de Sur. Eles caminharam três dias no deserto e não acharam água.
+
+[[v2-15-23]]
+
+^<<v2-15-23,23>>^ Então chegaram a um lugar chamado Mara, porém não puderam beber a água dali porque era amarga. Por isso aquele lugar era chamado de Mara .
+
+[[v2-15-24]]
+
+^<<v2-15-24,24>>^ O povo reclamou com Moisés e perguntou: — O que vamos beber?
+
+[[v2-15-25]]
+
+^<<v2-15-25,25>>^ Então Moisés, em voz alta, pediu socorro a Deus, o Senhor , e o Senhor  lhe mostrou um pedaço de madeira. Moisés jogou a madeira na água, e a água ficou boa de beber. Foi nesse lugar que o Senhor  Deus deu leis  aos israelitas e os pôs à prova.
+
+[[v2-15-26]]
+
+^<<v2-15-26,26>>^ Ele disse: — Se vocês prestarem atenção no que eu digo, se fizerem o que é certo e se guardarem os meus mandamentos, eu não os castigarei com nenhuma das doenças que mandei contra os egípcios. Eu sou o Senhor , que cura vocês.
+
+[[v2-15-27]]
+
+^<<v2-15-27,27>>^ Depois os israelitas chegaram a Elim, onde havia doze fontes de água e setenta palmeiras. E acamparam ali, perto da água.
+
+'''
+
+xref:002-exodo/002-exodo-014.adoc#v2-14-0[&#60; Capítulo Anterior] | <<v2-15-0,Topo>> | xref:002-exodo/002-exodo-016.adoc#v2-16-0[Próximo Capítulo &#62;]

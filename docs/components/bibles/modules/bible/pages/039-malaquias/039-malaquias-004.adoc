@@ -1,0 +1,33 @@
+include::./index.adoc[]
+
+[[v39-4-0]]
+=== Malaquias, 4
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v39-4-1]]
+
+^<<v39-4-1,1>>^ O Senhor  Todo-Poderoso diz: — Está chegando o dia em que todos os orgulhosos e todos os maus serão queimados como a palha é queimada na fogueira. Naquele dia, eles queimarão e serão completamente destruídos.
+
+[[v39-4-2]]
+
+^<<v39-4-2,2>>^ Mas, para vocês que me temem , a minha salvação brilhará como o sol, trazendo vida nos seus raios. Vocês saltarão de alegria, como bezerros que saem saltando do curral.
+
+[[v39-4-3]]
+
+^<<v39-4-3,3>>^ Naquele dia que estou preparando, vocês pisarão os maus como se eles fossem o pó da rua.
+
+[[v39-4-4]]
+
+^<<v39-4-4,4>>^ — Lembrem da Lei  do meu servo  Moisés, de todos os mandamentos e ensinamentos que eu dei a ele no monte Sinai para todo o povo de Israel obedecer.
+
+[[v39-4-5]]
+
+^<<v39-4-5,5>>^ — Mas, antes que chegue aquele grande e terrível dia, eu, o Senhor , lhes enviarei o profeta  Elias.
+
+[[v39-4-6]]
+
+^<<v39-4-6,6>>^ Ele fará com que pais e filhos façam as pazes para que eu não venha castigar o país e destruí-lo completamente.
+
+'''
+
+xref:039-malaquias/039-malaquias-003.adoc#v39-3-0[&#60; Capítulo Anterior] | <<v39-4-0,Topo>> | xref:040-mateus/040-mateus-001.adoc#v40-1-0[Próximo Capítulo &#62;]

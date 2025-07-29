@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v19-103-0]]
+=== Salmos, 103
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-103-1]]
+
+^<<v19-103-1,1>>^ Ó Senhor  Deus, que todo o meu ser te louve! Que eu louve o Santo Deus com todas as minhas forças!
+
+[[v19-103-2]]
+
+^<<v19-103-2,2>>^ Que todo o meu ser louve o Senhor , e que eu não esqueça nenhuma das suas bênçãos!
+
+[[v19-103-3]]
+
+^<<v19-103-3,3>>^ O Senhor  perdoa todos os meus pecados e cura todas as minhas doenças;
+
+[[v19-103-4]]
+
+^<<v19-103-4,4>>^ ele me salva da morte e me abençoa com amor e bondade.
+
+[[v19-103-5]]
+
+^<<v19-103-5,5>>^ Ele enche a minha vida com muitas coisas boas, e assim eu continuo jovem e forte como a águia.
+
+[[v19-103-6]]
+
+^<<v19-103-6,6>>^ O Senhor  Deus julga a favor dos oprimidos e garante os seus direitos.
+
+[[v19-103-7]]
+
+^<<v19-103-7,7>>^ Ele revelou os seus planos a Moisés e deixou que o povo de Israel visse os seus feitos poderosos.
+
+[[v19-103-8]]
+
+^<<v19-103-8,8>>^ O Senhor  é bondoso e misericordioso, não fica irado  facilmente e é muito amoroso.
+
+[[v19-103-9]]
+
+^<<v19-103-9,9>>^ Ele não vive nos repreendendo, e a sua ira não dura para sempre.
+
+[[v19-103-10]]
+
+^<<v19-103-10,10>>^ O Senhor  não nos castiga como merecemos, nem nos paga de acordo com os nossos pecados e maldades.
+
+[[v19-103-11]]
+
+^<<v19-103-11,11>>^ Assim como é grande a distância entre o céu e a terra, assim é grande o seu amor por aqueles que o temem .
+
+[[v19-103-12]]
+
+^<<v19-103-12,12>>^ Quanto o Oriente está longe do Ocidente, assim ele afasta de nós os nossos pecados.
+
+[[v19-103-13]]
+
+^<<v19-103-13,13>>^ Como um pai trata com bondade os seus filhos, assim o Senhor  é bondoso para aqueles que o temem.
+
+[[v19-103-14]]
+
+^<<v19-103-14,14>>^ Pois ele sabe como somos feitos; lembra que somos pó.
+
+[[v19-103-15]]
+
+^<<v19-103-15,15>>^ A nossa vida é como a grama; cresce e floresce como a flor do campo.
+
+[[v19-103-16]]
+
+^<<v19-103-16,16>>^ Aí o vento sopra, a flor desaparece, e nunca mais ninguém a vê.
+
+[[v19-103-17]]
+
+^<<v19-103-17,17>>^ Mas o amor de Deus, o Senhor , por aqueles que o temem dura para sempre. A sua bondade permanece, passando de pais a filhos,
+
+[[v19-103-18]]
+
+^<<v19-103-18,18>>^ para aqueles que guardam a sua aliança e obedecem fielmente aos seus mandamentos.
+
+[[v19-103-19]]
+
+^<<v19-103-19,19>>^ O Senhor  Deus colocou o seu trono bem firme no céu; ele é Rei e domina tudo.
+
+[[v19-103-20]]
+
+^<<v19-103-20,20>>^ Louvem o Senhor , fortes e poderosos anjos, que ouvem o que ele diz, que obedecem aos seus mandamentos!
+
+[[v19-103-21]]
+
+^<<v19-103-21,21>>^ Louvem o Senhor , todos os anjos do céu, todos os seus servos , que fazem a sua vontade!
+
+[[v19-103-22]]
+
+^<<v19-103-22,22>>^ Louvem o Senhor , todas as suas criaturas, em todo lugar onde ele reina! Que todo o meu ser te louve, ó Senhor !
+
+'''
+
+xref:019-salmos/019-salmos-102.adoc#v19-102-0[&#60; Capítulo Anterior] | <<v19-103-0,Topo>> | xref:019-salmos/019-salmos-104.adoc#v19-104-0[Próximo Capítulo &#62;]

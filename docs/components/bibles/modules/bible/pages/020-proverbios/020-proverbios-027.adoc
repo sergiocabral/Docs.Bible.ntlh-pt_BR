@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v20-27-0]]
+=== Provérbios, 27
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v20-27-1]]
+
+^<<v20-27-1,1>>^ Não conte vantagem a respeito dos seus planos para o futuro, pois você não sabe o que vai acontecer amanhã.
+
+[[v20-27-2]]
+
+^<<v20-27-2,2>>^ Ninguém elogie a si mesmo; se houver elogios, que venham dos outros.
+
+[[v20-27-3]]
+
+^<<v20-27-3,3>>^ As pedras e a areia são pesadas, mas os problemas causados pelo mau gênio dos tolos pesam mais ainda.
+
+[[v20-27-4]]
+
+^<<v20-27-4,4>>^ O ódio é cruel e destruidor, mas a inveja é pior ainda.
+
+[[v20-27-5]]
+
+^<<v20-27-5,5>>^ É melhor a crítica franca do que o amor sem franqueza.
+
+[[v20-27-6]]
+
+^<<v20-27-6,6>>^ O amigo quer o nosso bem, mesmo quando nos fere; mas, quando um inimigo abraçar você, tome cuidado!
+
+[[v20-27-7]]
+
+^<<v20-27-7,7>>^ Quem está com o estômago cheio rejeita até o mel; mas, para quem está com fome, até a comida amarga é doce.
+
+[[v20-27-8]]
+
+^<<v20-27-8,8>>^ Uma pessoa longe de casa é como um pássaro longe do ninho.
+
+[[v20-27-9]]
+
+^<<v20-27-9,9>>^ Assim como os perfumes alegram a vida, a amizade sincera dá ânimo para viver.
+
+[[v20-27-10]]
+
+^<<v20-27-10,10>>^ Não abandone o seu amigo, nem o amigo do seu pai. Se você estiver em dificuldades, não peça ajuda ao seu irmão. Vale mais um vizinho perto do que um irmão longe.
+
+[[v20-27-11]]
+
+^<<v20-27-11,11>>^ Seja sábio, meu filho; então eu serei feliz e saberei dar uma boa resposta a quem me criticar.
+
+[[v20-27-12]]
+
+^<<v20-27-12,12>>^ A pessoa sensata vê o perigo e se esconde, mas a insensata vai em frente e acaba mal.
+
+[[v20-27-13]]
+
+^<<v20-27-13,13>>^ Quem aceita ser fiador de um estranho deve dar a sua roupa como garantia de pagamento.
+
+[[v20-27-14]]
+
+^<<v20-27-14,14>>^ Quando alguém acorda um amigo de manhã bem cedo com um grito de "bom-dia!", o seu cumprimento soa como uma maldição.
+
+[[v20-27-15]]
+
+^<<v20-27-15,15>>^ A esposa briguenta é como um dia triste em que a chuva não para de cair.
+
+[[v20-27-16]]
+
+^<<v20-27-16,16>>^ O que é que você pode fazer para que ela fique calada? Você já procurou fazer o vento parar ou tentou pegar óleo com a mão?
+
+[[v20-27-17]]
+
+^<<v20-27-17,17>>^ As pessoas aprendem umas com as outras, assim como o ferro afia o próprio ferro.
+
+[[v20-27-18]]
+
+^<<v20-27-18,18>>^ Cuide bem da sua figueira e você terá figos para comer; trate bem o seu patrão e você será recompensado.
+
+[[v20-27-19]]
+
+^<<v20-27-19,19>>^ Assim como a água reflete o rosto da gente, o coração mostra o que a pessoa é.
+
+[[v20-27-20]]
+
+^<<v20-27-20,20>>^ Os desejos das pessoas são como o mundo dos mortos : sempre há lugar para mais um.
+
+[[v20-27-21]]
+
+^<<v20-27-21,21>>^ Assim como o ouro e a prata são provados pelo fogo, o bom nome de uma pessoa também pode ser posto à prova.
+
+[[v20-27-22]]
+
+^<<v20-27-22,22>>^ Mesmo que você batesse num tolo até quase matá-lo, ainda assim ele continuaria tão tolo como antes.
+
+[[v20-27-23]]
+
+^<<v20-27-23,23>>^ Cuide das suas ovelhas e do seu gado o melhor que puder
+
+[[v20-27-24]]
+
+^<<v20-27-24,24>>^ porque tanto as riquezas como os governos não duram para sempre.
+
+[[v20-27-25]]
+
+^<<v20-27-25,25>>^ Primeiro você corta o feno ; depois corta o capim dos montes enquanto espera que o feno cresça de novo.
+
+[[v20-27-26]]
+
+^<<v20-27-26,26>>^ Aí você pode fazer roupas com a lã das suas ovelhas e comprar mais terras com o dinheiro que ganhou com a venda de alguns cabritos.
+
+[[v20-27-27]]
+
+^<<v20-27-27,27>>^ E as cabras darão leite com fartura para você, e para a sua família, e também para as suas empregadas.
+
+'''
+
+xref:020-proverbios/020-proverbios-026.adoc#v20-26-0[&#60; Capítulo Anterior] | <<v20-27-0,Topo>> | xref:020-proverbios/020-proverbios-028.adoc#v20-28-0[Próximo Capítulo &#62;]

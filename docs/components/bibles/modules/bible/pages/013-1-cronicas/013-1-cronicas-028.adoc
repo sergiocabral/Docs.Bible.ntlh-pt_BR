@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v13-28-0]]
+=== 1 Crônicas, 28
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v13-28-1]]
+
+^<<v13-28-1,1>>^ O rei Davi ordenou que todas as autoridades de Israel se reunissem na cidade de Jerusalém. Portanto, se reuniram em Jerusalém todos os chefes das tribos , os oficiais que cuidavam dos negócios do reino, os chefes dos grupos de famílias, os administradores das propriedades e de todo o gado que pertenciam ao rei e aos seus filhos e também os funcionários do palácio, os oficiais superiores do exército e outros homens importantes.
+
+[[v13-28-2]]
+
+^<<v13-28-2,2>>^ Então Davi ficou de pé na frente deles e disse: — Povo da minha terra, meus irmãos, escutem! Eu quis construir uma casa onde ficasse guardada para sempre a arca da aliança , que é o estrado dos pés do Senhor , nosso Deus. Eu havia feito preparativos para construir um templo em sua honra,
+
+[[v13-28-3]]
+
+^<<v13-28-3,3>>^ mas ele me proibiu de construí-lo porque sou soldado e fiz correr muito sangue.
+
+[[v13-28-4]]
+
+^<<v13-28-4,4>>^ O Senhor , o Deus de Israel, escolheu a mim e aos meus descendentes a fim de governarmos o povo de Israel para sempre. Pois ele escolheu a tribo de Judá para que dela saíssem os reis; da tribo de Judá ele preferiu a família do meu pai; e entre os filhos do meu pai ele me escolheu para me fazer rei de todo o povo de Israel.
+
+[[v13-28-5]]
+
+^<<v13-28-5,5>>^ Ele me deu muitos filhos e entre todos eles escolheu Salomão para governar Israel, o reino do Senhor .
+
+[[v13-28-6]]
+
+^<<v13-28-6,6>>^ E Davi continuou: — Deus me disse: "O seu filho Salomão é quem irá construir o meu Templo. Eu o escolhi para ser meu filho e serei pai dele.
+
+[[v13-28-7]]
+
+^<<v13-28-7,7>>^ Se ele continuar a obedecer a todas as minhas leis  e mandamentos, como tem feito até hoje, eu firmarei o seu reino para sempre".
+
+[[v13-28-8]]
+
+^<<v13-28-8,8>>^ Davi disse também: — Portanto, agora, na presença do nosso Deus e desta assembleia de todo o povo de Israel, o povo do Senhor , eu recomendo a vocês que obedeçam cuidadosamente a tudo o que o Senhor , nosso Deus, ordenou, para que esta boa terra continue a ser de vocês e para que vocês possam deixá-la como herança aos seus filhos para sempre.
+
+[[v13-28-9]]
+
+^<<v13-28-9,9>>^ E a Salomão ele disse: — Meu filho, reconheça o Deus do seu pai e sirva-o com todo o coração e de livre e espontânea vontade. Ele conhece todos os seus pensamentos e desejos. Se você o procurar, ele o aceitará; mas, se o abandonar, ele o rejeitará para sempre.
+
+[[v13-28-10]]
+
+^<<v13-28-10,10>>^ Você deve compreender que o Senhor  o escolheu para construir o seu santo Templo. Portanto, seja forte e mãos à obra!
+
+[[v13-28-11]]
+
+^<<v13-28-11,11>>^ Davi entregou a Salomão a planta de todos os prédios do Templo, dos depósitos, de todas as salas e do Lugar Santíssimo , onde os pecados são perdoados.
+
+[[v13-28-12]]
+
+^<<v13-28-12,12>>^ Deu também as plantas de tudo o que tinha planejado para os pátios e as salas que deveriam ficar ao seu redor e as plantas dos depósitos onde seriam guardados os objetos do Templo e as ofertas dedicadas a Deus.
+
+[[v13-28-13]]
+
+^<<v13-28-13,13>>^ Davi também deu a Salomão por escrito a maneira de organizar os sacerdotes e levitas  no cumprimento dos seus deveres, para fazer o trabalho do Templo e para cuidar de todos os objetos do Templo.
+
+[[v13-28-14]]
+
+^<<v13-28-14,14>>^ O plano determinava o peso da prata e do ouro que deveriam ser usados para fazer os objetos do Templo,
+
+[[v13-28-15]]
+
+^<<v13-28-15,15>>^ para fazer cada lamparina e candelabro ,
+
+[[v13-28-16]]
+
+^<<v13-28-16,16>>^ as mesas de prata e cada uma das mesas de ouro onde seriam colocados os pães oferecidos a Deus.
+
+[[v13-28-17]]
+
+^<<v13-28-17,17>>^ Também determinava o peso do ouro puro que deveria ser usado para fazer os garfos, as bacias e as jarras, o peso da prata e do ouro para fazer os pratos
+
+[[v13-28-18]]
+
+^<<v13-28-18,18>>^ e o peso do ouro puro que deveria ser usado para fazer o altar onde o incenso é queimado e para fazer o carro onde seriam colocados os querubins , que com as asas estendidas cobrem a arca da aliança de Deus, o Senhor .
+
+[[v13-28-19]]
+
+^<<v13-28-19,19>>^ O rei Davi disse: — Tudo o que está nestas plantas foi escrito de acordo com as instruções que o Senhor  me deu, explicando como tudo deve ser feito.
+
+[[v13-28-20]]
+
+^<<v13-28-20,20>>^ E disse ao seu filho Salomão: — Seja forte e corajoso e mãos à obra! Não desanime, nem tenha medo, pois o Senhor , meu Deus, estará com você. Ele não o abandonará, mas ficará com você até terminarem todas as obras da construção do Templo.
+
+[[v13-28-21]]
+
+^<<v13-28-21,21>>^ Os sacerdotes e os levitas foram escalados para cuidar dos serviços do Templo. Trabalhadores que sabem fazer todos os tipos de serviço estão prontos para ajudá-lo, e todo o povo e os seus líderes estão às suas ordens.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-027.adoc#v13-27-0[&#60; Capítulo Anterior] | <<v13-28-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-029.adoc#v13-29-0[Próximo Capítulo &#62;]

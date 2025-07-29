@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v18-20-0]]
+=== Jó, 20
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v18-20-1]]
+
+^<<v18-20-1,1>>^ Então Zofar, da região de Naamá, em resposta disse:
+
+[[v18-20-2]]
+
+^<<v18-20-2,2>>^ "Jó, você me deixou perturbado, e por isso respondo logo.
+
+[[v18-20-3]]
+
+^<<v18-20-3,3>>^ As suas repreensões são um insulto, mas eu sei dar a resposta certa.
+
+[[v18-20-4]]
+
+^<<v18-20-4,4>>^ "Você sabe muito bem que desde os tempos antigos, desde que o ser humano existe na terra, sempre foi assim:
+
+[[v18-20-5]]
+
+^<<v18-20-5,5>>^ a alegria de quem é mau dura pouco; o seu prazer passa depressa.
+
+[[v18-20-6]]
+
+^<<v18-20-6,6>>^ Ele pode ser tão alto como o céu, e a sua cabeça tocar nas nuvens,
+
+[[v18-20-7]]
+
+^<<v18-20-7,7>>^ mas ele se acabará para sempre como a cinza, e os seus conhecidos não ficarão sabendo o que aconteceu com ele.
+
+[[v18-20-8]]
+
+^<<v18-20-8,8>>^ Ele desaparecerá como um sonho, como uma visão da noite, para nunca mais ser visto.
+
+[[v18-20-9]]
+
+^<<v18-20-9,9>>^ As pessoas que viviam com ele não o verão mais.
+
+[[v18-20-10]]
+
+^<<v18-20-10,10>>^ Os seus filhos devolverão aos pobres aquilo que ele roubou, aquilo que ele ganhou desonestamente.
+
+[[v18-20-11]]
+
+^<<v18-20-11,11>>^ O seu corpo jovem e forte logo virará pó.
+
+[[v18-20-12]]
+
+^<<v18-20-12,12>>^ "Para quem é mau, a maldade é doce. Ele a esconde debaixo da língua
+
+[[v18-20-13]]
+
+^<<v18-20-13,13>>^ e fica com ela na boca para sentir bem o seu gosto.
+
+[[v18-20-14]]
+
+^<<v18-20-14,14>>^ Mas daí a pouco, no estômago, ela vira um veneno amargoso.
+
+[[v18-20-15]]
+
+^<<v18-20-15,15>>^ O homem mau vomita as riquezas que rouba; Deus as arranca do seu estômago.
+
+[[v18-20-16]]
+
+^<<v18-20-16,16>>^ Ele toma veneno de cobra, e esse veneno o mata.
+
+[[v18-20-17]]
+
+^<<v18-20-17,17>>^ Quem é mau não terá o prazer de tomar leite e mel, que correm como rios.
+
+[[v18-20-18]]
+
+^<<v18-20-18,18>>^ Ele terá de abandonar tudo o que ganhou com o seu trabalho e não poderá aproveitar as suas riquezas.
+
+[[v18-20-19]]
+
+^<<v18-20-19,19>>^ Isso porque explora os pobres e os esquece e rouba as casas dos outros em vez de construir as suas.
+
+[[v18-20-20]]
+
+^<<v18-20-20,20>>^ Ele nunca está satisfeito com o que possui; quer ter sempre mais e mais.
+
+[[v18-20-21]]
+
+^<<v18-20-21,21>>^ Avança em tudo o que pode, mas a sua prosperidade acabará.
+
+[[v18-20-22]]
+
+^<<v18-20-22,22>>^ No ponto mais alto do seu sucesso, a miséria o atacará; todo o peso da desgraça cairá sobre ele.
+
+[[v18-20-23]]
+
+^<<v18-20-23,23>>^ "Ele que encha a barriga! Deus descarregará sobre ele a sua ira ; Deus fará chover sobre ele o seu furor.
+
+[[v18-20-24]]
+
+^<<v18-20-24,24>>^ Mesmo que ele escape de uma arma de ferro, uma flecha com ponta de bronze o atravessará.
+
+[[v18-20-25]]
+
+^<<v18-20-25,25>>^ Tirarão a flecha das suas costas, e ela sairá brilhando com o seu sangue. E o medo tomará conta dele.
+
+[[v18-20-26]]
+
+^<<v18-20-26,26>>^ Tudo o que ele ajuntou será destruído; um fogo não aceso por mãos humanas acabará com ele e com toda a sua família.
+
+[[v18-20-27]]
+
+^<<v18-20-27,27>>^ "O céu mostrará os pecados dos maus, e a terra se levantará para acusá-los.
+
+[[v18-20-28]]
+
+^<<v18-20-28,28>>^ No dia em que a ira de Deus se derramar sobre eles, todas as suas riquezas serão destruídas.
+
+[[v18-20-29]]
+
+^<<v18-20-29,29>>^ É isso o que Deus faz com os perversos; é essa a recompensa que ele guarda para os maus."
+
+'''
+
+xref:018-jo/018-jo-019.adoc#v18-19-0[&#60; Capítulo Anterior] | <<v18-20-0,Topo>> | xref:018-jo/018-jo-021.adoc#v18-21-0[Próximo Capítulo &#62;]

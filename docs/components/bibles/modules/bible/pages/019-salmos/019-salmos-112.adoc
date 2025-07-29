@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v19-112-0]]
+=== Salmos, 112
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-112-1]]
+
+^<<v19-112-1,1>>^ Aleluia ! Feliz aquele que teme a Deus , o Senhor , que tem prazer em obedecer aos seus mandamentos!
+
+[[v19-112-2]]
+
+^<<v19-112-2,2>>^ Os filhos desse homem serão poderosos na Terra Prometida , e os seus descendentes serão abençoados.
+
+[[v19-112-3]]
+
+^<<v19-112-3,3>>^ Na sua casa há muita riqueza, e ele é sempre bem-sucedido.
+
+[[v19-112-4]]
+
+^<<v19-112-4,4>>^ A luz brilha na escuridão para aqueles que são corretos, para aqueles que são bondosos, misericordiosos e honestos.
+
+[[v19-112-5]]
+
+^<<v19-112-5,5>>^ Feliz aquele que tem pena dos outros e empresta generosamente e que dirige os seus negócios com honestidade!
+
+[[v19-112-6]]
+
+^<<v19-112-6,6>>^ Quem é correto nunca fracassará e será lembrado para sempre.
+
+[[v19-112-7]]
+
+^<<v19-112-7,7>>^ Ele não tem medo de receber más notícias; a sua fé é forte, pois ele confia no Senhor .
+
+[[v19-112-8]]
+
+^<<v19-112-8,8>>^ Ele não fica preocupado, nem tem medo; ele tem certeza de que os seus inimigos serão derrotados.
+
+[[v19-112-9]]
+
+^<<v19-112-9,9>>^ Ele dá generosamente aos pobres, e a sua bondade dura para sempre. Ele é poderoso e respeitado.
+
+[[v19-112-10]]
+
+^<<v19-112-10,10>>^ Os maus veem isso e ficam com raiva; olham com ódio e se acabam. A esperança dos maus dá em nada.
+
+'''
+
+xref:019-salmos/019-salmos-111.adoc#v19-111-0[&#60; Capítulo Anterior] | <<v19-112-0,Topo>> | xref:019-salmos/019-salmos-113.adoc#v19-113-0[Próximo Capítulo &#62;]

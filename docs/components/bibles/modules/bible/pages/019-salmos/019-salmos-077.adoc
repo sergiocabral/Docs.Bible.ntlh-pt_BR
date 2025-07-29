@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v19-77-0]]
+=== Salmos, 77
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-77-1]]
+
+^<<v19-77-1,1>>^ Eu grito bem alto para Deus; grito, e ele me ouve.
+
+[[v19-77-2]]
+
+^<<v19-77-2,2>>^ Nas horas de aflição eu oro ao Senhor; durante a noite, levanto as mãos em oração, porém não encontro consolo.
+
+[[v19-77-3]]
+
+^<<v19-77-3,3>>^ Penso em Deus e começo a gemer; começo a pensar e fico desanimado.
+
+[[v19-77-4]]
+
+^<<v19-77-4,4>>^ Deus não me deixa dormir. Estou tão preocupado, que não posso falar.
+
+[[v19-77-5]]
+
+^<<v19-77-5,5>>^ Penso nos dias que já passaram e nos anos que se foram há muito tempo.
+
+[[v19-77-6]]
+
+^<<v19-77-6,6>>^ Gasto as noites em pensamentos profundos, começo a meditar e a mim mesmo faço estas perguntas:
+
+[[v19-77-7]]
+
+^<<v19-77-7,7>>^ "Será que o Senhor vai nos rejeitar para sempre? Será que ele nunca mais vai ficar contente conosco?
+
+[[v19-77-8]]
+
+^<<v19-77-8,8>>^ Será que deixou de nos amar? Será que a sua promessa não tem mais valor?
+
+[[v19-77-9]]
+
+^<<v19-77-9,9>>^ Será que Deus esqueceu de ser bondoso? Será que a ira  tomou o lugar da sua compaixão?"
+
+[[v19-77-10]]
+
+^<<v19-77-10,10>>^ Então eu disse assim: "O pior de tudo é que o Deus Altíssimo não quer nos ajudar mais como antes."
+
+[[v19-77-11]]
+
+^<<v19-77-11,11>>^ Ó Senhor  Deus, eu lembrarei dos teus feitos maravilhosos! Recordarei as maravilhas que fizeste no passado.
+
+[[v19-77-12]]
+
+^<<v19-77-12,12>>^ Pensarei em tudo o que tens feito, meditarei em todos os teus atos poderosos.
+
+[[v19-77-13]]
+
+^<<v19-77-13,13>>^ Ó Deus, tudo o que fazes é santo. Não há deus que seja tão grande como o nosso Deus.
+
+[[v19-77-14]]
+
+^<<v19-77-14,14>>^ Tu és o Deus que faz milagres; tu tens mostrado o teu poder entre as nações.
+
+[[v19-77-15]]
+
+^<<v19-77-15,15>>^ Pela tua força, salvaste o teu povo, os descendentes de Jacó e de José.
+
+[[v19-77-16]]
+
+^<<v19-77-16,16>>^ Ó Deus, quando as águas te viram, ficaram com medo, as águas profundas do mar tremeram.
+
+[[v19-77-17]]
+
+^<<v19-77-17,17>>^ As nuvens derramaram chuva, houve trovoada nas alturas, e os relâmpagos riscaram o céu em todas as direções.
+
+[[v19-77-18]]
+
+^<<v19-77-18,18>>^ O estrondo dos teus trovões se espalhou por toda parte; os relâmpagos iluminaram o mundo inteiro, e a terra foi sacudida e tremeu.
+
+[[v19-77-19]]
+
+^<<v19-77-19,19>>^ Tu andaste pelo meio do mar, abriste caminho no oceano profundo, mas ninguém viu as marcas dos teus pés.
+
+[[v19-77-20]]
+
+^<<v19-77-20,20>>^ Como um pastor, dirigiste o teu povo pelas mãos de Moisés e de Arão.
+
+'''
+
+xref:019-salmos/019-salmos-076.adoc#v19-76-0[&#60; Capítulo Anterior] | <<v19-77-0,Topo>> | xref:019-salmos/019-salmos-078.adoc#v19-78-0[Próximo Capítulo &#62;]

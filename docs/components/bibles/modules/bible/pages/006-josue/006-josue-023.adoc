@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v6-23-0]]
+=== Josué, 23
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v6-23-1]]
+
+^<<v6-23-1,1>>^ O Senhor  Deus deixou que o povo de Israel vivesse em paz com os inimigos ao seu redor. Passou muito tempo, e Josué ficou bem velho.
+
+[[v6-23-2]]
+
+^<<v6-23-2,2>>^ Ele chamou todo o povo de Israel, os conselheiros, os líderes, os juízes e os oficiais e disse: — Eu já estou velho.
+
+[[v6-23-3]]
+
+^<<v6-23-3,3>>^ Vocês viram tudo o que o Senhor , nosso Deus, fez com todas essas nações por causa de vocês. O Senhor  tem lutado a favor de vocês.
+
+[[v6-23-4]]
+
+^<<v6-23-4,4>>^ Escutem! Eu distribuí entre as tribos , para serem propriedade delas, as terras das nações que ainda não foram conquistadas. Assim também distribuí as terras das nações que já foram vencidas, desde o rio Jordão, a leste, até o mar Mediterrâneo, a oeste.
+
+[[v6-23-5]]
+
+^<<v6-23-5,5>>^ O Senhor , nosso Deus, fará com que essas nações fujam de vocês e as expulsará para longe. Vocês tomarão posse das terras dessas nações, como o Senhor , nosso Deus, prometeu.
+
+[[v6-23-6]]
+
+^<<v6-23-6,6>>^ Por isso se esforcem para obedecer fielmente a tudo o que está escrito no Livro da Lei  de Moisés. Não desprezem nenhuma parte desta Lei
+
+[[v6-23-7]]
+
+^<<v6-23-7,7>>^ para que assim não se misturem com esses povos que ainda vivem entre vocês. Também não falem os nomes dos seus deuses, nem jurem por eles; não os adorem, nem se curvem diante deles.
+
+[[v6-23-8]]
+
+^<<v6-23-8,8>>^ Fiquem ligados a Deus, o Senhor , como vocês têm ficado até agora.
+
+[[v6-23-9]]
+
+^<<v6-23-9,9>>^ O Senhor  expulsou povos grandes e fortes para longe, e até agora ninguém conseguiu resistir a vocês.
+
+[[v6-23-10]]
+
+^<<v6-23-10,10>>^ Um só israelita pode fazer fugirem mil inimigos porque o Senhor , nosso Deus, está lutando por vocês, como prometeu.
+
+[[v6-23-11]]
+
+^<<v6-23-11,11>>^ Por isso amem somente o Senhor , nosso Deus.
+
+[[v6-23-12]]
+
+^<<v6-23-12,12>>^ Mas, se vocês não forem fiéis a ele, e fizerem amizade com os povos que ainda estão aí, e casarem com essa gente,
+
+[[v6-23-13]]
+
+^<<v6-23-13,13>>^ podem ficar certos de que ele não expulsará mais esses povos do meio de vocês. Pelo contrário, eles se tornarão perigosos para vocês, como se fossem precipícios, armadilhas, chicotes nas costas ou espinhos nos olhos. E isso continuará até que vocês desapareçam desta boa terra que o Senhor , nosso Deus, lhes deu.
+
+[[v6-23-14]]
+
+^<<v6-23-14,14>>^ — Agora o dia da minha morte está perto. Todos vocês sabem, no seu coração e no seu íntimo, que o Senhor , nosso Deus, lhes deu todas as coisas boas que havia prometido. Ele cumpriu tudo; não falhou em nada.
+
+[[v6-23-15]]
+
+^<<v6-23-15,15>>^ Sim, o Senhor , nosso Deus, fez com que acontecessem todas as coisas boas que lhes tinha prometido. Mas, se vocês adorarem outros deuses e se curvarem diante deles, então ele ficará irado  e castigará vocês. Porque, se vocês fizerem isso, quebrarão a aliança  que o Senhor  Deus mandou que cumprissem. E logo não ficará nenhum de vocês nesta boa terra que ele lhes deu.
+
+'''
+
+xref:006-josue/006-josue-022.adoc#v6-22-0[&#60; Capítulo Anterior] | <<v6-23-0,Topo>> | xref:006-josue/006-josue-024.adoc#v6-24-0[Próximo Capítulo &#62;]

@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v18-40-0]]
+=== Jó, 40
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v18-40-1]]
+
+^<<v18-40-1,1>>^ Então o Senhor  disse:
+
+[[v18-40-2]]
+
+^<<v18-40-2,2>>^ "Jó, você desafiou a mim, o Deus Todo-Poderoso. Vai desistir ou vai me dar uma resposta?"
+
+[[v18-40-3]]
+
+^<<v18-40-3,3>>^ Então, em resposta ao Senhor , Jó disse:
+
+[[v18-40-4]]
+
+^<<v18-40-4,4>>^ "Eu não valho nada; que posso responder? Prefiro ficar calado.
+
+[[v18-40-5]]
+
+^<<v18-40-5,5>>^ Já falei mais do que devia e agora não tenho nada para dizer."
+
+[[v18-40-6]]
+
+^<<v18-40-6,6>>^ Então, do meio da tempestade, Deus respondeu a Jó assim:
+
+[[v18-40-7]]
+
+^<<v18-40-7,7>>^ "Mostre agora que é valente e responda às perguntas que lhe vou fazer.
+
+[[v18-40-8]]
+
+^<<v18-40-8,8>>^ Será que você está querendo provar que sou injusto, que eu sou culpado, e você é inocente?
+
+[[v18-40-9]]
+
+^<<v18-40-9,9>>^ Será que a sua força pode ser comparada com a minha? Será que você pode trovejar com voz tão forte como eu?
+
+[[v18-40-10]]
+
+^<<v18-40-10,10>>^ Se você pode, então vista-se de glória  e grandeza e enfeite-se com majestade e esplendor.
+
+[[v18-40-11]]
+
+^<<v18-40-11,11>>^ Olhe para todos os orgulhosos; faça explodir a sua raiva contra eles e humilhe-os.
+
+[[v18-40-12]]
+
+^<<v18-40-12,12>>^ Sim, olhe para eles e humilhe-os; esmague os perversos no lugar onde estão.
+
+[[v18-40-13]]
+
+^<<v18-40-13,13>>^ Sepulte-os todos na terra; amarre-os na prisão dos mortos.
+
+[[v18-40-14]]
+
+^<<v18-40-14,14>>^ Se você fizer isso, eu serei o primeiro a louvá-lo e a reconhecer que você venceu pelas suas próprias forças.
+
+[[v18-40-15]]
+
+^<<v18-40-15,15>>^ "Olhe para o monstro Beemote, que eu criei, como também criei você. Ele come capim como o boi,
+
+[[v18-40-16]]
+
+^<<v18-40-16,16>>^ mas veja quanta força tem e como são poderosos os seus músculos!
+
+[[v18-40-17]]
+
+^<<v18-40-17,17>>^ O seu rabo levantado é duro como um galho de cedro, e nos músculos das suas pernas ele tem muita força.
+
+[[v18-40-18]]
+
+^<<v18-40-18,18>>^ Os seus ossos são fortes como canos de bronze, e as suas pernas são como barras de ferro.
+
+[[v18-40-19]]
+
+^<<v18-40-19,19>>^ Ele é a mais espantosa das minhas criaturas. Só eu, o seu Criador, sou capaz de vencê-lo.
+
+[[v18-40-20]]
+
+^<<v18-40-20,20>>^ O capim que o alimenta cresce nas montanhas, onde as feras se divertem.
+
+[[v18-40-21]]
+
+^<<v18-40-21,21>>^ Ele se deita debaixo dos espinheiros e se esconde no brejo, entre as taboas.
+
+[[v18-40-22]]
+
+^<<v18-40-22,22>>^ Os espinheiros lhe dão sombra; os salgueiros do ribeirão o rodeiam.
+
+[[v18-40-23]]
+
+^<<v18-40-23,23>>^ Se há uma enchente, ele não se assusta; e fica tranquilo mesmo que a água do rio Jordão suba até o seu focinho.
+
+[[v18-40-24]]
+
+^<<v18-40-24,24>>^ Quem é capaz de cegá-lo e agarrá-lo ou de prender o seu focinho numa armadilha?
+
+'''
+
+xref:018-jo/018-jo-039.adoc#v18-39-0[&#60; Capítulo Anterior] | <<v18-40-0,Topo>> | xref:018-jo/018-jo-041.adoc#v18-41-0[Próximo Capítulo &#62;]

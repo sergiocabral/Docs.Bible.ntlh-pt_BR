@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v15-1-0]]
+=== Esdras, 1
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v15-1-1]]
+
+^<<v15-1-1,1>>^ No primeiro ano do reinado de Ciro , rei da Pérsia, cumpriu-se o que o Senhor  Deus tinha dito pelo profeta  Jeremias. O Senhor  tocou no coração de Ciro, e este ordenou que fosse comunicado em todo o seu reino, por escrito e também por meio de leitura em público, este decreto:
+
+[[v15-1-2]]
+
+^<<v15-1-2,2>>^ "Eu, Ciro, rei da Pérsia, declaro o seguinte: O Senhor , o Deus do céu, me fez governador do mundo inteiro e me encarregou de construir para ele um templo em Jerusalém, na região de Judá.
+
+[[v15-1-3]]
+
+^<<v15-1-3,3>>^ Que Deus esteja com todos vocês que são o seu povo! Vão a Jerusalém para construir de novo o Templo do Senhor , o Deus de Israel, o Deus que é adorado em Jerusalém.
+
+[[v15-1-4]]
+
+^<<v15-1-4,4>>^ Os vizinhos devem ajudar todos os israelitas que precisarem de ajuda a fim de voltarem para a sua terra. Devem lhes dar prata e ouro, mantimentos e gado e também ofertas para apresentarem no Templo de Deus, em Jerusalém."
+
+[[v15-1-5]]
+
+^<<v15-1-5,5>>^ Então os chefes das famílias das tribos  de Judá e de Benjamim, os sacerdotes e os levitas  e todas as outras pessoas que haviam sido animadas por Deus se aprontaram para ir a Jerusalém e construir de novo o Templo do Senhor .
+
+[[v15-1-6]]
+
+^<<v15-1-6,6>>^ Todos os seus vizinhos os ajudaram, dando-lhes vasilhas de prata e de ouro, mantimentos, gado, objetos de valor e também ofertas para apresentarem no Templo.
+
+[[v15-1-7]]
+
+^<<v15-1-7,7>>^ O rei Ciro entregou as tigelas e taças que Nabucodonosor havia tirado do Templo do Senhor  em Jerusalém e levado para o templo dos seus deuses.
+
+[[v15-1-8]]
+
+^<<v15-1-8,8>>^ Ciro devolveu os objetos a Mitredate, o tesoureiro, que fez uma lista das coisas e depois entregou tudo a Sesbazar, o governador de Judá.
+
+[[v15-1-9]]
+
+^<<v15-1-9,9>>^ Esta é a lista: trinta tigelas de ouro, mil tigelas de prata, vinte e nove outras tigelas, trinta taças de ouro, quatrocentas e dez taças de menor valor e mais mil outros objetos.
+
+[[v15-1-10]]
+
+^<<v15-1-10,10>>^ Esta é a lista: trinta tigelas de ouro, mil tigelas de prata, vinte e nove outras tigelas, trinta taças de ouro, quatrocentas e dez taças de menor valor e mais mil outros objetos.
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-036.adoc#v14-36-0[&#60; Capítulo Anterior] | <<v15-1-0,Topo>> | xref:015-esdras/015-esdras-002.adoc#v15-2-0[Próximo Capítulo &#62;]

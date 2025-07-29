@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v13-3-0]]
+=== 1 Crônicas, 3
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v13-3-1]]
+
+^<<v13-3-1,1>>^ São estes, por ordem de idade, os filhos de Davi que nasceram quando ele estava em Hebrom: Amnom, filho de Ainoã, de Jezreel; Daniel, filho de Abigail, de Carmelo; Absalão, filho de Maacá, que era filha de Talmai, rei de Gesur; Adonias, filho de Hagite; Sefatias, filho de Abital; Itreão, filho de Eglá.
+
+[[v13-3-2]]
+
+^<<v13-3-2,2>>^ São estes, por ordem de idade, os filhos de Davi que nasceram quando ele estava em Hebrom:
+
+[[v13-3-3]]
+
+^<<v13-3-3,3>>^ São estes, por ordem de idade, os filhos de Davi que nasceram quando ele estava em Hebrom:
+
+[[v13-3-4]]
+
+^<<v13-3-4,4>>^ Esses seis nasceram em Hebrom durante os sete anos e meio em que Davi reinou ali. Ele reinou trinta e três anos em Jerusalém,
+
+[[v13-3-5]]
+
+^<<v13-3-5,5>>^ e muitos filhos dele nasceram ali. A sua mulher Bate-Seba, filha de Amiel, lhe deu quatro filhos: Samua, Sobabe, Natã e Salomão.
+
+[[v13-3-6]]
+
+^<<v13-3-6,6>>^ Davi foi pai de outros nove filhos: Ibar, Elisua, Elpelete,
+
+[[v13-3-7]]
+
+^<<v13-3-7,7>>^ Noga, Nefegue, Jafia,
+
+[[v13-3-8]]
+
+^<<v13-3-8,8>>^ Elisama, Eliada e Elifelete.
+
+[[v13-3-9]]
+
+^<<v13-3-9,9>>^ Além de todos esses, Davi também teve filhos com as suas concubinas . Ele também foi pai de uma filha chamada Tamar.
+
+[[v13-3-10]]
+
+^<<v13-3-10,10>>^ Salomão foi pai de Roboão, Roboão foi pai de Abias, Abias foi pai de Asa, e Asa foi pai de Josafá;
+
+[[v13-3-11]]
+
+^<<v13-3-11,11>>^ Josafá foi pai de Jeorão, Jeorão foi pai de Acazias, e Acazias foi pai de Joás;
+
+[[v13-3-12]]
+
+^<<v13-3-12,12>>^ Joás foi pai de Amazias, Amazias foi pai de Uzias, e Uzias foi pai de Jotão;
+
+[[v13-3-13]]
+
+^<<v13-3-13,13>>^ Jotão foi pai de Acaz, Acaz foi pai de Ezequias, e Ezequias foi pai de Manassés;
+
+[[v13-3-14]]
+
+^<<v13-3-14,14>>^ Manassés foi pai de Amom, e Amom foi pai de Josias.
+
+[[v13-3-15]]
+
+^<<v13-3-15,15>>^ Josias foi pai de quatro filhos: Joanã, Jeoaquim, Zedequias e Joacaz.
+
+[[v13-3-16]]
+
+^<<v13-3-16,16>>^ Jeoaquim foi pai de dois filhos: Joaquim e Zedequias.
+
+[[v13-3-17]]
+
+^<<v13-3-17,17>>^ São estes os descendentes do rei Joaquim, que foi levado prisioneiro pelos babilônios. Joaquim foi pai de sete filhos: Salatiel,
+
+[[v13-3-18]]
+
+^<<v13-3-18,18>>^ Malquirão, Pedaías, Senazar, Jecamias, Hosama e Nedabias.
+
+[[v13-3-19]]
+
+^<<v13-3-19,19>>^ Pedaías foi pai de dois filhos: Zorobabel e Simei. Zorobabel foi pai de dois filhos: Mesulã e Hananias. Também foi pai de uma filha chamada Selomite.
+
+[[v13-3-20]]
+
+^<<v13-3-20,20>>^ Zorobabel foi pai de mais cinco filhos: Hasuba, Oel, Berequias, Hasadias e Jusabe-Hesede.
+
+[[v13-3-21]]
+
+^<<v13-3-21,21>>^ Hananias foi pai de dois filhos: Pelatias e Jesaías. Jesaías foi pai de Refaías, Refaías foi pai de Arnã, Arnã foi pai de Obadias, e Obadias foi pai de Secanias.
+
+[[v13-3-22]]
+
+^<<v13-3-22,22>>^ Secanias foi pai de um filho chamado Semaías e teve cinco netos: Hatus, Igal, Barias, Nearias e Safate.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-002.adoc#v13-2-0[&#60; Capítulo Anterior] | <<v13-3-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-004.adoc#v13-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v18-23-0]]
+=== Jó, 23
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v18-23-1]]
+
+^<<v18-23-1,1>>^ Porém em resposta Jó disse:
+
+[[v18-23-2]]
+
+^<<v18-23-2,2>>^ "Eu ainda estou revoltado e me queixo de Deus; não posso parar de gemer.
+
+[[v18-23-3]]
+
+^<<v18-23-3,3>>^ Gostaria de saber onde encontrá-lo; gostaria de ir até o lugar onde ele está,
+
+[[v18-23-4]]
+
+^<<v18-23-4,4>>^ para levar a ele a minha causa e apresentar todas as razões que tenho a meu favor.
+
+[[v18-23-5]]
+
+^<<v18-23-5,5>>^ Gostaria de saber o que ele me diria e como me responderia.
+
+[[v18-23-6]]
+
+^<<v18-23-6,6>>^ Será que Deus usaria todo o seu poder contra mim? Não! Estou certo de que ele me ouviria.
+
+[[v18-23-7]]
+
+^<<v18-23-7,7>>^ Sou um homem honesto. Eu poderia apresentar a minha causa a ele, e de uma vez por todas ele me declararia inocente.
+
+[[v18-23-8]]
+
+^<<v18-23-8,8>>^ "Eu procuro no Leste, mas Deus não está ali; e não o encontro no Oeste.
+
+[[v18-23-9]]
+
+^<<v18-23-9,9>>^ E também não o vejo quando age no Norte ou se esconde no Sul.
+
+[[v18-23-10]]
+
+^<<v18-23-10,10>>^ Mas Deus conhece cada um dos meus passos; se ele me puser à prova, verá que sairei puro como o ouro.
+
+[[v18-23-11]]
+
+^<<v18-23-11,11>>^ Eu sigo o caminho que ele me mostra e nunca me desvio para lado nenhum.
+
+[[v18-23-12]]
+
+^<<v18-23-12,12>>^ Obedeço aos mandamentos de Deus; sempre faço a sua vontade e não a minha.
+
+[[v18-23-13]]
+
+^<<v18-23-13,13>>^ "Deus faz o que quer; quando ele decide fazer alguma coisa, ninguém pode impedir.
+
+[[v18-23-14]]
+
+^<<v18-23-14,14>>^ Ele levará até o fim o que planejou fazer comigo e também realizará todos os seus outros planos.
+
+[[v18-23-15]]
+
+^<<v18-23-15,15>>^ Por isso, eu perco a coragem na presença dele e, quando penso nisso, fico apavorado.
+
+[[v18-23-16]]
+
+^<<v18-23-16,16>>^ A escuridão me deixou cego; mas é o Deus Todo-Poderoso quem me põe medo, e não a escuridão.
+
+'''
+
+xref:018-jo/018-jo-022.adoc#v18-22-0[&#60; Capítulo Anterior] | <<v18-23-0,Topo>> | xref:018-jo/018-jo-024.adoc#v18-24-0[Próximo Capítulo &#62;]

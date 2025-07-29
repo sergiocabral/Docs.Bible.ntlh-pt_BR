@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v19-88-0]]
+=== Salmos, 88
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-88-1]]
+
+^<<v19-88-1,1>>^ Ó Senhor , meu Deus e Salvador, dia e noite, na tua presença, eu clamo a ti.
+
+[[v19-88-2]]
+
+^<<v19-88-2,2>>^ Ouve a minha oração; escuta o meu grito pedindo socorro.
+
+[[v19-88-3]]
+
+^<<v19-88-3,3>>^ Pois as aflições que caíram sobre mim são tantas, que já estou perto da morte.
+
+[[v19-88-4]]
+
+^<<v19-88-4,4>>^ Sou como aqueles que estão para morrer; já perdi todas as minhas forças.
+
+[[v19-88-5]]
+
+^<<v19-88-5,5>>^ Estou abandonado no meio dos mortos; sou como os soldados mortos jogados nas covas; sou como aqueles que foram completamente esquecidos por ti e que não têm mais a tua proteção.
+
+[[v19-88-6]]
+
+^<<v19-88-6,6>>^ Tu me atiraste no mundo dos mortos , lá no fundo, na escuridão.
+
+[[v19-88-7]]
+
+^<<v19-88-7,7>>^ A tua ira  pesa sobre mim, e as tuas ondas me esmagam.
+
+[[v19-88-8]]
+
+^<<v19-88-8,8>>^ Tu fizeste com que os meus amigos me abandonassem e olhassem com nojo para mim. Sou como o preso que não pode escapar.
+
+[[v19-88-9]]
+
+^<<v19-88-9,9>>^ Tenho sofrido tanto, que quase já não enxergo. Ó Senhor  Deus, dia após dia eu te chamo e levanto as mãos em oração.
+
+[[v19-88-10]]
+
+^<<v19-88-10,10>>^ Será que fazes milagres em favor dos mortos? Será que eles se levantam e te louvam?
+
+[[v19-88-11]]
+
+^<<v19-88-11,11>>^ Será que no mundo dos mortos se fala do teu amor? Será que naquele lugar de destruição se fala da tua fidelidade?
+
+[[v19-88-12]]
+
+^<<v19-88-12,12>>^ Será que naquela escuridão são vistos os teus milagres? Será que na terra do esquecimento se pode ver a tua fidelidade?
+
+[[v19-88-13]]
+
+^<<v19-88-13,13>>^ Ó Senhor  Deus, eu te chamo pedindo ajuda; todas as manhãs eu oro a ti.
+
+[[v19-88-14]]
+
+^<<v19-88-14,14>>^ Por que me rejeitas, ó Senhor ? Por que te escondes de mim?
+
+[[v19-88-15]]
+
+^<<v19-88-15,15>>^ Desde moço tenho sofrido e estado perto da morte; ando esgotado com o peso dos teus castigos.
+
+[[v19-88-16]]
+
+^<<v19-88-16,16>>^ A tua ira e o teu furor caem sobre mim; os teus ataques terríveis acabam comigo.
+
+[[v19-88-17]]
+
+^<<v19-88-17,17>>^ O dia todo eles me cercam como uma enchente; eles me rodeiam por todos os lados.
+
+[[v19-88-18]]
+
+^<<v19-88-18,18>>^ Tu fizeste com que os meus queridos e os meus vizinhos me abandonassem, e agora tenho como companhia a escuridão.
+
+'''
+
+xref:019-salmos/019-salmos-087.adoc#v19-87-0[&#60; Capítulo Anterior] | <<v19-88-0,Topo>> | xref:019-salmos/019-salmos-089.adoc#v19-89-0[Próximo Capítulo &#62;]

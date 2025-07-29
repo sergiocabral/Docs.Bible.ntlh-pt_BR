@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-26-0]]
+=== Salmos, 26
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v19-26-1]]
+
+^<<v19-26-1,1>>^ Ó Senhor  Deus, declara que estou inocente, pois faço o que é certo e confio inteiramente em ti.
+
+[[v19-26-2]]
+
+^<<v19-26-2,2>>^ Examina-me e põe-me à prova, ó Senhor ; julga os meus desejos e os meus pensamentos,
+
+[[v19-26-3]]
+
+^<<v19-26-3,3>>^ pois o teu amor me guia, e a tua verdade sempre me orienta.
+
+[[v19-26-4]]
+
+^<<v19-26-4,4>>^ Eu não ando na companhia de gente falsa e não vivo com hipócritas.
+
+[[v19-26-5]]
+
+^<<v19-26-5,5>>^ Não me ajunto com os perversos e não ando com os maus.
+
+[[v19-26-6]]
+
+^<<v19-26-6,6>>^ Ó Senhor  Deus, lavo as mãos para mostrar que estou inocente. Ando em volta do teu altar junto com os que te adoram,
+
+[[v19-26-7]]
+
+^<<v19-26-7,7>>^ cantando um hino de gratidão e falando das tuas obras maravilhosas.
+
+[[v19-26-8]]
+
+^<<v19-26-8,8>>^ Ó Senhor  Deus, eu amo a casa onde vives, o lugar onde está presente a tua glória .
+
+[[v19-26-9]]
+
+^<<v19-26-9,9>>^ Não me destruas junto com os que não querem saber de ti; livra-me do castigo que recebem os assassinos —
+
+[[v19-26-10]]
+
+^<<v19-26-10,10>>^ aqueles que vivem fazendo o mal e que estão sempre prontos para receber suborno .
+
+[[v19-26-11]]
+
+^<<v19-26-11,11>>^ Eu, porém, faço o que é certo. Tem compaixão de mim e salva-me.
+
+[[v19-26-12]]
+
+^<<v19-26-12,12>>^ Estou livre de todos os perigos; nas reuniões de adoração, eu louvarei a Deus, o Senhor .
+
+'''
+
+xref:019-salmos/019-salmos-025.adoc#v19-25-0[&#60; Capítulo Anterior] | <<v19-26-0,Topo>> | xref:019-salmos/019-salmos-027.adoc#v19-27-0[Próximo Capítulo &#62;]

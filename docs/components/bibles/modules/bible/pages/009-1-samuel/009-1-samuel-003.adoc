@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v9-3-0]]
+=== 1 Samuel, 3
+// ntlh ?, NTLH - Nova Tradução na Linguagem de Hoje
+
+[[v9-3-1]]
+
+^<<v9-3-1,1>>^ Samuel ainda era menino e ajudava Eli na adoração a Deus, o Senhor . Naqueles dias poucas mensagens vinham do Senhor , e as visões também eram muito raras.
+
+[[v9-3-2]]
+
+^<<v9-3-2,2>>^ Certa noite Eli, já quase cego, estava dormindo no seu quarto.
+
+[[v9-3-3]]
+
+^<<v9-3-3,3>>^ Samuel dormia na Tenda Sagrada , onde ficava a arca da aliança . E a lâmpada de Deus ainda estava acesa.
+
+[[v9-3-4]]
+
+^<<v9-3-4,4>>^ Então o Senhor  Deus chamou: — Samuel, Samuel! — Estou aqui! — respondeu ele.
+
+[[v9-3-5]]
+
+^<<v9-3-5,5>>^ Então correu para onde Eli estava e disse: — O senhor me chamou? Estou aqui. Mas Eli respondeu: — Eu não chamei você. Volte para a cama. E Samuel voltou.
+
+[[v9-3-6]]
+
+^<<v9-3-6,6>>^ Então o Senhor  Deus tornou a chamar Samuel. O menino se levantou, foi aonde estava Eli e disse: — O senhor me chamou? Estou aqui. Mas Eli tornou a responder: — Eu não chamei você, filho. Volte para a cama.
+
+[[v9-3-7]]
+
+^<<v9-3-7,7>>^ Samuel não conhecia o Senhor  pois o Senhor  ainda não havia falado com ele.
+
+[[v9-3-8]]
+
+^<<v9-3-8,8>>^ Aí o Senhor  chamou Samuel pela terceira vez. Ele se levantou, foi aonde Eli estava e disse: — O senhor me chamou? Estou aqui. Então Eli compreendeu que era o Senhor  quem estava chamando o menino
+
+[[v9-3-9]]
+
+^<<v9-3-9,9>>^ e ordenou: — Volte para a cama e, se ele chamar você outra vez, diga: "Fala, ó Senhor , pois o teu servo  está escutando!" E Samuel voltou para a cama.
+
+[[v9-3-10]]
+
+^<<v9-3-10,10>>^ Então o Senhor  veio e ficou ali. E, como havia feito antes, disse: — Samuel, Samuel! — Fala, pois o teu servo está escutando! — respondeu Samuel.
+
+[[v9-3-11]]
+
+^<<v9-3-11,11>>^ E o Senhor  disse: — Eu vou fazer com o povo de Israel uma coisa tão terrível, que todos os que ouvirem a respeito disso ficarão apavorados.
+
+[[v9-3-12]]
+
+^<<v9-3-12,12>>^ Naquele dia farei contra Eli tudo o que disse a respeito da família dele, do começo até o fim.
+
+[[v9-3-13]]
+
+^<<v9-3-13,13>>^ Eu lhe disse que ia castigar a sua família para sempre porque os seus filhos disseram coisas más contra mim. Eli sabia que eu ia fazer isso, mas não os fez parar.
+
+[[v9-3-14]]
+
+^<<v9-3-14,14>>^ Por isso, juro à família de Eli que nenhum sacrifício  ou oferta poderá apagar o seu terrível pecado.
+
+[[v9-3-15]]
+
+^<<v9-3-15,15>>^ Samuel ficou na cama até de manhã. Aí se levantou e abriu os portões da área da Tenda Sagrada. Ele estava com medo de falar com Eli sobre a visão que havia tido.
+
+[[v9-3-16]]
+
+^<<v9-3-16,16>>^ Mas Eli o chamou: — Samuel, meu filho! — Estou aqui! — respondeu ele.
+
+[[v9-3-17]]
+
+^<<v9-3-17,17>>^ — O que foi que Deus lhe disse? — perguntou Eli. — Não esconda nada de mim. Deus o castigará severamente se você não me contar tudo o que ele disse.
+
+[[v9-3-18]]
+
+^<<v9-3-18,18>>^ Então Samuel contou tudo, sem esconder nada. E Eli disse: — Ele é Deus, o Senhor . Que ele faça tudo o que achar melhor!
+
+[[v9-3-19]]
+
+^<<v9-3-19,19>>^ E Samuel cresceu. O Senhor  estava com ele e fazia tudo o que Samuel dizia que ia acontecer.
+
+[[v9-3-20]]
+
+^<<v9-3-20,20>>^ Assim todo o povo de Israel, do Norte ao Sul do país, ficou sabendo que Samuel era, de fato, um profeta  do Senhor .
+
+[[v9-3-21]]
+
+^<<v9-3-21,21>>^ O Senhor  continuou a aparecer em Siló, onde havia se revelado a Samuel e falado com ele. E a palavra de Samuel era respeitada por todo o povo de Israel.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-002.adoc#v9-2-0[&#60; Capítulo Anterior] | <<v9-3-0,Topo>> | xref:009-1-samuel/009-1-samuel-004.adoc#v9-4-0[Próximo Capítulo &#62;]
