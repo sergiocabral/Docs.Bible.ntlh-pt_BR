@@ -1,4 +1,55 @@
-= Bem-vindo!
+= Bem-vindo
 
-Aqui você encontra uma ou mais traduções da Bíblia organizadas de forma clara e acessível.
-Este espaço foi feito para facilitar a leitura e o compartilhamento das Escrituras.
+[cols="1h,3", options="header"]
+|===
+2+|📚 *Sobre esta tradução da Bíblia* +
+🔗 xref:bible:001-genesis/001-genesis-001.adoc[]
+
+|📛 Sigla   |ntlh
+|🌐 Idioma  |Português (Brasil)
+|📅 Ano     |2000
+|📖 Título  |Nova Tradução na Linguagem de Hoje
+|===
+
+A *Nova Tradução na Linguagem de Hoje* (NTLH) é uma tradução da Bíblia para o português do Brasil produzida pela *Sociedade Bíblica do Brasil (SBB)*. Seu objetivo é apresentar o texto bíblico em linguagem simples, clara e acessível a todos os públicos — especialmente crianças, novos leitores da Bíblia, pessoas com baixa escolaridade e falantes do português contemporâneo.
+
+A NTLH é uma revisão da *Tradução na Linguagem de Hoje* (TLH), lançada em 1988, e busca tornar a mensagem bíblica compreensível sem exigir conhecimento teológico ou vocabulário sofisticado.
+
+== Base textual
+
+* **Antigo Testamento**: Texto Massorético (Bíblia Hebraica Stuttgartensia), com apoio da Septuaginta.
+* **Novo Testamento**: Texto Crítico (Nestlé-Aland e UBS).
+
+== Filosofia de tradução
+
+* **Equivalência dinâmica**: foco na ideia original, não em palavras isoladas.
+* Frases curtas, vocabulário básico e estrutura simples.
+* Inclusão de paráfrases explicativas para facilitar a compreensão.
+* Evita termos teológicos ou arcaicos.
+
+== Histórico editorial
+
+1. 1988 — Lançamento da *Tradução na Linguagem de Hoje (TLH)*.
+2. 2000 — Revisão completa e renomeação como *Nova Tradução na Linguagem de Hoje (NTLH)*.
+3. Reimpressões posteriores mantêm o mesmo texto, com pequenas atualizações ortográficas.
+
+== Características principais
+
+* Linguagem contemporânea e acessível.
+* Útil para evangelismo, leitura em voz alta e estudos com iniciantes.
+* Versão usada em materiais infantis e didáticos.
+* Substitui termos como "justificação", "redenção", "arrependimento" por expressões mais compreensíveis.
+* O nome de Deus aparece como “Senhor”; não usa o tetragrama YHWH.
+
+== Fontes
+
+* Bíblia Online – NTLH: https://www.bibliaonline.com.br/ntlh
+* Wikipédia – NTLH: https://pt.wikipedia.org/wiki/Nova_Tradu%C3%A7%C3%A3o_na_Linguagem_de_Hoje
+* Sociedade Bíblica do Brasil (SBB): https://www.sbb.org.br/nova-traducao-na-linguagem-de-hoje/
+* Armazém da Bíblia – Análise de versões: https://armazemdabiblia.pt/pt/noticias/conheca-as-diferencas-entre-as-versoes-biblicas
+
+== Observações finais
+
+A NTLH é amplamente usada em projetos sociais, educação religiosa e missões. Embora não seja ideal para estudos doutrinários aprofundados, é excelente para primeira leitura da Bíblia e para públicos que enfrentam barreiras linguísticas ou educacionais.
+
+:include: https://www.raciocinios.com.br/support-projects.adoc

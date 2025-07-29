@@ -1,6 +1,6 @@
-# 📖 Traduções da Bíblia
+# 📖 Tradução da Bíblia: Nova Tradução na Linguagem de Hoje (ntlh, pt_BR, 2000)
 
-Este repositório pode ser acessado online no endereço: https://www.raciocinios.com.br/
+Este repositório pode ser acessado online no endereço: https://ntlh-pt-br.bible.raciocinios.com.br/
 
 ---
 
